@@ -28,36 +28,30 @@ if [[ -n $1 ]]; then
 fi
 
 POST_DIR="./$CATEGORY/$SLUG"
-IMG_SRC_DIR="$POST_DIR/img_src"
 IMG_DIR="$POST_DIR/img"
-THUMBS_DIR="$POST_DIR/thumbs"
-THUMBS_200_DIR="$POST_DIR/thumbs_200"
+THUMBS_DIR="$POST_DIR/thumbs_200"
 
 if [ -z "$CATEGORY" ]; then
   echo "category is missing; correct syntax:"
-  echo "pics.sh -c 2007-cg-biciklom -s vranes"
+  echo "thumbs.sh -c 2007-cg-biciklom -s vranes"
   exit 1
 elif [ -z "$SLUG" ]; then
   echo "slug is missing; correct syntax:"
-  echo "pics.sh -c 2007-cg-biciklom -s vranes"
+  echo "thumbs.sh -c 2007-cg-biciklom -s vranes"
   exit 1
-elif [ ! -d $IMG_SRC_DIR ]; then
-  echo "directory $POST_DIR/img_src not found; correct syntax:"
-  echo "pics.sh -c 2007-cg-biciklom -s vranes"
+elif [ ! -d $IMG_DIR ]; then
+  echo "directory $POST_DIR/img not found; correct syntax:"
+  echo "thumbs.sh -c 2007-cg-biciklom -s vranes"
   exit 1
 fi;
 
 
-if [ ! -d $IMG_DIR ]; then mkdir $IMG_DIR; fi;
 if [ ! -d $THUMBS_DIR ]; then mkdir $THUMBS_DIR; fi;
-if [ ! -d $THUMBS_200_DIR ]; then mkdir $THUMBS_200_DIR; fi;
 
-cd $IMG_SRC_DIR
+cd $IMG_DIR
 # creates the screen image
 for f in *.jpg;
 do
     echo "Processing $f"
-    convert $f -strip -resize "1900x1900>" -quality 85 ../img/$f
-    convert $f -strip -resize "800x800>" -quality 85 ../thumbs/$f
     convert $f -strip -resize "200x200>" -quality 85 ../thumbs_200/$f
 done
