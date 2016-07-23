@@ -1,0 +1,47 @@
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","Gemfile","Gemfile.lock","_local","CNAME","pics.sh","thumbs.sh","s3_website.yml","perpetuum-mobile.iml"]
+timezone: Europe/Belgrade
+
+title: perpetuum mobile
+email: bosskovic@gmail.com
+
+url: "http://perpetuum-mobile.net"
+#show_footer: yes
+#show_footer_feed: yes
+#twitter_username:
+#github_username:
+#facebook_username:
+#email_username:
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-32485230-5
+
+# Build settings
+#permalink: pretty
+paginate: 10
+paginate_path: /tekstovi/strana:num
+safe: true
+
+gems: [jekyll-paginate, jekyll-feed]
+
+array: []
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      comments: false
+      file_name:
+        gps_track: "track.kml"
+        jpg_map: "track.jpg"
+        stats: "stats.png"
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      is_post: true
+      permalink: /:categories/:title/
+      comments: true

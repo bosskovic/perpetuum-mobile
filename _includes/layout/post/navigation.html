@@ -1,0 +1,15 @@
+<ul class="pager">
+  {% assign category = page.categories | first %}
+  {% if page.previous.url and page.previous.categories contains category %}
+  <li class="previous">
+    <a href="{{ page.previous.url | replace: '//', '/' }}" data-toggle="tooltip"
+       data-placement="top" title="{{page.previous.title}}">&larr; <span class="hidden-xs hidden-sm">{{ page.previous.title }}</span></a>
+  </li>
+  {% endif %}
+  {% if page.next.url and page.next.categories contains category %}
+  <li class="next">
+    <a href="{{ page.next.url | replace: '//', '/' }}" data-toggle="tooltip"
+       data-placement="top" title="{{page.next.title}}"><span class="hidden-xs hidden-sm">{{ page.next.title }}</span> &rarr;</a>
+  </li>
+  {% endif %}
+</ul>

@@ -1,0 +1,19 @@
+{% include layout/content/sidebar.html %}
+
+{% if ppt_map_exists %}
+  {% include layout/content/map.html %}
+{% endif %}
+
+{% if ppt_stats_exist %}
+  {% include layout/content/stats.html %}
+{% endif %}
+
+{% if ppt_gallery_exists %}
+  {% include layout/content/gallery.html %}
+{% endif %}
+
+{% if page.videos %}
+  {% include layout/content/videos.html %}
+{% endif %}
+
+{{ content }}

@@ -1,0 +1,26 @@
+
+<h3>Najnoviji tekstovi:</h3>
+{% for post in site.posts limit:7 %}
+
+<div class="col-lg-6 col-md-6">
+
+  {% assign category = post.categories.first %}
+  {% include find_parent.html category=category %}
+
+<span class="post-meta">
+    {{ post.date | date: "%d. %m. %Y." }}
+    <span class="category"><a href="{{ parent.url }}">{{ parent.title }}</a></span>
+  </span>
+  <a href="{{ post.url }}" title="{{ post.excerpt }}">
+    <h4 class="post-title"> {{ post.title }}</h4>
+  </a>
+
+</div>
+{% endfor %}
+
+<div class="col-lg-6 col-md-6">
+  <br>
+  <a href="/tekstovi" title="{{ post.excerpt }}">
+    <h4 class="post-title">Svi tekstovi...</h4>
+  </a>
+</div>

@@ -1,0 +1,5 @@
+<div id="gallery">
+  {% for pic in ppt_gallery_contents %}
+  <a class="fancybox-pic" href="{{ pic }}" title="{% include img_title.html pic=pic %}" ></a>
+  {% endfor %}
+</div>

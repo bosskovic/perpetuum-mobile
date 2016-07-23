@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>05 Perućica</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Perućica</name>
+			<Placemark>
+				<name></name>
+				<styleUrl>#line-FF0000-2-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>18.706252,43.321605,0.0 18.705939,43.32149,0.0 18.705743,43.321462,0.0 18.705782,43.321205,0.0 18.705862,43.320719,0.0 18.706098,43.320406,0.0 18.705942,43.319948,0.0 18.706218,43.319635,0.0 18.706337,43.319006,0.0 18.706259,43.318778,0.0 18.706378,43.318293,0.0 18.706654,43.317722,0.0 18.70638,43.31755,0.0 18.706381,43.317179,0.0 18.706421,43.316722,0.0 18.706304,43.316465,0.0 18.706147,43.316322,0.0 18.706304,43.316179,0.0 18.706384,43.315837,0.0 18.706227,43.315665,0.0 18.705717,43.315636,0.0 18.705835,43.315464,0.0 18.705718,43.315207,0.0 18.705404,43.31515,0.0 18.705129,43.315149,0.0 18.705012,43.315006,0.0 18.704816,43.31492,0.0 18.704659,43.314806,0.0 18.704659,43.314777,0.0 18.704267,43.314719,0.0 18.704228,43.314462,0.0 18.703915,43.314091,0.0 18.703719,43.313976,0.0 18.703405,43.313861,0.0 18.703366,43.313776,0.0 18.703013,43.313661,0.0 18.702739,43.313546,0.0 18.702543,43.313317,0.0 18.702268,43.313203,0.0 18.701994,43.313059,0.0 18.70172,43.31283,0.0 18.701485,43.31263,0.0 18.701171,43.312401,0.0 18.700897,43.312287,0.0 18.700858,43.312172,0.0 18.700584,43.311943,0.0 18.700818,43.312201,0.0 18.701093,43.312401,0.0 18.701524,43.312659,0.0 18.701837,43.312945,0.0 18.701994,43.313088,0.0 18.702229,43.313203,0.0 18.702582,43.313346,0.0 18.702974,43.313689,0.0 18.703327,43.313804,0.0 18.70364,43.314062,0.0 18.703915,43.314233,0.0 18.704071,43.314405,0.0 18.70415,43.314348,0.0 18.704386,43.314234,0.0 18.704817,43.314292,0.0 18.705131,43.31435,0.0 18.705328,43.31435,0.0 18.705563,43.314236,0.0 18.705603,43.313922,0.0 18.706075,43.31378,0.0 18.706075,43.313609,0.0 18.706272,43.313552,0.0 18.706508,43.313324,0.0 18.706861,43.313267,0.0 18.707489,43.313268,0.0 18.707724,43.313326,0.0 18.707802,43.313554,0.0 18.707802,43.313811,0.0 18.707959,43.313869,0.0 18.708194,43.313926,0.0 18.708586,43.314127,0.0 18.708939,43.314356,0.0 18.70937,43.314356,0.0 18.710076,43.314643,0.0 18.710664,43.315044,0.0 18.71082,43.315501,0.0 18.710937,43.316015,0.0 18.711132,43.316444,0.0 18.711249,43.316872,0.0 18.711248,43.317015,0.0 18.711484,43.31713,0.0 18.711287,43.317358,0.0 18.710854,43.317928,0.0 18.71046,43.31867,0.0 18.709987,43.319212,0.0 18.709279,43.319725,0.0 18.708807,43.320124,0.0 18.708453,43.320666,0.0 18.707981,43.320951,0.0 18.707745,43.321122,0.0 18.707784,43.321265,0.0 18.707627,43.321208,0.0 18.706999,43.321207,0.0 18.706528,43.321349,0.0 18.706331,43.321491,0.0 18.706214,43.321519,0.0 18.7059,43.321319,0.0 18.705468,43.321147,0.0 18.705273,43.320804,0.0 18.705117,43.320461,0.0 18.70496,43.320289,0.0 18.704922,43.319975,0.0 18.704962,43.319747,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Skakavac</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.700584,43.311943,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dragoš sedlo
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.706252,43.321605,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-2-nodesc-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-FF0000-2-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>3.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-FF0000-2-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-2-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-2-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

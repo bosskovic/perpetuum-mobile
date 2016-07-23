@@ -1,0 +1,17 @@
+{% assign all_posts = site.posts | reverse %}
+{% assign category = page.categories.first %}
+{% include find_parent.html category=category %}
+
+<div class="category-listing">
+<h4><a href="{{ parent.url }}">{{ parent.title }}</a></h4>
+<ul>
+  {% for p in all_posts %}
+  {% if p.categories contains category %}
+    <li><a href="{{ p.url }}">
+      <span class="date">{{ p.date | date: "%d. %m. %Y." }}</span>
+      {{ p.title }}
+    </a></li>
+  {% endif %}
+  {% endfor %}
+</ul>
+</div>

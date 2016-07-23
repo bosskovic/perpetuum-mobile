@@ -1,0 +1,25 @@
+---
+layout: home
+header_img: assets/img/vezirova_brada.jpg
+title: perpetuum mobile
+description: "stalno u pokretu"
+---
+
+<div id="recent-posts" class="row">
+{% include layout/home/recent_posts.html %}
+</div>
+
+<div id="home-categories" class="row">
+
+{% assign all_pages = site.pages | sort: "date" | reverse %}
+{% for parent in all_pages %}
+  {% if parent.slug %}
+    <div class="col-lg-6 col-md-6 home-category">
+      <a href="{{ parent.url }}">
+        <h4>{{ parent.title }}</h4>
+        <img src="{{ parent.url | append: parent.file_name.header_img | replace: '/img', '/thumbs' }}"/>
+      </a>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>

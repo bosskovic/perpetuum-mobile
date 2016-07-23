@@ -1,0 +1,13 @@
+{% assign file_exists = false %}
+
+{% if include.file_path %}
+  {% assign file_path = include.file_path %}
+{% else if include.file_name %}
+  {% capture file_path %}{% include media_file.html file_name=include.file_name %}{% endcapture %}
+{% endif %}
+
+{% for static_file in site.static_files %}
+  {% if file_path == static_file.path %}
+    {% assign file_exists = true %}
+  {% endif %}
+{% endfor %}

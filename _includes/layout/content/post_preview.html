@@ -1,0 +1,11 @@
+<div class="post-preview">
+  <p class="post-meta">{{ post.date | date: "%d. %m. %Y." }}</p>
+  <a href="{{ post.url }}">
+    <h2 class="post-title"> {{ post.title }} </h2>
+    {% if post.description %}
+      <h3 class="post-subtitle">{{ post.description }}</h3>
+    {% endif %}
+  </a>
+  <p class="post-meta">{{ post.excerpt | strip_html }}</p>
+</div>
+<hr>
