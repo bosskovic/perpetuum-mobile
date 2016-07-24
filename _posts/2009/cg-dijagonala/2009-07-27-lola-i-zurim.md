@@ -181,11 +181,26 @@ zgodne prilike da prikupim sve potrebne podatke vezane za logistiku. Pristajem n
 sa grlatim Minićem.
 {% include time_machine.html text="Leto 2016, a ovaj plan i dalje čeka realizaciju" %}
 
-Ubrzo nakon što se Dragan vratio, kod njega se okupilo još nekoliko komšija.
+Kada se Dragan vratio, kod njega se okupilo još nekoliko komšija. Brzo se ispostavilo da je moje znanje rovačke
+istorije svežije od njihovog, ali sam svašta drugo korisno saznao. Saslušavši moje planove, Dragan me je uputio
+na svog prijatelja u Veljem Dubokom kod kojeg mogu da ostavim bicikl kada budem išao u Višnje, uputio me je na rođake
+u katunu na planini Maganik ako se rešim da se uputim na tu stranu i trudio se da me odvrati od prolaska kroz kanjon Mrtvice.
 
-- Dragan se vratio skupilo se društvo, pričali o Rovcima, slabo znaju. Posle par tura piva, priča o Manitom jezeru
-- Varijante za smeštaj na jesen
-- Preporuka za Maganik
+Načelno smo se i dogovorili da je skroz izvodljivo da sa grupom prijatelja dođem u ranu jesen, kada su košenje i
+ispaša pri kraju i kada on među poslednjima ostaje na jezeru. Tada se u kućicama pored jezera može naći dovoljno mesta za 
+spavanje, a i on bi mogao da pomogne oko organizovanja prevoza, na primer ako bi se spustili niz Milin do do Veljeg Dubokog i
+kroz kanjon Mrtvice do Međuriječja, da nas neko tamo pokupi, natrpa u kamion i vrati gore do Kapetanovog jezera.
+{% include time_machine.html text="Nažalost ovo nisam ostvario i kontakt sa Draganom mi je zamro nakon što sam mu par godina kasnije po prijateljima koji su boravili u tom kraju poslao neke knjige." %}
 
+Ni drugih zanimljivih priča nije manjkalo, naročito nakon što sam posle nekoliko čašica
+razgovora "spontano" otvorio temu Manitog jezera. Nizale su se fantastične priče jedna za drugom, kao da su se moji sagovornici
+trudili da nadmaše jedan drugoga pripovedajući o crnim konjima i zelenim ovnovima koji u sumrak izlaze iz jezera, o zimskom danu, 
+zaleđenom jezeru i strašnom prasku uz koji se kroz led probijaju jelenski rogovi, o jezeru koje nema dno, već na 
+određenoj dubini zapravo plutaju neke kamene ploče, itd.
+{% include time_machine.html text="Dve godine ranije sam takođe slušao zanimljive priče o Manitom jezeru, ali moji tadašnji sagovornici nisu bili ni blizu ovako pričljivi i maštoviti." %}
+
+Bilo je već kasno kada sam se kroz mrklu noć bez mesečine popeo do brežuljka iznad Drganove kuće gde sam ranije otvorio šator.
+Taj dan se nisam previše umorio, i imao sam još dovoljno snage da ležim neko vreme na travi pored šatora i posmatram
+mnoštvo svetlucavih tačkica iznad sebe.
 
 <span class="caption text-muted pull-right">Integralni tekst napisan u proleće 2010.</span>

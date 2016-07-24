@@ -24,8 +24,9 @@ photos:
 {% include layout/content/img_horizontal.html file_name="001.jpg" %}
 
 {% capture story %}
+<p></p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Boškovići u Vranešu" %}
+{% include layout/post/side_story.html story=story title="" %}
 
 {% include time_machine.html text="Razmenili smo par mail-ova po povratku, poslao sam im fotke, ali posle nismo ostali u kontaktu." %}
 
