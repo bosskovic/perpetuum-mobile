@@ -18,30 +18,7 @@ $(document).ready(function (e) {
       $("#videos .fancybox-video").first().click();
     }
     else {
-      if ($(this).parent().hasClass('active')) {
-        e.preventDefault();
-        e.stopPropagation();
-        return false;
-      }
-
-      $('#affix-sidebar li').removeClass('active');
-      $(this).parent().addClass('active');
-      $('.content').hide();
-      $($(this).attr('href')).show();
-
-      if ($(this).attr('id') == 'sidebar-map') {
-        var $map = $('#map');
-        $map.show();
-        $map.css('height', window.innerHeight);
-        $map.css('width', '100%');
-        if (gMap == undefined) {
-          gMap = new Map();
-          gMap.initializeMap($map.data('track'));
-        }
-      }
-
-      window.scrollTo(0, window.innerHeight);
-      $('.ppt-navbar').removeClass('is-visible');
+      $("a#showGoogleMap").click();
     }
 
     e.preventDefault();

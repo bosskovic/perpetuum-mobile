@@ -3,7 +3,8 @@ function Map() {
 
     var map = new google.maps.Map(document.getElementById('map'), {
       zoom: 11,
-      scrollwheel: false,
+      scrollwheel: true,
+      mapTypeId: google.maps.MapTypeId.TERRAIN,
       center: {lat: 45.2671, lng: 19.8335 }
     });
 
@@ -14,3 +15,13 @@ function Map() {
 
   };
 }
+
+$(document).on('click', 'a#showGoogleMap', function (e) {
+    var $map = $('#map');
+    $map.css('height', window.innerHeight - 90);
+    $map.css('width', window.innerWidth - 90);
+    if (gMap == undefined) {
+      gMap = new Map();
+      gMap.initializeMap($map.data('track'));
+    }
+});

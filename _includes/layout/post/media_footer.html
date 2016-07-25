@@ -1,0 +1,68 @@
+{% assign count = 0 %}
+
+{% if ppt_gps_map_exists %}{% assign count = count | plus: 1 %}{% endif %}
+{% if ppt_stats_exist %}{% assign count = count | plus: 1 %}{% endif %}
+{% if ppt_gallery_exists %}{% assign count = count | plus: 1 %}{% endif %}
+{% if page.videos %}{% assign count = count | plus: 1 %}{% endif %}
+
+{% if count > 0 %}
+{% assign count = 0 %}
+<br>
+<br>
+<strong id="media-footer">
+{% if ppt_gps_map_exists %}
+  <a class="map" href="#mapa">mapa</a>
+  {% assign count = count | plus: 1 %}
+{% endif %}
+
+{% if ppt_stats_exist %}
+  {% if count > 0 %}
+  |
+  {% endif %}
+  <a class="stats" href="#visinski-profil">visinski profil</a>
+  {% assign count = count | plus: 1 %}
+{% endif %}
+
+{% if ppt_gallery_exists %}
+  {% if count > 0 %}
+  |
+  {% endif %}
+  <a class="pics" href="#slike">slike ({{ ppt_gallery_contents.size }})</a>
+  {% assign count = count | plus: 1 %}
+{% endif %}
+
+{% if page.videos %}
+  {% if count > 0 %}
+  |
+  {% endif %}
+  <a class="videos" href="#video">video klipovi ({{ page.videos.size }})</a>
+  {% assign count = count | plus: 1 %}
+{% endif %}
+
+
+</strong>
+
+<script>
+  $(document).on('click', '#media-footer a', function (e) {
+
+    if ($(this).hasClass('pics')){
+      $("#gallery .fancybox-pic").first().click();
+    }
+    else if ($(this).hasClass('stats')){
+      $.fancybox.open(ppt_stats_gallery, {padding: 0});
+    }
+    else if ($(this).hasClass('videos')){
+      $("#videos .fancybox-video").first().click();
+    }
+    else if ($(this).hasClass('map')){
+      $("a#showGoogleMap").click();
+    }
+    $(this).blur();
+
+    e.preventDefault();
+    e.stopPropagation();
+    return false;
+  });
+</script>
+
+{% endif %}

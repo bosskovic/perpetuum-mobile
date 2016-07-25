@@ -7,9 +7,9 @@
 
 
 {% if count > 1 %}
-<div id="affix-sidebar-labels">
+<div id="affix-sidebar-labels" class="hidden-xs">
   <div data-spy="affix" data-offset-top="205">
-    <span>tekst</span><br/>
+    <!--<span>tekst</span><br/>-->
     {% if ppt_map_exists %}<span>mapa</span><br/>{% endif %}
     {% if ppt_stats_exist %}<span>statistike</span><br/>{% endif %}
     {% if ppt_gallery_exists %}<span>galerija</span><br/>{% endif %}
@@ -17,11 +17,11 @@
   </div>
 </div>
 
-<nav id="affix-sidebar">
+<nav id="affix-sidebar"  class="hidden-xs">
   <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
-    <li class="active">
-      <a id='sidebar-text' title="tekst" href="#text"><i class="icon-tekst"></i></a>
-    </li>
+    <!--<li class="active">-->
+      <!--<a id='sidebar-text' title="tekst" href="#text"><i class="icon-tekst"></i></a>-->
+    <!--</li>-->
     {% if ppt_map_exists %}
     <li>
       <a id='sidebar-map' title="mapa" href="#map"><i class="icon-mapa"></i></a>

@@ -2,23 +2,4 @@
 layout: default
 ---
 
-<div id="text" class="content">
-
-<!-- Main Content -->
-<div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      {{ content }}
-
-      <hr>
-
-      {% for post in site.categories[page.slug] reversed %}
-        {% include layout/content/post_preview.html %}
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
-<hr>
-
-</div>
+{{ content }}
