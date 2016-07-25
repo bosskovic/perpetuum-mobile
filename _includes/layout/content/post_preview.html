@@ -1,5 +1,18 @@
+{% assign category = post.categories.first %}
+{% include find_parent.html category=category %}
+
+{% assign ppt_media_path = category | append: "/" | append: post.slug %}
+
+{% if post.file_name.header_img %}
+{% assign post_header_img = ppt_media_path | append: "/" | append: post.file_name.header_img %}
+{% else %}
+{% assign post_header_img = category | append: "/" | append: parent.file_name.header_img %}
+{% endif %}
+
+
 <div class="post-preview">
   <p class="post-meta">{{ post.date | date: "%d. %m. %Y." }}</p>
+  <img src="/{{ post_header_img | replace: '/img/', '/thumbs_200/' }}" class="pull-right" style="width: 160px; height: 120px;">
   <a href="{{ post.url }}">
     <h2 class="post-title"> {{ post.title }} </h2>
     {% if post.description %}
@@ -8,4 +21,4 @@
   </a>
   <p class="post-meta">{{ post.excerpt | strip_html }}</p>
 </div>
-<hr>
+<hr class="clearfix">

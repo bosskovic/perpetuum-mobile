@@ -20,11 +20,11 @@ description: "stalno u pokretu"
 {% endif %}
 
 <div class="post-preview">
-  <img src="/{{ post_header_img }}" class="pull-right" style="width: 160px; height: 120px;">
   <span class="post-meta">
     {{ post.date | date: "%d. %m. %Y." }}
     <span class="category"><a href="{{ parent.url }}">{{ parent.title }}</a></span>
   </span>
+  <img src="/{{ post_header_img | replace: '/img/', '/thumbs_200/' }}" class="pull-right" style="width: 160px; height: 120px;">
   <a href="{{ post.url }}">
     <h2 class="post-title"> {{ post.title }}
     </h2>
