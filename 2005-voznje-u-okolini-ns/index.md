@@ -5,8 +5,8 @@ title:        "Vožnje u okolini Novog Sada - 2005"
 description:  "uglavnom po Fruškoj gori i južnoj Bačkoj"
 comments:     false
 file_name:
-  header_img: "rusevine-fg/img/034.jpg"
-date: 2004-07-01
+  header_img: "zapadna-fg-ii/img/010.jpg"
+date: 2005-07-01
   
 ---
 
