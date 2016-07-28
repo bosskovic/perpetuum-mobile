@@ -211,6 +211,23 @@ blockquote {
       bottom: 0px;
       width: 100%;
     }
+
+    form {
+      input {
+        color: black;
+      }
+      #hits {
+        margin-top: 10px;
+        a {
+          color: white;
+          text-decoration: underline;
+
+          &:hover {
+            text-decoration: none;
+          }
+        }
+      }
+    }
   }
 }
 
@@ -264,7 +281,7 @@ blockquote {
     }
   }
   @media only screen and (max-width: 768px) {
-    img{
+    img {
       display: none;
     }
   }
@@ -625,7 +642,6 @@ body {
   }
 }
 
-
 #home-categories {
   margin: 0;
   margin-top: 40px;
@@ -634,7 +650,7 @@ body {
   .home-category {
     margin-bottom: 30px;
 
-    a{
+    a {
       cursor: pointer;
 
       img {
@@ -675,7 +691,7 @@ body {
   }
 }
 
-#media-footer{
+#media-footer {
   display: block;
   font-size: 14px;
   line-height: 1em;
