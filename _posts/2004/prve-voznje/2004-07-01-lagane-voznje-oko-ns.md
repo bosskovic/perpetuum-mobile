@@ -8,6 +8,14 @@ excerpt:     "U narednih par redova nalaze se opisi nekoliko laganih vožnjica u
 categories:  ['2004-prve-voznje']
 image: "/2004-prve-voznje/lagane-voznje-oko-ns/img/001.jpg"
 
+tags:
+  - begečka jama
+  - čerevićka skela
+  - kovilj
+  - arkanj
+  - partizanski put
+  - kamenički park
+
 ---
 
 U narednih par redova nalaze se opisi nekoliko laganih vožnjica u okolini Novog Sada. 
@@ -16,7 +24,7 @@ ni atletska kondicija, ni specijalan bicikl, niti neka naročita oprema...
 
 Nemam ciklometar, a nisam uvek ni merio koliko je tačno vremena potrebno, tako da su procene uglavnom odokativne. 
 
-### Novi Sad - Čarda (ribnjak)
+### Novi Sad - Čerevićka skela (futoški ribnjak)
 
 Jugozapadno od Futoga, nalazi se veliki ribnjak, koji je sa severne strane oivičen futoškim nasipom, dok se sa južne 
 nalazi vikend naselje ribnjak / Čerevićka skela (gde je i restoran "Čarda", po kome se i celo naselje često naziva čarda).

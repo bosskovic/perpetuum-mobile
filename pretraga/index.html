@@ -28,6 +28,7 @@ title: Pretraga
       "img": "{{ post_header_img | replace: '/img/', '/thumbs_200/' }}",
       "description": "{{ post.description }}",
       "read_time": "vreme čitanja: ~ {{ words | divided_by:170 }} min.",
+      "tags": "{{ post.tags | join: ' ' }}",
       "url": "{{ post.url | xml_escape }}"
     }
     {% unless forloop.last %},{% endunless %}

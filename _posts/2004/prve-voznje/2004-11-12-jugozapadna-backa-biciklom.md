@@ -84,7 +84,17 @@ photos:
   -
     key: 026.jpg
     title: Jezero Provala
-  
+
+tags:
+  - bački petrovac
+  - ratkovo
+  - selenča
+  - bač
+  - tvrđava bač
+  - hamam bač
+  - samostan bač
+  - bođani
+
 ---
 
 Već neko vreme merkamo staru tvrđavu u Baču, i pre nekih nedelju dana je konačno pao dogovor da je obiđemo, biciklom 

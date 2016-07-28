@@ -132,6 +132,15 @@ photos:
 
 videos: ["fZfs8_cGiTM", "xEHuJq-ePeg", "2FcLTffwy_I", "p-GL_Rimmzk"]
 
+tags:
+  - fruška gora
+  - dombo
+  - novi rakovac
+  - dvorac špicer
+  - beočin
+  - sviloški vodopad
+  - banoštor
+
 ---
 
 Ove jeseni, pored istraživanja ruševina tvrđava i crkava po Fruškoj gori, glavna opsesija bila mi je pronalaženje 

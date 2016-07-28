@@ -54,6 +54,17 @@ photos:
   -
     key: 019.jpg
     title: Manastir Privina Glava
+
+tags:
+  - erdevik
+  - fruška gora
+  - bingula
+  - jezero šidina
+  - jezero moharač
+  - jezero bruje
+  - kuveždin
+  - privina glava
+  - rohalj baze
   
 ---
 
