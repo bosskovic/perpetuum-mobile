@@ -2,27 +2,24 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","Gemfi
 timezone: Europe/Belgrade
 
 title: perpetuum mobile
+author: perpetuum mobile
 email: bosskovic@gmail.com
 
 url: "http://perpetuum-mobile.net"
-#show_footer: yes
-#show_footer_feed: yes
-#twitter_username:
-#github_username:
-#facebook_username:
-#email_username:
 
-# Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-32485230-5
 
-# Build settings
-#permalink: pretty
-paginate: 10
-paginate_path: /tekstovi/strana:num
-safe: true
+facebook:
+  app_id: 1622174981427557
+  publisher: https://www.facebook.com/stalnoupokretu/
 
-gems: [jekyll-paginate, jekyll-feed]
+logo: /assets/favicon/android-icon-192x192.png
+
+paginate: 20
+paginate_path: /tekstovi/strana:num
+#safe: true
+
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
 
 array: []
 

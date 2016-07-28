@@ -70,7 +70,7 @@ gostoprimstvu i krećem dalje. Domaćin mi je rekao da ću morati da se vratim n
  
 ### Glava Morače
  
-Tako sam i uradio. Od Morače prema prema Bojićima ide najstrmiji asfalt koji sam ikada video. Da nije bilo one muke na 
+Tako sam i uradio. Od Morače prema Bojićima ide najstrmiji asfalt koji sam ikada video. Da nije bilo one muke na 
 Bjelasici juče, bar deo bih uspeo da vozim, a ovako skoro sve guram. A i ko za inat, uvek mi se najgori usponi poklope 
 sa najjačim suncem...
 

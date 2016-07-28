@@ -36,7 +36,12 @@ description: "stalno u pokretu"
     {% endif %}
   </a>
 
-  <p class="post-meta">{{ post.excerpt }}</p>
+  <p class="post-meta">
+    {{ post.excerpt }}
+    <br>
+    <br>
+    {% include read_time.html content = post.content %}
+  </p>
 </div>
 <hr style="clear: both;">
 {% endfor %}

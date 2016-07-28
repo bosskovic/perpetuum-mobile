@@ -134,6 +134,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-seo-tag
   s3_website
 
 BUNDLED WITH
