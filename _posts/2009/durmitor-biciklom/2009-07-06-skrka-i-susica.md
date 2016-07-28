@@ -4,8 +4,7 @@ title:       "Škrčka jezera i Sušičko jezero"
 description: "'Oj Durmitore, svih planina direktore'"
 excerpt:     "Lepa šetnja sa biolozima od sela Mala Crna Gora, preko Međeđeg dola do Škrke i nazad kroz Sušicu do Sušičkog jezera." 
 categories:  ['2009-durmitor-biciklom']
-file_name:
-  header_img: "img/052.jpg"
+image: "/2009-durmitor-biciklom/skrka-i-susica/img/052.jpg"
 photos:
   -
     key: 031.jpg

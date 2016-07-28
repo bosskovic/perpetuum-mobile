@@ -33,10 +33,10 @@
   {% endfor %}
 {% endif %}
 
-{% if page.file_name.header_img %}
-  {% assign ppt_header_img = ppt_media_path | append: "/" | append: page.file_name.header_img %}
+{% if page.image %}
+  {% assign ppt_header_img = page.image %}
 {% elsif ppt_parent %}
-  {% assign ppt_header_img = "/" | append: ppt_parent.slug | append: "/" | append: ppt_parent.file_name.header_img %}
+  {% assign ppt_header_img = ppt_parent.image %}
 {% else %}
   {% assign ppt_header_img = "/assets/img/vezirova_brada.jpg" %}
 {% endif %}

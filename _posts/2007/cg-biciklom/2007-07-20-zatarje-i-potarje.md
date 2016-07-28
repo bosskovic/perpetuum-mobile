@@ -57,8 +57,7 @@ photos:
     key: 034.jpg
     title: Manastir Dobrilovina
 
-file_name:
-  header_img: "img/022.jpg"
+image: "/2007-cg-biciklom/zatarje-i-potarje/img/022.jpg"
   
 ---
 

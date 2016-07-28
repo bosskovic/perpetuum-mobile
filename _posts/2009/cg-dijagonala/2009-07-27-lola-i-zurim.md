@@ -4,8 +4,7 @@ title:       "Moračke planine, Lola i Žurim"
 description: "kroz travnata prostranstva okrunjena stenjem i kamenjem"
 excerpt:     "Kad staviš sve na papir, ovaj kraj nije bog-zna-šta: gotovo da nema ni drvceta, prostranstva livada okrunjena stenjem i kamenjem, nisam video mnogo upečatljivih vrhova... Uprkos tome, ovaj kraj mi ima neki specijalni šmek i posebno sam uživao prolazeći kroz njega." 
 categories:  ['2009-cg-dijagonala']
-file_name:
-  header_img: "img/038.jpg"
+image: "/2009-cg-dijagonala/lola-i-zurim/img/038.jpg"
 photos:
   -
     key: 032.jpg

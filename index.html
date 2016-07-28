@@ -17,7 +17,7 @@ description: "stalno u pokretu"
     <div class="col-lg-6 col-md-6 home-category">
       <a href="{{ parent.url }}">
         <h4>{{ parent.title }}</h4>
-        <img src="{{ parent.url | append: parent.file_name.header_img | replace: '/img', '/thumbs' }}"/>
+        <img src="{{ parent.image | replace: '/img', '/thumbs' }}"/>
       </a>
     </div>
   {% endif %}

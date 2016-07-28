@@ -4,8 +4,7 @@ title:       "Ruševine fruškogorskih utvrđenih gradova"
 description: "Nekoliko novih koraka (kotrljaja?) u upoznavanju Fruške gore"
 excerpt:     "Fruška gora je interesantnija nego što možda izgleda na prvi pogled, i krije mnoge tajne. Sa mojim novim samopouzdanjem i verom u istraživanje na dva točka krenuo sam da otkrijem neke od njih."
 categories:  ['2005-voznje-u-okolini-ns']
-file_name:
-  header_img: "img/034.jpg"
+image: "/2005-voznje-u-okolini-ns/rusevine-fg/img/034.jpg"
 videos: ["5rDktLuo8MI", "Z_TvmSgPcAw", "8z5qieQv-hE", "CiP0wgCZ3P4", "Z214Ug6VQoI"]
 photos:
   -

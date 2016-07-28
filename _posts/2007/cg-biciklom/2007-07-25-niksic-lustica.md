@@ -67,8 +67,7 @@ photos:
     key: 141.jpg
     title: Pogled ka Hercegnovskom zalivu iz šatora
 
-file_name:
-  header_img: "img/123.jpg"
+image: "/2007-cg-biciklom/niksic-lustica/img/123.jpg"
   
 ---
 

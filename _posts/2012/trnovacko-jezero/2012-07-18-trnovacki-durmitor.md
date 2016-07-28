@@ -24,8 +24,7 @@ photos:
     key: 024.jpg
     title: Dva skauta iz Nemačke sviraju i pevaju na obali Trnovačkog jezera. Nadrealno...
 
-file_name:
-  header_img: "img/011.jpg"
+image: "/2012-trnovacko-jezero/trnovacki-durmitor/img/011.jpg"
 videos: ["OtiaIH0mNFk", "r8OniIrX4Rc", "Psszox76V0s", "96HmErutpOk"]  
 
 ---

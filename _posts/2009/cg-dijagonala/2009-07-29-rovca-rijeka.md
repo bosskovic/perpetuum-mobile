@@ -4,8 +4,7 @@ title:       "Od Rovaca do Rijeke Crnojevića"
 description: "Međuriječje, Platije (kanjon Morače), Podgorica, Rijeka Crnojevića"
 excerpt:     "" 
 categories:  ['2009-cg-dijagonala']
-file_name:
-  header_img: "img/068.jpg"
+image: "/2009-cg-dijagonala/rovca-rijeka/img/068.jpg"
     
 ---
 

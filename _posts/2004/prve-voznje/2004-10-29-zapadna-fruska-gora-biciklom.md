@@ -4,8 +4,7 @@ title:       "Zapadna Fruška gora"
 description: "ispitivanje granica čoveka i bicikla"
 excerpt:     "Ova vožnja je bila moje biciklističko vatreno krštenje. Za oko 13 sati prešao sam preko 160 km vozeći po dobrom asfaltu, lošem asfaltu, makadamu, tvrdom blatu, mekom blatu, močvarnom blatu, kroz slabo prohodnu šumu gde su putevi prekriveni lišćem i granjem, kroz vinograde i po njivama. Proširivao sam, pravio planirane, ali i neplanirane krugove, vozao se po ničijoj zemlji na hrvatsko-vojvođanskoj  granici, i još štošta." 
 categories:  ['2004-prve-voznje']
-file_name:
-  header_img: "img/002.jpg"
+image: "/2004-prve-voznje/zapadna-fruska-gora-biciklom/img/002.jpg"
 photos:
   -
     key: 001.jpg

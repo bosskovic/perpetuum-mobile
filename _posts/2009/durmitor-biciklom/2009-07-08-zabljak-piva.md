@@ -4,8 +4,7 @@ title:       "Južnim obodom Durmitora"
 description: "Bajkerska poslastica"
 excerpt:     "Bajkerski verovatno najpodesniji deo puta - čisto uživanje, dobrim delom nizbrdo, malo asfalt, malo makadam, a okolo livade i iza njih džinovski kameni vrhovi." 
 categories:  ['2009-durmitor-biciklom']
-file_name:
-  header_img: "img/089.jpg"
+image: "/2009-durmitor-biciklom/zabljak-piva/img/089.jpg"
 photos:
   -
     key: 085.jpg

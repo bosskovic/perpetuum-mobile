@@ -7,8 +7,7 @@ excerpt:     "U Banoštoru sam se našao sa Igorom Šiškovićem i zajedno smo k
               tipa su akumulacije Remeta, Nadež i Manđelos. Jezera koja smo videli su mali ribnjak kod manastira Petkovica, dva od tri 
               čalmanska jezera (treće je valjda bilo sakriveno trskom) i jezero Vranješ kod Manđelosa, najlepše od svih tog dana."
 categories:  ['2005-voznje-u-okolini-ns']
-file_name:
-  header_img: "img/011.jpg"
+image: "/2005-voznje-u-okolini-ns/fg-jezera-i/img/011.jpg"
 photos:
   -
     key: 001.jpg

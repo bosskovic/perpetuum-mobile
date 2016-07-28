@@ -4,8 +4,7 @@ title:       "Od Sušice do Semolj gore"
 description: "Preko Durmitora i Sinjevine"
 excerpt:     "Pre par nedelja biciklom sam došao na Durmitor sa severnih obronaka Sinjevine, par puta (peške) zašao u srce masiva i konačno obišao ga južnim obodom. Danas sam to savršeno dopunio obilaskom Durmitora sa severne strane, posetom par jezera koje prošli put nisam video i vožnjom južnim obroncima Sinjevine."
 categories:  ['2009-cg-dijagonala']
-file_name:
-  header_img: "img/027.jpg"
+image: "/2009-cg-dijagonala/susica-semolj-gora/img/027.jpg"
 photos:
   -
     key: 017.jpg

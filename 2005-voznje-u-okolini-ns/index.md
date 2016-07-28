@@ -4,8 +4,7 @@ slug:         "2005-voznje-u-okolini-ns"
 title:        "Vožnje u okolini Novog Sada - 2005"
 description:  "uglavnom po Fruškoj gori i južnoj Bačkoj"
 comments:     false
-file_name:
-  header_img: "zapadna-fg-ii/img/010.jpg"
+image: "/2005-voznje-u-okolini-ns/zapadna-fg-ii/img/010.jpg"
 date: 2005-07-01
   
 ---

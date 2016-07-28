@@ -6,8 +6,7 @@ excerpt:     "U narednih par redova nalaze se opisi nekoliko laganih vožnjica u
               Radi se o vožnjama manje prometnim putevima za koje osim dobre volje i bicikla koji se kotrlja niša drugo nije potrebno,
               ni atletska kondicija, ni specijalan bicikl, niti neka naročita oprema..." 
 categories:  ['2004-prve-voznje']
-file_name:
-  header_img: "img/001.jpg"
+image: "/2004-prve-voznje/lagane-voznje-oko-ns/img/001.jpg"
 
 ---
 

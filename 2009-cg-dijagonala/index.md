@@ -4,8 +4,7 @@ slug:         "2009-cg-dijagonala"
 title:        "Crnogorska dijagonala - 2009"
 description:  "Crna Gora sa kraja na kraj, preko dva Žabljaka"
 comments:     false
-file_name:
-  header_img: "rovca/img/061.jpg"
+image: "/2009-cg-dijagonala/rovca/img/061.jpg"
 date: 2009-07-25
   
 ---

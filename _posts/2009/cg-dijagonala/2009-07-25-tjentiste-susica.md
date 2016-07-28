@@ -4,8 +4,7 @@ title:       "Od Sutjeske do Sušice"
 description: "kroz NP Sutjeska i NP Durmitor"
 excerpt:     "Tokom godina planinarenja (peške i na točku) par lokaliteta me je osvojilo na takav način da im se rado iznova i iznova vraćam. Jedan od njih je definitivno NP Sutjeska, ovo je bio već treći put u tri meseca da tu zalazim, i svakako ne poslednji."
 categories:  ['2009-cg-dijagonala']
-file_name:
-  header_img: "img/007.jpg"
+image: "/2009-cg-dijagonala/tjentiste-susica/img/007.jpg"
 photos:
   -
     key: 001.jpg

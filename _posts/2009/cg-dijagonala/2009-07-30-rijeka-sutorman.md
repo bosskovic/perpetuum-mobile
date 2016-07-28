@@ -4,8 +4,7 @@ title:       "Rijekom Crnojevića do Skadarskog jezera"
 description: "Rijeka Crnojevića, Riječki grad, Obodska pećina, Žabljak Crnojevića, Vranjina, Lesendro, Virpazar, noćni uspon na Sutorman"
 excerpt:     "" 
 categories:  ['2009-cg-dijagonala']
-file_name:
-  header_img: "img/083.jpg"
+image: "/2009-cg-dijagonala/rijeka-sutorman/img/083.jpg"
     
 ---
 

@@ -16,8 +16,7 @@ photos:
   -
     key: 012.jpg
     title: zalazak sunca na Kamenom Polju (Barice)
-file_name:
-  header_img: "img/012.jpg"
+image: "/2007-cg-biciklom/put-do-barica/img/012.jpg"
   
 ---
 

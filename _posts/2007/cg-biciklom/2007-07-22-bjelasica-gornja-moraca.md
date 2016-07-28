@@ -42,8 +42,7 @@ photos:
     key: 065.jpg
     title: Moračke planine
 categories:  ['2007-cg-biciklom']
-file_name:
-  header_img: "img/050.jpg"
+image: "/2007-cg-biciklom/bjelasica-gornja-moraca/img/050.jpg"
   
 ---
 

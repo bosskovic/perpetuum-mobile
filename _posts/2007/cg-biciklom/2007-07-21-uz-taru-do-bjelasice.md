@@ -45,8 +45,7 @@ photos:
     key: 048.jpg
     title: Pokušaj fotkanja zvezdanog neba
 
-file_name:
-  header_img: "img/043.jpg"
+image: "/2007-cg-biciklom/uz-taru-do-bjelasice/img/043.jpg"
   
 ---
 

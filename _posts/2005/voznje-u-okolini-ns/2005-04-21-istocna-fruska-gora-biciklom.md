@@ -4,8 +4,7 @@ title:       "Istočna Fruška gora biciklom"
 description: "Čortanovačka šuma, Janda, Stari Slankamen"
 excerpt:     "Još jedna vožnj iz niza kojim sam krenuo da crtam krug oko Novog Sada prečnika pedesetak kilometara, i to jedna od interesantnijih. Videli smo svašta zanimljivo, poput ostataka rimskog utvrđenja u Čortanovačkoj šumi, lepog puta preko Jande sa kojeg se vidi Krčedinska ada kao na dlanu i Starog Slankamena, ali vreme je uglavnom bilo ružno."
 categories:  ['2005-voznje-u-okolini-ns']
-file_name:
-  header_img: "img/008.jpg"
+image: "/2005-voznje-u-okolini-ns/istocna-fruska-gora-biciklom/img/008.jpg"
 videos: ["7jXtIHLeb7M", "kbewWzWbHJw"]
 photos:
   -

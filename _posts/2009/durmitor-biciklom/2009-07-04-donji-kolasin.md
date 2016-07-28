@@ -4,8 +4,7 @@ title:       "Donji Kolašin"
 description: "Kroz postojbinu Boškovića"
 excerpt:     "Vožnja kroz postojbinu Boškovića, ovaj put i kroz neke delove koje pre dve godine nisam obišao. Uspon na Zabojsko jezero i vožnja u 'paru'."
 categories:  ['2009-durmitor-biciklom']
-file_name:
-  header_img: "img/001.jpg"
+image: "/2009-durmitor-biciklom/donji-kolasin/img/001.jpg"
 photos:
   -
     key: 001.jpg

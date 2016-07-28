@@ -4,8 +4,7 @@ title:       "Vožnja do Zelenog vodopada"
 description: "preko Trešnjevca i uz gornji Tekeniš"
 excerpt:     "Vožnja kroz jedan od najlepših i najzabačenijih delova Fruške gore."
 categories:  ['2005-voznje-u-okolini-ns']
-file_name:
-  header_img: "img/008.jpg"
+image: "/2005-voznje-u-okolini-ns/fg-zeleni-vodopad/img/008.jpg"
 photos:
   -
     key: 001.jpg

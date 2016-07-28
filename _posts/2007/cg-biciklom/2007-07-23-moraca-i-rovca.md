@@ -58,8 +58,7 @@ photos:
     key: 083.jpg
     title: Bulatovići - moji domaćini
 
-file_name:
-  header_img: "img/067.jpg"
+image: "/2007-cg-biciklom/moraca-i-rovca/img/067.jpg"
   
 ---
 

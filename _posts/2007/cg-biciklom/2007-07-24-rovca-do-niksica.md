@@ -97,8 +97,7 @@ photos:
     key: 119.jpg
     title: Slansko jezero
 
-file_name:
-  header_img: "img/087.jpg"
+image: "/2007-cg-biciklom/rovca-do-niksica/img/087.jpg"
   
 ---
 
