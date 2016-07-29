@@ -9,7 +9,7 @@
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
         appendString += '<div class="post-preview">';
-        appendString += '<p class="post-meta">'+ item.date +'</p>';
+        appendString += '<p class="post-meta date">'+ item.date +'</p>';
         appendString += '<a href="'+ item.url +'">';
         appendString += '<img src="'+ item.img +'" class="pull-right" style="width: 160px; height: 120px;">';
         appendString += '<h2 class="post-title">'+ item.title +'</h2>';

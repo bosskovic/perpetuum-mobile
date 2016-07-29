@@ -133,7 +133,6 @@ photos:
 videos: ["fZfs8_cGiTM", "xEHuJq-ePeg", "2FcLTffwy_I", "p-GL_Rimmzk"]
 
 tags:
-  - fruška gora
   - dombo
   - novi rakovac
   - dvorac špicer

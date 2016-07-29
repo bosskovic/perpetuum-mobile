@@ -44,6 +44,12 @@ photos:
     title: Susečka ada sa Prljuše
 videos: ["O4aPmwU7PrA", "LoBuZsztN_A"]
 
+tags:
+  - sviloški vodopad
+  - ravne
+  - zeleni vodopad
+  - trešnjevac
+
 ---
 
 Od kada sam pre oko mesec dana pročitao u internet izdanju biltena PSD Železničar da su pronašli još jedan vodopad, 

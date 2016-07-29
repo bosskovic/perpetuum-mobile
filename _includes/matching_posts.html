@@ -1,0 +1,58 @@
+{% assign ordered_list = site.array %}
+
+{% for p in site.posts %}
+  {% unless p.tags == site.array or p == page %}
+    {% assign count = 0 %}
+
+    {% for tag in page.tags %}
+      {% if p.tags contains tag %}
+        {% assign count = count | plus: 1 %}
+
+      {% endif %}
+    {% endfor %}
+
+    {% if count > 0 %}
+
+      {% assign added = false %}
+      {% assign temp_list = site.array %}
+
+      {% for o in ordered_list %}
+        {% if o.is_post or o > count %}
+          {% assign temp_list = temp_list | push: o %}
+        {% else %}
+          {% if o == count %}
+            {% assign temp_list = temp_list | push: o %}
+            {% assign temp_list = temp_list | push: p %}
+          {% else %}
+            {% assign temp_list = temp_list | push: count %}
+            {% assign temp_list = temp_list | push: p %}
+            {% assign temp_list = temp_list | push: o %}
+          {% endif %}
+          {% assign added = true %}
+        {% endif %}
+      {% endfor %}
+
+      {% unless added %}
+        {% assign temp_list = temp_list | push: count %}
+        {% assign temp_list = temp_list | push: p %}
+      {% endunless %}
+
+      {% assign ordered_list = temp_list %}
+
+    {% endif %}
+
+  {% endunless %}
+{% endfor %}
+
+
+{% assign temp_list = site.array %}
+{% for o in ordered_list %}
+  {% if o.is_post %}
+{% comment %}{{ o.title }}{% endcomment %}
+    {% assign temp_list = temp_list | push: o %}
+  {% else %}
+{% comment %}{{ o }}{% endcomment %}
+  {% endif %}
+{% endfor %}
+
+{% assign matching_posts = temp_list %}

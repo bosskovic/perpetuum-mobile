@@ -48,6 +48,14 @@ photos:
   -
     key: 047.jpg
     title: Mihailo Miljo Marković, epizodni junak Jonetove epske vožnje ovim krajem 1999. godine
+
+tags:
+  - moračke planine
+  - lola
+  - žurim
+  - nikšin kiljan
+  - kapetanovo jezero
+  - rovca
     
 ---
 

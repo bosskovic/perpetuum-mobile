@@ -80,6 +80,17 @@ photos:
     key: 028.jpg
     title: Jezero Beli kamen
 
+tags:
+  - krušedol
+  - jezero šelovrenac
+  - jezero ljukovo
+  - jezero dobrodol
+  - jezero međeš
+  - jezero borkovačko
+  - jezero kudoš
+  - irig
+  - jezero mutalj
+  - jezero beli kamen
 
 ---
 

@@ -99,6 +99,21 @@ photos:
 
 image: "/2007-cg-biciklom/rovca-do-niksica/img/087.jpg"
   
+tags:
+  - rovca
+  - velje duboko
+  - mrtvičke grede
+  - mrtvica
+  - milin do
+  - kapetanovo jezero
+  - manito jezero
+  - nikšin kiljan
+  - nikšićka župa
+  - manastir sv luke
+  - nikšić
+  - most preko moštanice
+  - slansko jezero
+  
 ---
 
 {% include layout/content/img_horizontal.html file_name="084.jpg" %}

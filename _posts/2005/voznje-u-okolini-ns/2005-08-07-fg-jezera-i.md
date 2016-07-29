@@ -43,6 +43,14 @@ photos:
     key: 013.jpg
     title: Spomenik heroju Pinkiju
 
+tags:
+  - manastir šišatovac
+  - jezero čalma
+  - manđelos
+  - heroj pinki
+  - jezero vranjaš
+  - grgurevci
+
 ---
 
 NS - Begeč - (skela) - Banoštor - Sviloš - Ležimir - manastir Šišatovac - manastir Petkovica - Divoš - Čalma - jezera 

@@ -70,6 +70,14 @@ photos:
     title: Put za Vizić
 videos: ["A6nI9Mbl91c", "EOcF0WRC6OM", "MHcXr8Ax0Jw"]
 
+tags:
+  - ilok
+  - šarengrad
+  - jezero šidina
+  - jezero bruje
+  - jezero moharač
+  - berkasovo
+
 ---
 
 Interesantna vožnja tokom koje smo Tibor i ja obišli tvrđave u Iloku i Šarengradu, ostatke tvrđave u Berkasovu (zapravo zemljane 

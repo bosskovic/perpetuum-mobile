@@ -5,6 +5,12 @@ description: "Međuriječje, Platije (kanjon Morače), Podgorica, Rijeka Crnojev
 excerpt:     "" 
 categories:  ['2009-cg-dijagonala']
 image: "/2009-cg-dijagonala/rovca-rijeka/img/068.jpg"
+tags:
+  - rovca
+  - mrtvica
+  - kapija želja
+  - platije
+  - rijeka crnojevića
     
 ---
 

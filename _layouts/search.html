@@ -23,6 +23,13 @@
 <script>
   $('header.intro-header').css('height', window.innerHeight);
   $('header.intro-header .overlay').css('height', window.innerHeight);
+
+  $(document).on('click', '#hits', function (e) {
+    e.preventDefault();
+    $('html, body').animate({
+      scrollTop: $('#rezultati-pretrage').offset().top
+    }, 500);
+  });
 </script>
 
 <br>

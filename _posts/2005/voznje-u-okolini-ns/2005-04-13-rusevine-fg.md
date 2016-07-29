@@ -106,6 +106,15 @@ photos:
   -
     key: 045.jpg
     title: Grgurevačka pećina
+
+tags:
+  - sviloški vodopad
+  - sviloš
+  - ležimir
+  - ležimirska gradina
+  - sviloška gradina
+  - ravne
+  - grgurevačka pećina
     
 ---
 

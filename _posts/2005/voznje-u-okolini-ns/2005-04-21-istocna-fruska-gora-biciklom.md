@@ -80,6 +80,10 @@ photos:
     key: 026.jpg
     title: Dunav sa Mosta kod Beške
 
+tags:
+  - čortanovačka šuma
+  - slankamen
+  - beška
     
 ---
 

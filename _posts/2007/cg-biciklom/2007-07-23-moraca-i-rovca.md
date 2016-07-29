@@ -59,9 +59,18 @@ photos:
     title: Bulatovići - moji domaćini
 
 image: "/2007-cg-biciklom/moraca-i-rovca/img/067.jpg"
+
+tags:
+  - gornja morača
+  - izvor morače
+  - manastir morača
+  - vodopad svetigora
+  - kaluđerski most
+  - rovca
+  - trešnjica
+  - manito jezero
   
 ---
-
 
 Ujutro sam uspeo ranije da ustanem. Sedim i pričam malo sa starcima (rakija i tako to), pakujem se, zahvaljujem na 
 gostoprimstvu i krećem dalje. Domaćin mi je rekao da ću morati da se vratim nekoliko kilometara do Dragovića Polja 
