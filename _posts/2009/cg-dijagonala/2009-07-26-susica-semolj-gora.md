@@ -52,6 +52,14 @@ photos:
     key: 031.jpg
     title: Suton na Semolj gori
     
+tags:
+  - sušičko jezero
+  - štulac
+  - žabljak
+  - zminje jezero
+  - barno jezero
+  - vražje jezero
+    
 ---
 
 ### Durmitor 

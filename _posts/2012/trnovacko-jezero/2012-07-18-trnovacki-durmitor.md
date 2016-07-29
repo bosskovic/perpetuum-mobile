@@ -27,6 +27,9 @@ photos:
 image: "/2012-trnovacko-jezero/trnovacki-durmitor/img/011.jpg"
 videos: ["OtiaIH0mNFk", "r8OniIrX4Rc", "Psszox76V0s", "96HmErutpOk"]  
 
+tags:
+  - trnovački durmitor
+
 ---
 
 <a class="no-margin" href="/2012-trnovacko-jezero/vrhovi/20120718-00-mapa.jpg" target="_blank" title="klikni za veću fotografiju" >

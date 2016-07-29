@@ -5,6 +5,14 @@ description: "Rijeka Crnojevića, Riječki grad, Obodska pećina, Žabljak Crnoj
 excerpt:     "" 
 categories:  ['2009-cg-dijagonala']
 image: "/2009-cg-dijagonala/rijeka-sutorman/img/083.jpg"
+
+tags:
+  - rijeka crnojevića
+  - obodska pećina
+  - obod
+  - žabljak crnojevića
+  - virpazar
+  - sutorman
     
 ---
 

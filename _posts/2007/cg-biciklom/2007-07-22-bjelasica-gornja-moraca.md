@@ -43,6 +43,12 @@ photos:
     title: Moračke planine
 categories:  ['2007-cg-biciklom']
 image: "/2007-cg-biciklom/bjelasica-gornja-moraca/img/050.jpg"
+
+tags:
+  - pešića jezero
+  - zekova glava
+  - kolašin
+  - gornja morača
   
 ---
 

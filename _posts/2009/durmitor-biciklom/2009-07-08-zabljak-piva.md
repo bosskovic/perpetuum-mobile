@@ -56,6 +56,14 @@ photos:
     title: Pivski manastir
 videos: ["c_s6L17rCy8"]
 
+tags:
+  - modro jezero
+  - valovito jezero
+  - todorov do
+  - komarnica
+  - pivsko jezero
+  - manastir piva
+
 ---
 
 Sutradan smo se svi spremili za polazak, oni za Novi Sad, a ja dalje za Pivu (prethodnog dana sam oprao, očistio i 

@@ -28,6 +28,10 @@ photos:
     key: 009.jpg
     title: Veliki vodopad (ili vododerina) iznad manastira Dobrilovina 
     
+tags:
+  - vraneš
+  - zabojsko jezero
+    
 ---
 
 Iskustvo sa Brzim prugama Srbije bilo je slično kao pre dve godine, osim što su sada malo nabili cene karata. Ponovo sam 

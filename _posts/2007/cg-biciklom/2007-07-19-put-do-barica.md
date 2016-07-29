@@ -17,6 +17,10 @@ photos:
     key: 012.jpg
     title: zalazak sunca na Kamenom Polju (Barice)
 image: "/2007-cg-biciklom/put-do-barica/img/012.jpg"
+
+tags:
+  - vraneš
+  - barice
   
 ---
 

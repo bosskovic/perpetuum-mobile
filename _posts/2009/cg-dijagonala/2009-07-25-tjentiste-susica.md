@@ -55,6 +55,17 @@ photos:
     key: 016.jpg
     title: "'Rupe', ko bi rekao da se stvarno tako zovu..."
     
+tags:
+  - dragoš sedlo
+  - perućica
+  - mrkalj klade
+  - maglić
+  - vučevo
+  - mratinje
+  - kanjon pive
+  - sastavci
+  - crkvičko polje
+  - sušičko jezero
     
 ---
 

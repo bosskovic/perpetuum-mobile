@@ -69,6 +69,11 @@ photos:
 
 image: "/2007-cg-biciklom/niksic-lustica/img/123.jpg"
   
+tags:
+  - kotor
+  - krstac
+  - luštica
+  
 ---
 
 

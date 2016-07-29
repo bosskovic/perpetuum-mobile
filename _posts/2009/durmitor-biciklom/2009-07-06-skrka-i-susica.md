@@ -60,7 +60,11 @@ photos:
   -
     key: 067.jpg
     title: Sušičko jezero
-         
+
+tags:
+  - škrka
+  - sušičko jezero
+
 ---
 
 Biolozi su me prijatno iznenadili, pre svega voljom i elanom sa kojim pristupaju planini. Došli su tu 4-5 dana pre mene, 

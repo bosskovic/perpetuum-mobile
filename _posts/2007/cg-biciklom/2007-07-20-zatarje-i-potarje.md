@@ -59,6 +59,13 @@ photos:
 
 image: "/2007-cg-biciklom/zatarje-i-potarje/img/022.jpg"
   
+tags:
+  - barice
+  - kričak
+  - manastir dovolja
+  - kanjon tare
+  - manastir dobrilovina
+  
 ---
 
 Nebo je još bilo sivo kada smo krenuli Milunovim kolima prema izvorima čiju nadmorsku visinu je trebalo izmeriti. 

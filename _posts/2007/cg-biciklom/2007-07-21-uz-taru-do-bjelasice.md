@@ -47,6 +47,13 @@ photos:
 
 image: "/2007-cg-biciklom/uz-taru-do-bjelasice/img/043.jpg"
   
+tags:
+  - mojkovac
+  - biogradsko jezero
+  - katun dolovi
+  - svatovsko groblje
+  - pešića jezero
+  
 ---
 
 Budim se kasno, posle devet, pakujem se i tek oko pola jedanaest sam na magistrali. Gledam prema okomitim kamenim 
