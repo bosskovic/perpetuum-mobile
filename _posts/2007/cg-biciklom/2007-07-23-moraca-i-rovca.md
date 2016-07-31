@@ -117,7 +117,7 @@ do 3e), brošura (od 3 do 5e), brojanica, lekovitih ulja i vodica, itd...
 
 {% include layout/content/img_horizontal.html file_name="077.jpg" %}
 Nisam zbog toga došao, pa nastavljam da obilazim unutrašnjost crkve. Nalazim čuvenu fresku „Gavran hrani sv Iliju“ i 
-naspram nje fresku rovačkog kneza Vukića Vučića koji je obnovio manastir krajem XVI veka. Pored je i freska ktitora 
+naspram nje fresku rovačkog kneza Vukića Vučetića koji je obnovio manastir krajem XVI veka. Pored je i freska ktitora 
 manastira, Stefana Vukanovog, a ispod nje veliki sarkofag bez natpisa, za kojeg crkva tvrdi da se u njemu nalaze 
 Stefanove mošti.
  

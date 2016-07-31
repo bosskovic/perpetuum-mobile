@@ -9,6 +9,10 @@ description: "stalno u pokretu"
 {% include layout/home/recent_posts.html %}
 </div>
 
+<div id="home-search">
+  {% include layout/content/search.html %}
+</div>
+
 <div id="home-categories" class="row">
 
 {% assign all_pages = site.pages | sort: "date" | reverse %}

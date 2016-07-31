@@ -35,3 +35,5 @@ photos:
 
 
 <span class="caption text-muted pull-right">Integralni tekst napisan u proleće 2010.</span>
+
+<a href="#" class="external">link</a>
