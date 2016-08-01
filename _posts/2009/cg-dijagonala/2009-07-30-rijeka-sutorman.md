@@ -2,7 +2,7 @@
 slug:        "rijeka-sutorman"
 title:       "Uspon na Sutorman"
 description: "Rijeka Crnojevića, Riječki grad, Obodska pećina, Žabljak Crnojevića, Vranjina, Lesendro, Virpazar, noćni uspon na Sutorman"
-excerpt:     "" 
+excerpt:     "Ujutro obilazim okolinu Rijeke Crnojevića, pozdravljam se sa novim poznanicima i krećem ka Žabljaku Crnojevića. Posle Žabljakam vozim obodom Skadarskog jezera pored Vranjine i Lessandra do Virpazara i po mesečini se penjem na Sutorman." 
 categories:  ['2009-cg-dijagonala']
 image: "/2009-cg-dijagonala/rijeka-sutorman/img/083.jpg"
 
