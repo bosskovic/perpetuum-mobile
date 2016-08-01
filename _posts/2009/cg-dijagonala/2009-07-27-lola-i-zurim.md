@@ -160,7 +160,7 @@ neki malo manje.
 Ovaj što je najpijaniji, navalio da idem kod njega, on će da me ugosti, ima jagnje da zakolje, ma ne, vola, a ja bih bio 
 najsrećniji da nikada više nikoga ne zakolje. Drugi, ćutljiviji sedi čovek, skoro da ne skida pogled sa mog bicikla. *"A 
 jel znaš ti možda jednog biciklistu"*, već naslućujem o kome se radi, ipak nije ovuda prošlo hiljadu bajkera, *"Jovana 
-Erakovića iz Beograda"*. Naravno da znam, doduše ne lično, ali njegov tekst i opis vožnje pre tačno deset godina kada je 
+Erakovića iz Beograda"*. Naravno da znam, doduše ne lično, ali njegov <a href="http://www.ciklonaut.com/Turoteka/1999/Leto99/Kapetanovo2.htm" target="_blank" class="external">tekst</a> i opis vožnje pre tačno deset godina kada je 
 prošao upravo ovim krajem je možda bio presudan kada sam početkom 2004. kopajući po Internetu uopšte počeo da razmišljam 
 o biciklizmu na takav način.
 

@@ -42,9 +42,9 @@ vode.
 
 {% include layout/content/img_horizontal.html file_name="119.jpg" %}
 Ujutro se pakujem (preskačem doručak) i krećem uz obalu jezera u potrazi za vodom. "Uz obalu" ne opisuje baš najbolje put kojim
-sam išao - gore-dole uvek 250-350 metara iznad jezera, nikad bliže od 2-3 kilometra od obale jezera. Jezero se često nije ni videlo. I kao
-za inat, severna strana Rumije je bezvodna - usput neću naići na česme i izvore i prodavnice su mi jedina opcija (one koje
-rade subotom).
+sam išao - gore-dole uvek 250-350 metara iznad jezera, nikad bliže od 2-3 kilometra od obale. Jezero se često nije ni videlo. I kao
+za inat, severna strana Rumije je bezvodna - usput neću naići na česme i izvore i prodavnice su mi jedina opcija, one koje
+rade subotom.
 
 Srećom, u obližnjem selu Ostros nailazim na prodavnicu. Ulazim, a unutra nekoliko mladića živo razgovara na albanskom. Na moje
 *"Dobar dan"* i osmeh nastaje tajac. Donosim vodu i neku narandžastu gaziranu tečnost na kasu i prodavac me ljubazno uslužuje na
@@ -99,13 +99,13 @@ pa moraš doplatnu kartu da platiš za bicikl"*. Nije bicikl, već moj prtljag, 
 {% include layout/content/img_horizontal.html file_name="125.jpg" %}
 Sa Crnogorcem sam se nekako objasnio, voz je bio polu-prazan i naplatio mi je samo putničku kartu do Bijelog Polja, i upozorio
 me da ću tamo morati ponovo da pregovaram sa "srbijanskim kondukterom". Naš nije bio otvoren za saradnju i nije hteo da 
-odustane dok mi nije naplatio doplatnu kartu za bicikl od 300 dinara. A u sitnim satima na granice ni ja nisam bio oran
+odustane dok mi nije naplatio doplatnu kartu za bicikl od 300 dinara. A u sitnim satima na granici ni ja nisam bio oran
 da se borim sa njim.
 
 U ranim jutarnjim satima stižem u Novi Sad, sastavljam i tovarim bicikl i vozim polako kući.
 
 Ovog leta sam u dve devetodnevne vožnje sa malim razmakom između prešao ukupno preko 800km po Crnoj Gori, pretežno brdskih
-i van asfalta. Obišao sam mnoga nova mesta i vratio se nekim na kojima sam i ranije bio. Pomerio sam neke granice, kako
+i van asfalta. Obišao sam mnoga nova mesta i vratio se nekim na kojima sam i ranije bio. Pomerio sam neke granice i promenio način kako
 uopšte gledam na putovanje biciklom, osmelio sam se i bez prevelikog dvoumljenja uputio sa na dva točka (ili u nekim slučajevima
 dva točka na meni) preko planinskih klanaca, kroz kanjone ili vozio noću po mesečini.
 
@@ -114,6 +114,7 @@ zapravo je unapređeno planinarenje, omogućuje da se prevaljuje veći put, nosi
 tome ne uskraćuje ništa (sve dok se ne ide isključivo stazama gde je bicikl neophodno nositi). Sloboda je u tome što nije
 neophodno rutu oprezno planirati, kako bi se zanoćilo na tačno određenom mestu gde ima vode, hrane ili zaklona. Bicikl
 "smanjuje" i relativizuje distance i čini ih lakše dostupnim. Sa istim tovarom sa kojim se u planini peške pređe do 15 km
- za dan, na biciklu je moguće preći nekoliko puta više.
+ za dan, na biciklu je moguće preći nekoliko puta više. To pruža mogućnost da se mnogo više improvizuje, istražuje i da se
+prate neplanirani zanimljivi tragovi na koje se naiđe.
 
 <span class="caption text-muted pull-right">Tekst napisan 2016. na osnovu kratkih beleški.</span>

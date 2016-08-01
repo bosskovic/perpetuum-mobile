@@ -13,6 +13,7 @@ tags:
   - žabljak crnojevića
   - virpazar
   - sutorman
+  - rumija
 photos:
   -
     key: 073.jpg
@@ -116,8 +117,9 @@ iz Dalmacije i to pogrešne boje"*.
 {% capture story %}
 <p>Nakon pada Žabljaka, Crnojevići se povlače dublje u planine, i grade sebi prestonicu u Obodu. Ali, i Obod je ubrzo 
 doživeo sudbinu  Žabljaka, a Crnojevići pomeraju prestonicu visoko u brda, u Cetinje.</p>
-<p>U Obodu je bila manastirska crkva sv. Nikole, sedište Zetske mitropolije. Pored crkve nalazila se prva južnoslovenska štamparija,
-u kojoj je štampan Oktoih, 38 godina posle Gutenbergove prve knjige. Ova štamparija je bila prva državna štamparija u Evropi,
+<p>U Obodu je bila manastirska crkva sv. Nikole, sedište Zetske mitropolije. Pored crkve nalazila štamparija
+u kojoj je štampan Oktoih, 38 godina posle Gutenbergove prve knjige. Ova štamparija je bila prva državna štamparija u Evropi
+i prva koja je štampala knjige na nekom od južno-slovenskih jezika,
 a štampari su bili monasi. Pored Oktoiha tu je za tri godine štampano još četiri knjige.</p>
 <p>Sadašnja crkva obnovljena je 1743. godine na temeljima stare koju su Turci srušili.</p>
 {% endcapture %}
@@ -127,12 +129,11 @@ a štampari su bili monasi. Pored Oktoiha tu je za tri godine štampano još če
 {% include layout/content/img_horizontal.html file_name="077.jpg" %}
 Prelazim preko starog mosta i penjem se prema Obodu, Riječkom gradu. Kada su Turci zauzeli Žabljak, prestonica države 
 Crnojevića je na kratko prebačena ovde, dok se nisu povukli još dublje u brda, u Cetinje. Gore nema bogznašta, crkva, 
-ostaci zidina i temelja i ploča koja obeležava mesto gde je 1493. godine bila prva štamparija na bilo kom slovenskom 
-jeziku.
+ostaci zidina i temelja i ploča koja obeležava mesto gde je 1493. godine bila Obodska štamparija.
 
 {% include layout/content/img_horizontal.html file_name="079.jpg" %}
 Spuštam se dole, prelazim Rijeku preko drugog mosta nešto dalje nizvodno, i vraćam se prema Podgorici nekoliko kilometara
-istim putem kojim sam i došao. Prolazim ponovo pored onog lepog mesta od juče i ponovo zastajem tamo. Penjem se dalje do
+istim putem kojim sam i došao. Prolazim ponovo pored onog lepog mesta od juče i opet zastajem tamo. Penjem se dalje do
 Doljana, gde se odvajam od puta za Podgoricu i spuštam prema Karučima, Dodošima i zalivu Režavac. Na mnogim mestima pored
 puta vidim planinarske oznake, i već zamišljam fenomenalne vidike sa kamenih čuka oko jezera.
 
@@ -140,9 +141,9 @@ puta vidim planinarske oznake, i već zamišljam fenomenalne vidike sa kamenih �
 
 Dodoši su malo ribarsko selo okruženo vodom gotovo sa svih strana. Zastajem kraj hladovine i od čoveka koji u njoj odmara
 dobijam vode, priču o okolini i upute kako da dođem do Žabljaka Crnojevića. Između ostalog, kada sam mu rekao šta sve planiram
-da obiđem, da je mi i broj telefona igumana manastira Kom (Rade ili tako nekako), koji je, kaže mi, sjajan čovek, i da mu se
-slobodno javim, i on će mi organizovati da me neko preveze do ostrva. Ni sam do kraja puta posetio manastir, ali mi je 
-mesecima kasnije stojalo u mobilnom "Manastir Kom - iguman"
+da obiđem, daje mi broj telefona igumana manastira Kom (Rade ili tako nekako), koji je, kaže, sjajan čovek, i da mu se
+slobodno javim, on će mi organizovati da me neko preveze do ostrva. Nije me put naveo tamo narednih dana, ali mi je 
+mesecima kasnije stojalo u mobilnom: "Manastir Kom - iguman"
 
 {% include layout/content/img_horizontal.html file_name="084.jpg" %}
 Dodoši su gotovo na najjužnijoj tački malog poluostrva opkoljenog zalivom Režavac sa zapadne i Gornjim Malim Blatom sa 
@@ -152,8 +153,8 @@ voda nadođe, sve se to pretvori u plitku močvaru iz koje jedino Žabljak izvir
 {% include layout/content/img_horizontal.html file_name="086.jpg" %}
 Ja sam došao u odličnom trenutku, voda je niska i putevi su suvi, bez problema mogu da nastavim iz Dodoša prema Žabljaku.
 Prelazim mostić sa kog dečurlija skače u vodu i stupam na kolski put (zemljano-peskovita podloga izviruje iz dva traga,
-između trava a sa strane nisko rastinje iz kojeg raste po koja vrba. Zjakam okolo, gledam okolne vrhove koji mi
-izgledaju još dalji sada kada ih gledam sa ove savršeno ravne palačinke kad odjednom prasak i lom. Iz vrbaka istrčava
+između trava a sa strane nisko rastinje iz kojeg raste po koja vrba. Gledam okolo i merkam kamene vrhove koji mi
+izgledaju još dalji sa ove savršeno ravne palačinke, kad odjednom prasak i lom. Iz vrbaka istrčava
 krdo konja, prelepih, nanegovanih, duge grive i sjajne kože. Dorati, zelenci, belci, a sa njima je i nekoliko ždrebadi.
 
 {% include layout/content/img_horizontal.html file_name="085.jpg" %}
@@ -202,7 +203,7 @@ sam naumio.
 {% include layout/content/img_horizontal.html file_name="099.jpg" %}
 Stari put se izgleda vrlo slabo koristi od kada je tunel probijen, ali se slabo i održava  (na par mesta se odronio deo puta).
 Bez ikakvih teškoća sam se polako klackao uzbrdo kroz mirisno veče obasjano mesečinom. Ideja da se po noći umesto po dnevnoj
-jari popnem na Rumiju se pokazala odlični. Konačno, kada sam izašao na prevoj, čak sam po mraku lako uspeo da nađem izvor
+jari popnem na Rumiju se pokazala odlična. Konačno, kada sam izašao na prevoj, čak sam po mraku lako uspeo da nađem izvor
 koji sam ucrtao sa vojne karte.
 
 {% include layout/content/img_horizontal.html file_name="098.jpg" %}
@@ -215,7 +216,8 @@ bile visoke hrastove šume koje su posečene, a smenilo ih je neprohodno žbunje
 Plašim se da ako ovako nastavim spustiću se do Bara, što mi nikako nije rešenje, em se neću probuditi "sa pogledom", em
 ću imati još veći problem sa noćenjem.
 
-Bilo je oko ponoći kada konačno nailazim na nešto što liči na puteljak sa strane, silazim sa asfalta, probijam se desetak metara, ostavljam bicikl
+Bilo je oko ponoći kada konačno nailazim na nešto što liči na puteljak sa strane, silazim sa asfalta, probijam se desetak metara (dalje ni ne može), 
+ostavljam bicikl
 i nalazim taman toliko prostora da na kosoj kamenitoj podlozi otvorim podlošku i uvučem se u vreću. Nema govora o otvaranju 
 šatora niti o bilo kakvom udobnom spavanju. Preskačem večeru pošto će me sunce svakako dići vrlo brzo. Klizim niz podlošku
 dok se okrećem pokušavajući da se smestim u najmanje neudoban položaj između dva kamena, a da pritom ne pokidam vreću na trnje.

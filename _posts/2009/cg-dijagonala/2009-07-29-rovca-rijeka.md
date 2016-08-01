@@ -18,7 +18,7 @@ photos:
     title: Moj kamp u kanjonu Mrtvice
   -
     key: 064.jpg
-    title: 'Mrtvice kod "Kapije želja"'
+    title: "Mrtvice kod 'Kapije želja'"
   -
     key: 065.jpg
     title: Bijeli nerin
@@ -51,11 +51,12 @@ Ujutro me budi promena u odnosu na ujednačeni šum Mrtvice - čujem glasove, me
 mom šatoru, prvo iznenađene, kako jedno za drugim vide šator pa bicikl, zatim čujem kako se međusobno utišavaju, 
 *"tiho, tu neko spava"*.
 
-Protežem se u šatoru i pokušavam da istisnem umor iz mišića koji ih nije skroz napustio tokom noći. Rešavam da se izađem.
+Protežem se u šatoru i pokušavam da istisnem umor iz mišića koji ih nije skroz napustio tokom noći. Rešavam da izađem.
 *"Dobar dan"*, *"dobar dan"*, okupiše se odmah oko mene dva čoveka, žena i dve devojke. Otežemo i jedni i drugi, dakle "naši" 
 smo, Novosađani, i oni i ja. Sledeće pitanje me je oborilo s nogu: *"Jesi ti Marko Bošković?"* Huh?! Valjda vide moje čuđenje
-i zbunjenost, pa odmah sledi pojašnjenje, pre par godina sam imao neki sajt na internetu gde sam postavljao slike i 
-tekstove o Fruškoj gori, Sremu i Južnoj Bačkoj, oni su to očigledno pratili i nekako sam im se uklopio u profil.
+i zbunjenost, pa odmah uz smeh sledi pojašnjenje, pre par godina sam imao neki sajt na internetu gde sam postavljao slike i 
+tekstove o Fruškoj gori, potragama za vodopadima i ruševinama, Sremu i Južnoj Bačkoj, itd, i oni su to očigledno pratili i 
+nekako sam im se uklopio u profil.
 
 Pričaju mi ukratko gde su bili prethodnih dana, a ja njima o mojim putešestvijima, slikaju se sa mnom kao sa nekom
 retkom životinjom i odlaze.
@@ -74,7 +75,7 @@ lomi i kida niz kamene prepreke koje su i napravile ovo jezerce.
 
 {% include layout/content/youtube.html id="NBVplvZuqx4" %}
 
-Ostavljam šator i sedam na bajs, da se što pre vratim u kanjon i ponovo prođem, sada po danu, onaj deo što juče nisam video. Bijeli
+Ostavljam šator i bicikl i žurim da se što pre vratim u kanjon i ponovo prođem, sada po danu, onaj deo što juče nisam video. Bijeli
 i Crni nerin su zanimljiva, penušava mesta, bilo bi šteta da sam ih propustio. 
 
 Vraćam se do kampa, pakujem i krećem ka izlazu iz kanjona. Grabim prvu priliku da sa stazice izađem na kolski put koji se odvaja od
@@ -89,6 +90,7 @@ krenem prema Podgorici i posle za Rijeku Crnojevića.
 Magistrala me vodi blago nizbrdo, prema Platijama, kanjonu reke Morače. Platije su zanimljivo mesto koje nije moguće lepo 
 osmotriti kada se tuda projuri kolima na putu za more. Sada na biciklu imam mnogo više prilike da stanem, pogledam gore,
 pogledam dole...
+{% include time_machine.html text="Ko zna, možda će uskoro izgledati skroz drugačije, zbog planova da se nešto dalje nizvodno napravi brana i kanjon poplavi..." %}
 
 Saobraćaja nema mnogo i put je dobrog kvaliteta. Smenjuju se kratki tuneli, mnogi sa galerijama (otvorima sa strane)
 koji olakšavaju prolazak kroz njih. Sunce je u zenitu i prži nemilosrdno dok klizim brzinom od 40ak km na sat niz
@@ -101,8 +103,10 @@ jednog ili drugog smera koji će mi bar na trenutak osvetliti put. Ali kao za in
 tunel ostaje iza krivine a izlaz se ne nazire. 
 
 Mrkli mrak, ništa ne vidim, moje svetlo na volanu je potpuno beskorisno.
-Hvata me frka, srce mi lupa i obliva me hladan znoj, pošto ne znam više da li se nalazim uz jednu ili drugu ivicu i postajem svestan
-opasnosti u kojoj bih se našao da sad naiđe neko vozilo. Usporavam, pokušavam da vučem blago u desno i pipam. čim sam
+Hvata me frka, srce mi lupa i obliva me hladan znoj, pošto i dalje idem relativno brzo a ne znam više da li se nalazim uz 
+jednu ili drugu ivicu i postajem svestan
+opasnosti u kojoj bih se našao da sad naiđe neko vozilo. Usporavam (ne smem naglo da se zaustavim, jer to bi me učinilo bespomoćnim u slučaju
+da sad neko naiđe), pokušavam da vučem blago u desno i pipam. čim sam
 našao zid, nisam ga ispuštao do izlaza, i gurao sve dok se svetlo nije ukazalo. Prilično me uplašio ovaj događaj, pošto
 se sve tako brzo odigralo.
 
