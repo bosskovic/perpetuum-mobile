@@ -8,5 +8,6 @@ node_modules
 _local
 s3_website.yml
 */*/img/*
+*/*/img_src/*
 */*/thumbs/*
 */*/thumbs_200/*
