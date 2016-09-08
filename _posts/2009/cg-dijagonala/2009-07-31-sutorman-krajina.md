@@ -194,13 +194,11 @@ mi je interesantno, jer se tu nalaze ruševine čuvenog grada Svača.
 
 {% capture story %}
 {% include layout/content/img_horizontal.html file_name="115.jpg" %}
-<p>Svač je još u osmom veku bio sedište katoličkog episkopa. Postoje teorije da je bio prestonica Duklje Vojislavljevića.
-Stefan Nemanja ga zauzima 1181. godine, i u sastavu države 
-Nemanjića je do njenog pada. Mongoli ga osvajaju i pljačkaju 1241. godine. Nekako se oporavio od toga, ali od kraja XIV veka propada.
+<p>Aleksandar Deroko kaže: "Ruševine prvobitno vizantiskog zatim, od XI veka, grada katoličkog episkopa. Svač je zauzeo Nemanja 1181 godine. Mongoli su grad razorili 1241. godine a stanovništvo poubijali. Svač su držali zatim Nemanjići sve do XV veka kada je ostao napušten. Grad je kovao i svoj novac (s natpisom "Sovacii civitas"). Od svega je danas ostalo na prostranoj krševitoj zaravni malo temelja starog naselja, među kojima se uzdižu još samo zidine nekih crkava, sve zaraslo u žbunje, a više ovoga, na izduženoj uzvišici iznad jednog jezera, bila je tvrđavica, koja je danas takođe potpuno u ruševinama."</p>
+<p>Ostaci Svača su i danas u sličnom stanju kao što ih opisuje Deroko pre sedamdesetak godina.</p>
+<p>Čitao sam teorije da je bio prestonica Duklje Vojislavljevića. Od najezde Mongola, grad se nekako oporavio, ali od kraja XIV veka propada zauvek.
 1406. godine utvrđenje je napušteno a pominje se samo selo u podnožju, i tadašnji episkop moli Veneciju da pomogne u opasivanju sela zidinama, kao što je to
 nekada bilo.</p>
-
-<p>Utvrđenje je bilo opasano zidinama sa kulama i unutar tvrđave i podgrađa se nalaze ostaci nekoliko crkava.</p>
 {% endcapture %}
 {% include layout/post/side_story.html story=story title="Svač" %}
 
