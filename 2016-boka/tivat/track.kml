@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Tivat</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Tivat</name>
+			<Placemark>
+				<name>Aerodrom</name>
+				<styleUrl>#icon-1504-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.7178278,42.4123044,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Plaža Marina
+</name>
+				<styleUrl>#icon-1701-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.7119269,42.4130173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Plaža Kalardovo
+</name>
+				<styleUrl>#icon-1701-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.7123775,42.4062048,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Plaža Župa
+</name>
+				<styleUrl>#icon-1701-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.705318,42.4208904,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Park Župa
+</name>
+				<styleUrl>#icon-1720-558B2F-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.7039876,42.4229972,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brijeg Gverovića
+</name>
+				<styleUrl>#icon-1603-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.7032366,42.4252464,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Letnjikovac Pima-Pasquali i crkva Sv. Antuna
+</name>
+				<styleUrl>#icon-1502-C2185B-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.7018847,42.4263393,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Trg Magnolija
+</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.6990952,42.4296812,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Park sa dečijim igralištem
+</name>
+				<styleUrl>#icon-1720-558B2F-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.6977541,42.4305523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Veliki gradski park
+</name>
+				<styleUrl>#icon-1720-558B2F-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.6959732,42.4337831,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nautički muzej
+</name>
+				<styleUrl>#icon-1502-C2185B-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.693881,42.4375126,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Šetalište Pine
+</name>
+				<styleUrl>#icon-1502-C2185B-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.6954689,42.4301167,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Letnjikovac Buća
+</name>
+				<styleUrl>#icon-1502-C2185B-nodesc</styleUrl>
+				<Point>
+					<coordinates>18.6962226,42.4315659,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1502-C2185B-nodesc-normal'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1502-C2185B-nodesc-highlight'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1502-C2185B-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1502-C2185B-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1502-C2185B-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1504-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1504-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1504-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1504-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1504-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1603-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1603-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1603-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1603-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1701-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1701-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1701-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1701-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1701-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1720-558B2F-nodesc-normal'>
+			<IconStyle>
+				<color>ff2F8B55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1720-558B2F-nodesc-highlight'>
+			<IconStyle>
+				<color>ff2F8B55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1720-558B2F-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1720-558B2F-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1720-558B2F-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
