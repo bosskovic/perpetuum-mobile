@@ -63,5 +63,23 @@
 
 {% endif %}
 
+{% unless page.layout == "home" %}
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="col-sm-6">
+            <a title="naslovna strana" href="/"><i class="icon-naslovna"></i><span>Naslovna strana</span></a>
+          </div>
+          <div class="col-sm-6">
+            {% include layout/content/search_with_placeholder.html %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </footer>
+{% endunless %}
+
 <script src="/assets/js/vendor.min.js"></script>
 <script src="/assets/js/perpetuum-mobile.min.js"></script>
