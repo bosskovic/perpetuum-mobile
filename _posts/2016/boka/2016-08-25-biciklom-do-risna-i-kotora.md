@@ -1,13 +1,8 @@
 ---
 slug:        "biciklom-do-risna-i-kotora"
-title:       "Boka"
+title:       "Biciklom do Risna i Kotora"
 description: ""
 excerpt:     ""
 categories:  ['2016-boka']
-image: "/2016-boka/maglic/img/017.jpg"
-
-tags:
-  - maglić
-
-published: false
+image: "/2016-boka/boka/img/14.jpg"
 ---

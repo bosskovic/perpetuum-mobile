@@ -1,15 +1,10 @@
 ---
 slug:        "literatura-i-izvori"
-title:       "Boka"
+title:       "Literatura i izvori"
 description: ""
 excerpt:     ""
 categories:  ['2016-boka']
-image: "/2016-boka/maglic/img/017.jpg"
-
-tags:
-  - maglić
-
-published: false
+image: "/2016-boka/boka/img/14.jpg"
 ---
 
 

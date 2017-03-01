@@ -1628,3 +1628,7 @@ body {
   background-repeat: no-repeat;
   padding-right: 13px;
 }
+
+hr{
+  clear: both;
+}

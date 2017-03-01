@@ -1,6 +1,6 @@
 ---
-slug:        "letovanje-sa-dvogodisnjakom"
-title:       "Letovanje sa dvogodišnjakom"
+slug:        "zemlja-crnojevica-biciklom"
+title:       "Zemlja Crnojevića biciklom"
 description: ""
 excerpt:     ""
 categories:  ['2016-boka']
