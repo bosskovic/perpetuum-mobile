@@ -72,6 +72,12 @@ photos:
   -
     key: 20151031-06.jpg
     title: Ekstrakcija deteta iz ranca
+  -
+    key: 20150829-02.jpg
+    title: Andrevlje (29. VIII 2015.)
+  -
+    key: 20150829-03.jpg
+    title: Andrevlje (29. VIII 2015.)
 
 videos: ["Ufem5Eu8rAA", "Tc4qZOps-Bg", "mia6TWALBLM"]
 
@@ -141,6 +147,20 @@ zverao je uokolo i zaspao tek pred kraj.
 
 ---
 
+{% include layout/content/id.html id="20150829" %}
+{% include layout/content/youtube.html id="B8_zIxLFN1Q" %}
+### Andrevlje i Letenka
+
+{% include layout/content/img_vertical.html file_name="20150829-02.jpg" %}
+Dvadeset i deveti avgust 2015.  
+Andrevlje - Letenka - Andrevlje  
+Ida, Novak, Ela, Vuk, Marko
+
+Lep letnji dan, šetali smo sa Idom i Novakom kroz bukovu šumu između Andrevlja i Letenke. Ovo je bila prva šetnja na 
+kojoj je i Vuk malo pešačio
+
+---
+
 {% include layout/content/id.html id="20151031" %}
 {% include layout/content/img_full.html file_name="20151031-01.jpg" %}
 ### Sa kumovima na Stražilovu
@@ -169,4 +189,4 @@ Rakovac, Beli majdan, Kesten
 Goran, Bukvalisti, Vuk, Ela
 
 Lep, sunčan novembarski dan, Ela se pridružila Goranu i Bukvalistima u šetnji po okolini Rakovca (ja sam morao da radim 
-taj vikend). Ovo je bila prva šetnja da je i Vuk malo šetao na sopstveni pogon (i valjao se u travi).
+taj vikend). Vuk je i na ovoj šetnji malo šetao na sopstveni pogon (i valjao se u travi).

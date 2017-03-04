@@ -36,6 +36,18 @@ photos:
   -
     key: 20160917-24.jpg
     title: Raspad sistema na stanici
+  -
+    key: 20161126-01.jpg
+    title: Kod Popovičkog jezera (26. XI 2016.)
+  -
+    key: 20161126-03.jpg
+    title: Našao žir
+  -
+    key: 20161126-04.jpg
+    title: Našao žir
+  -
+    key: 20161126-06.jpg
+    title: Sustao...
 
 videos: ["TolsOF_WlWI"]
 
@@ -91,3 +103,17 @@ Možda smo trebali da krenemo negde dalje.
 U Karlovcima smo se lepo prošetali kroz centar i do Dvorske bašte, a posle obišli novi vidikovac koji je napravljen iznad
 Karlovaca. Posetu Karlovcima završili smo sladoledom u centru. Sledeći put ćemo verovatno ići vozom do Čortanovačke šume 
 (dodatnih 5 minuta vožnje :-) )
+
+---
+
+{% include layout/content/id.html id="20161126" %}
+{% include layout/content/img_full.html file_name="20161126-01.jpg" %}
+### Skupljanje materijala za ukrase za jelku
+
+{% include layout/content/img_vertical.html file_name="20161126-04.jpg" %}
+Dvadeset i šesti novembar 2016.  
+Popovica - jezero - Perina pećina - Orlovo bojište - Popovica  
+Ela, Vuk, Marko
+
+Krenuli smo u jesenju šetnju, da skupljamo materijal za jelku - šišarke, žireve, kapice, resice i bobice od lipe, zvončiće...
+Bio je lep, sunčan ali prohladan dan. Vuk je ispešačio bar pola.

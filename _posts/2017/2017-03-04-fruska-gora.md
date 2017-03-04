@@ -4,7 +4,7 @@ title:       "Fruška gora 2017"
 description: "neka šetnje otpočnu"
 excerpt:     "Popovica, Čukale, Orlovo bojište, Zvečan, Tavni potok, Kraljeva stolica, Jegerova bašta"
 categories:  ['fruska-gora']
-image: "/fruska-gora/2017/img/20170225_14.jpg"
+image: "/fruska-gora/2017/img/20170304-09.jpg"
 photos:
   -
     key: 20170128_01.jpg
@@ -24,8 +24,29 @@ photos:
   -
     key: 20170225_18.jpg
     title: Tu se veverica kupa
+  -
+    key: 20170304-01.jpg
+    title: Trudovi (04. III 2017.)
+  -
+    key: 20170304-02.jpg
+    title: U blizini Morintova (04. III 2017.)
+  -
+    key: 20170304-09.jpg
+    title: Vodopad Lazin vir
+  -
+    key: 20170304-11.jpg
+    title: Vuk se dočepao fotoaparata
+  -
+    key: 20170304-12.jpg
+    title: Vuk se dočepao fotoaparata
+  -
+    key: 20170304-13.jpg
+    title: Vuk se dočepao fotoaparata
+  -
+    key: 20170304-14.jpg
+    title: Rimska tehnika užinanja
 
-videos: ["zLxP_A5ng40", "zTCOIh6CxW4"]
+videos: ["zLxP_A5ng40", "zTCOIh6CxW4", "XUnDFow0Tew"]
 
 ---
 
@@ -86,3 +107,27 @@ kada mu objašnjavamo šta je šta i čemu služi (naravno jako uprošćeno). Za
 vevericu. Naučio je da prepoznaje zvuk detlića.
 
 Sve u svemu, lepa šetnja lepim stazama.
+
+---
+
+{% include layout/content/id.html id="20170304" %}
+{% include layout/content/youtube.html id="XUnDFow0Tew" %}
+### Morintovo
+
+{% include layout/content/img_vertical.html file_name="20170304-01.jpg" %}
+Četvrti mart 2017.  
+Iriški venac - Morintovo - vodopad Lazin vir - Kanov breg - Zeleni kamen - Kraljeva stolica - Iriški venac  
+Marina, Mihajlo, Ela, Vuk, Marko
+
+Idealan dan za šetnju. Spustili smo se od Iriškog venca prema Morintovu. Od kada sam tu poslednji put prolazio, markirana
+staza koja jednim delom ide niz potok je jako zarasla, pa smo na kraju morali da je napustimo i probijemo se kroz
+visoku suvu travu do grebena, gde smo našli put. Ostatak do vodopada Lazin vir je ok. 
+
+{% include layout/content/img_horizontal.html file_name="20170304-09.jpg" %}
+Posle vodopada smo izbili na greben
+iznad Vrdnika, da bi ubrzo sišli na stazicu koja krivuda kroz mirisnu četinarsku šumu iznad Stare kolonije. Odatle smo
+se kroz hrastovu i lipovu šumu popeli do Partizanskog puta, pa preko Kraljeve stolice zatvorili krug. Lepa i raznovrsna šetnja.
+I dalje se sve beli od visibaba, tu i tamo je po koji divlji zumbul ili kukurek, ali još nema ničeg drugog.
+
+Sve u svemu, za malo više od 6 sati prešli smo oko 13.5km. Vuk je bio savršeno raspoložen, i prepešačio malo više od 8km
+(od Venca do Mornitnova oko 5, i onda još u par navrata po 1-2km). Između nas je zabavljao odvalama.
