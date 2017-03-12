@@ -5,7 +5,7 @@ description: "čarde, kuvano vino, skele i sve drugo što je postalo deo tradici
 excerpt:     ""
 categories:  ['voznje-oko-ns']
 image: "/voznje-oko-ns/tradicionalna-voznja-do-begecke-jame/img/2010-05.jpg"
-videos: ["1TSjq8balHo", "2yo22i3jLaY", "WsekrvCxDyo", "ODs6DV39QN0"]
+videos: ["1TSjq8balHo", "2yo22i3jLaY", "WsekrvCxDyo", "-agkv34b1iw", "ODs6DV39QN0"]
 tags:
   - begečka jama
   - čerevićka skela

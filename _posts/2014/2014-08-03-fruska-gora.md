@@ -61,44 +61,47 @@ skoro nigde izvan grada ne bi izašli. Kengur se odlično pokazao, Vuku je u nje
 sam ga stalno imao pred sobom (da ga branim od mušica, pravim mu senku, pridržavam glavicu kada naiđe neki grbav deo a i
 da ga samo gledam kako slatko spava :-) ).
 
----
 
+{% include separator.html %}
 {% include layout/content/id.html id="20140705" %}
-{% include layout/content/img_full.html file_name="20140705_01.jpg" %}
 ### Zelena staza oko Popovice
 
-Peti jul 2014.  
+5\. jul 2014.  
 Popovica - Čukale - Perina pećina - Orlovo bojište - Popovica  
 Srđan, Ela, Vuk, Marko 
+
+{% include layout/content/img_full.html file_name="20140705_01.jpg" %}
 
 Sa puna dva meseca, krajnje je vreme bilo da Vuk malo zađe u šumu. Uglavnom je prespavao šetnju, ali je pri kraju, na Orlovom bojištu 
 otvorio oči na kratko da malo jede mamu i slika se, a onda je opet zakunjao.
 
----
 
+{% include separator.html %}
 {% include layout/content/id.html id="20140713" %}
-{% include layout/content/img_full.html file_name="20140713_01.jpg" %}
 ### Sa Dajanom i Vladom oko Torina
 
-Trinaesti jul 2014.  
+13\. jul 2014.  
 Krug po Torinama  
 Dajana, Vlada, Ela, Vuk, Marko
+
+{% include layout/content/img_full.html file_name="20140713_01.jpg" %}
+
 
 Bili smo u gostima kod Vlade na Torinama, i posle napravili manji krug do obližnjih vidikovaca, i usput šmeknuli par
 vikendica sa idealnom ekspozicijom. Vuk je prespavo sve.
 
----
 
+{% include separator.html %}
 {% include layout/content/id.html id="20140803" %}
-{% include layout/content/youtube.html id="0YJxQTkcENM" %}
 ### Kobila, Dumbovac, Rim
 
-{% include layout/content/img_horizontal.html file_name="20140803_02.jpg" %}
-Treći avgust 2014.  
+3\. avgust 2014.  
 Manastir Beočin - Kobila - potok Dumbovac - vodopad - Rim - potok Dumbovac - Dumbovo - Beočin   
 Srđan, Jelena, Ranko, Srđana, Ela, Vuk, Marko
 
-{% include layout/content/img_horizontal.html file_name="20140803_25.jpg" %}
+{% include layout/content/youtube.html id="0YJxQTkcENM" %}
+
+{% include layout/content/img_horizontal.html file_name="20140803_02.jpg" %}
 Prva veća i ozbiljnija šetnja. Krenuli smo od manastira Beočin, pa Dubčekovim putem do lepog vidikovca Kobila. Tamo smo
 napravili dužu pauzu, i onda se spustili dole u potok Dumbovac, pa niz potok do vodopada. Popeli smo se uz okomitu zapadnu
 stranu potoka, i odatle je trebalo da izađemo na lugarnicu Rim i da se spustimo do manastira i zatvorimo krug. Ali sam se
