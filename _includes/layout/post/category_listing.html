@@ -8,7 +8,9 @@
   {% for p in all_posts %}
   {% if p.categories contains category %}
     <li><a href="{{ p.url }}">
-      <span class="date">{{ p.date | date: "%d. %m. %Y." }}</span>
+      {% unless p.show_date == false %}
+        <span class="date">{{ p.date | date: "%d. %m. %Y." }}</span>
+      {% endunless %}
       {{ p.title }}
     </a></li>
   {% endif %}
