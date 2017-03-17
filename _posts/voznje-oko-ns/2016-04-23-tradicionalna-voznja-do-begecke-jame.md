@@ -10,7 +10,7 @@ tags:
   - begečka jama
   - čerevićka skela
   - banoštor
-  
+show_date: false
 ---
 
 ...ova stranica je još u izradi...

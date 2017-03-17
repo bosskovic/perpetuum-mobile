@@ -9,7 +9,9 @@
 
 
 <div class="post-preview">
-  <p class="post-meta date">{{ post.date | date: "%d. %m. %Y." }}</p>
+  {% unless post.show_date == false %}
+    <p class="post-meta date">{{ post.date | date: "%d. %m. %Y." }}</p>
+  {% endunless %}
   <a href="{{ post.url }}">
     <img src="{{ post_header_img | replace: '/img/', '/thumbs_200/' }}" class="pull-right" style="width: 160px; height: 120px;">
     <h2 class="post-title"> {{ post.title }} </h2>

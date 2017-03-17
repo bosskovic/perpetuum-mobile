@@ -1,1 +1,5 @@
-<img title="{% include img_title.html pic=include.file_name %}" src="/{% include thumb_path.html file_name=include.file_name %}" data-href="{% include img_path.html file_name=include.file_name %}" class="pull-right vertical pic" />
+{% if include.file_name %}
+  <img title="{% include img_title.html pic=include.file_name %}" src="/{% include thumb_path.html file_name=include.file_name %}" data-href="{% include img_path.html file_name=include.file_name %}" class="pull-right vertical pic" />
+{% else %}
+  <img title="{{ include.title }}" src="{{ include.path }}" class="pull-right vertical pic" style="cursor: default" />
+{% endif %}

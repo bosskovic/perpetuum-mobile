@@ -98,6 +98,7 @@ photos:
     title: Sustao...
 
 videos: ["zLxP_A5ng40", "zTCOIh6CxW4", "XUnDFow0Tew", "o7mOqbQzRFg"]
+show_date: false
 
 ---
 

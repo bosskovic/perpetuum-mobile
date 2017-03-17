@@ -53,6 +53,7 @@ photos:
     title: Planinarenje u kućnim uslovima
 
 videos: ["TolsOF_WlWI"]
+show_date: false
 
 ---
 

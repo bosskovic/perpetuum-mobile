@@ -52,7 +52,7 @@ photos:
   -
     key: 20160710-08.jpg
     title: Tikvara
-
+show_date: false
   
 ---
 

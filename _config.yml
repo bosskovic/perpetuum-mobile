@@ -42,3 +42,4 @@ defaults:
       is_post: true
       permalink: /:categories/:title/
       comments: true
+      show_date: true

@@ -52,6 +52,7 @@ photos:
     key: 20140803_25.jpg
     title: Dumbovački vodopad
 videos: ["0YJxQTkcENM"]
+show_date: false
 
 ---
 

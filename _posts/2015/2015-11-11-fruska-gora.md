@@ -80,6 +80,7 @@ photos:
     title: Andrevlje (29. VIII 2015.)
 
 videos: ["Ufem5Eu8rAA", "Tc4qZOps-Bg", "mia6TWALBLM"]
+show_date: false
 
 ---
 
