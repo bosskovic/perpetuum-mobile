@@ -1,15 +1,33 @@
 <ul class="pager">
   {% assign category = page.categories | first %}
-  {% if page.previous.url and page.previous.categories contains category %}
+  {% if page.categories %}
+    {% assign category = page.categories[0] %}
+    {% assign posts = site.categories[category] %}
+    {% for post in posts %}
+      {% if post.url == page.url %}
+        {% assign post_index0 = forloop.index0 %}
+        {% assign post_index1 = forloop.index %}
+        {% endif %}
+    {% endfor %}
+    {% for post in posts %}
+      {% if post_index0 == forloop.index %}
+        {% assign next_post = post %}
+      {% endif %}
+      {% if post_index1 == forloop.index0 %}
+        {% assign prev_post = post %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% if prev_post %}
   <li class="previous">
-    <a href="{{ page.previous.url | replace: '//', '/' }}" data-toggle="tooltip"
-       data-placement="top" title="{{page.previous.title}}">&larr; <span class="hidden-xs hidden-sm">{{ page.previous.title }}</span></a>
+    <a href="{{ prev_post.url | replace: '//', '/' }}" data-toggle="tooltip"
+       data-placement="top" title="{{prev_post.title}}">&larr; <span class="hidden-xs hidden-sm">{{ prev_post.title }}</span></a>
   </li>
   {% endif %}
-  {% if page.next.url and page.next.categories contains category %}
+  {% if next_post %}
   <li class="next">
-    <a href="{{ page.next.url | replace: '//', '/' }}" data-toggle="tooltip"
-       data-placement="top" title="{{page.next.title}}"><span class="hidden-xs hidden-sm">{{ page.next.title }}</span> &rarr;</a>
+    <a href="{{ next_post.url | replace: '//', '/' }}" data-toggle="tooltip"
+       data-placement="top" title="{{next_post.title}}"><span class="hidden-xs hidden-sm">{{ next_post.title }}</span> &rarr;</a>
   </li>
   {% endif %}
 </ul>

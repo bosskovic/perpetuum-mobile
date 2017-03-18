@@ -2,7 +2,7 @@
 slug:        "2016"
 title:       "Fruška gora 2016"
 description: "Vuk konačno počinje i sam da pešači, može mnogo da hoda, ali ide samo tamo gde on hoće"
-excerpt:     "Iriški venac, Stražilovo, Dvorska bašta"
+excerpt:     "Iriški venac, Stražilovo, Dvorska bašta, Popovica"
 categories:  ['fruska-gora']
 image: "/fruska-gora/2016/img/20160106-04.jpg"
 photos:

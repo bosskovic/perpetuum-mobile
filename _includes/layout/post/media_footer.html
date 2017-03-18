@@ -46,7 +46,12 @@
   $(document).on('click', '#media-footer a', function (e) {
 
     if ($(this).hasClass('pics')){
-      $("#gallery .fancybox-pic").first().click();
+      if ($(window).width() > 800) {
+        $("#gallery .fancybox-pic.size-2").first().click();
+      }
+      else{
+        $("#gallery .fancybox-pic.size-1").first().click();
+      }
     }
     else if ($(this).hasClass('stats')){
       $.fancybox.open(ppt_stats_gallery, {padding: 0});

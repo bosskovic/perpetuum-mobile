@@ -3,13 +3,19 @@ var gMap = undefined;
 $(document).ready(function (e) {
 
   $("#videos .fancybox-video").attr('rel', 'gallery1').fancybox({padding: 0});
-  $("#gallery .fancybox-pic").attr('rel', 'gallery2').fancybox({padding: 0});
+  $("#gallery .fancybox-pic.size-2").attr('rel', 'gallery2').fancybox({padding: 0});
+  $("#gallery .fancybox-pic.size-1").attr('rel', 'gallery3').fancybox({padding: 0});
 
   $(document).on('click', '#affix-sidebar a', function (e) {
 
     if ($(this).attr('id') == 'sidebar-pics') {
 //      $.fancybox.open(ppt_gallery, {padding: 0});
-      $("#gallery .fancybox-pic").first().click();
+      if ($(window).width() > 800) {
+        $("#gallery .fancybox-pic.size-2").first().click();
+      }
+      else {
+        $("#gallery .fancybox-pic.size-1").first().click();
+      }
     }
     else if ($(this).attr('id') == 'sidebar-stats') {
       $.fancybox.open(ppt_stats_gallery, {padding: 0});

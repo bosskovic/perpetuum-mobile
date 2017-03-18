@@ -100,7 +100,7 @@ photos:
     title: Vrdnička kula, južna strana (oktobar 2005.)
   -
     key: tlocrt.jpg
-    title: Tlocrt, R.Šmit, Đ.Bošković - Srednjevekovni gradovi u Vojvodini
+    title: "Izvor: R.Šmit, Đ.Bošković - Srednjevekovni gradovi u Vojvodini"
   
 ---
 
@@ -236,17 +236,19 @@ vojske je odlučio da se pridruži pobunjenicima. Prob se sklonio u osmatračnic
 pogubljen nedaleko od svog rodnog mesta.</p>
 
 <p>Nije mnogo rimskih careva ostavilo tako dobru reputaciju i ostalo u pozitivnom pamćenju kao Prob. Njegovu smrt ožalili 
-su i senat i narod, a čak su se i vojnici pokajali i podigli spomenik u njegovu čast, sa natpisom: ".Ovde leži Probus, 
-Imperator, najčestitiji čovek, osvajač svih varvarskih naroda i uzurpatora".</p>
+su i senat i narod, a čak su se i vojnici pokajali i podigli spomenik u njegovu čast, sa natpisom: <em>"Ovde leži Probus, 
+Imperator, najčestitiji čovek, osvajač svih varvarskih naroda i uzurpatora"</em>.</p>
 
-<span class="text-muted">
-<a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Probus*.html" target="_blank">Historia Augusta</a><br>
-<a href="http://www.roman-emperors.org/probus.htm" target="_blank">Roman emperors</a><br>
-<a href="http://www.roman-empire.net/decline/probus.html" target="_blank">Roman empire</a><br>
-<a href="https://en.wikipedia.org/wiki/Marcus_Aurelius_Probus" target="_blank">Wikipedia</a><br>
-<a href="http://www.coinscatalog.com/roman_rulers_view.php?id_e=4174" target="_blank">Roman nobillities</a><br>
-<a href="http://www.1911encyclopedia.org/Marcus_Aurelius_Probus" target="_blank">1911 Classic Encyclopedia</a><br>
-<a href="http://www.newadvent.org/cathen/12446a.htm" target="_blank">Catholic encyclopedia</a>
-</span>
+<br>
+<strong>Izvori:</strong>
+<ul>
+<li><a href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Probus*.html" target="_blank">Historia Augusta</a></li>
+<li><a href="http://www.roman-emperors.org/probus.htm" target="_blank">Roman emperors</a></li>
+<li><a href="http://www.roman-empire.net/decline/probus.html" target="_blank">Roman empire</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Marcus_Aurelius_Probus" target="_blank">Wikipedia</a></li>
+<li><a href="http://www.coinscatalog.com/roman_rulers_view.php?id_e=4174" target="_blank">Roman nobillities</a></li>
+<li><a href="http://www.1911encyclopedia.org/Marcus_Aurelius_Probus" target="_blank">1911 Classic Encyclopedia</a></li>
+<li><a href="http://www.newadvent.org/cathen/12446a.htm" target="_blank">Catholic encyclopedia</a></li>
+</ul>
 {% endcapture %}
 {% include layout/post/side_story.html story=story title="Marcus Aurelius Equitius Probus (AD 232 - AD 282)" %}

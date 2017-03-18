@@ -65,7 +65,13 @@ $(window).on('resize', function () {
 
 $(document).ready(function (e) {
   $(document).on('click', '#text img.pic', function (e) {
-    $('a.fancybox-pic[href="/' + $(this).data('href') + '"]').click();
+    if ($(window).width() > 800) {
+      $('a.fancybox-pic.size-2[href="/' + $(this).data('href') + '"]').click();
+    }
+    else{
+      console.log($(this).data('href2'));
+      $('a.fancybox-pic.size-1[href="/' + $(this).data('href').replace("/img/", "/thumbs/") + '"]').click();
+    }
   });
 
   $(document).on('click', '#text img.video', function (e) {
