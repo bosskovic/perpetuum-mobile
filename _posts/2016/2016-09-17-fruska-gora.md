@@ -57,7 +57,7 @@ show_date: false
 
 ---
 
-{% include layout/content/img_vertical.html file_name="20160330.jpg" %}
+{% include layout/content/img_horizontal.html file_name="20160330.jpg" %}
 Vuk je konačno počeo i sam malo više da pešači. Ima mnogo snage, kad hoće, može da istrči od Elinih do naše kuće (oko dva 
 kilometra), ali problem je što uglavnom hoće da ide samo gde on hoće. Pustimo ga da tumara tamo-amo, skuplja štapove i baca žireve,
 pa kad nam dosadi, strpamo ga u ranac...
