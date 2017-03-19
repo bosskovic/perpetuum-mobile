@@ -10,7 +10,7 @@ $(document).ready(function (e) {
 
     if ($(this).attr('id') == 'sidebar-pics') {
 //      $.fancybox.open(ppt_gallery, {padding: 0});
-      if ($(window).width() > 800) {
+      if ($(window).width() > 800 && $(window).height() > 600) {
         $("#gallery .fancybox-pic.size-2").first().click();
       }
       else {

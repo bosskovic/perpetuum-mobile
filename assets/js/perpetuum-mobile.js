@@ -65,7 +65,7 @@ $(window).on('resize', function () {
 
 $(document).ready(function (e) {
   $(document).on('click', '#text img.pic', function (e) {
-    if ($(window).width() > 800) {
+    if ($(window).width() > 800 && $(window).height() > 600) {
       $('a.fancybox-pic.size-2[href="/' + $(this).data('href') + '"]').click();
     }
     else{
