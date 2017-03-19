@@ -2,7 +2,7 @@
 {% include layout/header/nav.html %}
 {% endif %}
 
-<header class="intro-header" style="background-image: url('{{ ppt_header_img }}')">
+<header class="intro-header" style="background-image: url('{{ ppt_header_img | replace: "/img", "/thumbs" }}')" data-url="{{ ppt_header_img }}">
   <div class="overlay">
     <div class="container">
       <div class="row">

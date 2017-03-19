@@ -56,6 +56,11 @@ jQuery(document).ready(function ($) {
 $(window).on('load', function () {
   $('header.intro-header').css('height', window.innerHeight);
   $('header.intro-header .overlay').css('height', window.innerHeight);
+
+  if ($(window).width() > 800) {
+    var $introHeader = $(".intro-header");
+    $introHeader.css('background-image', "url('" + $introHeader.data('url') +"')");
+  }
 });
 
 $(window).on('resize', function () {
@@ -64,6 +69,10 @@ $(window).on('resize', function () {
 });
 
 $(document).ready(function (e) {
+  var $introHeader = $(".intro-header");
+  var img = new Image();
+  img.src = $introHeader.data('url');
+
   $(document).on('click', '#text img.pic', function (e) {
     if ($(window).width() > 800 && $(window).height() > 600) {
       $('a.fancybox-pic.size-2[href="/' + $(this).data('href') + '"]').click();
