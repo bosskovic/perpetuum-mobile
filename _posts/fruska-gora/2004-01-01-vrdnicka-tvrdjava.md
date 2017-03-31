@@ -148,7 +148,7 @@ otvora. Kroz najveći se ulazilo, dok su manji prozori služili za prilaz odbran
 Ovako podeljene na spratove, zatvorene prostorije kule su možda mogle da budu korišćene i za stanovanje.
 
 {% include layout/content/img_horizontal.html file_name="25-20051004.jpg" %}
-Zid kule je specifične konstrukcije. Na bočnim stranama, nalazili su se kosi potpotni zidovi, koji su je dodatno 
+Zid kule je specifične konstrukcije. Na bočnim stranama, nalazili su se kosi potporni zidovi, koji su je dodatno 
 osiguravali. Za izradu lica biran je krupniji, grubo obrađen kamen, dok su jedino ivičnjaci bolje obrađeni. Jezgro je 
 od "trpanca", lomljenog kamena nepravilno naslaganog i utopljenog u malter. Zid kule je rađen u horizontalnim slojevima 
 od pedeset do osamdeset santimetara, koji su i sami ozidani od sitnijih i krupnijih komada rumenog škriljastog glinca, 
