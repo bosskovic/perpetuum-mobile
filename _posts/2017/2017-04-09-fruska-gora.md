@@ -4,7 +4,7 @@ title:       "Fruška gora 2017"
 description: "neka šetnje otpočnu"
 excerpt:     "Popovica, Čukale, Orlovo bojište, Zvečan, Tavni potok, Kraljeva stolica, Jegerova bašta"
 categories:  ['fruska-gora']
-image: "/fruska-gora/2017/img/20170401-18.jpg"
+image: "/fruska-gora/2017/img/20170409-19.jpg"
 photos:
   -
     key: 20170128_01.jpg
@@ -150,10 +150,53 @@ photos:
   -
     key: 20170401-24.jpg
     title: Orlovac
+  -
+    key: 20170409-01.jpg
+    title: Vozom do Čortanovačke šume (9. april 2017.)
+  -
+    key: 20170409-02.jpg
+    title: Vozom do Čortanovačke šume (9. april 2017.)
+  -
+    key: 20170409-03.jpg
+    title: Ostaci rimskog utvrđenja u Čortanovačkoj šumi
+  -
+    key: 20170409-04.jpg
+    title: "'info' tabla koja dezinformiše posetioce. 'Avari sa severa Evrope u III veku' ?!!"
+  -
+    key: 20170409-08.jpg
+    title: Ostaci jedne od četiri kule utvrđenja.
+  -
+    key: 20170409-11.jpg
+    title: Detalj zida
+  -
+    key: 20170409-14.jpg
+    title: Plaža 
+  -
+    key: 20170409-16.jpg
+    title: Preko je Koviljski rit, a iza vrba se nazire most kod Beške
+  -
+    key: 20170409-20.jpg
+    title: Planinarski dom Kozarica
+  -
+    key: 20170409-21.jpg
+    title: Izvor Kozarica, omiljen kod većeg broja velikana srpske istorije
+  -
+    key: 20170409-22.jpg
+    title: Na putu ka prosvetljenju...
+  -
+    key: 20170409-24.jpg
+    title: Tovariš Staljin has thought you well, young padawan
+  -
+    key: 20170409-26.jpg
+    title: Kakav tandem - Vuk fotka, Ranko pozira
+  -
+    key: 20170409-27.jpg
+    title: Nema šanse da bude miran te tri sekunda da ga fotkam...
 
-videos: ["zLxP_A5ng40", "zTCOIh6CxW4", "XUnDFow0Tew", "o7mOqbQzRFg", "w29gv9l-JVY"]
+videos: ["zLxP_A5ng40", "zTCOIh6CxW4", "XUnDFow0Tew", "o7mOqbQzRFg", "w29gv9l-JVY", "bQycE4pYiBE"]
 show_date: false
-
+tags:
+  - čortanovačka šuma
 ---
 
 Vuk je sad već dovoljno velik da može da pešači sam i malo više sluša i prati. Nadam se da ćemo ove godine polako
@@ -361,3 +404,66 @@ put nas niko nije dirao.
  
 Sve u svemu, fino gustiranje proleća sa dugim pauzama, ukupno oko 11km za skoro 8 sati. Vuk nije bio u formi za pešačenje,
 iscrpelo ga izgleda što je bio bolestan prošlog vikenda, pa sam ga nosio više od pola.
+
+
+{% include separator.html %}
+{% include layout/content/id.html id="20170409" %}
+### Čortanovačka šuma
+
+9\. april 2017.
+Ostaci rimske tvrđave, plaža na Dunavu, izvor Kozarica  
+Maja, Srđana, Ranko, Ela, Vuk, Marko  
+
+{% include layout/content/youtube.html id="bQycE4pYiBE" %}
+
+{% include layout/content/img_horizontal.html file_name="20170409-02.jpg" %}
+Ovo je više bio izlet i kuliranje nego "planinarenje", i svi uslovi su se idealno poklopili za to - vreme, društvo i lakoća
+kojom smo došli do naše destinacije. Do železničke stanice
+Čortanovci Dunav smo stigli vozom od Novog Sada za dvadesetak minuta. Ovo je verovatno jedan od najkomfornijih načina odlaska
+na Frušku goru - sa novosadske železničke stanice voz kreće po redu vožnje (jer mu je to prva stanica), i za dvadesetak 
+minuta je u šumi. Pa do Popovice kolima treba više vremena!
+
+{% include layout/content/img_horizontal.html file_name="20170409-03.jpg" %} 
+Od stanice smo krenuli u malu kružnu šetnju, i prvo obišli ostatke tvrđave iz rimskog perioda. Do nedavno zanemaren lokalitet
+je sada uređen, sa prilaznim putem, klupicama, info tablom, a rastinje u okolini osnove kule je donekle raščišćeno. Utisak
+malo kvari sadržaj "info table". Fasciniran sam kako je nekome dozvoljeno da izvali takvu glupost, da je tvrđava iz III
+veka korišćena za odbranu Rimskog carstva od "Avara sa severa Evrope". Inače, tvrđava je srušena krajem IV veka i nakon toga nije obnavljana,
+a prvi pomen Avara u Panoniji je u drugoj polovini V veka a tek u VI veku i kasnije se njihovi napadi na tada već Istočno 
+rimsko carstvo inteziviraju, i pri tome nikako nisu "sa severa Evrope" već iz Azije.
+
+O istorijatu tvrđave sam već detaljnije pisao <a href="/2005-voznje-u-okolini-ns/istocna-fruska-gora-biciklom/#rimsko-utvrdjenje-u-cortanovcima">ovde</a>, pa da se ne ponavljam...
+
+{% include layout/content/img_full.html file_name="20170409-14.jpg" %}
+
+Od tvrđave smo se spustili do obale Dunava, i tu napravili duugu pauzu, sa pogledom na Koviljski rit i most kod Beške.
+
+{% include layout/content/img_horizontal.html file_name="20170409-20.jpg" %}
+Šetnju smo nastavili prema planinarskom domu Kozarica. U pitanju je interesantna građevina čiji stil asocira na alpske ili
+visokogorske kućice, i ambient je manje-više takav (veliki stari hrast i prostrani pašnjak) ali tabla
+na zidu doma podseća da je to "planinarski dom na najmanjoj nadmorskoj visini u svetu - 84mnv". To je ta naša potreba da
+budemo prvi u svetu u ovome i onome, a jasno se sećam da mi je prijatelj pričao o planinarskim domovima u Dalmaciji koji su 
+praktično na obali mora.
+
+{% include layout/content/img_horizontal.html file_name="20170409-22.jpg" %}
+Od doma smo krenuli ka izvoru koji mu je dao ime. Tabla pored izvora sugeriše da je neka magija nagnala 5-6 važnih ličnosti
+iz srpske nacionalne istorije da borave u okolini izvora. Počev od Sv. Save koji je na tom mestu u XIII veku prešao Dunav,
+do arhiepiskopa Arsenija I Sremca koji se u neposrednoj blizini rodio, Zmaja Ognjenog Vuka koji je tuda prolazio iz 
+Kupinova za Slankamen (valjda nije znao da mu je to okolo). Dalje, tu se odmarao vojvoda Jovan Monasterlija (kojem su uskratili
+"r" u imenu) a izvor su pohodili i mitropolit Stevan Stratimirović i čortanovački paroh Filip Cvetković. 
+
+{% include layout/content/img_vertical.html file_name="20170409-24.jpg" %}
+Za svaki slučaj, ovi važni ljudi još jednom su pobrojani na ugraviranoj pločici koja je postavljena na kamenu piramidu
+izvora. Izvor je obnovljen 2006. godine zaslugom nekog nepoznatog dobrotvora, koji je u međuvremenu upao u nemilost i čije 
+je ime u Staljinovom stilu izgrebano sa pločice, a pločica uredno vraćena i zašrafljena nazad.
+
+Mesto je inače vrlo lepo i zanimljivo i bez komičnog sadržaja table. Izvor se nalazi pri vrhu livadice ušuškane u šumarak, i 
+nad njom se nadvija velika stara topola. 
+
+Posle duže pauze pored izvora smo se još malo šetali stazama kroz Čortanovačku džunglu. Ok, nije stvarno džungla, ali je 
+vidno drugačija od drugih šuma na Fruškoj gori. Drvo se manje seče i izvlači i najvećim delom šuma je prepuštena da raste kako hoće.
+Zbog toga je izrazito "spratna" (ako tako može da se kaže) i najvećim delom neprohodna izvan staza i puteva.
+
+{% include layout/content/img_horizontal.html file_name="20170409-27.jpg" %}
+Lajt motiv ove šetnje bilo je uživanje i kuliranje, pa nisam forsirao da obiđemo baš sva zanimljiva mesta u okolini, već
+je ponešto ostalo i za naredni put. Za tih pet sati prešli smo nešto manje od 6km :D. Vuk je bio u elementu i sve vreme jurio
+okolo - džabe sam nosio ranac, ni jednom nije seo u njega.

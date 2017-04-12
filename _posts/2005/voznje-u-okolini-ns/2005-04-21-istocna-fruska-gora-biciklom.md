@@ -99,6 +99,7 @@ Uz Dunav se pruža Čortanovačka šuma. Ona je slično kao i Kamenički park om
 pitanju prava pravcata šuma. Skoro sat vremena smo kružili probijajući se kroz lijane i gusto rastinje na samo 50-ak - 100 
 metara od ruševina rimske tvrđave, a da nismo uspeli da je pronađemo. U tome smo uspeli tek uz pomoć lokalnog vodiča.
 
+{% include layout/content/id.html id="rimsko-utvrdjenje-u-cortanovcima" %}
 {% capture story %}
 <p>Nismo mi jedini koji su imali teškoća da pronađu ostatke ove tvrđave, pošto je njena lokacija i za nauku bila nepoznata 
 (uprkos svom značaju) sve do pre šezdesetak godina.</p>
