@@ -2,9 +2,9 @@
 slug:        "2017"
 title:       "Fruška gora 2017"
 description: "neka šetnje otpočnu"
-excerpt:     "Popovica, Čukale, Orlovo bojište, Zvečan, Tavni potok, Kraljeva stolica, Jegerova bašta"
+excerpt:     "Vuk je sad već dovoljno velik da može da pešači sam i malo više sluša i prati. Polako povećavamo procente staze koje sam pređe."
 categories:  ['fruska-gora']
-image: "/fruska-gora/2017/img/20170409-19.jpg"
+image: "/fruska-gora/2017/img/20170501-01.jpg"
 photos:
   -
     key: 20170128_01.jpg
@@ -192,8 +192,38 @@ photos:
   -
     key: 20170409-27.jpg
     title: Nema šanse da bude miran te tri sekunda da ga fotkam...
+  -
+    key: 20170501-01.jpg
+    title: Orlovo bojište (1. maj 2017.)
+  -
+    key: 20170501-02.jpg
+    title: Orlovo bojište (1. maj 2017.)
+  -
+    key: 20170520-01.jpg
+    title: Beli majdan (20. maj 2017.)
+  -
+    key: 20170520-02.jpg
+    title: Beli majdan
+  -
+    key: 20170520-03.jpg
+    title: U blizini Velikog gradca
+  -
+    key: 20170520-04.jpg
+    title: Zvončić
+  -
+    key: 20170520-05.jpg
+    title: Dolina Dumbovca
+  -
+    key: 20170520-06.jpg
+    title: Dumbovac
+  -
+    key: 20170520-07.jpg
+    title: Dumbovački vodopad
+  -
+    key: 20170520-08.jpg
+    title: Kobila
 
-videos: ["zLxP_A5ng40", "zTCOIh6CxW4", "XUnDFow0Tew", "o7mOqbQzRFg", "w29gv9l-JVY", "bQycE4pYiBE"]
+videos: ["zLxP_A5ng40", "zTCOIh6CxW4", "XUnDFow0Tew", "o7mOqbQzRFg", "w29gv9l-JVY", "bQycE4pYiBE", "Isf-U6gwbnk", "mDowS7Ro-b4"]
 show_date: false
 tags:
   - čortanovačka šuma
@@ -467,3 +497,61 @@ Zbog toga je izrazito "spratna" (ako tako može da se kaže) i najvećim delom n
 Lajt motiv ove šetnje bilo je uživanje i kuliranje, pa nisam forsirao da obiđemo baš sva zanimljiva mesta u okolini, već
 je ponešto ostalo i za naredni put. Za tih pet sati prešli smo nešto manje od 6km :D. Vuk je bio u elementu i sve vreme jurio
 okolo - džabe sam nosio ranac, ni jednom nije seo u njega.
+
+
+{% include separator.html %}
+{% include layout/content/id.html id="20170501" %}
+### Zelena staza oko Popovice
+
+1\. maj 2017.  
+Popovica - jezero - Čukale (vidikovac ka Novom Sadu) - Perina pećina (zamalo) - Orlovo bojište - Popovica  
+Petar, Vuk, Marko  
+
+{% include layout/content/youtube.html id="Isf-U6gwbnk" %}
+
+Prava gušt šetnjica oko Popovice. "Prvomajski duh" (roštiljanje, muzika, gužva i sl.) se uglavnom nije osećao dalje od 50ak metara
+od najdalje tačke u šumi dokle se može prići kolima.
+
+{% include layout/content/img_horizontal.html file_name="20170501-01.jpg" %}
+Dan je bio idealan, šuma prijatna i mirisna, a Pera i Vuk sjajan tandem. Šetali smo zelenom stazom oko Popovice, pored jezera,
+do vidikovca na Čukalama sa kog se vidi Novi Sad, pa lepim grebenom koji zavija oko vrha Popovica prema Perinoj pećini.
+Pećinu nisam uspeo da nađem, i prvi put kada sam je tražio pre 15ak godina sam je jedva našao u nekoj jaruzi, a možda i 
+bolje, ne bih mogao ovu dvojicu da izvučem :-). Šetnju smo završili dužom pauzom na Orlovom bojištu.
+
+
+{% include separator.html %}
+{% include layout/content/id.html id="20170520" %}
+### Pećina stroga, Vrata raja, Dumbovac i Kobila - ima svega toga na Fruškoj gori :-)
+
+20\. maj 2017.  
+Zmajevac - Veliki gradac - Vrata raja - Dumbovac - vodopad - Kobila - Brankovac - Zmajevac  
+Vuk, Marko  
+
+{% include layout/content/youtube.html id="mDowS7Ro-b4" %}
+
+Odavno željno iščekujem da Vuk dovoljno poraste pa da može sa mnom da baza po šumi, i to ne kao beba kojoj treba specijalna
+pažnja, već kao ravnopravan saputnik sa kojim mogu da se uputim i negde malo dalje i kog ne moram da nosim. 
+Nisam se ni nadao da će to doći tako brzo. 
+
+{% include layout/content/img_horizontal.html file_name="20170520-02.jpg" %}
+Ela je vodila studente na teren, pa smo nas dvojica krenuli sami na na frku najavljenu šetnju. Prvo smo zastali u Starom 
+Rakovcu, da obiđemo pećinu strogu (Beli majdan) i da vidimo da li je babaroga tu, a pravu šetnju
+smo počeli u blizini Zmajevca, krenuli grebenom preko Veliko gradca, pa se uključili na vezu (kojom sam sada prvi put išao)
+ka Dumbovačkom potoku. Izgleda da su od nedavno (pretpostavljam ove godine) baš na ovom krugu kojim smo mi išli proterali
+neku od staza Fruškogorskog maratona, ali sudeći po tome kako su oznake okrenute - u kontra smeru.
+
+{% include layout/content/img_horizontal.html file_name="20170520-07.jpg" %}
+Kod Dumbovačkog vodopada su u steni uz vodopad postavili malu feratu, kako bi penjanje i silaženje bilo lakše. Do Kobile
+sam se sada prvi put penjao stazom koja se ranije odvaja od potoka i nekako bočno i kroz šumu prilazi vrhu (nasuprot one
+druge staze (meni lepše) koja ide grebenom, livadom uz male hrastove).
+
+{% include layout/content/img_horizontal.html file_name="20170520-05.jpg" %}
+Vuk je prepešačio 90% ili više - nosio sam ga samo na 2 najžešća uspona: ka prevoju "Vrata raja" i od potoka Dumbovac do 
+Kobile. Još par ovakvih šetnji gde ga vrlo malo nosim i ići ćemo bez ranca. 
+
+{% include layout/content/img_full.html file_name="20170520-08.jpg" %}
+
+Pred kraj, od Brankovca do kola (u blizini Zmajevca) je malo kukao kako se umorio i tražio da ga nosim, pa bih ga
+podigao i nosio na ramenima 50ak metara i onda bi opet sam pešačio nekoliko stotina, i tako nekoliko puta. Delovalo je da se baš
+razvalio, da će zaspati već u kolima, ali kad smo došli kući divljao je do uveče, skakao, prevrtao se, trčao u krug po stanu
+kao da nije izlazio danima napolje... Da sam mogao da biram, ne bih bolje odabrao :-)
