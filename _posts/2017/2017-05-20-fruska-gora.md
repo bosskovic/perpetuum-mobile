@@ -4,7 +4,7 @@ title:       "Fruška gora 2017"
 description: "neka šetnje otpočnu"
 excerpt:     "Vuk je sad već dovoljno velik da može da pešači sam i malo više sluša i prati. Polako povećavamo procente staze koje sam pređe."
 categories:  ['fruska-gora']
-image: "/fruska-gora/2017/img/20170501-01.jpg"
+image: "/fruska-gora/2017/img/20170520-07.jpg"
 photos:
   -
     key: 20170128_01.jpg
