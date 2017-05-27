@@ -4,8 +4,8 @@ title:       "Tradicionalna vožnja do Begečke jame"
 description: "čarde, kuvano vino, skele i sve drugo što je postalo deo tradicije"
 excerpt:     "“Vožnja do Begečke jame”, ne zvuči kao događaj koji uzdrmava univerzum, ali ta prva vožnja 2009-te je zaista uzdrmala jedan mali deo univerzuma i pokrenula niz događaja koji su doveli do toga da vožnja postane mala tradicija."
 categories:  ['voznje-oko-ns']
-image: "/voznje-oko-ns/tradicionalna-voznja-do-begecke-jame/img/2016-08.jpg"
-videos: ["e5jIzTuo-OY", "WsekrvCxDyo", "k4EeCU-rXKg", "-agkv34b1iw", "ODs6DV39QN0"]
+image: "/voznje-oko-ns/tradicionalna-voznja-do-begecke-jame/img/2017-10.jpg"
+videos: ["e5jIzTuo-OY", "WsekrvCxDyo", "k4EeCU-rXKg", "-agkv34b1iw", "ODs6DV39QN0", "5Q1rYd-BZEs"]
 tags:
   - begečka jama
   - čerevićka skela
@@ -279,6 +279,36 @@ photos:
   -
     key: 2016-22.jpg
     title: Ugasio se
+  -
+    key: 2017-01.jpg
+    title: '"Upoznavanje" kod futoške skele (27. maj 2017.)'
+  -
+    key: 2017-02.jpg
+    title: Kod futoške skele
+  -
+    key: 2017-03.jpg
+    title: Kod futoške skele
+  -
+    key: 2017-04.jpg
+    title: Begečka jama
+  -
+    key: 2017-05.jpg
+    title: Begečka jama
+  -
+    key: 2017-06.jpg
+    title: Begečka jama
+  -
+    key: 2017-07.jpg
+    title: Na begečkoj skeli
+  -
+    key: 2017-08.jpg
+    title: Podmladak
+  -
+    key: 2017-09.jpg
+    title: Crveni tim
+  -
+    key: 2017-10.jpg
+    title: Crveni tim
 
 
 ---
@@ -426,3 +456,25 @@ Milana i Lena, sa različitim prevoznim sredstvima na četiri točka. Vozimo dal
 {% include layout/content/img_horizontal.html file_name="2016-08.jpg" %}
 Ove godine najviše dece do sada: Žarko i Dragana su još jednom proširili Crveni tim - sada su tu Anita i Matija, a bili
 su tu i Sofija, Lena i Vuk.
+
+
+{% include separator.html %}
+{% include layout/content/id.html id="2017" %}
+### Tradicionalna martovska vožnja u maju
+
+27\. maj 2017.
+
+{% include layout/content/youtube.html id="5Q1rYd-BZEs" %}
+
+{% include layout/content/img_horizontal.html file_name="2017-01.jpg" %}
+Sticajem okolnosti, tradicionalna martovska vožnja se prolongirala sve do kraja maja, što možda i nije tako loše, bilo je
+lepo vreme pa smo vožnju rastegli na veći deo dana. Ponovo smo vozili standardnom rutom, nasipom do Begečke jame, napravili 
+pauze tamo i kod Braše, u Srem prešli begečkom a vratili se futoškom skelom. Dve male razlike u odnosu na prethodne godine 
+bile su to što je deo nasipa od kraja futoškog keja do skretanja za naselje Čerevićka skela asfaltiran (napravljene su dve 
+biciklističke trake) a ostatak do Begeča je bio grbaviji i zarasliji nego ikad.
+
+{% include layout/content/img_full.html file_name="2017-07.jpg" %}
+
+Klinci su uživali i bili u elementu i budniji nego ikad. Najzanimljivija im je verovatno opet bila vožnja skelom. Aniti,
+koja je najstarija, je ovo verovatno poslednja vožnja u sedištu - već sledeće godine će možda ići na sopstveni pogon.
+
