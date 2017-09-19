@@ -2,6 +2,7 @@
 {% include layout/header/nav.html %}
 {% endif %}
 
+{% unless page.no_header %}
 <header class="intro-header" style="background-image: url('{{ ppt_header_img | replace: "/img", "/thumbs" }}')" data-url="{{ ppt_header_img }}">
   <div class="overlay">
     <div class="container">
@@ -21,3 +22,4 @@
   $('header.intro-header').css('height', window.innerHeight);
   $('header.intro-header .overlay').css('height', window.innerHeight);
 </script>
+{% endunless %}

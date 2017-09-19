@@ -240,8 +240,8 @@ da povećavamo procente staze koje sam pređe.
 Popovica - Čukale - Perina pećina - Orlovo bojište - Popovica  
 Vuk, Marko
 
-{% include layout/content/youtube.html id="zLxP_A5ng40" %}
 
+{% include layout/content/video_img_full.html id="zLxP_A5ng40" %}
 {% include layout/content/img_horizontal.html file_name="20170128_01.jpg" %}
 
 Ela je na faksu, a Vuk i ja sami u šumi. Krenuli smo od Popovice, Vuk se sam spustio do jezera i popeo skroz do Čukala (sve po 
@@ -259,7 +259,7 @@ njemu nije bilo ništa ali sam se ja izblatnjavio kao svinja (to mi je i on reka
 Izvor Zvečan - Tavni potok - Kraljeva stolica - Jegerova bašta - Zvečan  
 Ela, Vuk, Marko
 
-{% include layout/content/youtube.html id="zTCOIh6CxW4" %}
+{% include layout/content/video_img_full.html id="zTCOIh6CxW4" %}
 
 {% include layout/content/img_horizontal.html file_name="20170225_01.jpg" %}
 Plan je bio da izađemo do Ledinačkog crnog čota (tamo gde je hidro-meteorološka stanica) strmom stazom koja ide iznad
@@ -297,7 +297,7 @@ Sve u svemu, lepa šetnja lepim stazama.
 Iriški venac - Morintovo - vodopad Lazin vir - Kanov breg - Zeleni kamen - Kraljeva stolica - Iriški venac  
 Marina, Mihajlo, Ela, Vuk, Marko
 
-{% include layout/content/youtube.html id="XUnDFow0Tew" %}
+{% include layout/content/video_img_full.html id="XUnDFow0Tew" %}
 
 {% include layout/content/img_vertical.html file_name="20170304-01.jpg" %}
 Idealan dan za šetnju. Spustili smo se od Iriškog venca prema Morintovu. Od kada sam tu poslednji put prolazio, markirana
@@ -322,7 +322,7 @@ Sve u svemu, za malo više od 6 sati prešli smo oko 13.5km. Vuk je bio savršen
 Crveni čot - Srneći vodopad - Isin čot - Crvena krečana - rasadnik Beočin - pritoka Kozarskog potoka - Pavlasov čot - Crveni čot  
 Mihajlo, Miloš, Milivoje, Bojan, Moma, Ela, Vuk, Marko  
 
-{% include layout/content/youtube.html id="o7mOqbQzRFg" %}
+{% include layout/content/video_img_full.html id="o7mOqbQzRFg" %}
 
 {% include layout/content/img_horizontal.html file_name="20170311-01.jpg" %}
 Dan je bio hladan, u Novom Sadu je duvao ledeni vetar, ali čim smo počeli da se spuštamo od Crvenog čota ka Srnećem potoku
@@ -379,7 +379,7 @@ Statistike kažu, 13.5km za oko 6.5 sati.
 Crveni čot - Gradac - Stranputica - Orlovac - Crveni čot  
 Mihajlo, Miloš, Ela, Vuk, Marko  
 
-{% include layout/content/youtube.html id="w29gv9l-JVY" %}
+{% include layout/content/video_img_full.html id="w29gv9l-JVY" %}
 
 {% include layout/content/img_vertical.html file_name="20170401-03.jpg" %}
 Lep sunčan dan, pravi prolećni. Šetnju sam najavio kao "šetnju kroz jedan od najlepših delova Fruške gore". Pre 
@@ -444,7 +444,7 @@ iscrpelo ga izgleda što je bio bolestan prošlog vikenda, pa sam ga nosio više
 Ostaci rimske tvrđave, plaža na Dunavu, izvor Kozarica  
 Maja, Srđana, Ranko, Ela, Vuk, Marko  
 
-{% include layout/content/youtube.html id="bQycE4pYiBE" %}
+{% include layout/content/video_img_full.html id="bQycE4pYiBE" %}
 
 {% include layout/content/img_horizontal.html file_name="20170409-02.jpg" %}
 Ovo je više bio izlet i kuliranje nego "planinarenje", i svi uslovi su se idealno poklopili za to - vreme, društvo i lakoća
@@ -507,7 +507,7 @@ okolo - džabe sam nosio ranac, ni jednom nije seo u njega.
 Popovica - jezero - Čukale (vidikovac ka Novom Sadu) - Perina pećina (zamalo) - Orlovo bojište - Popovica  
 Petar, Vuk, Marko  
 
-{% include layout/content/youtube.html id="Isf-U6gwbnk" %}
+{% include layout/content/video_img_full.html id="Isf-U6gwbnk" %}
 
 Prava gušt šetnjica oko Popovice. "Prvomajski duh" (roštiljanje, muzika, gužva i sl.) se uglavnom nije osećao dalje od 50ak metara
 od najdalje tačke u šumi dokle se može prići kolima.
@@ -527,7 +527,7 @@ bolje, ne bih mogao ovu dvojicu da izvučem :-). Šetnju smo završili dužom pa
 Zmajevac - Veliki gradac - Vrata raja - Dumbovac - vodopad - Kobila - Brankovac - Zmajevac  
 Vuk, Marko  
 
-{% include layout/content/youtube.html id="mDowS7Ro-b4" %}
+{% include layout/content/video_img_full.html id="mDowS7Ro-b4" %}
 
 Odavno željno iščekujem da Vuk dovoljno poraste pa da može sa mnom da baza po šumi, i to ne kao beba kojoj treba specijalna
 pažnja, već kao ravnopravan saputnik sa kojim mogu da se uputim i negde malo dalje i kog ne moram da nosim. 
@@ -555,3 +555,51 @@ Pred kraj, od Brankovca do kola (u blizini Zmajevca) je malo kukao kako se umori
 podigao i nosio na ramenima 50ak metara i onda bi opet sam pešačio nekoliko stotina, i tako nekoliko puta. Delovalo je da se baš
 razvalio, da će zaspati već u kolima, ali kad smo došli kući divljao je do uveče, skakao, prevrtao se, trčao u krug po stanu
 kao da nije izlazio danima napolje... Da sam mogao da biram, ne bih bolje odabrao :-)
+
+
+{% include separator.html %}
+{% include layout/content/id.html id="20170701" %}
+### Okolina Vile Ravne
+
+1\. jul 2017.  
+Vila Ravne - Trešnjevac - Kopreš - Pešićki fatovi  
+Mihajlo, Marko  
+
+{% include layout/content/img_full.html file_name="20170701-02.jpg" %}
+
+Imali smo ambiciozan plan da za kratko vreme prođemo kroz najudaljenije šume na Fruškoj gori (iz perspektive Novog Sada),
+ali smo ga samo delimično ostvarili. Vreme je bilo kilovo, sparno i kišovito, ali pogled sa Kopreša je vredeo truda. Na 
+žalost zaboravio sam foto-aparat u kolima, pa je ovih par panorama napravljeno gps-om.
+
+{% include layout/content/img_full.html file_name="20170701-03.jpg" %}
+
+U poslednjih 6-7 godina od kada nisam prolazio ovuda, dosta se promenilo. Šuma se intenzivno seče i krči na sve strane,
+a livade Kopreša su zarazle u žbunje i trnje.
+
+{% include layout/content/img_full.html file_name="20170701-04.jpg" %}
+
+Nedavno sam čuo za "Sofijine izvore". Nalaze se u blizini raskrsnice na Čotovima, mesta gde sam mnogo puta prolazio. 
+Nije u pitanju izvor vode, već "izvor lekovitog magnetnog zračenja". Pratili smo znakove kroz šumu neko vreme i na kraju
+nismo našli (ili nismo primetili da smo našli) "izvor". Sama šuma je neinteresantna (degradirana panjača), izgažena ima 
+smeća okolo. Na mnogim stablima su zakačene ikone. Ja nisam ništa osetio, čak ni razočarenje, a Mihajlu se učinilo da je
+nešto osetio.
+
+
+{% include separator.html %}
+{% include layout/content/id.html id="20170909" %}
+### Bukovački maraton
+
+9\. septembar 2017.  
+Bukovac - Vilina vodica - Astal - Stražilovo - Bukovac  
+Vuk, Marko  
+
+{% include layout/content/img_full.html file_name="20170909-04.jpg" %}
+
+{% include layout/content/img_horizontal.html file_name="20170909-01.jpg" %}
+Prvi put na Bukovačkom maratonu, i Vuku i meni. Svakako sam želeo tog vikenda da idemo u okolinu Bukovca, pa se potrefilo
+da je baš tada bio maraton, a i mislio sam da će Vuku biti interesantno da nosi knjižicu i označava kontrolne tačke.
+
+Bila je gužva slično kao na FG maratonu, ali nije nam smetala, stigli smo oko 5 minuta pre polaska, popunili prijavnice i 
+odmah se uključili na čelo grupe, gde smo manje-više ostali do kraja. Išli smo na osnovni maraton (16km), i Vuk je sam prešao
+nešto preko 10km, i naravno, bio je atrkacija, jedan od najmlađih koji je išao na sopstveni pogon i najmlađi koji je istrčao
+veći deo staze...

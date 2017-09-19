@@ -281,7 +281,7 @@ photos:
     title: Ugasio se
   -
     key: 2017-01.jpg
-    title: '"Upoznavanje" kod futoške skele (27. maj 2017.)'
+    title: Upoznavanje kod futoške skele (27. maj 2017.)
   -
     key: 2017-02.jpg
     title: Kod futoške skele
