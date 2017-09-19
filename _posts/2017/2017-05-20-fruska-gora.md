@@ -4,7 +4,7 @@ title:       "Fruška gora 2017"
 description: "neka šetnje otpočnu"
 excerpt:     "Vuk je sad već dovoljno velik da može da pešači sam i malo više sluša i prati. Polako povećavamo procente staze koje sam pređe."
 categories:  ['fruska-gora']
-image: "/fruska-gora/2017/img/20170520-07.jpg"
+image: "/fruska-gora/2017/img/20170909-04.jpg"
 photos:
   -
     key: 20170128_01.jpg
@@ -231,6 +231,19 @@ tags:
 
 Vuk je sad već dovoljno velik da može da pešači sam i malo više sluša i prati. Nadam se da ćemo ove godine polako
 da povećavamo procente staze koje sam pređe.
+
+<ul>
+  <li><a href="#20170128">Zelena staza oko Popovice</a></li>
+  <li><a href="#20170225">Krug ispod Kraljeve stolice</a></li>
+  <li><a href="#20170304">Morintovo</a></li>
+  <li><a href="#20170311">Srneći vodopad i severno podnožje Pavlasovog čota</a></li>
+  <li><a href="#20170401">Gradac i Orlovac</a></li>
+  <li><a href="#20170409">Čortanovačka šuma</a></li>
+  <li><a href="#20170501">Zelena staza oko Popovice</a></li>
+  <li><a href="#20170520">Pećina stroga, Vrata raja, Dumbovac i Kobila</a></li>
+  <li><a href="#20170701">Okolina Vile Ravne</a></li>
+  <li><a href="#20170909">Bukovački maraton</a></li>
+</ul>
 
 {% include separator.html %}
 {% include layout/content/id.html id="20170128" %}
