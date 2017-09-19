@@ -5,7 +5,6 @@ description: ""
 excerpt:     ""
 categories:  ['2016-izleti']
 image: "/2016-izleti/rtanj-i-sokobanja/img/04.jpg"
-published: false
 
 ---
 
