@@ -1,9 +1,9 @@
 ---
 slug:        "put-do-barica"
 title:       "Sa stricem do Barica"
-description: "ne vozim ja bicikl iz nužde, već zato što mi je gušt; lepo je kada me okolnosti poštede muke i velikog napora, 
+excerpt:     "ne vozim ja bicikl iz nužde, već zato što mi je gušt; lepo je kada me okolnosti poštede muke i velikog napora, 
               ali taj napor je ipak deo čari"
-excerpt:     "Rodbina bi me najradije gostila do kraja leta, ali ja želim da vozim dalje. Ipak stric Mišur ne želi moju
+description: "Rodbina bi me najradije gostila do kraja leta, ali ja želim da vozim dalje. Ipak stric Mišur ne želi moju
               narednu deonicu puta da prepousti slučaju, već polazi sa mnom kao moj vodič do Barica. Posle nekoliko kilometara
               pešačenja uzbrdo, uspeva da nam 'sredi' prevoz kamionom do Barica. Tamo stižemo predveče, obilazimo novoizgrađenu
               crkvicu i stric nam nalazi gde ćemo prenoćiti. Ceo ovaj kraj je naseljen mnogobrojnim porodicama Boškovića,

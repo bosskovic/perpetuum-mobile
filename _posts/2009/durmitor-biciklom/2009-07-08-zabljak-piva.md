@@ -1,8 +1,8 @@
 ---
 slug:        "zabljak-piva"
 title:       "Južnim obodom Durmitora"
-description: "Bajkerska poslastica"
-excerpt:     "Bajkerski verovatno najpodesniji deo puta - čisto uživanje, dobrim delom nizbrdo, malo asfalt, malo makadam, a okolo livade i iza njih džinovski kameni vrhovi." 
+excerpt:     "Bajkerska poslastica"
+description: "Bajkerski verovatno najpodesniji deo puta - čisto uživanje, dobrim delom nizbrdo, malo asfalt, malo makadam, a okolo livade i iza njih džinovski kameni vrhovi." 
 categories:  ['2009-durmitor-biciklom']
 image: "/2009-durmitor-biciklom/zabljak-piva/img/089.jpg"
 photos:

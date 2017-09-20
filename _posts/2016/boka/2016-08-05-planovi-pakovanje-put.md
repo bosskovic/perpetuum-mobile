@@ -1,8 +1,8 @@
 ---
 slug:        "planovi-pakovanje-put"
 title:       "Pripreme i put"
-description: "mini seoba na godišnji odmor od četiri nedelje"
-excerpt:     "Konačno imaš četiri nedelje godišnjeg, možeš da ih iskoristiš u cugu i možeš sebi da priuštiš da budeš negde toliko dugo. Ali imaš i živahnog dvogodišnjaka. Ide ti se na more, ali ti se ne sedi po 12 sati ispod suncobrana na plaži. Kako to sve pomiriti, kako se spakovati, šta poneti..."
+excerpt:     "mini seoba na godišnji odmor od četiri nedelje"
+description: "Konačno imaš četiri nedelje godišnjeg, možeš da ih iskoristiš u cugu i možeš sebi da priuštiš da budeš negde toliko dugo. Ali imaš i živahnog dvogodišnjaka. Ide ti se na more, ali ti se ne sedi po 12 sati ispod suncobrana na plaži. Kako to sve pomiriti, kako se spakovati, šta poneti..."
 categories:  ['2016-boka']
 image: "/2016-boka/planovi-pakovanje-put/img/03.jpg"
 videos:      ['x69hkfq1DaE']

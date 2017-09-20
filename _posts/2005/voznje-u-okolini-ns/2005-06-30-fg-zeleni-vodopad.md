@@ -1,8 +1,8 @@
 ---
 slug:        "fg-zeleni-vodopad"
 title:       "Vožnja do Zelenog vodopada"
-description: "preko Trešnjevca i uz gornji Tekeniš"
-excerpt:     "Vožnja kroz jedan od najlepših i najzabačenijih delova Fruške gore."
+excerpt:     "preko Trešnjevca i uz gornji Tekeniš"
+description: "Vožnja kroz jedan od najlepših i najzabačenijih delova Fruške gore."
 categories:  ['2005-voznje-u-okolini-ns']
 image: "/2005-voznje-u-okolini-ns/fg-zeleni-vodopad/img/008.jpg"
 photos:

@@ -1,8 +1,8 @@
 ---
 slug:        "tjentiste-susica"
 title:       "Od Sutjeske do Sušice"
-description: "kroz NP Sutjeska i NP Durmitor"
-excerpt:     "Tokom godina planinarenja (peške i na točku) par lokaliteta me je osvojilo na takav način da im se rado iznova i iznova vraćam. Jedan od njih je definitivno NP Sutjeska, ovo je bio već treći put u tri meseca da tu zalazim, i svakako ne poslednji."
+excerpt:     "kroz NP Sutjeska i NP Durmitor"
+description: "Tokom godina planinarenja (peške i na točku) par lokaliteta me je osvojilo na takav način da im se rado iznova i iznova vraćam. Jedan od njih je definitivno NP Sutjeska, ovo je bio već treći put u tri meseca da tu zalazim, i svakako ne poslednji."
 categories:  ['2009-cg-dijagonala']
 image: "/2009-cg-dijagonala/tjentiste-susica/img/007.jpg"
 photos:

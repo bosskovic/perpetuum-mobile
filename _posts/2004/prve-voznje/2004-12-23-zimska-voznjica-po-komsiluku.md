@@ -1,8 +1,8 @@
 ---
 slug:        "zimska-voznjica-po-komsiluku"
 title:       "Zimska vožnjica po komšiluku"
-description: "sremskom stranom do rakovačke gradine, dvorca u Beočinu i vodopada na Sviloškom potoku"
-excerpt:     "Vožnja sremskom stranom i obilazak interesantnih mesta kao što su ostaci samostana Dombo u Novom Rakovcu, ruševni dvorac Špicer u Beočinu i lep vodopad na Sviloškom potoku." 
+excerpt:     "sremskom stranom do rakovačke gradine, dvorca u Beočinu i vodopada na Sviloškom potoku"
+description: "Vožnja sremskom stranom i obilazak interesantnih mesta kao što su ostaci samostana Dombo u Novom Rakovcu, ruševni dvorac Špicer u Beočinu i lep vodopad na Sviloškom potoku." 
 categories:  ['2004-prve-voznje']
 image: "/2004-prve-voznje/zimska-voznjica-po-komsiluku/img/047.jpg"
 photos:

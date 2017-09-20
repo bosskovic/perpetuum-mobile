@@ -1,8 +1,8 @@
 ---
 slug:        "zatarje-i-potarje"
 title:       "Kroz Zatarje i Potarje"
-description: "preko Barica, Krička, Premćana do manastira Dovolja, preko Đurđevića Tare kroz kanjon do manastira Dobrilovina"
-excerpt:     "Moj 'pravi' put konačno je otpočeo. Nižem kilometre po pustim makadamima ispod sunca koje peče. Avantura dana
+excerpt:     "preko Barica, Krička, Premćana do manastira Dovolja, preko Đurđevića Tare kroz kanjon do manastira Dobrilovina"
+description: "Moj 'pravi' put konačno je otpočeo. Nižem kilometre po pustim makadamima ispod sunca koje peče. Avantura dana
               bila je potraga za loše obeleženim manastirom Dovolja, koji je ušuškan na travnatoj polici iznad kanjona Tare.
               Sjurio sam se preko mosta kod Đurđevića Tare dok je reka hučala daleko ispod mene i zatim krenuo da vozim kroz
               kanjon. Šteta što su me tako ispalili u Dobrilovini."

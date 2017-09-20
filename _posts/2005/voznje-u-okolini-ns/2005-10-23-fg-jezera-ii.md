@@ -1,8 +1,8 @@
 ---
 slug:        "fg-jezera-ii"
 title:       "Fruškogorska jezera"
-description: "Šelovrenac, Ljukovo, Dobrodol, Međeš, Borkovačko, Kudoš, Mali Mutalj, Mutalj, Beli kamen"
-excerpt:     "Lep jesenji dan, idealan za obilazak jezera u jugoistočnom podnožju fruške gore. Obišli smo jezera Šelovrenac, Ljukovo, Dobrodol, Međeš, Borkovačko, Kudoš, Mali Mutalj, Mutalj i Beli kamen"
+excerpt:     "Šelovrenac, Ljukovo, Dobrodol, Međeš, Borkovačko, Kudoš, Mali Mutalj, Mutalj, Beli kamen"
+description: "Lep jesenji dan, idealan za obilazak jezera u jugoistočnom podnožju fruške gore. Obišli smo jezera Šelovrenac, Ljukovo, Dobrodol, Međeš, Borkovačko, Kudoš, Mali Mutalj, Mutalj i Beli kamen"
 categories:  ['2005-voznje-u-okolini-ns']
 image: "/2005-voznje-u-okolini-ns/fg-jezera-ii/img/024.jpg"
 videos: ["K9jmReW6Wc0", "feDvsfVIfr4"]  

@@ -1,15 +1,16 @@
 ---
 slug:        "do-pescare-biciklom-2007"
 title:       "Do Deliblatske peščare biciklom 2007"
-description: "moja prva višednevna vožnja biciklom"
-excerpt:     ""
+excerpt:     "moja prva višednevna vožnja biciklom"
+description: ""
 categories:  ['banat']
 image: "/banat/do-pescare-biciklom-2007/img/20070707-20.jpg"
 photos:
   -
     key: 20170128_01.jpg
     title: Vuk se penje na Čukale (28. I 2017.)
-
+tags:
+  - deliblatska-peščara
 ---
 
 {% include separator.html %}

@@ -1,8 +1,8 @@
 ---
 slug:        "koviljski-rit"
 title:       Koviljski rit
-description: dolmom od Šangaja i makadamom kroz rit
-excerpt:     "Vožnja do Kovilja je obično jedan od boljih kandidata za počinjanje sezone - 40-50km po ravnom, van saobraćaja, sa strane rit i barske ptice a u Kovilju desetine gnezda na banderama sa rodama u njima."
+excerpt:     "dolmom od Šangaja i makadamom kroz rit"
+description: "Vožnja do Kovilja je obično jedan od boljih kandidata za počinjanje sezone - 40-50km po ravnom, van saobraćaja, sa strane rit i barske ptice a u Kovilju desetine gnezda na banderama sa rodama u njima."
 categories:  ['voznje-oko-ns']
 
 image: "/voznje-oko-ns/koviljski-rit/img/20160710-04.jpg"
@@ -10,8 +10,7 @@ image: "/voznje-oko-ns/koviljski-rit/img/20160710-04.jpg"
 tags:
   - kovilj
   - arkanj
-  
-published: true
+
 photos:
   -
     key: 20120103-01.jpg

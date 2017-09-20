@@ -1,8 +1,8 @@
 ---
 slug:        "trnovacki-durmitor"
 title:       "Trnovački Durmitor"
-description: "levitiranje iznad jezera"
-excerpt:     "Za kraj obilaska planina u okolini Trnovačkog jezera ostavili smo onu koja mu je dala ime - Trnovački Durmitor. U pitanju je kamena gromada koja se nadnosi nad samim jezero koje gledano iz tog ugla najviše podseća na srce."
+excerpt:     "levitiranje iznad jezera"
+description: "Za kraj obilaska planina u okolini Trnovačkog jezera ostavili smo onu koja mu je dala ime - Trnovački Durmitor. U pitanju je kamena gromada koja se nadnosi nad samim jezero koje gledano iz tog ugla najviše podseća na srce."
 categories:  ['2012-trnovacko-jezero']
 photos:
   -

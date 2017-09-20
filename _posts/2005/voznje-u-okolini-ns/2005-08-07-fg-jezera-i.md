@@ -1,8 +1,8 @@
 ---
 slug:        "fg-jezera-i"
 title:       "Fruškogorska jezera"
-description: "ribnjak manastira Petkovica, Čalma I, II i III i jezero Vranjaš"
-excerpt:     "U Banoštoru sam se našao sa Igorom Šiškovićem i zajedno smo krenuli u obilazak jezera koja se nalaze na južnim padinama 
+excerpt:     "ribnjak manastira Petkovica, Čalma I, II i III i jezero Vranjaš"
+description: "U Banoštoru sam se našao sa Igorom Šiškovićem i zajedno smo krenuli u obilazak jezera koja se nalaze na južnim padinama 
               Fruške gore. Ispostavilo se da mnoga jezera koja su ucrtana na karti ili uopšte ne postoje, ili su samo sezonska. Tog 
               tipa su akumulacije Remeta, Nadež i Manđelos. Jezera koja smo videli su mali ribnjak kod manastira Petkovica, dva od tri 
               čalmanska jezera (treće je valjda bilo sakriveno trskom) i jezero Vranješ kod Manđelosa, najlepše od svih tog dana."

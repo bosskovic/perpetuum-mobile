@@ -2,7 +2,7 @@
 layout:       page
 slug:         "2016-boka"
 title:        "Boka - 2016"
-description:  "netipično letovanje sa živahnim dvogodišnjakom"
+excerpt:      "netipično letovanje sa živahnim dvogodišnjakom"
 comments:     false
 image: "/2016-boka/krug-oko-lustice/img/01.jpg"
 date: 2016-08-06

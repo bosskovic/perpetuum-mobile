@@ -1,8 +1,8 @@
 ---
 slug:        "rovca-rijeka"
 title:       "Rijeka Crnojevića"
-description: "Međuriječje, Platije (kanjon Morače), Podgorica, Rijeka Crnojevića"
-excerpt:     "Dan počinje nenadanim susretom u kanjonu Mrtvice, nastavlja prženjem na magistrali i završava novim nenadanim susretom u Rijeci Crnojevića." 
+excerpt:     "Međuriječje, Platije (kanjon Morače), Podgorica, Rijeka Crnojevića"
+description: "Dan počinje nenadanim susretom u kanjonu Mrtvice, nastavlja prženjem na magistrali i završava novim nenadanim susretom u Rijeci Crnojevića." 
 categories:  ['2009-cg-dijagonala']
 image: "/2009-cg-dijagonala/rovca-rijeka/img/068.jpg"
 tags:

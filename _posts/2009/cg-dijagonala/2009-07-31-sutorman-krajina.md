@@ -1,8 +1,8 @@
 ---
 slug:        "sutorman-krajina"
 title:       "Južnom stranom Rumije"
-description: "Stari Bar, Ulcinj, Svač"
-excerpt:     "Dan počinjem severno od Sutormana, spuštam se u Stari Bar, obilazim Rumiju sa južne strane, zastajem u Ulcinju i starom gradu Svaču, i dan završavam sa severne strane Rumije nedaleko od albanske granice." 
+excerpt:     "Stari Bar, Ulcinj, Svač"
+description: "Dan počinjem severno od Sutormana, spuštam se u Stari Bar, obilazim Rumiju sa južne strane, zastajem u Ulcinju i starom gradu Svaču, i dan završavam sa severne strane Rumije nedaleko od albanske granice." 
 categories:  ['2009-cg-dijagonala']
 image: "/2009-cg-dijagonala/sutorman-krajina/img/107.jpg"
 

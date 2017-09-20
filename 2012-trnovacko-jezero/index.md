@@ -2,7 +2,7 @@
 layout:       page
 slug:         "2012-trnovacko-jezero"
 title:        "Trnovačko jezero - 2012"
-description:  "Maglić, Bioč, Volujak, Trnovački Durmitor, Perućica"
+excerpt:      "Maglić, Bioč, Volujak, Trnovački Durmitor, Perućica"
 comments:     false
 image: "/2012-trnovacko-jezero/maglic/img/018.jpg"
 date: 2012-07-13

@@ -2,7 +2,7 @@
 layout:       page
 slug:         "banat"
 title:        "Banat"
-description:  "zrnce peska na dnu Panonskog mora"
+excerpt:      "zrnce peska na dnu Panonskog mora"
 comments:     false
 image: "/banat/do-pescare-biciklom-2007/img/20070707-21.jpg"
 date: 2016-09-11

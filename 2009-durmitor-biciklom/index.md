@@ -2,7 +2,7 @@
 layout:       page
 slug:         "2009-durmitor-biciklom"
 title:        "Durmitor biciklom - 2009"
-description:  "u planinama bicikl ponekad vozi tebe"
+excerpt:      "u planinama bicikl ponekad vozi tebe"
 comments:     false
 image: "/2009-durmitor-biciklom/zabljak-piva/img/101.jpg"
 date: 2009-07-03

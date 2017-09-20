@@ -15,12 +15,12 @@
   <a href="{{ post.url }}">
     <img src="{{ post_header_img | replace: '/img/', '/thumbs_200/' }}" class="pull-right" style="width: 160px; height: 120px;">
     <h2 class="post-title"> {{ post.title }} </h2>
-    {% if post.description %}
-      <h3 class="post-subtitle">{{ post.description }}</h3>
+    {% if post.excerpt %}
+      <h3 class="post-subtitle">{{ post.excerpt }}</h3>
     {% endif %}
   </a>
   <p class="post-meta">
-    {{ post.excerpt | strip_html }}
+    {{ post.description | strip_html }}
     <br>
     <br>
     {% include read_time.html content = post.content %}

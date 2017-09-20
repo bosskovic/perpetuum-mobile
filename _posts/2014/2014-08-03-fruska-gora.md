@@ -1,8 +1,8 @@
 ---
 slug:        "2014"
 title:       "Fruška gora 2014"
-description: "prve Vukove 'šetnje'"
-excerpt:     "Tek što se rodio, a već planinari. Kengur se fino pokazao i baš uživam što Vuka stalno imam ispred sebe, a ni on se ne buni (uglavnom spava). Popovica, Orlovo bojište, Torine, Kobila, Dumbovac..."
+excerpt:     "prve Vukove 'šetnje'"
+description: "Tek što se rodio, a već planinari. Kengur se fino pokazao i baš uživam što Vuka stalno imam ispred sebe, a ni on se ne buni (uglavnom spava). Popovica, Orlovo bojište, Torine, Kobila, Dumbovac..."
 categories:  ['fruska-gora']
 image: "/fruska-gora/2014/img/20140803_05.jpg"
 photos:

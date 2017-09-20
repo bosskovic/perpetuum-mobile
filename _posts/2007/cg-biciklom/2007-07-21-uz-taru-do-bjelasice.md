@@ -1,8 +1,8 @@
 ---
 slug:        "uz-taru-do-bjelasice"
 title:       "Uspon na Bjelasicu"
-description: "od Dobrilovine preko Mojkovca, Biogradskog jezera i katuna Dolovi do Pešića jezera"
-excerpt:     "I dalje sve ide glatko. Put do Biogradskog jezera mi je proleteo, obilazim jezero i zatim 'iz cuga' i sa 
+excerpt:     "od Dobrilovine preko Mojkovca, Biogradskog jezera i katuna Dolovi do Pešića jezera"
+description: "I dalje sve ide glatko. Put do Biogradskog jezera mi je proleteo, obilazim jezero i zatim 'iz cuga' i sa 
               lakoćom izlazim do Dolova. Bliži se veče i odlučujem da 'pritisnem' malo da bih zanoćio kod Pešića jezera
               koje je još bilo daleko. Sa poslednjim tragovima dnevnog svetla spuštam se kroz borovnice niz padine Crne glave
               do obale jezera. Kada sam zabio poslednji klin šatora bio je već potpuni mrak."

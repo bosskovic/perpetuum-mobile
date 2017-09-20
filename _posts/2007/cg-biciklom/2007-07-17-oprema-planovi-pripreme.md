@@ -1,8 +1,8 @@
 ---
 slug:        "oprema-planovi-pripreme"
 title:       "Oprema, planovi i pripreme"
-description: "šta poneti, kako se spakovati, kuda proći, gde zanoćiti..."
-excerpt:     "Kada učiš da voziš bicikl moraš da se napinješ da razmišljaš o svemu... tvoj mozak se upinje dok pokušava 
+excerpt:     "šta poneti, kako se spakovati, kuda proći, gde zanoćiti..."
+description: "Kada učiš da voziš bicikl moraš da se napinješ da razmišljaš o svemu... tvoj mozak se upinje dok pokušava 
               da isplanira i kontroliše i najmanje pokrete, naginjanje i pomeranja težišta. Slično je i sa pakovanjem i 
               planiranjem prvog putešestvija ovog tipa. Odlazim na desetak dana, svesno planiram da idem pretežno van 
               urbanih sredina, sav teren mi je u potpunosti nepoznat, još ni sam ne znam šta je realno a šta ne, koliko 

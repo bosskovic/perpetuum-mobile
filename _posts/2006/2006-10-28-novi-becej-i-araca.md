@@ -1,8 +1,8 @@
 ---
 slug:        "novi-becej-i-araca"
 title:       "Novi Bečej i Arača biciklom"
-description: "Stara Tisa, ostaci novobečejske tvrđave, ruševine srednjevekovne crkve"
-excerpt:     "Van puta i dobro skriveni, u blizni Novog Bečeja nalazi se par vrlo interesantnih srednjevekovnih spomenika: ostataci novobečejske tvrđave na obali Tise i ruševina srednjevekovne crkve Arače. Najzgodine od svega je što se to može obići biciklom iz Novog Sada za jedan dan."
+excerpt:     "Stara Tisa, ostaci novobečejske tvrđave, ruševine srednjevekovne crkve"
+description: "Van puta i dobro skriveni, u blizni Novog Bečeja nalazi se par vrlo interesantnih srednjevekovnih spomenika: ostataci novobečejske tvrđave na obali Tise i ruševina srednjevekovne crkve Arače. Najzgodine od svega je što se to može obići biciklom iz Novog Sada za jedan dan."
 categories:  ['banat']
 image: "/banat/novi-becej-i-araca/img/20061028-36.jpg"
 photos:

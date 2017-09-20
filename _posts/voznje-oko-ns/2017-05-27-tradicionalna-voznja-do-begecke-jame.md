@@ -1,8 +1,8 @@
 ---
 slug:        "tradicionalna-voznja-do-begecke-jame"
 title:       "Tradicionalna vožnja do Begečke jame"
-description: "čarde, kuvano vino, skele i sve drugo što je postalo deo tradicije"
-excerpt:     "“Vožnja do Begečke jame”, ne zvuči kao događaj koji uzdrmava univerzum, ali ta prva vožnja 2009-te je zaista uzdrmala jedan mali deo univerzuma i pokrenula niz događaja koji su doveli do toga da vožnja postane mala tradicija."
+excerpt:     "čarde, kuvano vino, skele i sve drugo što je postalo deo tradicije"
+description: "“Vožnja do Begečke jame”, ne zvuči kao događaj koji uzdrmava univerzum, ali ta prva vožnja 2009-te je zaista uzdrmala jedan mali deo univerzuma i pokrenula niz događaja koji su doveli do toga da vožnja postane mala tradicija."
 categories:  ['voznje-oko-ns']
 image: "/voznje-oko-ns/tradicionalna-voznja-do-begecke-jame/img/2017-10.jpg"
 videos: ["e5jIzTuo-OY", "WsekrvCxDyo", "k4EeCU-rXKg", "-agkv34b1iw", "ODs6DV39QN0", "5Q1rYd-BZEs"]

@@ -2,7 +2,7 @@
 layout:       page
 slug:         "2007-cg-biciklom"
 title:        "Crna Gora biciklom - 2007"
-description:  "tragom predaka"
+excerpt:      "tragom predaka"
 comments:     false
 image: "/2007-cg-biciklom/bjelasica-gornja-moraca/img/058.jpg"
 date: 2007-07-17

@@ -1,8 +1,8 @@
 ---
 slug:        "2015"
 title:       "Fruška gora 2015"
-description: "iz kengura u ranac, ali i dalje većinu prespava"
-excerpt:     "Ranac mi se manje dopada od kengura - viđam Vuka samo na pauzama. Trebalo je da prođe neko vreme dok se nisam konačno dosetio i privezao za kaiš od ranca stari retrovizor sa bicikla. Osovlje, Orlovac, Tancoš, Potoranj, Kobila, Dumbovac, Direk, Stražilovo, Beli Majdan, Kesten... lista lokaliteta koje je Vuk prespavao je sve bogatija"
+excerpt:     "iz kengura u ranac, ali i dalje većinu prespava"
+description: "Ranac mi se manje dopada od kengura - viđam Vuka samo na pauzama. Trebalo je da prođe neko vreme dok se nisam konačno dosetio i privezao za kaiš od ranca stari retrovizor sa bicikla. Osovlje, Orlovac, Tancoš, Potoranj, Kobila, Dumbovac, Direk, Stražilovo, Beli Majdan, Kesten... lista lokaliteta koje je Vuk prespavao je sve bogatija"
 categories:  ['fruska-gora']
 image: "/fruska-gora/2015/img/20150214-05.jpg"
 photos:

@@ -1,8 +1,8 @@
 ---
 slug:        "rovca-do-niksica"
 title:       "Rovca kamena i Župa Nikšićka"
-description: "uspon kroz Rovca od Veljeg Dubokog do Kapetanovog jezera, Manito jezero, Nikšin kiljan, Nikšina ploča, manastir Sv. Luke u Nikšićkoj Župi, mramor bana Ugrena, Nikšić"
-excerpt:     "Ovaj deo je verovatno bio 'srce' puta, ono što sam najviše i pošao da vidim i o čemu sam najviše čitao.
+excerpt:     "uspon kroz Rovca od Veljeg Dubokog do Kapetanovog jezera, Manito jezero, Nikšin kiljan, Nikšina ploča, manastir Sv. Luke u Nikšićkoj Župi, mramor bana Ugrena, Nikšić"
+description: "Ovaj deo je verovatno bio 'srce' puta, ono što sam najviše i pošao da vidim i o čemu sam najviše čitao.
               I vredelo je. Šteta samo što sam proleteo tako brzo, ali pravim kompromise i žurim na more. Počinju problemi na domaćem frontu."
 categories:  ['2007-cg-biciklom']
 photos:

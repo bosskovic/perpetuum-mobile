@@ -1,8 +1,8 @@
 ---
 slug:        "bjelasica-gornja-moraca"
 title:       "Niz Bjelasicu do Gornje Morače"
-description: "nezvani gosti u zoru, mukotrpan uspon na Zekovu glavu, tobogan do Dragovića Polja"
-excerpt:     "Početak ovog dana sigurno ću dugo pamtiti i verovatno je to jedno od mojih planinskih iskustava koje sam
+excerpt:     "nezvani gosti u zoru, mukotrpan uspon na Zekovu glavu, tobogan do Dragovića Polja"
+description: "Početak ovog dana sigurno ću dugo pamtiti i verovatno je to jedno od mojih planinskih iskustava koje sam
               kasnije najčešće prepričavao. Ni nastavak dana nije bio manje upečetljiv. Uspon na Zekovu glavu je bio je 
               nešto fizički (možda i psihički) najzahtevnije što sam do tada iskusio. Sve do kraja putešestvija nisam 
               uspeo da se potpuno oporavim..."

@@ -1,8 +1,8 @@
 ---
 slug:        "niksic-lustica"
 title:       "Kroz krš i kamen"
-description: "duga vožnja od Nikšića preko Čeva i Njeguša do Kotora, obalom Boke do Luštice"
-excerpt:     "Na svim dosadašnjim putešestvijima (2007-2015) osećao sam se prilično opušteno i bezbedno, gde god da sam 
+excerpt:     "duga vožnja od Nikšića preko Čeva i Njeguša do Kotora, obalom Boke do Luštice"
+description: "Na svim dosadašnjim putešestvijima (2007-2015) osećao sam se prilično opušteno i bezbedno, gde god da sam 
               noćio, svake noći osim ove jedne. Nakon kilave noći, i ostatak dana je išao nizbrdo. Krećem rano ujutro da 
               grabim prema moru, u susret žegi, kamenu i šumskim požarima čije mirise vetar donosi. Dobro sam potegao, 
               i posle 80km se spuštam u 'apokaliptičan' Kotor, skriven u žutoj izmaglici i smradu šume koja gori negde 

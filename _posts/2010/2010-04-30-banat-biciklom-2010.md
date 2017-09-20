@@ -1,8 +1,8 @@
 ---
 slug:        "banat-biciklom-2010"
 title:       "Banat biciklom 2010"
-description: "po šumama i gorama, kroz pustinju i prašumu"
-excerpt:     "Banat je magičan, mali a 'šaren' i raznovrsan. Od Arače uronjene u njive, rečica i kanala koji vijugaju kroz nepregledne kukuruze i suncokrete, preko lepog gradića Vršca, Vršačke kule, Vršačkog brega, koji iako mali, daje utisak visoke planine, pa preko livada i voćnjaka južnog Banata koji imaju šmek visokih planinskih pašnjaka, sve do Peščare i fenomenalnih Zagajičkih brda. I sve to spakovano u trodnevni krug biciklom."
+excerpt:     "po šumama i gorama, kroz pustinju i prašumu"
+description: "Banat je magičan, mali a 'šaren' i raznovrsan. Od Arače uronjene u njive, rečica i kanala koji vijugaju kroz nepregledne kukuruze i suncokrete, preko lepog gradića Vršca, Vršačke kule, Vršačkog brega, koji iako mali, daje utisak visoke planine, pa preko livada i voćnjaka južnog Banata koji imaju šmek visokih planinskih pašnjaka, sve do Peščare i fenomenalnih Zagajičkih brda. I sve to spakovano u trodnevni krug biciklom."
 categories:  ['banat']
 image: "/banat/banat-biciklom-2010/img/20100501-13.jpg"
 photos:

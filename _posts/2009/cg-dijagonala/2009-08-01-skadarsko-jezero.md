@@ -1,8 +1,8 @@
 ---
 slug:        "skadarsko-jezero"
 title:       "Severnom stranom Rumije"
-description: "Sa pogledom na Skadarsko jezero"
-excerpt:     "Budim se posle burne noći i vozim severnom stranom Rumije. Spuštam se u Virpazar i tu čekam voz za Novi Sad." 
+excerpt:     "Sa pogledom na Skadarsko jezero"
+description: "Budim se posle burne noći i vozim severnom stranom Rumije. Spuštam se u Virpazar i tu čekam voz za Novi Sad." 
 categories:  ['2009-cg-dijagonala']
 image: "/2009-cg-dijagonala/skadarsko-jezero/img/122.jpg"
 

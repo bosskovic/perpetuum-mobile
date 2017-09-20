@@ -1,8 +1,8 @@
 ---
 slug:        "2017"
 title:       "Fruška gora 2017"
-description: "neka šetnje otpočnu"
-excerpt:     "Vuk je sad već dovoljno velik da može da pešači sam i malo više sluša i prati. Polako povećavamo procente staze koje sam pređe."
+excerpt:     "neka šetnje otpočnu"
+description: "Vuk je sad već dovoljno velik da može da pešači sam i malo više sluša i prati. Polako povećavamo procente staze koje sam pređe."
 categories:  ['fruska-gora']
 image: "/fruska-gora/2017/img/20170909-04.jpg"
 photos:

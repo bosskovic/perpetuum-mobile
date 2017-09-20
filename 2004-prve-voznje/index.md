@@ -2,7 +2,7 @@
 layout:       page
 slug:         "2004-prve-voznje"
 title:        "Prve vožnje - 2004"
-description:  "krntijom po okolini Novog Sada"
+excerpt:      "krntijom po okolini Novog Sada"
 comments:     false
 image: "/2004-prve-voznje/zapadna-fruska-gora-biciklom/img/002.jpg"
 date: 2004-07-01

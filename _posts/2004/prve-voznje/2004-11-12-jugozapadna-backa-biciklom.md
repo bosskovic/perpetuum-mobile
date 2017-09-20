@@ -1,8 +1,8 @@
 ---
 slug:        "jugozapadna-backa-biciklom"
 title:       "Jugozapadna Bačka biciklom"
-description: "vožnja do Bača"
-excerpt:     "Za nešto više od 12 sati prešli smo oko 160km. Putevi su uglavnom solidnog kvaliteta i ne odviše prometni. Jedini deo koji ne preporučujem je deonica Bačka Palanka-Novi Sad, zbog gustog saobraćaja." 
+excerpt:     "vožnja do Bača"
+description: "Za nešto više od 12 sati prešli smo oko 160km. Putevi su uglavnom solidnog kvaliteta i ne odviše prometni. Jedini deo koji ne preporučujem je deonica Bačka Palanka-Novi Sad, zbog gustog saobraćaja." 
 categories:  ['2004-prve-voznje']
 image: "/2004-prve-voznje/jugozapadna-backa-biciklom/img/023.jpg"
 photos:

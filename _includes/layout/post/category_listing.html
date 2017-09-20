@@ -1,19 +1,22 @@
 {% assign all_posts = site.posts | reverse %}
-{% assign category = page.categories.first %}
-{% include find_parent.html category=category %}
 
-<div class="category-listing">
-<h4><a href="{{ parent.url }}">{{ parent.title }}</a></h4>
-<ul>
-  {% for p in all_posts %}
-  {% if p.categories contains category %}
-    <li><a href="{{ p.url }}">
-      {% unless p.show_date == false %}
-        <span class="date">{{ p.date | date: "%d. %m. %Y." }}</span>
-      {% endunless %}
-      {{ p.title }}
-    </a></li>
-  {% endif %}
-  {% endfor %}
-</ul>
-</div>
+{% for category in page.categories %}
+  {% include find_parent.html category=category %}
+  <div class="col-sm-6">
+    <div class="category-listing">
+    <h4><a href="{{ parent.url }}">{{ parent.title }}</a></h4>
+    <ul>
+      {% for p in all_posts %}
+      {% if p.categories contains category %}
+        <li><a href="{{ p.url }}">
+          {% unless p.show_date == false %}
+            <span class="date">{{ p.date | date: "%d. %m. %Y." }}</span>
+          {% endunless %}
+          {{ p.title }}
+        </a></li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    </div>
+  </div>
+{% endfor %}

@@ -1,8 +1,8 @@
 ---
 slug:        "moraca-i-rovca"
 title:       "Morača i Rovca"
-description: "Vragodo, vodopad kod vrela Morače, manastir Morača, Kaluđerski most, uspon u Rovca"
-excerpt:     "Kada kreneš u 'Vragodo', nisi baš siguran šta te tamo čeka. Uprkos tome, nisam imao većih problema i skoro
+excerpt:     "Vragodo, vodopad kod vrela Morače, manastir Morača, Kaluđerski most, uspon u Rovca"
+description: "Kada kreneš u 'Vragodo', nisi baš siguran šta te tamo čeka. Uprkos tome, nisam imao većih problema i skoro
               do samog vodopada sam stigao u sedlu. Lepo mesto, vredno truda. U povratku je usledio duugački spust, dugačak 
               kako vremenski tako i daljinski, i to ni trenutak prekasno. Sve do manastira Morača gotovo da nisam okrenuo
               pedale. Ali kako sve ima svoju cenu, taj spust mi je došao na naplatu kada sam krenuo da se penjem u Rovca."

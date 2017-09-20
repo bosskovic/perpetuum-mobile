@@ -1,8 +1,8 @@
 ---
 slug:        "vrdnicka-tvrdjava"
 title:       "Vrdnička tvrđava"
-description: "najmarkantniji srednjevekovni objekat centralnog dela Fruške gore"
-excerpt:     "Na ovom mestu još od antike postoji vojni objekat, a današnja tvrđava podignuta je verovatno u XIII veku da bi čuvala južni prilaz putu preko Fruške gore. Turci su je osvojili i razorili 1521. godine, i nije obnavljana od tada."
+excerpt:     "najmarkantniji srednjevekovni objekat centralnog dela Fruške gore"
+description: "Na ovom mestu još od antike postoji vojni objekat, a današnja tvrđava podignuta je verovatno u XIII veku da bi čuvala južni prilaz putu preko Fruške gore. Turci su je osvojili i razorili 1521. godine, i nije obnavljana od tada."
 categories:  ['fruska-gora']
 image: "/fruska-gora/vrdnicka-tvrdjava/img/09-20031213.jpg"
 

@@ -1,8 +1,8 @@
 ---
 slug:        "donji-kolasin"
 title:       "Donji Kolašin"
-description: "Kroz postojbinu Boškovića"
-excerpt:     "Vožnja kroz postojbinu Boškovića, ovaj put i kroz neke delove koje pre dve godine nisam obišao. Uspon na Zabojsko jezero i vožnja u 'paru'."
+excerpt:     "Kroz postojbinu Boškovića"
+description: "Vožnja kroz postojbinu Boškovića, ovaj put i kroz neke delove koje pre dve godine nisam obišao. Uspon na Zabojsko jezero i vožnja u 'paru'."
 categories:  ['2009-durmitor-biciklom']
 image: "/2009-durmitor-biciklom/donji-kolasin/img/001.jpg"
 photos:

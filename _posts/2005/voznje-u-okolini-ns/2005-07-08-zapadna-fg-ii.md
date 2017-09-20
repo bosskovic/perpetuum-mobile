@@ -1,8 +1,8 @@
 ---
 slug:        "zapadna-fg-ii"
 title:       "Zapadna Fruška gora i Ilok"
-description: "Šarengrad, erdevička jezera, Berkasovo"
-excerpt:     "Interesantna vožnja tokom koje smo Tibor i ja obišli tvrđave u Iloku i Šarengradu, ostatke tvrđave u Berkasovu (zapravo zemljane 
+excerpt:     "Šarengrad, erdevička jezera, Berkasovo"
+description: "Interesantna vožnja tokom koje smo Tibor i ja obišli tvrđave u Iloku i Šarengradu, ostatke tvrđave u Berkasovu (zapravo zemljane 
               šance zarasle u koprive), najzapadniji fruškogorski manastir, jezera Šidina, Bruje i Moharač. Vreme 
               nas je uglavnom dobro služilo, osim što nas je na ulazu u Novi Sad uhvatio pljusak. Oko 170km za oko 14 sati. "
 categories:  ['2005-voznje-u-okolini-ns']
