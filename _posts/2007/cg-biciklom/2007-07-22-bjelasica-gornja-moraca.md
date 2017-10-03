@@ -49,6 +49,8 @@ tags:
   - zekova glava
   - kolašin
   - gornja morača
+  - bjelasica
+  - biogradsko jezero
   
 ---
 
