@@ -166,11 +166,11 @@ spomenika. Tada smo ga detaljno obišli panoramski,
 ali nismo imali vremena za muzeje. Ove godine Vuk je bio toliko uviđavan da smo obišli čak četiri muzeja: Biljardu,
 istorijski, etnografski i muzej kralja Nikole. Bili su to brzinski obilasci, ali prošli smo sve.
 
-{% include layout/content/youtube.html id="2ZbTzDBm1AI" %}
-
 Istorijske postavke su bogate i sadržajne, a rezidencije (Njegoša i kralja Nikole) raskošne. Zanimljivo je videti da čak
 i u vrlo siromašnoj zemlji kao što je bila Crna Gora u XIX i do polovine XX veka, gospoda je uspevala da isisa
 dovoljno iz naroda kako bi živela u blagostanju, na ravnoj nozi sa onom iz većih i bogatijih država. 
+
+{% include layout/content/youtube.html id="2ZbTzDBm1AI" %}
 
 {% include layout/content/img_horizontal.html file_name="20170930-03.jpg" %}
 Jedan od najinteresantnijih "eksponata", bila mi je reljefne karte Crne Gore. Napravljena je za vojne potrebe pre nešto 
