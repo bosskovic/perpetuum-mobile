@@ -15,10 +15,10 @@ photos:
     title: photo by Vuk
   -
     key: 20170916-12.jpg
-    title: Ni jedan gušter nije povređen prilikom snimanja ove scene
+    title: Nijedan gušter nije povređen prilikom snimanja ove scene
   -
     key: 20170916-13.jpg
-    title: Ni jedan gušter nije povređen prilikom snimanja ove scene
+    title: Nijedan gušter nije povređen prilikom snimanja ove scene
   -
     key: 20170916-15.jpg
     title: Jezero kod Bačke Topole
@@ -63,7 +63,12 @@ planirao.
 
 {% include layout/content/img_horizontal.html file_name="20170916-15.jpg" %}
 Nakon što smo Zobnaticu obišli uzduž i popreko, polazimo nekoliko kilometara dugom stazom uz asfaltni put prema
-Topoli. Neposredno pred Topolom, skrećemo prema jezeru i lepom, velikom izletištu na njegovoj obali. Pokošeni
+Topoli, a pored ogromne plantaže borovnica. Plantaža je ograđena kilometrima ograda i zaklonjena hladom od mrežica. Duž
+leja su puzali nadničari, trebeći korov. Pretpostavljam da su i ove njive zajedno sa Zobnaticom došle u ruke Arapa. Samo
+da nam se ne desi isto što i nekim afričkim zemljama - da imamo plodnu zemlju u vlasništvu stranaca na kojoj se uzgajaju 
+luksuzni usevi (cash crops) za izvoz, a da se u zemlji ne proizvodi dovoljno hrane.
+
+Neposredno pred Topolom, skrećemo prema jezeru i lepom, velikom izletištu na njegovoj obali. Pokošeni
 travnjaci, uređene staze, ispravne česme, čist (i besplatan) javni wc, a sve to na obali lepog jezera, oivičenog
 sa svih strana trskom iz koje izviruju drvene platforme sa pecaroškim kućicama.
 
