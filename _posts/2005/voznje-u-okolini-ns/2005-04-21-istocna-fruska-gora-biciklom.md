@@ -125,7 +125,7 @@ Herculem i Castrum Herculi, i pretpostavlja se da se ona odnose na Čortanovce i
 {% endcapture %}
 {% include layout/post/side_story.html story=story title="Rimsko utvrđenje u Čortanovcima" %}
 
-{% include layout/content/youtube.html id="7jXtIHLeb7M" %}
+{% include layout/content/youtube.html id="7jXtIHLeb7M" print="no" %}
 
 Moji saputnici su bili vidno razočarani, čemu sam i ja dosta kumovao, jer kada sam im "reklamirao" ovu stanicu na našoj 
 vožnji, uvek sam govorio o rimskoj tvrđavi, a ne o *ostacima* rimske tvrđave. Što se mene tiče, mene oduševljava i sama 
@@ -209,7 +209,7 @@ gube i ovaj grad. Prema izveštajima iz perioda koji je neposredno sledio (1702.
 {% include layout/post/side_story.html story=story title="Slankamenska tvrđava" %}
 
 
-{% include layout/content/youtube.html id="kbewWzWbHJw" %}
+{% include layout/content/youtube.html id="kbewWzWbHJw" print="no" %}
 
 {% include layout/content/img_vertical.html file_name="021.jpg" %}
 Od slankamenske tvrđave danas su vidljivi, pored pomenutih ostataka podgrađa, veliki jugoistočni zid, ostaci južne kule, 

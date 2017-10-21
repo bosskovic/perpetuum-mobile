@@ -342,7 +342,7 @@ lišća i granja, i pri tom prilično strm. Posle downhill-a koji je trajao dost
 nosi naziv Velika gradina. Parkirao sam sam bicikl pored drveta i počeo da se penjem uz liticu koja je odabrana baš 
 zbog toga što se uz nju teško penje. Posle malo muke, izbio sam na prelep greben prekriven travom i zelenišem, i njime ubrzo stigao do vrha.
 
-{% include layout/content/youtube.html id="CiP0wgCZ3P4" %}
+{% include layout/content/youtube.html id="CiP0wgCZ3P4" print="no" %}
 
 ### Sviloška gradina
 
@@ -359,7 +359,7 @@ Taj put se odvaja negde južno od Sviloša i ide grubo na jugoistok prema Partiz
 varijantu, pošto mi se učinilo da sam ugledao u daljini asfalt kako se belasa (što je zapravo bilo par stabala divlje 
 jabuke u cvetu). Ispostavilo se da put do asfalta kojim sam krenuo uopšte nije kratak, niti ide nizbrdo.
 
-{% include layout/content/youtube.html id="Z214Ug6VQoI" %}
+{% include layout/content/youtube.html id="Z214Ug6VQoI" print="no" %}
 
 To je u stvari bio offroad najekstremnije vrste, sve sa popadalim deblima na svakih desetak metara, žitkim blatom, dubokim 
 koritima potoka koja učestalo seku "put", ako se uopšte tako može nazvati linija koja ide kroz šumu i gde je rastinje samo 

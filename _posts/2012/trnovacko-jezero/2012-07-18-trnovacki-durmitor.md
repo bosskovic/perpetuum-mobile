@@ -32,9 +32,10 @@ tags:
 
 ---
 
-<a class="no-margin" href="/2012-trnovacko-jezero/vrhovi/20120718-00-mapa.jpg" target="_blank" title="klikni za veću fotografiju" >
+<a class="no-margin screen-only" href="/2012-trnovacko-jezero/vrhovi/20120718-00-mapa.jpg" target="_blank" title="klikni za veću fotografiju" >
     <img src="/2012-trnovacko-jezero/vrhovi/thumbs/20120718-00-mapa.jpg" alt="Peti dan - uspon na Trnovački Durmitor">
 </a>
+<img class="for-print" style="width:90%;" src="/2012-trnovacko-jezero/vrhovi/20120718-00-mapa.jpg">
 
 {% include layout/content/img_horizontal.html file_name="010.jpg" %}
 Ređaju se dani i gomilaju utisci ali i umor i žuljevi. Ponestaje nam i preostalih destinacija oko jezera. Poslednja naša 

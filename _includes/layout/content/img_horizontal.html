@@ -1,5 +1,15 @@
 {% if include.file_name %}
-  <img title="{% include img_title.html pic=include.file_name %}" src="/{% include thumb_path.html file_name=include.file_name %}" data-href="{% include img_path.html file_name=include.file_name %}" class="pull-right horizontal pic" />
+  <span class="for-print">
+    <img src="/{% include thumb_path_800.html file_name=include.file_name %}" class="pull-right horizontal pic for-print" />
+  </span>
+  <span class="screen-only">
+    <img title="{% include img_title.html pic=include.file_name %}" src="/{% include thumb_path.html file_name=include.file_name %}" data-href="{% include img_path.html file_name=include.file_name %}" class="pull-right horizontal pic" />
+  </span>
 {% else %}
-  <img title="{{ include.title }}" src="{{ include.path }}" class="pull-right horizontal pic" style="cursor: default" />
+  <span class="for-print">
+    <img src="{{ include.path }}" class="pull-right horizontal pic for-print" />
+  </span>
+  <span class="screen-only">
+    <img title="{{ include.title }}" src="{{ include.path }}" class="pull-right horizontal pic" style="cursor: default" />
+  </span>
 {% endif %}

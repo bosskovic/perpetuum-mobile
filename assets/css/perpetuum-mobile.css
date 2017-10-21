@@ -8265,7 +8265,7 @@ body {
 }
 #stats {
   display: none;
-  width: 100;
+  width: 100px;
 }
 #stats img {
   margin-left: auto;
@@ -8308,6 +8308,9 @@ body {
 #text img.horizontal {
   margin-top: 15px;
   width: 200px;
+}
+#text img.horizontal.for-print {
+  width: 300px;
 }
 #text .side-story {
   clear: both;
@@ -8481,4 +8484,58 @@ hr.separator {
   margin-top: 30px;
   border-top: 3px solid #eee;
   border-bottom: 1px solid #8c8c8c;
+}
+.for-print {
+  display: none;
+}
+@media only print {
+  header.intro-header,
+  #fb-root,
+  #main-navbar,
+  #affix-sidebar-labels,
+  #affix-sidebar,
+  #map,
+  #gallery,
+  #videos,
+  #post-category-header,
+  #media-footer,
+  .category-navigation,
+  .comments,
+  .related-posts-listing,
+  .category-listing-container,
+  footer,
+  .screen-only,
+  .ppt-pdf,
+  .time_machine {
+    display: none;
+  }
+  .post-previews {
+    page-break-before: always;
+  }
+  .for-print {
+    display: block;
+  }
+  .for-print img.stats {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  img.pic {
+    display: block !important;
+    page-break-inside: avoid !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  p,
+  .post-preview,
+  .side-story {
+    page-break-inside: avoid !important;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    break-after: avoid-page;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }
 }

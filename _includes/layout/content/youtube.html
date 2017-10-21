@@ -1,3 +1,14 @@
-<div class="clearfix">
+<div class="screen-only">
+  <div class="clearfix">
+  </div>
+  <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+  <br>
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+{% unless include.print == "no" %}
+<div class="for-print">
+  <img src="http://img.youtube.com/vi/{{include.id}}/maxresdefault.jpg" data-id="{{ include.id }}" class="pic" />
+  <div class="pull-right"><i><u>http://y2u.be/{{ include.id }}</u></i></div>
+  <div class="clearfix">
+  </div>
+</div>
+{% endunless %}

@@ -82,7 +82,7 @@ Tako sam i uradio. Od Morače prema Bojićima ide najstrmiji asfalt koji sam ika
 Bjelasici juče, bar deo bih uspeo da vozim, a ovako skoro sve guram. A i ko za inat, uvek mi se najgori usponi poklope 
 sa najjačim suncem...
 
-{% include layout/content/youtube.html id="zPC4DGQXsxY" %}
+{% include layout/content/youtube.html id="zPC4DGQXsxY" print="no" %}
 
 Od Bojića prema Ljevištu je posao nešto lakši: makadami koji idu blago uzbrdo, da bi se konačno spustili do same Morače. 
 Nastavljam uz reku prema Glavi Morače i nailazim na kraj puta, ostavljam bicikl, i krećem koritom reke, sa kamena na 

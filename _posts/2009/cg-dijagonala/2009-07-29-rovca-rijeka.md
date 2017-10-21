@@ -73,7 +73,7 @@ Desetak metara uzvodno od prerasta stazica se spušta do male peščane plaže n
 blago namreška kada dune vetar. Šum vode dolazi sa mesta koje odatle ne vidim, negde nizvodno iza prerasta, gde se Mrtvica
 lomi i kida niz kamene prepreke koje su i napravile ovo jezerce.
 
-{% include layout/content/youtube.html id="NBVplvZuqx4" %}
+{% include layout/content/youtube.html id="NBVplvZuqx4" print="no" %}
 
 Ostavljam šator i bicikl i žurim da se što pre vratim u kanjon i ponovo prođem, sada po danu, onaj deo što juče nisam video. Bijeli
 i Crni nerin su zanimljiva, penušava mesta, bilo bi šteta da sam ih propustio. 

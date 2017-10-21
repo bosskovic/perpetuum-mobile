@@ -75,7 +75,7 @@ u nadi da će od toga vodopad bar malo porasti...
 Sve dok je put išao nizbrdo, još sam i mogao da vozim, uprkos većoj količini blata koja mi je rasla između guma i blatobrana. 
 Čim je nestao nagib, periodična čišćenja bicikla su bila neophodna.
 
-{% include layout/content/youtube.html id="O4aPmwU7PrA" %}
+{% include layout/content/youtube.html id="O4aPmwU7PrA" print="no" %}
 
 Uskoro sam kroz rastinje primetio mesto gde Bujak prima desnu pritoku, pa sam ostavio bajs i sišao da potražim vodopad. 
 Vidljiv je praktično od samog ušća potoka u Bujak, ali da bi se došlo do njega, mora se malo zaobilaziti, pošto je korito 
@@ -101,7 +101,7 @@ povećao, i obuhvatio brojne ogoljene obronke, i na jednom od njih selo Grabovo.
 pa sam odustao od Obadova i krenuo prema Grabovu. Usput sam prošao kroz ogromne livade sa kamilicom, sa kojih se pružao 
 fantastičan pogled prema Trešnjevcu, Ravnima i fruškogorskom bilu. Kako sam se penjao, pogled je bio sve lepši.
 
-{% include layout/content/youtube.html id="LoBuZsztN_A" %}
+{% include layout/content/youtube.html id="LoBuZsztN_A" print="no" %}
 
 Na asfalt sam izašao nedaleko od Grabova i sjurio se do Sviloša. Tu sam ispred prodavnice na iskap smirio litru soka i 
 krenuo nazad. Na putu do Novog Sada se nije desilo ništa naročito interesantno što bih osebno izdvojio.

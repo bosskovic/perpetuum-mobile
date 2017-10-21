@@ -78,7 +78,7 @@ Bio je malo hladniji ali predivan sunčan dan, uzan vijugav asfaltni put prolazi
 raznoraznog poljskog cveća, a iznad modro plavo nebo i po njemu razbacani ogromni beli pufnasti oblaci. Nije da sam 
 odjednom dobio inspiraciju za poeziju, nego je stvarno tako bilo, i srećom imam nekoliko odličnih fotki da to dokažem.
 
-{% include layout/content/youtube.html id="c_s6L17rCy8" %}
+{% include layout/content/youtube.html id="c_s6L17rCy8" print="no" %}
 
 ### Pivska planina i Piva 
 

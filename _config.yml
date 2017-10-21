@@ -29,6 +29,7 @@ defaults:
       path: ""
     values:
       comments: false
+      show_date: false
       file_name:
         gps_track: "track.kml"
         jpg_map: "track.jpg"

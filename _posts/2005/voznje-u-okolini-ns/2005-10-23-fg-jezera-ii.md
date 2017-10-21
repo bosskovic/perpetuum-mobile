@@ -97,7 +97,7 @@ tags:
 NS - Krušedol - Maradik - jezero Šelovrenac - jezero Ljukovo - jezero Dobrodol - jezero Međeš - Borkovačko jezero - jezero Kudoš
 - jezero Mutalj - jezero Beli kamen - Crveni čot - Banstol - Novi Sad
 
-{% include layout/content/youtube.html id="feDvsfVIfr4" %}
+{% include layout/content/youtube.html id="feDvsfVIfr4" print="no" %}
 
 Tibor i ja smo krenuli iz Novog Sada pre nego što je svanulo, da bi se našli sa Dejanom i Igorem u Krušedolu. Prošli smo
 pored manastira, kroz Prnjavor i Maradik i tu izbili na prvo jezero - akumulaciju Šelovrenac. Od tog trenutka pa na dalje,

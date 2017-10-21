@@ -151,12 +151,12 @@ zadovoljio pogledom od gore.
 Kod Kapetanovog jezera sam učinio par dobrih dela, okrpio gumu na kolicima nekom starcu, na'ranio klince bombonama i 
 pošao dalje.
  
-{% include layout/content/img_horizontal.html file_name="099.jpg" %}
 Put za Nikšićku Župu ide preko Male Lukavice, a tu se nalazi jedno od bitnijih mesta na mom proputovanju - Nikšin 
 kiljan. U pitanju je kameni monolit ukrašen šarama (stećak) koji označava mesto na kojem je poginuo vojvoda Nikša, 
 predak svih Nikšića, Trebješana i Rovčana.
 
 {% capture story %}
+{% include layout/content/img_horizontal.html file_name="099.jpg" %}
 <p>Prema legendi nakon što se Gojak već iselio u Međuriječje, jednom prilikom kada mu je Nikša išao u posetu, na Lukavici 
 su ga presreli i ubili razbojnici. Jedan od njih koji je ugrabio Nikšinog konja, oružje i odelo, požurio je na trg u 
 Podgoricu da to odmah proda. Na njegovu nesreću, na pazaru se toga dana zadesio Nikšin sin Radovan koji je prepoznao 

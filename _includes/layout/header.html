@@ -18,6 +18,19 @@
     </div>
   </div>
 </header>
+<div class="for-print page-heading">
+  {% if page.is_post %}
+  <strong>{{ ppt_parent.title }}</strong> | {{ ppt_parent.excerpt }}
+  {% endif %}
+  <img src="{{ ppt_header_img }}" />
+  {% unless page.show_date == false %}
+  <span class="pull-left">{{ page.date | date: "%d. %m. %Y." }}</span>
+  {% endunless %}
+  <i class="pull-right"><u>http://perpetuum-mobile.net{{page.url}}</u></i>
+  <div class="clearfix"></div>
+  <h1>{{ page.title }}</h1>
+  <p>{{ page.excerpt }}</p>
+</div>
 <script>
   $('header.intro-header').css('height', window.innerHeight);
   $('header.intro-header .overlay').css('height', window.innerHeight);

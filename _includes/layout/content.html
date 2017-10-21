@@ -28,13 +28,13 @@
           {{ content }}
 
           {% include layout/post/media_footer.html %}
-          <hr>
+          <hr class="screen-only">
         </div>
       </div>
     </div>
   </article>
 
-  <div class="container">
+  <div class="container category-navigation">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         {% include layout/post/navigation.html %}
@@ -43,7 +43,7 @@
   </div>
 
   {% if page.comments %}
-  <div class="container">
+  <div class="container comments">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="fb-wrapper">
@@ -57,12 +57,18 @@
 
   {% include layout/post/related_posts_listing.html %}
 
-  <div class="container">
+  <div class="container category-listing-container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         {% include layout/post/category_listing.html %}
       </div>
     </div>
+  </div>
+
+  <div class="for-print">
+    {% if ppt_stats_exist %}
+      <img src="{{ ppt_stats_path }}" class="img-responsive stats" />
+    {% endif %}
   </div>
 
 {% else %}
@@ -73,11 +79,13 @@
         {{ content }}
 
         {% include layout/post/media_footer.html %}
-        <hr>
+        <hr class="screen-only">
 
-        {% for post in site.categories[page.slug] reversed %}
-        {% include layout/content/post_preview.html %}
-        {% endfor %}
+        <span class="post-previews">
+          {% for post in site.categories[page.slug] reversed %}
+          {% include layout/content/post_preview.html %}
+          {% endfor %}
+        </span>
       </div>
     </div>
   </div>
