@@ -250,10 +250,10 @@ ga danas puno nosio. Za oko 5 sati smo prešli oko 13.5km i ukupno oko 540m uspo
 ### Ponovo Biogradsko jezero i povratak
 
 {% include layout/content/img_horizontal.html file_name="20171002-01.jpg" %}
-Sutradan smo krenuli u šetnju prema katunu Goleš, od kog je moguće izaći na nekoliko golih vrhova sa kog bi trebalo lepo
+Sutradan smo krenuli u šetnju prema katunu Goleš, od kog je moguće izaći na nekoliko golih vrhova sa kojih bi trebalo lepo
 da se vidi jezero. Jutro je bilo prelepo, sunčano. Od kada smo došli, sami smo bili u bungalovima, a ovako rano ujutro,
 i još radni dan, bili smo potpuno sami na jezeru. Kosi zraci sunca koji se probijaju kroz krošnje i tanke pramičke koji
-isparavaju iz zemlje, i odbijaju se o površinu jezera. Miris vlažne šume, zemlje, blagi miris mulja koji se suši. Poptpuna 
+isparavaju iz zemlje, i odbijaju se o površinu jezera. Miris vlažne šume, zemlje, blagi miris mulja koji se suši. Potpuna 
 tišina koju jedino remeti Vukov glas koji odzvanja jezerom. Uzalud ga utišavam i objašnjavam da ne viče u šumi. Sreli
 smo vevericu, to ga je obradovalo i bio je tih i šaputao je neko vreme, ali to nije potrajalo.
 
