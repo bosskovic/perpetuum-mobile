@@ -1,7 +1,7 @@
 ---
 layout:       page
 slug:         "2011-velebit"
-title:        "Velebit 2011"
+title:        "Velebit - 2011"
 excerpt:      "uspavani džin na granici svetova"
 comments:     false
 image: "/2011-velebit/kroz-oblake/img/20110607-11.jpg"
@@ -9,41 +9,26 @@ date: 2011-06-04
   
 ---
 
-Internet spaja ljude na fantastične načine, to sam više puta iskusio. Pre desetak godina (2009. ili 2010.) sam postavio 
-neki tekst ili slike sa mojih vožnji biciklom po Crnoj Gori, i to je nekako bio povod da sa mnom stupi u kontakt Ines, 
-devojka iz Osijeka koja kao i ja voli prirodu, planine, fotografiju... 
+Internet spaja ljude na fantastične načine, i zahvaljujući njemu ljudi srodni duhom lakše nalaze put jedni do drugih.
+Jedan od tih ljudi sa kojima smo imali sreće da nam se putevi ukrste je Alen, naš prijatelj iz Osijeka. Kao što crnogorske 
+planine imaju posebno mesto u mom srcu, za Alena je to Velebit, i bilo je prirodno da je brzo stvorio pogodnu priliku
+da tu ljubav podeli sa nama. 
 
-Nedugo zatim, na jednom od putešestvija pridružila 
-nam se njena drugarica Iva. Devojka je zapucala iz Rijeke (sama), sa nizom prevoznih sredstava, sve da bi se pridružila 
-"štap-kanap kamp-planinarskoj ekspediciji" po Prokletijama sa ljudima koje ne poznaje (tj. nama) i sa kojima do tada nije 
-bila u direktnom kontaktu. Mislim da to dovoljno opisuje njen duh i snagu :-).
-
-Već naredne zime, na zimski uspon na najviši vrh Prokletija idem sa Ivom i Alenom, prijateljem 
-Ines i Ive iz Osijeka.
-
-Kao što crnogorske planine imaju posebno mesto u 
-mom srcu, za Alena je to Velebit, i želeo je prvom prilikom da podeli čari Velebita sa nama. Nismo dugo čekali na to.
-
-{% include separator.html %}
-
-Treći jun 2011, petak popodne, Ela i ja krećemo kolima ka Osijeku. Put koji bi trebao da traje dva sata odužio se do 
+U petak popodne trećeg juna 2011, Ela i ja smo na prvoj deonici puta koja bi trebalo da traje dva sata ali se odužila do 
 duboko u noć zbog protesta ratara u Bačkoj i blokada puteva. Vreme u Bačkoj je musavo a kako prelazimo u Hrvatsku, 
-dočekuje nas kiša.
+počinje da pada kiša.
 
-Lako nalazimo Alenov stan u Osijeku, i tamo nas čekaju Alen i Ines. Posle kraćeg druženja, smeštamo se za spavanje - 
-treba ustati rano ujutro i voziti do mora.
+U Osijeku nas čekaju Alen i Ines, i posle kraćeg druženja, Alen nas smešta na spavanje u svom stanu. Tek što smo 
+zaspali, u pola noći se budimo za polazak - treba voziti do mora.
 
-U po noći, satima pre svitanja, krećemo ka Alenovom prijatelju u selu u blizini Osijeka, i u njegovom dvorištu ostavljamo 
-našeg juga sa novosadskim tablicama, a dalje nastavljamo Alenovim kolima. Sve vreme nas kroz Hrvatsku prati kiša, 
-izmaglica i tmurno vreme. Autoput je nov, sređen, sa branama (ogradama) protiv buke i prašine sa strane, sa zelenim 
-mostovima za divljač, novim vijaduktima i tunelima, ali Alen kaže da ih je to zadovoljstvo skupo koštalo i da će ga 
+Kroz izmaglicu i kišno sivilo izlazimo na autoput. Nov je, sređen, sa branama (ogradama) protiv buke i prašine sa strane, 
+sa zelenim mostovima za divljač, novim vijaduktima i tunelima, ali Alen kaže da ih je to zadovoljstvo skupo koštalo i da će ga 
 otplaćivati decenijama.
 
-Iznenađujuće brzo stižemo do Velebita - već nešto oko jedanaest ujutro smo u Baškim Oštarijama. Popakovali smo se, 
-natovarili i zakoračili na Velebit.
+Kiša nas prati celim putem kroz Hrvatsku, sve do podnožja Velebita, do kog stižemo iznenađujuće brzo - već nešto oko jedanaest ujutro 
+smo u Baškim Oštarijama. Popakovali smo se, natovarili i zakoračili na Velebit.
 
-{% include separator.html %}
-
-Treking po Velebitu mi je bio izuzetno iskustvo, planina je stvarno magična, drugačija od svih drugih na kojima sam bio.
-Utiske na žalost nisam odmah zapisao, ali ostali su mi dugo urezani. Tekstovi u produžetku zapisani su u januaru 2018, na
-osnovu tih utisaka koji žive u meni.
+Iskustvo koje je sledilo bilo je izuzetno: magična planina, drugačija od svih drugih na kojima sam bio.
+Utiske na žalost nisam odmah zapisao, ali ostali su mi dugo urezani, i često mi se dešavalo da me neke naizgled nepovezane
+asocijacije naglo vrate u taj svet. Tekstove u produžetku zapisao sam početkom 2018. nakon jednog od tih putovanja kroz
+vreme. 

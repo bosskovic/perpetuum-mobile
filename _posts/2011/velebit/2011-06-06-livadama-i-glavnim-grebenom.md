@@ -1,35 +1,161 @@
 ---
 slug:        "livadama-i-glavnim-grebenom"
 title:       "Glavnim grebenom Velebita"
-excerpt:     "od Zavrate preko Struge i Vaganskog vrha do Ivine vodice"
-description: "Dan smo započeli utopljeni u mediteranski šmek južnog podnožja Velebita, prešli preko prostranih kraških polja obraslih travom, uspeli se strmom stazom na glavni greben Velebita i ušli u svet kontinentalnog, visokogorskog reljefa, klime i vegetacije. Od Vaganskog vrha smo se spustili do skloništa Ivina vodica."
+excerpt:     "od Zavrate preko Struge i Vaganskog vrha do Ivinih vodica"
+description: "Dan smo započeli utopljeni u mediteranski šmek južnog podnožja Velebita, prešli preko prostranih kraških 
+              polja obraslih travom, uspeli se strmom stazom na glavni greben Velebita i ušli u svet kontinentalnog, 
+              visokogorskog reljefa, klime i vegetacije. Od Vaganskog vrha smo se spustili do skloništa Ivine vodice."
 categories:  ['2011-velebit']
-
 image: "/2011-velebit/livadama-i-glavnim-grebenom/img/20110606-46.jpg"
-  
+photos:
+  -
+    key: 20110606-01.jpg
+    title: "6. jun 2011. Zavrata - Vaganski vrh - Ivine vodice" 
+  -
+    key: 20110606-02.jpg
+    title: "Planinarsko sklonište Zavrata"
+  -
+    key: 20110606-04.jpg
+    title: "Rujno"
+  -
+    key: 20110606-06.jpg
+    title: "Pogled ka Velikom i Malom Rujnu"
+  -
+    key: 20110606-08.jpg
+    title: "Pogled ka Paklenici"
+  -
+    key: 20110606-09.jpg
+    title: "Pogled ka Paklenici"
+  -
+    key: 20110606-10.jpg
+    title: "Zgužvano skamenjeno dno mora, podignuto 1000 metara u vazduh"
+  -
+    key: 20110606-12.jpg
+    title: "Kameni levak kroz koji Paklenica 'curi' ka moru"
+  -
+    key: 20110606-13.jpg
+    title: "Sipar pred prevojem Buljma"
+  -
+    key: 20110606-14.jpg
+    title: "Sipar pred prevojem Buljma"
+  -
+    key: 20110606-15.jpg
+    title: "Sipar pred prevojem Buljma"
+  -
+    key: 20110606-16.jpg
+    title: "Struge"
+  -
+    key: 20110606-17.jpg
+    title: "Buljma"
+  -
+    key: 20110606-18.jpg
+    title: "Buljma"
+  -
+    key: 20110606-19.jpg
+    title: "Buljma"
+  -
+    key: 20110606-20.jpg
+    title: "Planinarsko sklonište Struge"
+  -
+    key: 20110606-21.jpg
+    title: "Ponor u blizini Marasovca"
+  -
+    key: 20110606-22.jpg
+    title: "Izvor Marasovac"
+  -
+    key: 20110606-24.jpg
+    title: "Eline žgadije"
+  -
+    key: 20110606-25.jpg
+    title: "Penjemo se kroz krivulje ka Vaganskom vrhu"
+  -
+    key: 20110606-26.jpg
+    title: "Penjemo se kroz krivulje ka Vaganskom vrhu"
+  -
+    key: 20110606-27.jpg
+    title: "Penjemo se kroz krivulje ka Vaganskom vrhu"
+  -
+    key: 20110606-28.jpg
+    title: "Kao leptirak"
+  -
+    key: 20110606-30.jpg
+    title: "Alen u svom prirodnom okruženju"
+  -
+    key: 20110606-31.jpg
+    title: "Krešendo u glavi - pritisli me oblaci"
+  -
+    key: 20110606-32.jpg
+    title: "Kroz oblake"
+  -
+    key: 20110606-33.jpg
+    title: "Proviruje Lika"
+  -
+    key: 20110606-34.jpg
+    title: "Nezaustavljiva"
+  -
+    key: 20110606-40.jpg
+    title: "Vaganski vrh"
+  -
+    key: 20110606-41.jpg
+    title: "Vaganski vrh"
+  -
+    key: 20110606-42.jpg
+    title: "Pogled sa vaganskog vrha"
+  -
+    key: 20110606-43.jpg
+    title: "Vaganski vrh"
+  -
+    key: 20110606-46.jpg
+    title: "Pogled ka moru i Pagu"
+  -
+    key: 20110606-47.jpg
+    title: "Pogled ka moru i Pagu"
+  -
+    key: 20110606-48.jpg
+    title: "Pogled ka moru i Pagu"
+  -
+    key: 20110606-49.jpg
+    title: "Pogled ka moru i Pagu"
+  -
+    key: 20110606-51.jpg
+    title: "Pogled ka Paklenici, moru i Pagu"
+  -
+    key: 20110606-52.jpg
+    title: "Pogled ka Paklenici, moru i Pagu"
+  -
+    key: 20110606-54.jpg
+    title: "Planinarsko sklonište Ivine vodice"
+  -
+    key: 20110606-55.jpg
+    title: "Planinarsko sklonište Ivine vodice"
+  -
+    key: 20110606-57.jpg
+    title: "Planinarsko sklonište Ivine vodice"
+      
 ---
 
 {% include layout/content/img_horizontal.html file_name="20110606-02.jpg" %}
 Sutradan se sa mukom opraštamo od Zavrate. Dan je težak, gomile sivo-belih oblaka pritisle su Velebit i sve miriši na 
-kišu. Već je blizu podne kada smo konačno krenuli prema Malom i Velikom Rujnu. U pitanju su ogromne livade prošarane 
+kišu. Već je blizu podne kada smo konačno krenuli prema Malom i Velikom Rujnu. Prva dva dana išli smo kroz listopadne 
+prašume i po kršu i kamenjaru. Treći dan opet nosi nešto skroz drugačije - ogromne, prostrane livade prošarane 
 retkim četinarima. Prolazimo pored crkvice, vidimo malo krdo polu-divljih konja čija je sudbina da završe u kobasicama. 
 Tako nam je rekao čovek koga smo tu sreli.
 
 {% include layout/content/img_full.html file_name="20110606-04.jpg" %}
 
 {% include layout/content/img_horizontal.html file_name="20110606-06.jpg" %}
-Prolazimo pored šume koja je nedavno gorela i započinjemo nemilosrdni uspon ka Stražbenici i Buljmi. Borim se za dah dok 
+Prolazimo pored četinarske šume nedavno načete požarom i započinjemo nemilosrdni uspon ka Stražbenici i Buljmi. Borim se za dah dok 
 napredujemo kroz kamen i četinare i naglo dobijamo visinu. Konačno mala nagrada - sa Stražbenice se otvara pogled ka 
 zelenom moru krošnji Velike Paklenice. A ispred nas sivi krš i kamen iznad kog su još sivlji oblaci. 
 
 {% include layout/content/img_full.html file_name="20110606-09.jpg" %}
 
 {% include layout/content/img_horizontal.html file_name="20110606-15.jpg" %}
-Izlazimo iz pojasa šume i kroz kamen i sipar se probijamo do prevoja Buljma. I tu ulazimo u skroz neki drugi svet, svet 
+Izlazimo iz pojasa šume i kroz kamen i sipar se probijamo do prevoja Buljma - vrata koja vode u skroz neki drugi svet, svet 
 kamena i trave, ponekog bora krivulja ili kržljave bukve.
 
 {% include layout/content/img_horizontal.html file_name="20110606-20.jpg" %}
-Stižemo do skloništa Struge, ulazimo unutra, a tamo same u skloništu - četiri mlade splićanke. Alen i ja smo oduševljeni, 
+Stižemo do skloništa Struge, ulazimo unutra, a tamo, same u skloništu - četiri mlade splićanke. Alen i ja smo oduševljeni, 
 Ela nešto manje. Hoće da založe vatru ali vlažno je drvo i potrošile su sve šibice pokušavajući. Imam i upaljač i šibice, 
 ali vadim kresivo i kremen, pravim 
 predstavu dok im nonšalantno palim vatru priručnim sredstvima kao da sam to radio hiljadu puta. Srećom varnica je odmah 
@@ -56,8 +182,8 @@ Pagu, ka prostranstvima šume u podnožju...
 {% include layout/content/img_full.html file_name="20110606-48.jpg" %}
 
 {% include layout/content/img_horizontal.html file_name="20110606-53.jpg" %}
-Nastavljamo dalje grebenom, kafa deluje i moral mi je već prilično unapređen. Negde na pola puta do Svetog brda, skrećemo naglo na 
-jug, i počinjemo strmo da se spuštamo ka Ivinoj Vodici. Pogledom smo ispratili naznaku zalaska sunca, negde daleko u crvenkasto-smeđoj 
+Nastavljamo dalje grebenom, kafa deluje i moral mi već ide uzlaznom linijom. Negde na pola puta do Svetog brda, skrećemo naglo na 
+jug, i počinjemo strmo da se spuštamo ka Ivinim vodicama. Pogledom smo ispratili naznaku zalaska sunca, negde daleko u crvenkasto-smeđoj 
 tmini i izmaglici na zapadu. Dok silazimo pred sobom vidimo Pag i more, i nešto bliže Paklenicu. Kako se spuštamo, tako 
 Paklenica počinje da dominira. 
 
@@ -66,22 +192,22 @@ mesto i da mu srce igra kako prilazimo. "Vidi, govno medvjeda" pokazuje nam pobe
 nedavno video medveda.
 
 {% include layout/content/img_horizontal.html file_name="20110606-54.jpg" %}
-Šumu je već bilo progutalo sivilo kada smo stigli do Ivine vodice, male kamene kuće sa drvenim pokrivenim tremom, 
+Šumu je već bilo progutalo sivilo kada smo stigli do Ivinih vodica, male kamene kuće sa drvenim pokrivenim tremom, 
 ušuškane u bukovu šumu na strmoj južnoj padini Velebita. Danas je to planinarsko sklonište, u toku rata je bila isturena 
 baza hrvatske vojske a pre toga je mislim bila šumarska kuća.
 
 {% include layout/content/img_horizontal.html file_name="20110606-55.jpg" %}
 Imamo dovoljno vremena da se udobno smestimo, snabdemo vodom iz obližnje čatrnje, nacepamo drva... Kad je pao mrak uz večeru 
 uživamo u šumskim mirisima i zvucima, dok se puhovi jure po granama iznad nas i povremeno nas gađaju kapicama od bukve. 
-Mrak remete jedino oči koje zasvetlucaju sa poneke radoznale glave koja se spusti da vidi koje tu došao u njihovu šumu.
+Mrak remete jedino oči koje zasvetlucaju sa poneke radoznale glave koja se spusti da vidi ko je tu došao u njihovu šumu.
 
-U toku noći nestalo je primirje u ratu između bure i juga, a koje je vladalo prethodnih par dana. Vetar i kiša koji 
-su počeli neposredno nakon što smo legli da spavamo, kulminirali su u oluji koju ću uvek pamtiti. Strašna sila vode i 
+U toku noći nestalo je primirje u ratu između bure i juga, a koje je vladalo prethodnih par dana. Vetar i kiša 
+počeli su neposredno nakon što smo legli da spavamo a kulminirali su u oluji koju ću uvek pamtiti. Strašna sila vode i 
 elektriciteta koja se danima skupljala oslobodila se u jednom naglom naletu besa i žestine. Pljuskali su naleti kiše po 
-limenom krovu iznad naših glava i praskali gromovi, dodatno pojačani kamenim liticama koje su nas okruživale.
+limenom krovu iznad naših glava i praskali gromovi, dodatno pojačani kamenim liticama oko nas.
 
 Dugo sam ležao ušuškan u vreću, sa otvorenim očima u potpunom mraku, slušao i divio se toj stihiji koja se odjednom 
-smirila, naglo kao što je nastala. Ko da se postidela, primirila i za sobom ostavila samo osećaj rasterećenja i miris ozona i vlažne 
+smirila, naglo kao što je nastala. K'o da se postidela, primirila i za sobom ostavila samo osećaj rasterećenja i miris ozona i vlažne 
 zemlje.
 
 {% include layout/content/img_full.html file_name="20110606-01.jpg" %}
