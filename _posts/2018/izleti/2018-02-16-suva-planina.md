@@ -101,6 +101,9 @@ photos:
     key: 20180216-82.jpg
     title: "Mosor"
   -
+    key: 20180217.jpg
+    title: "Sa Aleksandrom, Dušanom i Gavrilom"
+  -
     key: 20180218-03.jpg
     title: "Spomen park Bubanj"
   -
@@ -243,6 +246,7 @@ logike - naselje je na lepom mestu, na obroncima Suve planine, praktično u pred
 zemlji, do nje idu gradski autobusi, ima lep veliki park i izvore tople mineralne vode. Al' eto, i ta voda se slabo koristi -
 pune se bazeni u objektima "stare" i "nove" banje (tj. u hotelu Radon), i to je to. 
 
+{% include layout/content/img_horizontal.html file_name="20180217.jpg" %}
 Od hotela Radon pa sve do Koritnjaka se pruža lep park sa uređenim stazama za šetnju. U svom ravnijem delu, između stare i
 nove banje, prolazi nekoliko krakova potoka iz čijih korita se puši topla voda. U jednom trenutku dok smo doručkovali,
 iznad hotela Radon se pojavio crn oblak dima. Pomislili smo da se hotel zapalio, ali nam je prodavačica rekla da su uključili
