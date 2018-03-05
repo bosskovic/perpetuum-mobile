@@ -6,7 +6,8 @@ description: "Talas zime iz Sibira sudario se iznad Srbije sa vlažnim vazduhom 
               propadne, pa smo se spustili do Medvednika za još malo zimskih čarolija."
 categories:  ['2018-izleti']
 image: "/2018-izleti/medvednik-februar/img/20180224-31.jpg"
-videos: ["3AaIyXe1oi8", "aPYDhBNFBhs", "nBV16s-cIqk", "A9Kf9SwFH7w", "6ZZZWbQXagY", "gjjufIotNUY", "AUJMSpUkCCA", "H3z7sNteHoM", "P8xEzO7ibMU", "XIXE6v--DiQ", "ZcKUFWyXAm4", "Xid6Te8hG-M", "8L7wk6M-XHc", "ZUCw8MEK5u0"]
+videos: ["3AaIyXe1oi8", "aPYDhBNFBhs", "nBV16s-cIqk", "A9Kf9SwFH7w", "6ZZZWbQXagY", "gjjufIotNUY", "AUJMSpUkCCA", 
+         "H3z7sNteHoM", "P8xEzO7ibMU", "XIXE6v--DiQ", "ZcKUFWyXAm4", "Xid6Te8hG-M", "8L7wk6M-XHc", "ZUCw8MEK5u0"]
 tags:
   - medvednik
   
