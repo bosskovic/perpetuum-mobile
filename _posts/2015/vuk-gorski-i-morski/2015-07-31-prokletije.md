@@ -174,8 +174,8 @@ vrhovima Prokletija. Uživamo tamo skoro sat vremena.
 Put nazad, iako konstantno nizbrdo, nije bio mnogo lakši. Tvrdim makadamom spustili smo se nazad do prevoja, a zatim konačno
 kroz hlad, vijugavim šumskim putem niz nebrojene serpentine do Dolje.
 
-A u smeštaju u Grbaji standardno, čuvamo i pazimo na Vuka na smenu, dok se nismo sve malo osvežili i odmorili. Kada nam
-je dojadilo da jurimo za njim, vezujemo ga u kolica i šetamo prema Zastanu (gde su ta kolica sve prošla! :-) ).
+A u smeštaju u Grbaji standardno: kupanje, sušenje, hranjenje Vuka, a onda ga čuvamo i pazimo na smenu, dok se nismo svi 
+malo osvežili i odmorili. Kada nam je dojadilo da jurimo za njim, vezujemo ga u kolica i šetamo prema Zastanu (gde su ta kolica sve prošla! :-) ).
 
 
 ### Ropojana, 2. avgust 2015.  
@@ -187,18 +187,18 @@ poslednji dan na Prokletijama, i krenuli ka Vusanju i ponoru Grlje, gde smo park
 Dan je bio topao, sparan, i ponovo smo imali vrlo malo hlada i zaklona.
 
 {% include layout/content/img_vertical.html file_name="20150802-07.jpg" %}
-Ropojansko jezero ka kom smo se uputili je nestalno, pretpostavljam zato što njegovo dno nije u stanju da zadrži vodu.
-Sav ovaj teren je kraški, i potoci i rečice malo teku po površini a malo ispod nje, a jedino u proleće kada se sneg topi
+Ropojansko jezero ka kom smo se uputili je nestalno, i njegovo dno nije u stanju da zadrži vodu tokom leta.
+Sav ovaj teren je kraški, i potoci i rečice malo teku po površini a malo ispod nje, jedino u proleće kada se sneg topi
 njihova korita su zapenjena celom dužinom.
 
 Ponor Grlje je jedno od takvih mesta na kom voda nestaje, da bi ponovo izbila kod Ali-pašinih izvora. Pratimo Grlju uzodno,
 i posle njenu desnu pritoku, Skakavicu. Spuštamo se do Oka Skakavice (ili Savinog oka), lepog modro-plavog jezerceta sa
-savršeno prozirnom ledenom vodom, kroz koju pogled dopire sve do dna i pećinice iz koje treperi i izbija voda. 
+savršeno prozirnom ledenom vodom, kroz koju pogled dopire sve do pećinice na dnu iz koje treperi i izbija voda. 
 
 {% include layout/content/img_horizontal.html file_name="20150802-01.jpg" %}
-Dalje uzvodno u uvo doba godine korito je suvo i vodopadi po kojima je rečica dobila ime su tihi. Posle odmora pored 
-jezerceta, nastavili smo ka moreni Ropojanskog jezera putem uz suvo korito. I po ovoj
-žegi je bila očigledna neukrotiva sila vode koja tu tutnji u proleće, odnosi obalu, širi se i razliva po putu kako joj se hoće,
+Dalje uzvodno u ovo doba godine korito je suvo i vodopadi po kojima je Skakavica dobila ime su tihi. Posle odmora pored 
+jezerceta, nastavili smo putem uz suvo korito ka moreni Ropojanskog jezera. I po ovoj
+žegi bila je očigledna neukrotiva sila vode koja tu tutnji u proleće, odnosi obalu, širi se i razliva po putu kako joj se hoće,
 kotrljajući stenje i kamenje, urezujući i praveći sebi novo korito.
 
 {% include layout/content/img_full.html file_name="20150802-06.jpg" %}

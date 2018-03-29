@@ -1,6 +1,6 @@
 ---
 slug:        "planinarenje-sa-bebom"
-title:       "Planinarenje sa bebom"
+title:       "Planinarenje i šatorovanje sa bebom"
 description: "Ranac koji brblja, guguče i ima neke posebne potrebe, ali ako se one ispune, srećan je da deli sa mamom i tatom
               ljubav prema prirodi i planinama."
 excerpt:     "priručnik za ljubitelje ekstremnog roditeljstva"
@@ -74,3 +74,25 @@ ostavljamo u planini, ali jedanput se i to desilo.
 I tako, sve u svemu bilo je jednostavnije i izvodljivije nego što smo se nadali, svakako u okviru naših snaga
 i mogućnosti. Vuk je bio kooperativan, nije se bunio i protivio da sedi u rancu, rado je posmatrao iz njega, brbljao i
 gugutao ili spavao. Uglavnom nije bilo nužno da neko hoda pored njega i zabavlja ga.
+
+### Kampovanje
+
+{% include layout/content/img_horizontal.html file_name="20150805-08.jpg" %}
+Samo spavanje u šatoru nije problem, lako je napraviti meku podlogu ispod deteta i pokriti ga u skladu sa vremenskim 
+prilikama. Takođe i održavanje higijene i pripremanje hrane u improvizovanim uslovima. Najnezgodnije nam je bilo što je 
+svuda u kampu livada u čijoj osnovi je pesak, i koja je oivičena bagremima i 
+bodljikavim žbunovima kupine. A tu su i šatori i stvari drugih ljudi. Zato nismo Vuka mogli da pustimo samog ni na 
+trenutak, jer on je od kad se rodio čovek od akcije, živahan i uporan, i nema šanse da sedi u mestu.
+
+U toku dana, pre nego što popodne ponovo počne da struji vazduh, u kampu je bilo nepodnošljivo toplo, a u sumrak su se 
+spuštali rojevi komaraca. To su bili periodi kada smo se trudili da budemo negde drugo, ali su nam se na Adi Bojani opcije
+za to svodile na pravljenje malih krugova po stazicama između bungalova.
+
+Po našem iskustvu, Ada Bojana sa ovako malim (a živahnim) detetom je bila pogrešna procena i promašaj - peščana zabit puna komaraca gde osim 
+lepe plaže nema ništa drugo (nedostaje lep park sa prirodnim hladom u koji je moguće skloniti se kada upekne sunce, 
+nedostaje normalno šetalište gde je moguće uveče gurati kolica i uspavati dete, a kada plaža dosadi (drugog ili trećeg dana) 
+u blizini su samo Ulcinj i Stari Bar koji ispune samo dva dana. Ada ima smisla kada su deca već dovoljno velika da mogu 
+sama da se igraju u plićaku i da im znači da na plaži provode po ceo dan i to dan za danom, dakle kada imaju bar tri ili 
+četiri godine, i tada možda vredi žrtvovati se i podneti to sve zbog njih. Do tada je nepraktično.
+
+Samo kampovanje je ok i izvodljivo ako je negde usputno.
