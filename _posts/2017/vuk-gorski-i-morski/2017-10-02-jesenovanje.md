@@ -9,7 +9,8 @@ photos:
   -
     key: pakovanje.jpg
     title: kad se štreber pakuje...
-
+tags:
+  - uputstva
 ---
 
 Tako se složilo da sam krajem septembra i početkom oktobra trebao da budem dve nedelje sam sa Vukom, pa umesto da sedimo

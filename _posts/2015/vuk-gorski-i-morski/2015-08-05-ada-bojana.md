@@ -8,6 +8,8 @@ categories:  ['2015-vuk-gorski-i-morski']
 image: "/2015-vuk-gorski-i-morski/ada-bojana/img/20150805-13.jpg"
 tags:
   - ada bojana
+  - ulcinj
+  - stari bar
 photos:
   -
     key: 20150805-01.jpg
@@ -66,6 +68,7 @@ photos:
   -
     key: 20150809-01.jpg
     title: "Ulcinjska Mala plaža i tvrđava u pozadini"
+videos: ["SZ1EHYaIGAw", "maCQOU5hQg4"]
 
 ---
 
@@ -179,7 +182,7 @@ otvorenijem i izloženijem mestu nego kamp, vetar je stalno strujao i nikad nije
 Zvuči možda paradoksalno, ali ovi dani mirovanja bili su naporniji od aktivnih dana u planini. Vuk je bio suviše mali
 da bi mu plaža i kupanje dugo bili interesantni, a kada odemo sa plaže, nismo baš imali kud - nema šetališta, parkića,
 trga... Već posle nekoliko dana smo se smorili i krenuli da tražimo opcije za izlete. Kako je Ada Bojana u samom ćošku
-Crne Gore, realistični su nam bili samo izleti do Ulcinja i Bara.
+Crne Gore, realistični su nam bili samo izleti do Ulcinja i Bara. {% include time_machine.html text="Poučeni ovim iskustvom, sledeće godine smo odabrali Tivat kao bazu na moru - lep gradić koji ima šetalište, parkove, plaže i sa svih strana je okružen interesantnim destinacijama." %}
 
 
 {% include layout/content/img_full.html file_name="20150808-01.jpg" %}
@@ -191,7 +194,7 @@ koji idu ka ulcinjskoj Velikoj plaži i Adi Bojani. U Stari Bar smo stigli oko p
 kamen isijava od dole.
 
 {% include layout/content/img_horizontal.html file_name="20150808-02.jpg" %}
-Stari Bar je interesantno mesto na koje mi nikad nije mi mrsko da svratim kada sam u blizini. Šetamo kamenim stazama i 
+Stari Bar je interesantno mesto na koje mi nikad nije mrsko da svratim kada sam u blizini. Šetamo kamenim stazama i 
 stepenicama, malo brže na otkrivenim delovima, malo sporije u hladu čempresa ili starih maslina, ne žurimo se, virimo u
 svaki kutak, penjemo se na svaku isturenu tačku. Na više mesta na informativnim tablama je "jadikovka" o razornom 
 zemljotresu pre skoro četrdeset godina i nedostatku sredstava da se obavi potpuna sanacija. Ali ne vidim kako to opravdava
@@ -201,7 +204,7 @@ Sunce prži a u Stari Bar u ciklusima pristižu grupe nevoljnih osnovaca, ispune
 da overe stavku u svom programu puta i kamene uličice se jednako brzo utišaju, isprazne i ponovo postanu samo naše.
 
 {% include layout/content/img_horizontal.html file_name="20150808-15.jpg" %}
-Vuk je zadovoljan pošto smo ga pustili da šetka i viri gde mu je volja. Spuštamo se u podgrađe i obilazimo zanatske
+Vuk je zadovoljan što smo ga pustili da šetka i viri gde mu je volja. Spuštamo se u podgrađe i obilazimo zanatske
 radnjice. A u jednoj od njih klinac od nekih 6-7 godina, ozbiljan, sav k'o odrastao, sam dočekuje mušterije, priča im 
 i objašnjava, hvali i nudi robu domaće proizvodnje, smokve, masline, maslinovo ulje, lozovača... Šarmirao nas je,
 pa smo se kod njega snabdeli suvenirima i poklonima za prijatelje i rodbinu.
@@ -209,13 +212,13 @@ pa smo se kod njega snabdeli suvenirima i poklonima za prijatelje i rodbinu.
 {% include layout/content/img_horizontal.html file_name="20150808-19.jpg" %}
 Spuštamo se u Bar, lučki gradić širokih ulica u hladu palmi. Nema dugu istoriju ili staro jezgro, ali meni se svejedno
 dopada. Špartamo između blokova, obilazimo parkove, uživamo na dugom šetalištu pored mora. Posle ručka u finom 
-restorančiću krećemo nazad, i stižemo taman da se bućnemo u moru pre zalaska sunca.
+restorančiću krećemo nazad, i stižemo na Adu taman da se bućnemo u moru pre zalaska sunca.
 
 {% include layout/content/img_full.html file_name="20150809-01.jpg" %}
 
 ### Ulcinj, 9. avgust 2015.
 
-Sutradan se idemo ka Ulcinju. A tamo - haos, urbanistički i saobraćajni. Uzane, krivudave ulice pretrpane automobilima i
+Sutradan idemo ka Ulcinju. A tamo - haos, urbanistički i saobraćajni. Uzane, krivudave ulice pretrpane automobilima i
 reke ljudi koji se provlače između njih i robe koja se iz dućana preliva po trotoarima. Silazimo do dupke pune Male plaže 
 i šetamo uz nju ka starom gradu.
 

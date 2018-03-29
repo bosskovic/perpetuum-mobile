@@ -29,7 +29,9 @@ photos:
     key: 20150801-12.jpg
     title: "Veseli ranac"
 videos: ["_6R3_oEIABw"]
-
+tags:
+  - uputstva
+  
 ---
 
 {% include layout/content/img_horizontal.html file_name="20150804-01.jpg" %}

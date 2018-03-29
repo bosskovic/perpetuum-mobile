@@ -6,7 +6,9 @@ description: "Konačno imaš četiri nedelje godišnjeg, možeš da ih iskoristi
 categories:  ['2016-boka']
 image: "/2016-boka/planovi-pakovanje-put/img/03.jpg"
 videos:      ['x69hkfq1DaE']
-
+tags:
+  - uputstva
+  
 ---
 
 Kada dvoje putuju sami, mogu kako hoće - da ponesu samo ono što stane u ranac, da spavaju na zemlji, u šatoru,

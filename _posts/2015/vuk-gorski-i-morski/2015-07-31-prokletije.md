@@ -218,6 +218,6 @@ Kad je sunce malo oslabilo, silazimo nazad istim putem i predveče stižemo do k
 Andrijevici i onda strmim vijugavim putem ka Komovima. Vuka je taj put silno namučio, uzmućkao se i rasplakao, jedva
 smo, uz česte pauze, prešli tih poslednjih desetak kilometara do Štavne. Oko devet uveče smo bili u bungalovima u Štavni.
 
-Napomena: nisam imao GPS pa je priloženi trek unesen ručno na mapi.
+Napomena: nisam imao GPS, priloženi trek je unesen ručno na mapi.
 
 <span class="caption text-muted pull-right">Tekst napisan u martu 2018.</span>

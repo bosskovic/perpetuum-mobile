@@ -26,7 +26,7 @@ photos:
   -
     key: 20150804-01.jpg
     title: "Biogradsko jezero"
-videos: ["VxWJohXt2b4"]
+videos: ["VxWJohXt2b4", "m0pcKOZvPU8", "fCr0yHaUsEA", "YJ5WQcLrQuo"]
   
 ---
 
@@ -76,12 +76,12 @@ Vasojevića komu.</em>
 
 {% include layout/content/img_full.html file_name="20150804-01.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20150803-17.jpg" %}
+{% include layout/content/video_thumb.html id="m0pcKOZvPU8" %}
 Kiša se tokom noći ispadala, i jutro je bilo prohladno, ali lepo, sunčano i mirisno. Doručkovali smo i krenuli u krug oko
 lepog jezera. Za razliku od žege na Prokletijama, Biogradsko jezero je bilo do vrha puno, i na njegovoj površini se
 plavilo nebo i zelenele krošnje bukvi.
 
-{% include layout/content/img_full.html file_name="20150804-06.jpg" %}
+{% include layout/content/youtube.html id="fCr0yHaUsEA" %}
 
 {% include layout/content/img_vertical.html file_name="20150804-07.jpg" %}
 Vuk je konačno dobio priliku da trči i šeta koliko mu je volja, i najzabavniji mu je bio deo gde dugački mostići idu preko
@@ -90,6 +90,6 @@ kilometarskim kolonama automobila koji mile po užarenom asfaltu između Sutomor
 
 Još je bio uveliko dan kada stižemo do Ade Bojane, regulišemo kamp, nalazimo mesto i otvaramo šator.
 
-Napomena: nisam imao GPS pa je priloženi trek unesen ručno na mapi.
+Napomena: nisam imao GPS, priloženi trek je unesen ručno na mapi.
 
 <span class="caption text-muted pull-right">Tekst napisan u martu 2018.</span>
