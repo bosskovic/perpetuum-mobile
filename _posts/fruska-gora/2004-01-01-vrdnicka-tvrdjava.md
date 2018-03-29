@@ -106,6 +106,12 @@ photos:
 
 <span class="text-muted"><em>Tekst koji sledi pripremio sam pre nekih desetak godina kada sam planirao da montiram kratki video klip o Vrdničkoj kuli. Na žalost, ništa od izvora nisam naveo u tekstu. Neka za sada ide tako, a planiram svakako uskoro da ga preradim i proširim...</em></span>
 
+<em>"I sad stoji kod Vrdnika kula,  
+blizu lepe crkve Ravanice  
+u lepom Sremu kitnjastome  
+stoji sama upola survana."</em><br>
+Jovan Subotić
+
 {% include layout/content/img_horizontal.html file_name="01-20050430.jpg" %}
 Na kupastom bregu nekoliko kilometara severno od fruškogorskog gradića Vrdnika, nalaze se ostaci Vrdničke tvrđave. 
 Zidine su se prilično urušile, ali dvadesetak metara visoka kula i dalje dominira širom okolinom.

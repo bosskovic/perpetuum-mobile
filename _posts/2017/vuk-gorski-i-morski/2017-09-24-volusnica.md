@@ -8,6 +8,8 @@ description: "Prelep jesenji dan smo iskoristili za jednu od najlepših lakših 
 excerpt: "'prokletijska' šetnja sa najboljim odnosom uloženog truda i zasluženog užitka"
 categories:  ['2017-vuk-gorski-i-morski']
 image: "/2017-vuk-gorski-i-morski/volusnica/img/20170924-10.jpg"
+tags:
+  - volušnica
 photos:
   -
     key: 20170924-01.jpg
