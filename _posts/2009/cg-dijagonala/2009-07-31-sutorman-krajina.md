@@ -86,6 +86,7 @@ bilo ko od ova tri, ali ko god da ju je držao, kontrolisao je prilaz Baru sa se
 U Bar ulazim u ranim jutarnjim satima, i idem pravo prema Starom Baru. Poslednji put sam prolazio ovuda pre skoro 20 godina,
 '90. ili '91. ali mi svejedno sve deluje poznato. 
 
+<div id="stari-bar"></div>
 {% capture story %}
 {% include layout/content/img_horizontal.html file_name="103.jpg" %}
 <p>Kada je došlo do sloma antičke civilizacije, postalo je nebezbedno živeti u ravnicama pored mora ako nisu bile zaštićene
@@ -153,6 +154,7 @@ tezgama, automobili parkirani na sve strane i pri svemu tome velika gužva. Spu�
 široke par stotina metara na čijem kraju vidim stari kameni grad. Plaža je pretrpana suncobranima i ležaljkama a more
 vrvi od glava koje idu gore-dole u ritmu talasa. Miris soli i kreme za sunčanje me prati do starog grada.
 
+<div id="ulcinj"></div>
 {% capture story %}
 {% include layout/content/img_horizontal.html file_name="109.jpg" %}
 <p>Ulcinj je jedno od najstarijih mesta na ovom delu Jadrana. Legenda kaže da su ga osnovali naseljenici iz Kolhide u petom veku pre nove ere,

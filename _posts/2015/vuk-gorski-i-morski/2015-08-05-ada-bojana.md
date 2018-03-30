@@ -187,11 +187,19 @@ Crne Gore, realistični su nam bili samo izleti do Ulcinja i Bara. {% include ti
 
 {% include layout/content/img_full.html file_name="20150808-01.jpg" %}
 
-### Stari Bar, 8. avgust 2015.
+### Bar, 8. avgust 2015.
 
 Jutro se već odavno užarilo kada smo krenuli sa Ade Bojane prema Starom Baru, mimoilazeći se sa dugim kolonama automobila
 koji idu ka ulcinjskoj Velikoj plaži i Adi Bojani. U Stari Bar smo stigli oko podneva. Vazduh stoji, sunce prži od gore a 
 kamen isijava od dole.
+
+<div class="screen-only">
+{% capture story %}
+<p>Kada je došlo do sloma antičke civilizacije, postalo je nebezbedno živeti u ravnicama pored mora ako nisu bile zaštićene
+utvrđenim gradovima... <a href="/2009-cg-dijagonala/sutorman-krajina/#stari-bar" target="_blank">čitaj dalje...</a></p> 
+{% endcapture %}
+{% include layout/post/side_story.html story=story title="Stari Bar" %}
+</div>
 
 {% include layout/content/img_horizontal.html file_name="20150808-02.jpg" %}
 Stari Bar je interesantno mesto na koje mi nikad nije mrsko da svratim kada sam u blizini. Šetamo kamenim stazama i 
@@ -219,6 +227,14 @@ restorančiću krećemo nazad, i stižemo na Adu taman da se bućnemo u moru pre
 Sutradan idemo ka Ulcinju. A tamo - haos, urbanistički i saobraćajni. Uzane, krivudave ulice pretrpane automobilima i
 reke ljudi koji se provlače između njih i robe koja se iz dućana preliva po trotoarima. Silazimo do dupke pune Male plaže 
 i šetamo uz nju ka starom gradu.
+
+<div class="screen-only">
+{% capture story %}
+<p>Ulcinj je jedno od najstarijih mesta na ovom delu Jadrana. Legenda kaže da su ga osnovali naseljenici iz Kolhide u 
+petom veku pre nove ere, i da je po njima... <a href="/2009-cg-dijagonala/sutorman-krajina/#ulcinj" target="_blank">čitaj dalje...</a></p> 
+{% endcapture %}
+{% include layout/post/side_story.html story=story title="Stari grad Ulcinj" %}
+</div>
 
 Nosimo kolica uz strme stepenice tvrđave dok nas prolaznici čudno gledaju. Vrućina je nepodnošljiva. Nalazimo otvor u
 bedemu koji gleda ka moru, jedino mesto gde bar malo struji povetarac, i tu u hladu pravimo dugu pauzu. Jedemo sočne 
