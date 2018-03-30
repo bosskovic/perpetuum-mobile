@@ -34,10 +34,10 @@
     </div>
   </article>
 
-  <div class="container category-navigation">
+  <div class="container category-listing-container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        {% include layout/post/navigation.html %}
+        {% include layout/post/category_listing.html %}
       </div>
     </div>
   </div>
@@ -56,14 +56,6 @@
   {% endif %}
 
   {% include layout/post/related_posts_listing.html %}
-
-  <div class="container category-listing-container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        {% include layout/post/category_listing.html %}
-      </div>
-    </div>
-  </div>
 
   <div class="for-print">
     {% if ppt_stats_exist %}

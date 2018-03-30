@@ -47,7 +47,7 @@ vreća, šator, majce i gaće, sudovi i druga oprema, već moraš polako da ga s
 
 {% include layout/content/img_horizontal.html file_name="20150731-19.jpg" %}
 Pored bezbednog i udobnog prevoza u rancu, osnovne potrebe bebe u planini su: hrana, spavanje, zaštita od sunca,
-insekata, vetra, kiše i prevencija i zaštita od dosade. Hranu smo dosta jednostavno rešili; sa 16 punih meseci Vuk
+insekata, vetra, kiše i prevencija i zaštita od dosade. Hranu smo dosta jednostavno rešili; sa 15 punih meseci Vuk
 je već uveliko jeo čvrstu hranu, ali je i dalje sisao par puta dnevno. Obično bi mu dali da doručkuje nešto
 "konkretno" pre polaska, za prvi obrok bi poneli čokolino ili kašu od gnječenog voća i keksa, pa bi to
 kombinovao sa sisanjem. Za ovako malo dete, od maminog mleka nema bolje i zgodnije hrane u planini - uvek higijenski
@@ -67,29 +67,30 @@ raznim sprejevima i kremama.
 
 {% include layout/content/img_horizontal.html file_name="20150731-23.jpg" %}
 Mda, zaboravih pelene. Kod kuće smo od početka Vuku stavljali platnene pelene, ali to bi ovde bilo vrlo
-nepraktično, pa smo napravili kompromis i poneli jednokratne. Izbegavali smo da iskorišćenu, punu pelenu
-ostavljamo u planini, ali jedanput se i to desilo.
+nepraktično, pa smo napravili kompromis i poneli jednokratne. Te pelene se reklamiraju kao bio-razgradive, ali svejedno 
+smo izbegavali da iskorišćenu, punu pelenu ostavljamo u planini.
 
 {% include layout/content/img_horizontal.html file_name="20150731-01.jpg" %}
-I tako, sve u svemu bilo je jednostavnije i izvodljivije nego što smo se nadali, svakako u okviru naših snaga
-i mogućnosti. Vuk je bio kooperativan, nije se bunio i protivio da sedi u rancu, rado je posmatrao iz njega, brbljao i
-gugutao ili spavao. Uglavnom nije bilo nužno da neko hoda pored njega i zabavlja ga.
+Sve u svemu, bilo je jednostavnije i izvodljivije nego što smo se nadali. Bili smo sa prijateljima voljnim da pomognu i na
+koje možemo da se oslonimo, a i Vuk je bio kooperativan, nije se bunio i protivio da sedi u rancu, rado je posmatrao iz 
+njega, brbljao i gugutao ili spavao. Uglavnom nije bilo nužno da neko hoda pored njega i zabavlja ga.
 
 ### Kampovanje
 
 {% include layout/content/img_horizontal.html file_name="20150805-08.jpg" %}
-Samo spavanje u šatoru nije problem, lako je napraviti meku podlogu ispod deteta i pokriti ga u skladu sa vremenskim 
-prilikama. Takođe i održavanje higijene i pripremanje hrane u improvizovanim uslovima. Najnezgodnije nam je bilo što je 
-svuda u kampu livada u čijoj osnovi je pesak, i koja je oivičena bagremima i 
-bodljikavim žbunovima kupine. A tu su i šatori i stvari drugih ljudi. Zato nismo Vuka mogli da pustimo samog ni na 
-trenutak, jer on je od kad se rodio čovek od akcije, živahan i uporan, i nema šanse da sedi u mestu.
+Spavanje u šatoru nije problem, lako je napraviti meku podlogu ispod deteta i pokriti ga u skladu sa vremenskim 
+prilikama. Ni sa održavanjem higijene i pripremanjem hrane u improvizovanim uslovima nije bilo teškoća. Najnezgodnije nam je bilo što je 
+svuda u kampu livada u čijoj osnovi je pesak, (u koji bi se Vuk uvaljao kao kolač sa makom, pogotovo kada bi ga namazali
+kremom za sunce). Ta ledina je oivičena bagremima i bodljikavim žbunovima kupine, a okolo su šatori i stvari drugih ljudi. 
+Zato nismo Vuka mogli da pustimo samog ni na trenutak, jer on je od kad se rodio čovek od akcije, živahan i uporan, i 
+nema šanse da sedi u mestu.
 
 U toku dana, pre nego što popodne ponovo počne da struji vazduh, u kampu je bilo nepodnošljivo toplo, a u sumrak su se 
 spuštali rojevi komaraca. To su bili periodi kada smo se trudili da budemo negde drugo, ali su nam se na Adi Bojani opcije
 za to svodile na pravljenje malih krugova po stazicama između bungalova.
 
 Po našem iskustvu, Ada Bojana sa ovako malim (a živahnim) detetom je bila pogrešna procena i promašaj - peščana zabit puna komaraca gde osim 
-lepe plaže nema ništa drugo (nedostaje lep park sa prirodnim hladom u koji je moguće skloniti se kada upekne sunce, 
+lepe plaže nema ništa drugo. Nedostaje lep park sa prirodnim hladom u koji je moguće skloniti se kada upekne sunce, 
 nedostaje normalno šetalište gde je moguće uveče gurati kolica i uspavati dete, a kada plaža dosadi (drugog ili trećeg dana) 
 u blizini su samo Ulcinj i Stari Bar koji ispune samo dva dana. Ada ima smisla kada su deca već dovoljno velika da mogu 
 sama da se igraju u plićaku i da im znači da na plaži provode po ceo dan i to dan za danom, dakle kada imaju bar tri ili 

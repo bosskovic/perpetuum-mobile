@@ -196,9 +196,7 @@ kamen isijava od dole.
 {% include layout/content/img_horizontal.html file_name="20150808-02.jpg" %}
 Stari Bar je interesantno mesto na koje mi nikad nije mrsko da svratim kada sam u blizini. Šetamo kamenim stazama i 
 stepenicama, malo brže na otkrivenim delovima, malo sporije u hladu čempresa ili starih maslina, ne žurimo se, virimo u
-svaki kutak, penjemo se na svaku isturenu tačku. Na više mesta na informativnim tablama je "jadikovka" o razornom 
-zemljotresu pre skoro četrdeset godina i nedostatku sredstava da se obavi potpuna sanacija. Ali ne vidim kako to opravdava
-gomile šuta i kutke zarasle u korov i šikaru, koji samo čekaju ruke koje se ne gade posla...
+svaki kutak, penjemo se na svaku isturenu tačku.
 
 Sunce prži a u Stari Bar u ciklusima pristižu grupe nevoljnih osnovaca, ispune tvrđavu, protutnje kroz nju taman koliko
 da overe stavku u svom programu puta i kamene uličice se jednako brzo utišaju, isprazne i ponovo postanu samo naše.
