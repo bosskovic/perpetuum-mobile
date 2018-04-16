@@ -1,11 +1,12 @@
 ---
 slug:        "2018"
 title:       "Fruška gora 2018"
-excerpt:     "Brankovac, Orlovo bojište, Morintovo"
-description: "Sankanje na Brankovcu, noćna šetnja po snegu, potraga za jezercetom kod Murginog točka"
+excerpt:     "Brankovac, Orlovo bojište, Morintovo, Bukovac, Zanoš, Vezirac"
+description: "Nemamo više nekih ograničenja po pitanju vremena i terena, i dostižno nam je sve što je do petnaestak kilometara. 
+              Vuk već mnogo zna o šumi i njenim žiteljima, a ono što ne zna, primećuje i pita."
 categories:  ['fruska-gora']
-image: "/fruska-gora/2018/img/20180408-11.jpg"
-videos: ["casy0CIi0Ic", "ky3BoqEp3A0", "67QYRiGR2KE"]
+image: "/fruska-gora/2018/img/20180414-11.jpg"
+videos: ["casy0CIi0Ic", "ky3BoqEp3A0", "67QYRiGR2KE", "oFnGHlENPYM"]
 show_date: false
 ---
 
@@ -13,6 +14,7 @@ show_date: false
   <li><a href="#20180303">Zimske majstorije na Brankovcu</a></li>
   <li><a href="#20180320">Noćna šetnja za prvo veče proleća</a></li>
   <li><a href="#20180408">Laza, Murga i Babaroga</a></li>
+  <li><a href="#20180414">Kroz atare Bukovca i Petrovaradina</a></li>
 </ul>
 
 {% include separator.html %}
@@ -81,9 +83,9 @@ zločina još su bili sveži: piljevina na panjevima, oblice koje još nisu odvu
 nailazili smo na zdrave panjeve bukve prečnika oko metar.
 
 {% include layout/content/img_horizontal.html file_name="20180408-11.jpg" %}
-Izašli smo iz šume i neko vreme se šetali kroz šarenilo voćnjaka, vinograda, malih vikendica i uzanih njiva. Sve pupi, 
-cveta i miriše. Jezerce koje smo pošli da obiđemo nije ništa naročito - neko je napravio malu zemljanu branu i poplavio
-uzanu dolinu potoka, pretpostavljam radi navodnjavanja obližnjeg voćnjaka.
+Izašli smo iz šume i neko vreme se šetali kroz Belengir - šareno prostranstvo voćnjaka, vinograda, malih vikendica i uzanih 
+njiva. Sve pupi, cveta i miriše. Jezerce koje smo pošli da obiđemo nije ništa naročito - neko je napravio malu zemljanu 
+branu i poplavio uzanu dolinu potoka, pretpostavljam radi navodnjavanja obližnjeg voćnjaka.
 
 {% include layout/content/img_full.html file_name="20180408-09.jpg" %}
 
@@ -91,6 +93,17 @@ uzanu dolinu potoka, pretpostavljam radi navodnjavanja obližnjeg voćnjaka.
 Proleće tek što je počelo, pa smo bez teškoća mogli da improvizujemo i presecamo žgoljavo šipražje i najkraćim smo 
 putem izbili do izvora Murgin točak. Zatvorili smo krug šetnjom okolnim grebenskim putevima, ponovo se spustili u 
 Morintovo i napravili dugu pauzu iznad Lazinog vodopada.
+
+{% capture story %}
+<p>O Murginom točku, tom izvoru zvučnog i interesantnog imena, ništa nisam uspeo da saznam. Najstarija mapa na kojoj sam ga
+našao ucrtanog je mađarska vojna karta iz 1941. i tamo je ucrtan kao Murginov točak. Pretopstavljam da su podaci za tu kartu
+preuzeti iz predratnih karata Kraljevine Jugoslavije koje nemam, a isto ime izvor nosi i na posleratnim jugoslovenskim vojnim kartama. 
+Prvi put je ucrtan kao "Murgin točak" na topografsku kartu razmere 1:25000 iz 1984.</p>
+<p>Toponimi Morintovo i Belengir se na vojnim mapama javljaju znatno ranije, Morintovo od 1806-1869. a Benelngir od 1869-1887.</p>
+<p>Murga može da se odnosi na muško muslimansko ime, sela u centralnoj Mađarskoj i južnoj Bugarskoj, selo na Šar planini na Kosovu.
+Točak može biti neki mehanizam za crpljenje i pumpanje vode ili vodenički točak koji je potok okretao.</p>
+{% endcapture %}
+{% include layout/post/side_story.html story=story title="Murgin točak" %}
  
 U povratku pravimo kratku pauzu u vrdničkom parkiću i vozimo se do Vrdničke kule. Ranije nisam propuštao priliku da odem
 do kule, ali od kako je podignuto "etno selo", nisam bio. Odmah vidim da su proširili stari makadam 
@@ -114,3 +127,37 @@ Na putu za Novi Sad zastajemo u Starom Rakovcu i penjemo se do pećine Beli majd
 postoji", ali za džinove i bauke još nije tako siguran.
 
 Lep proletnji dan koji par ružnih stvari nije pokvarilo.
+
+
+{% include separator.html %}
+{% include layout/content/id.html id="20180414" %}
+### Kroz atare Bukovca i Petrovaradina
+
+14\. april 2018.  
+Bukovac, Podvezirac, Zanoš, Parlog, Vezirac, Širine, Petrovaradin    
+Vuk, Marko
+
+{% include layout/content/img_full.html file_name="20180414-11.jpg" %}
+
+{% include layout/content/img_horizontal.html file_name="20180414-05.jpg" %}
+Lep sunčan, pravi prolećni dan, Vuk i ja krenuli da povežemo nekoliko mesta na obodu šume koja nekako uvek izmiču. Prošli
+smo grebenima oko Bukovca sa kojih se pruža lep pogled na selo, šetali kroz voćnjake sa krošnjama prekrivenim belim cvetovima,
+išli bujnim livadama istačkanim maslačkovima...
+
+{% include layout/content/img_horizontal.html file_name="20180414-07.jpg" %}
+Lenijama između njiva koje su odeljene pokojim voćnjakom, nasadom oraha ili uzanim vinogradom bilo je interesantno i prijatno 
+šetati sada; ali kad zaprži, već za mesec dana a možda i manje, šetnja sa tako malo hlada neće dolaziti u obzir.
+
+{% include layout/content/img_horizontal.html file_name="20180414-11.jpg" %}
+Sa Podvezirca smo se spustili u Zanoš, i obišli malo jezero u Parlogu - ružna baruština koja je nastala kada je voda napunila
+neki stari kop. Žuto-zeleno-smeđa voda, kroz koju pogled ne probija dublje od 20ak cm, skrama na površini, plastika koja 
+pliva, i hor žaba...
+
+{% include layout/content/img_full.html file_name="20180414-13.jpg" %}
+
+{% include layout/content/img_horizontal.html file_name="20180414-16.jpg" %}
+Od jezerceta smo se popeli na Vezirac i obišli spomenik bitke kod Petrovaradina. Bilo je izvan mojih mogućnosti da objasnim
+Vuku šta se tu dešavalo i zašto, ali bilo mu je zabavno kako sam to pokušavao da predstavim, pa sam na zahtev publike morao da izlazim na bis.
+
+Od Vezirca smo se spustili u Širine, i onda putem koji ide paralelno sa starim putem za Beograd, samo par stotina metara
+dalje, sišli sve do Petrovaradina. Ako računam i pešačenje po NS do busa i od busa do kuće, imali smo dobrih 15ak kilometara. 
