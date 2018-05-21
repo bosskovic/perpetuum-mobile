@@ -4,8 +4,8 @@ title:       "Tradicionalna vožnja do Begečke jame"
 excerpt:     "čarde, kuvano vino, skele i sve drugo što je postalo deo tradicije"
 description: "“Vožnja do Begečke jame”, ne zvuči kao događaj koji uzdrmava univerzum, ali ta prva vožnja 2009-te je zaista uzdrmala jedan mali deo univerzuma i pokrenula niz događaja koji su doveli do toga da vožnja postane mala tradicija."
 categories:  ['voznje-oko-ns']
-image: "/voznje-oko-ns/tradicionalna-voznja-do-begecke-jame/img/2017-10.jpg"
-videos: ["e5jIzTuo-OY", "WsekrvCxDyo", "k4EeCU-rXKg", "-agkv34b1iw", "ODs6DV39QN0", "5Q1rYd-BZEs"]
+image: "/voznje-oko-ns/tradicionalna-voznja-do-begecke-jame/img/20180415-02.jpg"
+videos: ["e5jIzTuo-OY", "WsekrvCxDyo", "k4EeCU-rXKg", "-agkv34b1iw", "ODs6DV39QN0", "5Q1rYd-BZEs", "rFKa709lO5M"]
 tags:
   - begečka jama
   - čerevićka skela
@@ -309,6 +309,57 @@ photos:
   -
     key: 2017-10.jpg
     title: Crveni tim
+  -
+    key: 20180415-01.jpg
+    title: Crveni tim
+  -
+    key: 20180415-02.jpg
+    title: Crveni tim
+  -
+    key: 20180415-03.jpg
+    title: Photo bomb
+  -
+    key: 20180415-04.jpg
+    title: Invazija u kadar
+  -
+    key: 20180415-05.jpg
+    title: Invazija u kadar
+  -
+    key: 20180415-06.jpg
+    title: Invazija u kadar
+  -
+    key: 20180415-10.jpg
+    title: Anitin prvi off road
+  -
+    key: 20180415-11.jpg
+    title: Begečka skela
+  -
+    key: 20180415-12.jpg
+    title: Begečka skela
+  -
+    key: 20180415-13.jpg
+    title: Begečka skela
+  -
+    key: 20180415-14.jpg
+    title: Begečka skela
+  -
+    key: 20180415-15.jpg
+    title: Begečka skela
+  -
+    key: 20180415-16.jpg
+    title: Begečka skela
+  -
+    key: 20180415-17.jpg
+    title: Čerević
+  -
+    key: 20180415-16.jpg
+    title: Begečka skela
+  -
+    key: 20180415-19.jpg
+    title: Futoška skela
+  -
+    key: 20180415-19.jpg
+    title: Futog
 
 
 ---
@@ -478,3 +529,30 @@ biciklističke trake) a ostatak do Begeča je bio grbaviji i zarasliji nego ikad
 Klinci su uživali i bili u elementu i budniji nego ikad. Najzanimljivija im je verovatno opet bila vožnja skelom. Aniti,
 koja je najstarija, je ovo verovatno poslednja vožnja u sedištu - već sledeće godine će možda ići na sopstveni pogon.
 
+
+{% include separator.html %}
+{% include layout/content/id.html id="2018" %}
+### Anita prvi put sama vozi
+
+15\. april 2018.
+
+{% include layout/content/youtube.html id="rFKa709lO5M" %}
+
+{% include layout/content/img_horizontal.html file_name="20180415-01.jpg" %}
+Na ovogodišnjoj vožnji bilo je nekoliko novina i nekoliko varijacija na temu. Iz Novog Sada krenuli smo sa Draganom i 
+Matijom, a Žarko i Anita su nas čekali kod futoške skele. Vesela ekipa sa puno dece, brzo je izašla na nasip kod Telepskog
+Dunavca i uhvatila snažan vetar u leđa. Put je zbog radova delom zatvoren za automobile, pa smo skoro sve vreme bili sa
+minimumom saobraćaja.
+
+{% include layout/content/img_horizontal.html file_name="20180415-10.jpg" %}
+Kod skele nam se pridružuju Žarko, Anita i Milana. Anitina prva duga vožnja na svom biciklu, i to bez pomoćnih točkića, 
+prvi put van asfalta (grbavi letnji put koji ide nasipom između skretanja za Čerevićku Skelu i Begeča), prvi kvar na 
+biciklu (otpala pedala)... 
+
+{% include layout/content/img_horizontal.html file_name="20180415-20.jpg" %}
+Kod Braše Žarko vezuje Anitin bicikl za ogradu, i ulećemo u skelu koja se spremala da krene. Od Banoštora prema Beočinu
+čekaju nas uzbrdice i udari košave u grudi. U Karašu kod Ljubavnog ostrva pravimo duugu pauzu pre povratka skelom
+u Bačku. Bodroški i Aleksandrovi ostaju tu u Futogu, a ostatak ekipe se kotrlja nasuprot čeonom vetru, koji ni
+malo ne smeta Andriji, koji je zaspao, i Vuku, kojem je vrlo malo falilo.
+
+A dogodine, jubilej...
