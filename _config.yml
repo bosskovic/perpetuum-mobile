@@ -28,8 +28,10 @@ defaults:
     scope:
       path: ""
     values:
-      comments: false
       show_date: false
+      home_page: false
+      has_subcategories: false
+      image: /assets/img/todorov_do.jpg
       file_name:
         gps_track: "track.kml"
         jpg_map: "track.jpg"
@@ -42,5 +44,4 @@ defaults:
       layout: post
       is_post: true
       permalink: /:categories/:title/
-      comments: true
       show_date: true

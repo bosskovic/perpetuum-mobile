@@ -31,7 +31,16 @@
     <span class="screen-only">
       <br>
       <br>
-      {% include read_time.html content = post.content %}
+      {% if post.has_subcategories %}
+        {% assign time = 0 %}
+        {% for p in site.categories[post.slug] %}
+          {% assign time = p.content | number_of_words | divided_by:170 | plus: time %}
+        {% endfor %}
+        vreme čitanja: ~ {{ time }} min.
+
+      {% else %}
+        {% include read_time.html content = post.content %}
+      {% endif %}
     </span>
   </p>
 </div>

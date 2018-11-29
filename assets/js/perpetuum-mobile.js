@@ -87,6 +87,13 @@ $(document).ready(function (e) {
     $('a.fancybox-video[data-id="' + $(this).data('id') + '"]').click();
   });
 
+  $(document).on('click', '#item-razno', function (e) {
+    $('#razno').toggleClass('hidden');
+    $(this).blur();
+    e.preventDefault();
+    return false;
+  });
+
   if ($("a#showGoogleMap")) {
     $("a#showGoogleMap").fancybox({
       'href': '#map',

@@ -1,4 +1,10 @@
 /*!
+ * perpetuum-mobile v1.0.0 (http://startbootstrap.com)
+ * Copyright 2018 perpetuum-mobile
+ * Licensed under MIT (https://spdx.org/licenses/MIT)
+ */
+
+/*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -6844,8 +6850,8 @@ button.close {
 /*# sourceMappingURL=bootstrap.css.map */
 @font-face {
   font-family: 'fontello';
-  src: url('../fonts/fontello.eot?51515634');
-  src: url('../fonts/fontello.eot?51515634#iefix') format('embedded-opentype'), url('../fonts/fontello.woff2?51515634') format('woff2'), url('../fonts/fontello.woff?51515634') format('woff'), url('../fonts/fontello.ttf?51515634') format('truetype'), url('../fonts/fontello.svg?51515634#fontello') format('svg');
+  src: url('../fonts/fontello.eot?13999859');
+  src: url('../fonts/fontello.eot?13999859#iefix') format('embedded-opentype'), url('../fonts/fontello.woff2?13999859') format('woff2'), url('../fonts/fontello.woff?13999859') format('woff'), url('../fonts/fontello.ttf?13999859') format('truetype'), url('../fonts/fontello.svg?13999859#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -6855,7 +6861,7 @@ button.close {
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.svg?51515634#fontello') format('svg');
+    src: url('../font/fontello.svg?13999859#fontello') format('svg');
   }
 }
 */
@@ -6887,46 +6893,106 @@ button.close {
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
-.icon-drumoplov:before {
+.icon-kalendar:before {
   content: '\e800';
 }
 /* '' */
-.icon-kalendar:before {
+.icon-mapa:before {
   content: '\e801';
 }
 /* '' */
-.icon-mapa:before {
+.icon-slike:before {
   content: '\e802';
 }
 /* '' */
-.icon-slike:before {
+.icon-naslovna:before {
   content: '\e803';
 }
 /* '' */
-.icon-naslovna:before {
+.icon-video:before {
   content: '\e804';
 }
 /* '' */
-.icon-planinarenje:before {
+.icon-tekst:before {
   content: '\e805';
 }
 /* '' */
-.icon-video:before {
+.icon-statistike:before {
   content: '\e806';
 }
 /* '' */
-.icon-tekst:before {
-  content: '\e807';
-}
-/* '' */
-.icon-putovanje:before {
+.icon-vrh-strane:before {
   content: '\e808';
 }
 /* '' */
-.icon-statistike:before {
+.icon-leaf:before {
   content: '\e809';
 }
 /* '' */
+.icon-knjige:before {
+  content: '\e80b';
+}
+/* '' */
+.icon-kampovanje:before {
+  content: '\e810';
+}
+/* '' */
+.icon-muzika:before {
+  content: '\e811';
+}
+/* '' */
+.icon-tech:before {
+  content: '\e813';
+}
+/* '' */
+.icon-list:before {
+  content: '\e817';
+}
+/* '' */
+.icon-put:before {
+  content: '\e818';
+}
+/* '' */
+.icon-blog:before {
+  content: '\e81a';
+}
+/* '' */
+.icon-razno:before {
+  content: '\e81c';
+}
+/* '' */
+.icon-planinarenje:before {
+  content: '\e82a';
+}
+/* '' */
+.icon-drvo:before {
+  content: '\e83e';
+}
+/* '' */
+.icon-filmovi:before {
+  content: '\f040';
+}
+/* '' */
+.icon-putovanje:before {
+  content: '\f0f2';
+}
+/* '' */
+.icon-dete:before {
+  content: '\f1ae';
+}
+/* '' */
+.icon-pakovanje:before {
+  content: '\f1b2';
+}
+/* '' */
+.icon-video-klipovi:before {
+  content: '\f1c8';
+}
+/* '' */
+.icon-drumoplov:before {
+  content: '\f206';
+}
+/* '' */
 /* cyrillic */
 @font-face {
   font-family: 'Lora';
@@ -8538,4 +8604,71 @@ hr.separator {
     page-break-after: avoid;
     page-break-inside: avoid;
   }
+}
+.simple-head {
+  text-align: center;
+  margin-top: 10px;
+}
+.simple-head img {
+  display: inline !important;
+}
+.simple-head #moto {
+  font-style: italic;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  color: #666666;
+}
+.simple-head #moto:hover {
+  color: black;
+}
+.simple-head .menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.simple-head .menu li {
+  display: inline;
+}
+.simple-head .menu li a i {
+  border: 1px solid #8c8c8c;
+  border-radius: 50%;
+  background-color: white;
+  padding: 10px;
+  margin: 2px;
+  font-size: larger;
+}
+.simple-head .menu li a:hover i {
+  background-color: #eee;
+}
+.simple-head .menu li a#item-razno i {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.simple-head .menu li ul {
+  display: block;
+  margin-top: 35px;
+}
+#home-content {
+  margin-left: 75px;
+}
+#home-content ul ul {
+  margin-left: 25px;
+  margin-top: 5px;
+}
+#home-content li {
+  margin-bottom: 9px;
+}
+#home-content li i {
+  margin-right: 9px;
+}
+#privacy-disclaimer {
+  color: #9d9d9d;
+  font-size: small;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+}
+#privacy-disclaimer:hover,
+#privacy-disclaimer:focus {
+  color: black;
 }
