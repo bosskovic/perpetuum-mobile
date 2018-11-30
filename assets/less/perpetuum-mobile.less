@@ -860,3 +860,39 @@ hr.separator {
 #privacy-disclaimer:hover, #privacy-disclaimer:focus{
   color: black;
 }
+
+.tag-cloud{
+  text-align: center;
+
+  .site-tag{
+    a {
+      display: inline-block;
+      margin: 5px;
+      border: 1px solid #8c8c8c;
+      border-radius: 50%;
+      padding: 10px 20px;
+    }
+    a:hover{
+      background-color: #eee;
+      text-decoration: none;
+    }
+    a.active{
+      color: @brand-primary;
+    }
+  }
+
+}
+
+.authors-cloud{
+  .site-tag{
+    a {
+      display: block;
+      float: right;
+      padding: 5px !important;
+      clear: both;
+    }
+    a.active{
+      color: @brand-primary;
+    }
+  }
+}

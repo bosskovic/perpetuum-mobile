@@ -1,4 +1,4 @@
-exclude: ["assets/less","node_modules","Gruntfile.js","package.json","README.md","Gemfile","Gemfile.lock","_local","CNAME","pics.sh","thumbs.sh","thumbs_200.sh","s3_website.yml","perpetuum-mobile.iml","*/img_src"]
+exclude: ["assets/less","node_modules","Gruntfile.js","package.json","README.md","Gemfile","Gemfile.lock","_local","CNAME","pics.sh","thumbs.sh","thumbs_200.sh","s3_website.yml","perpetuum-mobile.iml","*/img_src", ".idea/workspace.xml"]
 timezone: Europe/Belgrade
 
 title: perpetuum mobile

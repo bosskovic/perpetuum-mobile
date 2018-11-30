@@ -93,7 +93,34 @@ $(document).ready(function (e) {
     e.preventDefault();
     return false;
   });
-
+  
+  $(document).on('click', '.site-tag .prikazi-sve', function (e) {
+    $(this).parent().parent().find('.site-tag').removeClass('hidden');
+    $(this).parent().addClass('hidden');
+    e.preventDefault();
+    e.stopPropagation();
+    return false;
+  });
+  
+  $(document).on('click', '.tag-cloud a, .authors-cloud a', function (e) {
+    if($(this).hasClass('active')){
+      $('.tag-cloud a, .authors-cloud a').removeClass('active');
+      $('.book-preview').show();
+    }
+    else{
+      $('.tag-cloud a, .authors-cloud a').removeClass('active');
+      $(this).addClass('active');
+      $('.book-preview').hide();
+      $('.book-preview[data-tags*='+$(this).data("tag")+']').show();
+    }
+    $([document.documentElement, document.body]).animate({
+      scrollTop: $(".post-previews").offset().top
+    }, 2000);
+    $(this).blur();
+    e.preventDefault();
+    return false;
+  });
+  
   if ($("a#showGoogleMap")) {
     $("a#showGoogleMap").fancybox({
       'href': '#map',

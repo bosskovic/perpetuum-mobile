@@ -1,0 +1,29 @@
+---
+layout: simple
+---
+
+<div id="text" class="content">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+          <h3><a href="/knjige/">< Knjige</a></h3>
+          <br>
+          <br>
+
+          {% include layout/content/goodreads.html post=page %}
+
+          {{ content }}
+
+        <hr class="screen-only">
+        <span class="post-previews">
+            {% for post in site.categories[page.slug] %}
+            {% include layout/content/post_preview.html %}
+            {% endfor %}
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+

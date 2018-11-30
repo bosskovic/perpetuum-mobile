@@ -11,10 +11,10 @@ layout: simple
                 {% include layout/post/media_footer.html %}
                 <hr class="screen-only">
                 <span class="post-previews">
-          {% for post in site.categories[page.slug] %}
-          {% include layout/content/post_preview.html %}
-          {% endfor %}
-        </span>
+                  {% for post in site.categories[page.slug] %}
+                  {% include layout/content/post_preview.html %}
+                  {% endfor %}
+                </span>
             </div>
         </div>
     </div>

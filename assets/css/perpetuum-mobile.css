@@ -8641,8 +8641,8 @@ hr.separator {
   background-color: #eee;
 }
 .simple-head .menu li a#item-razno i {
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 .simple-head .menu li ul {
   display: block;
@@ -8671,4 +8671,30 @@ hr.separator {
 #privacy-disclaimer:hover,
 #privacy-disclaimer:focus {
   color: black;
+}
+.tag-cloud {
+  text-align: center;
+}
+.tag-cloud .site-tag a {
+  display: inline-block;
+  margin: 5px;
+  border: 1px solid #8c8c8c;
+  border-radius: 50%;
+  padding: 10px 20px;
+}
+.tag-cloud .site-tag a:hover {
+  background-color: #eee;
+  text-decoration: none;
+}
+.tag-cloud .site-tag a.active {
+  color: #0085a1;
+}
+.authors-cloud .site-tag a {
+  display: block;
+  float: right;
+  padding: 5px !important;
+  clear: both;
+}
+.authors-cloud .site-tag a.active {
+  color: #0085a1;
 }
