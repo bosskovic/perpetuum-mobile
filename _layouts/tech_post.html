@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="sr">
+
+{% include layout/head.html %}
+
+<body>
+{% include initialize.html %}
+
+{% include layout/simple_head.html %}
+
+<div id="text" class="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <h3><a href="/tech/">< IT & tech</a></h3>
+                <br>
+
+                <em class="muted">
+                    <i class="icon-kalendar"></i>{{ page.date | date: "%d. %m. %Y." }}
+                    <i class="icon-razno"></i>
+                    {% assign start=true %}
+                    {% for tag in page.tags %}
+                        {% unless start %}
+                            *
+                        {% endunless %}
+                        {% assign start=false %}
+                        {{ tag | replace: 'ttt-', ' ' | replace:'-', ' ' }}
+                    {% endfor %}
+                </em>
+
+                <h2>{{ page.title }}</h2>
+
+                {{ content }}
+
+                <hr class="screen-only">
+                <span class="post-previews">
+                    {% include layout/post/related_tech_posts_listing.html %}
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% include layout/simple_footer.html %}
+
+</body>
+</html>
+
+
+

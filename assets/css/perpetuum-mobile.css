@@ -8698,3 +8698,10 @@ hr.separator {
 .authors-cloud .site-tag a.active {
   color: #0085a1;
 }
+.muted {
+  color: #666666;
+  font-size: smaller;
+}
+.mt-0 {
+  margin-top: 0 !important;
+}

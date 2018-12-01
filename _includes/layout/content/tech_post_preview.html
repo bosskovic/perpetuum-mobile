@@ -1,0 +1,23 @@
+<div class="book-preview" data-tags="{{ post.tags }}">
+  <em class="muted">
+    <i class="icon-kalendar"></i>{{ post.date | date: "%d. %m. %Y." }}
+    <i class="icon-razno"></i>
+    {% assign start=true %}
+    {% for tag in post.tags %}
+      {% unless start %}
+      *
+      {% endunless %}
+      {% assign start=false %}
+      {{ tag | replace: 'ttt-', ' ' | replace:'-', ' ' }}
+    {% endfor %}
+  </em>
+  <br>
+  <a class="screen-only" href="{{ post.url }}">
+    <strong> {{ post.title }} </strong>
+  </a>
+  <p class="muted mt-0">
+    {{ post.excerpt }}
+    <br>
+    [{% include read_time_en.html content = post.content %}]
+  </p>
+</div>

@@ -1,4 +1,4 @@
-{% assign tags = site.tags | sort_natural %}
+{% assign tags = site.tags | sort %}
 {% for tag in tags %}
     {% assign match = tag[0] | slice: 0, 4 %}
     {% if match == include.prefix  %}

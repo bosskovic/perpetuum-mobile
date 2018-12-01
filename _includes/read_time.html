@@ -1,2 +1,2 @@
 {% assign words = include.content | number_of_words %}
-vreme čitanja: ~ {{ words | divided_by:170 }} min.
+vreme čitanja: ~ {{ words | divided_by:170 | plus:1 }} min.
