@@ -4,7 +4,7 @@ title:        "< zanimljiva mesta"
 slug:         "zanimljiva_mesta"
 excerpt:      ""
 animation: 
-  url: /assets/img/hiking2.gif
+  url: /assets/img/animated/hiking.gif
   width: 253
   height: 250
     

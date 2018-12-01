@@ -4,7 +4,7 @@ image: /assets/img/todorov_do.jpg
 title: perpetuum mobile
 excerpt:     "stalno u pokretu"
 animation:
-  url: /assets/img/kamera2.gif
+  url: /assets/img/animated/kamera.gif
   width: 250
   height: 199
 videos:
