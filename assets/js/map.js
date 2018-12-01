@@ -1,4 +1,4 @@
-function Map() {
+function MyMap() {
   this.initializeMap = function (path) {
 
     var map = new google.maps.Map(document.getElementById('map'), {
@@ -21,7 +21,7 @@ $(document).on('click', 'a#showGoogleMap', function (e) {
     $map.css('height', window.innerHeight - 90);
     $map.css('width', window.innerWidth - 90);
     if (gMap == undefined) {
-      gMap = new Map();
+      gMap = new MyMap();
       gMap.initializeMap($map.data('track'));
     }
 });
