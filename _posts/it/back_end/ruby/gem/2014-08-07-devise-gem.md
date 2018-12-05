@@ -8,7 +8,7 @@ date:       2014-08-07
 tags:
   - ttt-ruby-gem
 animation:
-  url: /assets/img/tech.gif
+  url: /assets/img/animated/tech.gif
   width: 250
   height: 176  
 ---

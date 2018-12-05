@@ -9,7 +9,7 @@ tags:
   - ttt-ruby-gem
   - ttt-bdd-/-tdd
 animation:
-  url: /assets/img/tech.gif
+  url: /assets/img/animated/tech.gif
   width: 250
   height: 176  
 ---

@@ -9,7 +9,7 @@ tags:
   - ttt-back-end
   - ttt-dev_tool
 animation:
-  url: /assets/img/tech.gif
+  url: /assets/img/animated/tech.gif
   width: 250
   height: 176  
 ---

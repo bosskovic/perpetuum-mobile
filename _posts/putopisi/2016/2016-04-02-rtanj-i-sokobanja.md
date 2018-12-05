@@ -1,5 +1,5 @@
 ---
-slug:        "rtanj-i-sokobanja"
+slug:        "2016-rtanj-i-sokobanja"
 title:       "Rtanj i Sokobanja"
 excerpt:     "kažu “do pola ideš sam a od pola te Rtanj sam vuče”"
 description: "Rtanj dominira okolnim terenom ali i maštom ljudi. Sa najvećom dozom ozbiljnosti, pojedini “stručnjaci”

@@ -8,7 +8,7 @@ date:       2014-08-19
 tags:
   - ttt-security
 animation:
-  url: /assets/img/tech.gif
+  url: /assets/img/animated/tech.gif
   width: 250
   height: 176  
 ---

@@ -1,5 +1,5 @@
 ---
-slug:        "pescara-april"
+slug:        "2016-pescara"
 title:       "Deliblatska peščara"
 excerpt:     "šetnja kroz Hobiton"
 description: "Zagajička brda su srce Deliblatske peščare, nekoliko desetina metara visoke peščane dine, obrasle travom i
