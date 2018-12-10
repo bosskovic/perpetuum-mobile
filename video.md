@@ -114,6 +114,11 @@ videos:
     date: 2017-10-01
     description: Jesenovanje
   -
+    youtube: CV1TkqEIUUA
+    title: Boka, avgust 2016.
+    date: 2016-08-06
+    description:
+  -
     youtube: _6R3_oEIABw
     title: Vuk gorski i morski 2015
     date: 2015-08-01

@@ -1,5 +1,5 @@
 ---
-slug:        "bratsko-mini-zimovanje"
+slug:        "2018-bratsko-mini-zimovanje"
 title:       "Bratsko mini-zimovanje"
 excerpt:     "snežni vikend na Povlenu"
 description: "Deca nam odrastaju bez snega i sankanja, i moramo da idemo daleko i visoko da bi im ga bar malo priuštili..."

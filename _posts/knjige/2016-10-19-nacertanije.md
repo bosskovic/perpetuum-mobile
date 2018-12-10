@@ -14,6 +14,7 @@ animation:
 tags:
   - aaa-Ilija-Garašanin
   - bbb-Srbija
+  - bbb-srpski-ekspanzionizam
 
 ---
 
