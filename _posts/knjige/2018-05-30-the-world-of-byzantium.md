@@ -20,7 +20,7 @@ tags:
   
 ---
 
-Out of 24 lectures, more than half was dedicated to the late antiquity, the end of the western Roman empire and the 
+Out of 24 lectures, more than half were dedicated to the late antiquity, the end of the western Roman empire and the 
 emergence and development of Christianity. Global chronological overview of the Byzantine history was indeed given, 
 but in my opinion very hastily and in not enough detail. Many important characters and episodes were either barely 
 mentioned or entirely skipped. It appears that the lecture series was geared towards western audiences with minimal 

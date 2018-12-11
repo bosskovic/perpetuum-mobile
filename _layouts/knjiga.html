@@ -13,13 +13,13 @@ layout: simple
 
           {% include layout/content/goodreads.html post=page %}
 
+          <p class="muted mt-0">{{ page.excerpt }}</p>
+
           {{ content }}
 
         <hr class="screen-only">
         <span class="post-previews">
-            {% for post in site.categories[page.slug] %}
-            {% include layout/content/post_preview.html %}
-            {% endfor %}
+          {% include layout/post/related_books_listing.html %}
         </span>
       </div>
     </div>

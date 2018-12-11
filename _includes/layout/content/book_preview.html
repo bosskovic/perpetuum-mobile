@@ -1,9 +1,29 @@
-<div class="book-preview" data-tags='{{ post.tags | replace:"-/-", "-" }}'>
-  <a class="screen-only" href="{{ post.url }}">
-    <em>{{ post.authors }}</em>
+<div class="book-preview" data-tags='{{ include.post.tags | replace:"-/-", "-" }}'>
+  <em class="muted">
+    <i class="icon-kalendar"></i>{{ include.post.date | date: "%d. %m. %Y." }}
+    <i class="icon-razno"></i>
+    {% assign start=true %}
+    {% for tag in include.post.tags %}
+      {% assign match = tag | slice: 0, 4 %}
+      {% if match == "bbb-"  %}
+        {% unless start %}
+          *
+        {% endunless %}
+        {% assign start=false %}
+        {{ tag | replace: 'bbb-', '' | replace:'-', ' ' }}
+      {% endif %}
+    {% endfor %}
+  </em><br>
+  <a class="screen-only" href="{{ include.post.url }}">
+    <em>{{ include.post.authors }}</em>
     <br>
-    <strong> {{ post.title }} </strong>
+    <strong> {{ include.post.title }} </strong>
   </a>
   <br>
-  <br>
+  <p class="muted mt-0">
+    {{ include.post.excerpt }}
+    <br>
+    [{% include read_time.html content = include.post.content %}]
+  </p>
+
 </div>

@@ -5,7 +5,9 @@ title:             "Naši Španci"
 authors:           "Aleš Bebler"
 goodreads_id:      "40223009"
 img:               "https://images.gr-assets.com/books/1527452858l/40223009.jpg"
-excerpt:           ""
+excerpt:           "Odlična foto-monografija. U uvodu sadrži kratak pregled građanskog rata i učešće Jugoslovena u internacionalnim brigadama 
+                    (na nekoliko jezika). Ostatak knjige sadrži mnoštvo fotografija koje dočaravaju atmosferu koja je prethodila, pratila i 
+                    sledila građanski rat i učešće boraca iz Jugoslavije."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

@@ -5,7 +5,7 @@ title:             "Great Ancient Civilizations of Asia Minor"
 authors:           "Kenneth W. Harl"
 goodreads_id:      "2891600"
 img:               "https://images.gr-assets.com/books/1433216582l/2891600.jpg"
-excerpt:           ""
+excerpt:           "Interesantno ali malo zastarelo (s' kraja devedesetih)."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

@@ -5,7 +5,7 @@ title:             "Stories of Your Life and Others"
 authors:           "Ted Chiang"
 goodreads_id:      "25670162"
 img:               "https://images.gr-assets.com/books/1506951237l/25670162.jpg"
-excerpt:           ""
+excerpt:           "Interesantno, originalno, maštovito, nepredvidivo. Previše Biblije za moj ukus u nekim pričama."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif
@@ -15,5 +15,3 @@ tags:
   - bbb-sf
   - aaa-Ted-Chiang
 ---
-
-Interesting, original, imaginative, unpredictable. Too much focus on the Bible for my taste in some of the stories.

@@ -5,7 +5,7 @@ title:             "Moriški snegovi"
 authors:           "Arsen Diklić"
 goodreads_id:      "39794133"
 img:               "https://images.gr-assets.com/books/1523351278l/39794133.jpg"
-excerpt:           ""
+excerpt:           "Prelepi, poetični opisi ravnice, njenih žitelja i naselja, zanimljivi i dobro razrađeni likovi."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

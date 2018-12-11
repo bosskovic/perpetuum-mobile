@@ -5,7 +5,9 @@ title:             "Salaš u Malom Ritu"
 authors:           "Arsen Diklić"
 goodreads_id:      "39794108"
 img:               "https://images.gr-assets.com/books/1523351278l/39794133.jpg"
-excerpt:           ""
+excerpt:           "Nekako prazan, plitak, likovi jednodimenzioni i površni a pripovedanje iz perspektive dečaka mi deluje 
+                    neuspelo. Ali dovoljno je kratko i lako za čitanje, jer vredi nastaviti sa drugim i trećim delom koji
+                    su pisani drugačijim stilom."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

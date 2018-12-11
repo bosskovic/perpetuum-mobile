@@ -5,7 +5,8 @@ title:             "100 Things to See in the Night Sky: From Planets and Satelli
 authors:           "Dean Regas"
 goodreads_id:      "34852818"
 img:               "https://images.gr-assets.com/books/1511691773l/34852818.jpg"
-excerpt:           ""
+excerpt:           "Odličan brz uvod, daje kratak istorijsko-mitološki pregled za svaku 'nebesku priliku' koju opisuje i 
+                    jasna uputstva kako i kada je naći na nebu."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

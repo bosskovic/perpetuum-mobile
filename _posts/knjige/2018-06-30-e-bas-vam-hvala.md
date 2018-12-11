@@ -5,7 +5,7 @@ title:             "E baš vam hvala"
 authors:           "Marko Vidojković"
 goodreads_id:      36328813
 img:               https://images.gr-assets.com/books/1506770323l/36328813.jpg
-excerpt:           ""
+excerpt:           "Zanimljivo, brzo, površno, banalno..."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

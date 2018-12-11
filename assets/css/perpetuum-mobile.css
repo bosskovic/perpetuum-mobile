@@ -8705,3 +8705,7 @@ hr.separator {
 .mt-0 {
   margin-top: 0 !important;
 }
+.pdf-inline img {
+  display: inline !important;
+  margin: 0 !important;
+}

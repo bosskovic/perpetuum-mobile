@@ -48,10 +48,12 @@
 {% assign temp_list = site.array %}
 {% for o in ordered_list %}
   {% if o.is_post %}
-{% comment %}{{ o.title }}{% endcomment %}
-    {% assign temp_list = temp_list | push: o %}
+    {% comment %}{{ o.title }}{% endcomment %}
+    {% unless temp_list contains o %}
+      {% assign temp_list = temp_list | push: o %}
+    {% endunless %}
   {% else %}
-{% comment %}{{ o }}{% endcomment %}
+    {% comment %}{{ o }}{% endcomment %}
   {% endif %}
 {% endfor %}
 

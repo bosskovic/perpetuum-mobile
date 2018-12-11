@@ -5,7 +5,11 @@ title:             "Fruskogorski narodnooslobodilački partizanski odred"
 authors:           "Borislav Stojšić"
 goodreads_id:      "42892727"
 img:               "https://images.gr-assets.com/books/1542752286l/42892727.jpg"
-excerpt:           ""
+excerpt:           "Nezgodno za čitanje, često se prebacuje sa hronološkog na tematski prikaz, izbegava da se bavi 
+                    Podunavskim odredom (jer je tema Fruškogorski) iako teritorije na kojima dejstvuju se graniče i imaju
+                    i drugih dodira. Često nabraja imena u tekstu (umesto u fusnotama ili prilogu), citira obimne segmente
+                    iz izvora direktno u tekstu (što bi opet bilo bolje da je u prilogu), itd. Ali ipak, jedina (pa samim
+                    tim i najbolja) knjiga o fruškogorskim partizanima na koju sam do sada naišao..."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

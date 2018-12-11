@@ -111,20 +111,22 @@ $(document).ready(function (e) {
   });
   
   $(document).on('click', '.tag-cloud a, .authors-cloud a', function (e) {
-    if($(this).hasClass('active')){
-      $('.tag-cloud a, .authors-cloud a').removeClass('active');
-      $('.book-preview').show();
+    if(!$(this).hasClass('prikazi-sve')){
+     if($(this).hasClass('active')){
+        $('.tag-cloud a, .authors-cloud a').removeClass('active');
+        $('.book-preview').show();
+      }
+      else{
+        $('.tag-cloud a, .authors-cloud a').removeClass('active');
+        $(this).addClass('active');
+        $('.book-preview').hide();
+        $('.book-preview[data-tags*='+$(this).data("tag")+']').show();
+      }
+      $([document.documentElement, document.body]).animate({
+        scrollTop: $(".post-previews").offset().top
+      }, 1000);
+      $(this).blur();
     }
-    else{
-      $('.tag-cloud a, .authors-cloud a').removeClass('active');
-      $(this).addClass('active');
-      $('.book-preview').hide();
-      $('.book-preview[data-tags*='+$(this).data("tag")+']').show();
-    }
-    $([document.documentElement, document.body]).animate({
-      scrollTop: $(".post-previews").offset().top
-    }, 2000);
-    $(this).blur();
     e.preventDefault();
     return false;
   });
