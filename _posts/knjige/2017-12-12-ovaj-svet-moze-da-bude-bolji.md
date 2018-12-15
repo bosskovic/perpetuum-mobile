@@ -5,7 +5,7 @@ title:             "Ovaj svet može da bude bolji"
 authors:           "Yanis Varoufakis"
 goodreads_id:      "28019155"
 img:               "https://images.gr-assets.com/books/1448915593l/28019155.jpg"
-excerpt:           ""
+excerpt:           "Osnove ekonomije iz marksističkog ugla za trinaestogodišnje devojčice"
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

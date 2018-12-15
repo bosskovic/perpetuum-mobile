@@ -5,7 +5,7 @@ title:             "Josip Broz Tito"
 authors:           "Fitzroy MacLean"
 goodreads_id:      "36551642"
 img:               "https://images.gr-assets.com/books/1510056818l/36551642.jpg"
-excerpt:           ""
+excerpt:           "Knjiga kakva se i mogla očekivati neposredno nakon Titove smrti, najveća vrednost joj je u mnoštvu fotografija."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif
@@ -46,5 +46,3 @@ Knjiga sadrži brojne citate a ni jednu jedinu referencu. Baš bih voleo da vidi
 
 Možda su trebali da love vukove na konjima sa Titom, nabadaju ih na koplja i ponude Titu Hitlerovu ćerku, pa bi se možda 
 pridružio nemačkom plemenu...
-
-Sve u svemu, knjiga je ono što se i moglo očekivati, a najveća vrednost je mnoštvu fotografija.

@@ -5,7 +5,7 @@ title:             "Sve što znam je punk"
 authors:           "Predrag Drčelić"
 goodreads_id:      "38719508"
 img:               "https://images.gr-assets.com/books/1519291717l/38719508.jpg"
-excerpt:           ""
+excerpt:           "Preporučujem ljubiteljima domaćeg punka i muzike sa angažovanim porukama."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif
@@ -24,5 +24,3 @@ emociju i sažme poruku.
 Uz svaku pesmu ide i kratki tekst, anegdota o njenom nastanku ili inspiraciji ili Skakijeva opšta političko-filozofska 
 razmišljanja. Anegdote su mi bile interesantne, a što se ovog drugog tiče, bez sumnje srce mu je na mestu i intuicija 
 dobra ali ideje malo uprošćene i naivne.
-
-Preporučujem ljubiteljima domaćeg punka i muzike sa angažovanim porukama.

@@ -5,7 +5,8 @@ title:             "Izgubljena pobeda generala Markosa: građanski rat u Grčkoj
 authors:           "Dragan Kljakić"
 goodreads_id:      "36425672"
 img:               "https://images.gr-assets.com/books/1508199236l/36425672.jpg"
-excerpt:           ""
+excerpt:           "Priča o tome kako su jedan narod i njegova borba za slobodu i bolju budućnost postali žrtve trgovine 
+                    između velikih sila."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

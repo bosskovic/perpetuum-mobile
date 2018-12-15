@@ -5,7 +5,8 @@ title:             "Kako vaspitati sjajne dečake"
 authors:           "Ian Grant"
 goodreads_id:      "39720238"
 img:               "https://images.gr-assets.com/books/1522886970l/39720238.jpg"
-excerpt:           ""
+excerpt:           "Vrlo personalizovano (lično), anegdotsko iskustvo koje autor crpi iz svoje brojne porodice (četiri sina i njihova deca) 
+                    koje bez naročite distance, upakovano u sopstveni sistem vrednosti, pokušava da uopšti i učini korisnim drugima."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif
@@ -15,9 +16,6 @@ tags:
   - bbb-vaspitanje-dece
   - aaa-Ian-Grant
 ---
-
-Vrlo personalizovano (lično), anegdotsko iskustvo koje autor crpi iz svoje brojne porodice (četiri sina i njihova deca) 
-koje bez naročite distance, upakovano u sopstveni sistem vrednosti, pokušava da uopšti i učini korisnim drugima.
 
 Svideo mi se neki opšti ton i prepoznao sam svog sina i sebe u mnogim opisanim situacijama, reakcijama ili karakternim 
 osobinama. Knjiga diže ruke od militantne političke korektnosti i prihvata da dečaci i devojčice nisu jednaki, 

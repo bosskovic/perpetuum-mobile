@@ -5,7 +5,8 @@ title:             "Globalna nejednakost; novi pristup za doba globalizacije"
 authors:           "Branko Milanović"
 goodreads_id:      "34994171"
 img:               "https://images.gr-assets.com/books/1493237889l/34994171.jpg"
-excerpt:           ""
+excerpt:           "Ozbiljna, detaljna studija, suviše detaljna i stručna za moj ukus i potrebe, ali ipak pisana i izložena
+                    jasnim i razumljivim jezikom, propraćena grafičkim prikazima."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

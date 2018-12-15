@@ -16,6 +16,7 @@ tags:
   - bbb-omiljene-knjige
   - bbb-nedovršen-prikaz
   - bbb-pretkolonijalna-istorija-amerike
+  - bbb-latinska-Amerika
 ---
 
 Depressing account of 500 years of injustice

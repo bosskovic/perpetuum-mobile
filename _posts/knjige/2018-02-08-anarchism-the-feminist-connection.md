@@ -5,7 +5,8 @@ title:             "Anarchism: The Feminist Connection"
 authors:           "Peggy Kornegger"
 goodreads_id:      "21463818"
 img:               "https://images.gr-assets.com/books/1500478893l/21463818.jpg"
-excerpt:           ""
+excerpt:           "The essay has a nice overview of what anarchism is and isn't, and also a brief history of implementation attempts of 
+                    anarchism in Spain 1936-39 and France 1968."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif
@@ -25,5 +26,3 @@ people and social groups around its principles, while feminism mostly deals with
 but its aim is somehow narrow and exclusive. Feminism is a subset of anarchism and not the other way round (and it 
 seemed at places that that's what the author claimed). In an anarchist society there would be no need for feminism.
 
-The essay has a nice overview of what anarchism is and isn't, and also a brief history of implementation attempts of 
-anarchism in Spain 1936-39 and France 1968.

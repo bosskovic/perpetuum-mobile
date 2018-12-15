@@ -5,7 +5,8 @@ title:             "Titov dnevnik"
 authors:           "Pero Simić"
 goodreads_id:      "7287185"
 img:               "https://images.gr-assets.com/books/1260269280l/7287185.jpg"
-excerpt:           ""
+excerpt:           "Koga interesuje lik i delo JBT, rezolucija IB, raskid SSSR i SFRJ, pretnja ratom, Goli otok, odnosi i zbližavanje SFRJ 
+                    i SAD... svakako vredi da uloži nekoliko sati u ovu knjižicu..."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif
@@ -25,6 +26,3 @@ Tekst dnevnika je doslovno prekucan (onako kako stoji u rukopisu) i transliterov
 nalazi se 18 priloga - raznih dokumenata, izveštaja, saopštenja, intervjua... koji daju bolji kontekst onome o čemu 
 Tito piše i olakšavaju da se situacija bolje razume. Knjiga je propraćena i brojnim fotografijama sa podnaslovima za 
 koje je autor mislio da su duhoviti, ali često su neukusni.
-
-Koga interesuje lik i delo JBT, rezolucija IB, raskid SSSR i SFRJ, pretnja ratom, Goli otok, odnosi i zbližavanje SFRJ 
-i SAD... svakako vredi da uloži nekoliko sati u ovu knjižicu...

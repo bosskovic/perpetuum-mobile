@@ -5,7 +5,7 @@ title:             "Novi Sad: arhivski zapisi"
 authors:           "Vojislav Puškar"
 goodreads_id:      "36565971"
 img:               "https://images.gr-assets.com/books/1510259688l/36565971.jpg"
-excerpt:           ""
+excerpt:           "Suvoparno štivo koje bi moglo biti bolje i preglednije organizovano, ali sadrži interesantne podatke."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

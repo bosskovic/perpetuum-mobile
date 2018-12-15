@@ -5,7 +5,8 @@ title:             "Tito - fenomen 20. veka"
 authors:           "Pero Simić"
 goodreads_id:      "36586776"
 img:               "https://images.gr-assets.com/books/1510567967l/36586776.jpg"
-excerpt:           ""
+excerpt:           "Interesantna knjiga, vredi je pročitati, ali sama za sebe nije dovoljna da bi se saznala ili potpunije 
+                    razumela istina."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif
@@ -51,7 +52,3 @@ mnogo veća kada bi postojao objektivniji kontekst.
 
 Izdanje koje sam čitao ima neki problem sa prelomom, tj. neke strane fale a druge su duplirane, i to baš 10-20 strana 
 koje se bave interesantnim periodom '68 i maspok-a.
-
-
-Sve u svemu, interesantna knjiga, vredi je pročitati, ali sama za sebe nije dovoljna da bi se saznala ili potpunije 
-razumela istina.

@@ -5,7 +5,9 @@ title:             "Egzotična Vojvodina"
 authors:           "Sonja Bajandićeva Jovanović"
 goodreads_id:      "39730580"
 img:               "https://images.gr-assets.com/books/1523010979l/39730580.jpg"
-excerpt:           ""
+excerpt:           "Umesto opskurnih podataka iz istorijskih fusnota, lokalnih angdota i legendi, 'Egzotična Vojvodina'
+                    je rezultat površnog i lenjog istraživanja koje je verovatno bilo svedeno na Internet i par opštih
+                    enciklopedija."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif

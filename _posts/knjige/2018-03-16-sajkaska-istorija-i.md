@@ -5,7 +5,7 @@ title:             "Šajkaska, Istorija I"
 authors:           "Slavko Gavrilović"
 goodreads_id:      "39295270"
 img:               "https://images.gr-assets.com/books/1521191163l/39295270.jpg"
-excerpt:           ""
+excerpt:           "Odlična knjiga za svakoga koga interesuje istorija Šajkaške."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif
@@ -27,5 +27,3 @@ vršeno mnogo arheoloških iskopavanja u Šajkaškoj koja bi bitnije uticala na 
 tehnologije i porastom dostupnosti sekvenciranja antičke DNK postaće moguće preciznije odrediti i pratiti migracije 
 stanovništva i mnogo teze će biti potvrđene ili opovrgnute. Što se kasnijih perioda tiče (srednji vek, turski period, 
 Šajkaški bataljon), sa tekstovima koji ih obrađuju nema tih problema.
-
-Odlična knjiga za svakoga koga interesuje istorija Šajkaške.

@@ -5,7 +5,9 @@ title:             "The Dispossessed"
 authors:           "Ursula K. Le Guin"
 goodreads_id:      "756970"
 img:               "https://images.gr-assets.com/books/1357434680l/756970.jpg"
-excerpt:           ""
+excerpt:           "An interesting thought experiment of an anarchist society that was allowed to get established, to 
+                    grow and evolve, set against a SF backdrop. Le Guin really puts lots of effort to imagine a realistic, 
+                    believable society, and to try to predict problems it could face."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif
@@ -95,7 +97,7 @@ forget its origins and must not forget that it has to be permanent, perpetual, i
 ***
 
 I really enjoyed Le Guin's exploration of these ideas, especially in the thought experiment of an anarchist society that 
-was allowed to get established, to grow and evolve. She really put lots of effort to imagine a realistic, believable 
+was allowed to get established, to grow and evolve. She really puts lots of effort to imagine a realistic, believable 
 society, and to try to predict problems it could face.
 
 I did not find the characters or the story itself striking, but only as vehicles for the ideas she wanted developed.

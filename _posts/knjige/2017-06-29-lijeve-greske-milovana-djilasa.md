@@ -5,7 +5,7 @@ title:             "'Lijeve greške' Milovana Đilasa ili partijski silogizam"
 authors:           "Veselin B. Pavlićević"
 goodreads_id:      "35548451"
 img:               "https://images.gr-assets.com/books/1498764493l/35548451.jpg"
-excerpt:           ""
+excerpt:           "Odličan, koncizan, dobro argumentovan i referencama potkrepljen rad."
 categories:        ['knjige']
 animation:
   url: /assets/img/book.gif
@@ -17,8 +17,6 @@ tags:
   - bbb-Đilas
 
 ---
-
-Odličan, koncizan, dobro argumentovan i referencama potkrepljen rad.
 
 Ukratko, srž rada je u sledećem citatu (strana 45).
 
