@@ -87,8 +87,13 @@ and total conformity began being imposed.
 
 There is a great quote from George Orwell that applies to this very well:
 
-    In a Society in which there is no law, and in theory no compulsion, the only arbiter of behaviour is public opinion. But public opinion, because of the tremendous urge to conformity in gregarious animals, is less tolerant than any system of law. When human beings are governed by ‘thou shalt not’, the individual can practise a certain amount of eccentricity: when they are supposedly governed by ‘love’ or ‘reason’, he is under continuous pressure to make him behave and think in exactly the same way as everyone else.
-
+<blockquote>
+In a Society in which there is no law, and in theory no compulsion, the only arbiter of behaviour is public opinion. But 
+public opinion, because of the tremendous urge to conformity in gregarious animals, is less tolerant than any system of 
+law. When human beings are governed by ‘thou shalt not’, the individual can practise a certain amount of eccentricity: 
+when they are supposedly governed by ‘love’ or ‘reason’, he is under continuous pressure to make him behave and think 
+in exactly the same way as everyone else.
+</blockquote>
 
 People are not perfect. Human nature is not perfect. As Le Guin said, an anarchist is not born in the same way a 
 civilised person is not born. They both need to be raised, brought up. And in order to endure, a Revolution must not 

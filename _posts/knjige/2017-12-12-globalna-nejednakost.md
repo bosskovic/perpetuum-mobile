@@ -30,8 +30,10 @@ Tri važne promene koje su najviše uticale na kretanje globalne nejednakosti u 
 
 Kuznjecova hipoteza:
 
-    industralizacijom zemlje i rastom prosečnih primanja nejednakost prvo raste, a potom opada što daje krivu u obliku obrnutog slova U kada se kretanje nivoa nejednakost prikaže u odnosu na dohodak.
-
+<blockquote>
+industralizacijom zemlje i rastom prosečnih primanja nejednakost prvo raste, a potom opada što daje krivu u obliku 
+obrnutog slova U kada se kretanje nivoa nejednakost prikaže u odnosu na dohodak.
+</blockquote>
 
 
 Autor dovodi ovu hipotezu u pitanje, jer ne može da objasni novu pojavu u SAD i drugim bogatim zemljama: dohodovna 

@@ -123,13 +123,13 @@ kind of android conspiracy? If so, they were doing a very poor job of protecting
 
 Here is a definition of empathy from Merriam-Webster's Learner's Dictionary, perhaps I should have started this text with it:
 
-
-    1 : the imaginative projection of a subjective state into an object so that the object appears to be infused with it
-
-    2 : the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, 
-    thoughts, and experience of another of either the past or present without having the feelings, thoughts, and experience 
-    fully communicated in an objectively explicit manner; also : the capacity for this
-
+<blockquote>
+1 : the imaginative projection of a subjective state into an object so that the object appears to be infused with it
+<br><br>
+2 : the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, 
+thoughts, and experience of another of either the past or present without having the feelings, thoughts, and experience 
+fully communicated in an objectively explicit manner; also : the capacity for this
+</blockquote>
 
 If androids were incapable of this, it would be extremely easy to detect them even after a very brief conversation... 
 Imagine communicating with someone who is unaware if you are bored, interested, distracted, tired, angry... The 

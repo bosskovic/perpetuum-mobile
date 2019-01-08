@@ -31,8 +31,18 @@ novinskih tekstova.
 U predgovoru knjige priređivač, Zoran Avramović, napominje da je jedan od motiva za objavljivanje zbirke potreba da se 
 osvetli odnos Crnjanskog prema fašizmu:
 
-    Ovo je prilika da se još jednom osvrnem na podmetnuti fašizam Milošu Crnjanskom. Službeno je boravio u totalitarnim režimima Nemačke i Italije, ali se "fašizam" po pravilu vezivao za njegovo uređivanje lista "Ideje". Pravi kumovi ove etikete, bili su neki pisci sa "književne levice" 1935., a ona se godinama mehanički preuzimala i širila bez kontrole i mere. Do otužnosti. Sa objavljivanjem ovih tekstova o nacizmu, koje Crnjanski piše iz samog centra zbivanja, postaje jasno zašto se na "fašizam" Ideja nije lepila publicistička delatnost Crnjanskog iz 1937/38. Oni koji su krčmili ideološku (i poetsku) sahranu pisca, morali su znati da je "Vreme" te dopise iz Nemačke objavilo. Očigledno, radi se o tome da Crnjanski u svojim komentarima NE SKRIVA (sic) nacionalsocijalističku ideologiju i načine njenog ostvarivanja. On ukazuje na ključne elemente nacionalsocijalističkog poretka. Ta činjenica implicitno osvetljava vrednosno-politički stav Crnjanskog. O nekakvoj drugačijoj artikulaciji kritičkog suda, kada se pod prozorima čuo marš sivih košulja, nije moglo biti ni govora.
-
+<blockquote>
+Ovo je prilika da se još jednom osvrnem na podmetnuti fašizam Milošu Crnjanskom. Službeno je boravio u totalitarnim 
+režimima Nemačke i Italije, ali se "fašizam" po pravilu vezivao za njegovo uređivanje lista "Ideje". Pravi kumovi ove 
+etikete, bili su neki pisci sa "književne levice" 1935., a ona se godinama mehanički preuzimala i širila bez kontrole 
+i mere. Do otužnosti. Sa objavljivanjem ovih tekstova o nacizmu, koje Crnjanski piše iz samog centra zbivanja, postaje 
+jasno zašto se na "fašizam" Ideja nije lepila publicistička delatnost Crnjanskog iz 1937/38. Oni koji su krčmili 
+ideološku (i poetsku) sahranu pisca, morali su znati da je "Vreme" te dopise iz Nemačke objavilo. Očigledno, radi se o 
+tome da Crnjanski u svojim komentarima NE SKRIVA (sic) nacionalsocijalističku ideologiju i načine njenog ostvarivanja. 
+On ukazuje na ključne elemente nacionalsocijalističkog poretka. Ta činjenica implicitno osvetljava vrednosno-politički 
+stav Crnjanskog. O nekakvoj drugačijoj artikulaciji kritičkog suda, kada se pod prozorima čuo marš sivih košulja, nije 
+moglo biti ni govora.
+</blockquote>
 
 
 Knjiga je podeljena u četiri dela: dnevne novinske vesti, političke reportaže, političke komentare i putopise. Novinske 

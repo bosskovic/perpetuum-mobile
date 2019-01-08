@@ -32,7 +32,15 @@ moguće je da grešim).
 Jezik je na nekim mestima vrlo slikovit a jezičke konstrukcije zabavne. U XXI veku sličan format (ali znatno vulgarniji) 
 koriste samo čelnici i predstavnici Radikalne, Napredne i sličnih stranaka u Srbiji.
 
-    Dvadeset i devetog avgusta, nakon dugih i teških porođajnih bolova, general fon Dankelman, vrhovni zapovjednik njemačkih razbojničkih bandi u Srbiji, rodio je jedno malo šugavo nedonošče, kome je - po Hitlerovoj želji - dao ime: vlada. Kada je ovo nedonošče ugledalo svijet božji, potresla se zemlja. Ne, bez šale, 29. avgusta, u 6 sati i 41 minutu, potresla se zemlja, i kada su preplašeni Beograđani izletjeli napolje, vidjeli su da je narodna poslovica: "Tresla se gora, rodio se miš" - potvrđena stvarnom činjenicom. Priča se da je najnovije čedo ludoga Hitlera u dlaku slično Kvinslingu, Hitlerovom prvorođenčetu u Norveškoj. Majka fon Denkelman ostala je u životu, ali biće nesrećna zbog toga što će morati da stalno hrani svoje čedo vještački, da bi ostalo u životu.
+<blockquote>
+Dvadeset i devetog avgusta, nakon dugih i teških porođajnih bolova, general fon Dankelman, vrhovni zapovjednik njemačkih 
+razbojničkih bandi u Srbiji, rodio je jedno malo šugavo nedonošče, kome je - po Hitlerovoj želji - dao ime: vlada. Kada 
+je ovo nedonošče ugledalo svijet božji, potresla se zemlja. Ne, bez šale, 29. avgusta, u 6 sati i 41 minutu, potresla se 
+zemlja, i kada su preplašeni Beograđani izletjeli napolje, vidjeli su da je narodna poslovica: "Tresla se gora, rodio se 
+miš" - potvrđena stvarnom činjenicom. Priča se da je najnovije čedo ludoga Hitlera u dlaku slično Kvinslingu, Hitlerovom 
+prvorođenčetu u Norveškoj. Majka fon Denkelman ostala je u životu, ali biće nesrećna zbog toga što će morati da stalno 
+hrani svoje čedo vještački, da bi ostalo u životu.
+</blockquote>
 
 Uvodni pasus teksta "Još jedna izdajnička marionetska vlada" koji je štampan u četvrtom broju "Biltena" Glavnog štaba 
 NOPOJ, od 4. septembra 1941. U njemu se aludira na formiranje Nedićeve vlade u okupiranoj Srbiji, koje se poklopilo sa 

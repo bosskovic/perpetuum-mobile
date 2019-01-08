@@ -15,7 +15,6 @@ animation:
 tags:
   - aaa-Dean-Regas
   - bbb-astronomija
-  - bbb-nedovršen-prikaz
 
 ---
 

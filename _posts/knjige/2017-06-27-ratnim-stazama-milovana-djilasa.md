@@ -61,8 +61,15 @@ partizana) prešao u četnike i koji je i dalje ogorčen na Đilasa. Mido i Ljub
 novinama (o Đilasovoj krivici/nevinosti), a nakon toga Mido ga je kontaktirao i zamolio da se susretnu. Razgovoru su 
 prisustvovali i Midov brat i Ljubov sin koji su dobri prijatelji.
 
-    Ljubo mi je poručio da dođem kod njega u Bar i da budem njegov gost, iako je na mene ljut što sam ga u novinama upozorio "da mi, bar pod starost, moramo govoriti i pisati istinu i da je on ispao lažov". ... Potpuno gluv Ljubo i ja smo se nadvikivali pa su se Bato i Vuko u početku uplašili a kasnije se smejali našem nadvikivanju i teškom sporazumevanju. ... Ljubo mi je ponovo rekao da je provjeravao moje dosadašnje pisanje i da sam pisao istinu i o četnicima i partizanima. On ponovi da me je zbog toga primio bolestan i star na ovako teški razgovor koji ni sa kim drugim na svijetu ne bi vodio jer mu je pritisak skočio u nedogled zbog sjećanja na sve to. To sam primjećivao pa pokatkad okretao na šalu i drugarsko zadirkivanje. On je to prihvatao i tako smo ostali živi poslije tri puna sata razgovora.
-
+<blockquote>
+Ljubo mi je poručio da dođem kod njega u Bar i da budem njegov gost, iako je na mene ljut što sam ga u novinama 
+upozorio "da mi, bar pod starost, moramo govoriti i pisati istinu i da je on ispao lažov". ... Potpuno gluv Ljubo i ja 
+smo se nadvikivali pa su se Bato i Vuko u početku uplašili a kasnije se smejali našem nadvikivanju i teškom 
+sporazumevanju. ... Ljubo mi je ponovo rekao da je provjeravao moje dosadašnje pisanje i da sam pisao istinu i o 
+četnicima i partizanima. On ponovi da me je zbog toga primio bolestan i star na ovako teški razgovor koji ni sa kim 
+drugim na svijetu ne bi vodio jer mu je pritisak skočio u nedogled zbog sjećanja na sve to. To sam primjećivao pa 
+pokatkad okretao na šalu i drugarsko zadirkivanje. On je to prihvatao i tako smo ostali živi poslije tri puna sata razgovora.
+</blockquote>
 
 
 Možda se pomoću ove knjige (ili samo pomoću nje) ne može doći do neke konačne i objektivne istine o Đilasovoj ulozi 

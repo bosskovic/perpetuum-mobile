@@ -34,7 +34,9 @@ uključena u zvanične podatke, kao i neka od imena žrtava iz zvaničnih podata
 
 Sve u svemu, sav sadržaj knjige bi uglavnom mogao da se svede na rečenicu:
 
-    "Broj žrtava racije veći je od zvaničnog i vlasti nisu uradile i ne rade dovoljno da bi se prave razmere utvrdile".
+<blockquote>
+"Broj žrtava racije veći je od zvaničnog i vlasti nisu uradile i ne rade dovoljno da bi se prave razmere utvrdile".
+</blockquote>
 
 Razlike u brojevima žrtava u Šajkaškoj i Novom Sadu zavisno od izvora bi se mnogo jasnije prikazale grafički, na primer 
 tabelarno, umest suvoparnih navoda kao što je u knjizi.

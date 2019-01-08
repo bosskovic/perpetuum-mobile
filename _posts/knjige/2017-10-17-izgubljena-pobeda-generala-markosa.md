@@ -106,9 +106,14 @@ izvor ili neka ozbiljna studija...
 
 ### Par interesantnih citata iz knjige:
 
-    Zapanjujuće zvuči i tvrđenje Vasosa Mathiopulosa u knjizi "Pokret otpora Grčke, 1941-1944. i saveznici": "Nemački izvori obelodanjuju da je Čerčil sklopio tajni sporazum sa Hitlerom da bi obezbedio okupaciju Grčke posle povlačenja Nemaca" (ekskluzivni intervju s Alberom Šperom koji autor objavljuje u celini na početku knjige). U pitanju je britansko-nemački sporazum sklopljen za vreme drugog svetskog rata 1944. godine. Britanci su, prema tom dogovoru, bili obavezni da neometano omoguće nemačkim jedinicama izvlačenje iz Grčke. U zamenu za to, Hitler je pristao da Britancima, a ne Rusima, preda Solun.
-    strana 48
-
+<blockquote>
+Zapanjujuće zvuči i tvrđenje Vasosa Mathiopulosa u knjizi "Pokret otpora Grčke, 1941-1944. i saveznici": "Nemački izvori 
+obelodanjuju da je Čerčil sklopio tajni sporazum sa Hitlerom da bi obezbedio okupaciju Grčke posle povlačenja Nemaca" 
+(ekskluzivni intervju s Alberom Šperom koji autor objavljuje u celini na početku knjige). U pitanju je britansko-nemački 
+sporazum sklopljen za vreme drugog svetskog rata 1944. godine. Britanci su, prema tom dogovoru, bili obavezni da neometano 
+omoguće nemačkim jedinicama izvlačenje iz Grčke. U zamenu za to, Hitler je pristao da Britancima, a ne Rusima, preda Solun.
+[strana 48]
+</blockquote>
 
 
 Ovo stvarno zvuči neverovatno, pa sam pokušao da pronađem nešto više na tu temu. U knjizi se na više mesta navodi da je 
@@ -118,17 +123,21 @@ predstavnika Gestapoa u Grčkoj, donekle na Stottovu nezavisnu inicijativu, ali 
 shvatili ozbiljnost pregovora, povukli su ga i prekinuli dalju komunikaciju sa Gestapoom. Navodim pasus iz članka o 
 Stottu u <a href="https://en.wikipedia.org/wiki/Donald_Stott" target="_blank">wikipediji</a>:
 
-    Matters came to a head in November 1943, when the mayor of Athens contacted Stott with back channel peace overtures from the Germans. While the approach was initially dismissed, Stott decided to explore the opportunity in order to collect useful intelligence on Germany's position in Greece. Stott met with key representatives of the Gestapo and, as negotiations became more protracted, Stott began to take them seriously. It became clear that any withdrawal from Greece by the Germans would be at the exclusion of the ELAS from the peace process. When senior SOE officers in Cairo became aware of the extent of the negotiations that Stott was facilitating between the Germans and the Greeks, he was ordered to abandon his negotiations and return to Egypt. Following a debriefing held in Cairo, Stott was awarded a Bar to his DSO as a result of the useful intelligence he collected during the negotiations.
+<blockquote>
+Matters came to a head in November 1943, when the mayor of Athens contacted Stott with back channel peace overtures from the Germans. While the approach was initially dismissed, Stott decided to explore the opportunity in order to collect useful intelligence on Germany's position in Greece. Stott met with key representatives of the Gestapo and, as negotiations became more protracted, Stott began to take them seriously. It became clear that any withdrawal from Greece by the Germans would be at the exclusion of the ELAS from the peace process. When senior SOE officers in Cairo became aware of the extent of the negotiations that Stott was facilitating between the Germans and the Greeks, he was ordered to abandon his negotiations and return to Egypt. Following a debriefing held in Cairo, Stott was awarded a Bar to his DSO as a result of the useful intelligence he collected during the negotiations.
+</blockquote>
 
+Kad se najzad Kornjejev [Nikolaj Vasiljevič, general lajtnant Crvene armije, šef sovjetske vojne misije pri jugoslovenskom 
+vrhovnom štabu] vratio iz Moskve [tokom leta 1944.], pisao je Džimas [Andreas, politički komesar Glavnog štaba ELAS, 
+delegat u vrhovnom štabu NOVJ], saopštio mu je "svoj stav" o podršci Grčkoj:
 
-    Kad se najzad Kornjejev [Nikolaj Vasiljevič, general lajtnant Crvene armije, šef sovjetske vojne misije pri jugoslovenskom vrhovnom štabu] vratio iz Moskve [tokom leta 1944.], pisao je Džimas [Andreas, politički komesar Glavnog štaba ELAS, delegat u vrhovnom štabu NOVJ], saopštio mu je "svoj stav" o podršci Grčkoj:
-    "Mišljenja sam da je vaša trogodišnja borba dospela na nultu tačku. I to uglavnom zbog toga što se Engleska previše interesuje za vašu zemlju. Sovjetski Savez nema nameru da se sukobljava sa Velikom Britanijom zbog dve zemlje - Grčke i Jugoslavije. Nigde na svetu, sem u izvesnom smislu u Francuskoj, ne postoje uslovi za prevrate... Vaša politička linija je u raksoraku s današnjim vremenom. Ona se još uvek nalazi negde između 1935-1936. godine. U stvari, vi sada imate dve političke linije koje proizilaze iz postojanja EAM i ELAS, kao i vaše partije KPG u kojima se govori o brzom prelasku u socijalizam, što se smatra velikoburžoaskom stvari..."
-    strana 60
-
-
-    "Prilazeći Staljinu ponudo o partnerstvu, Čerčil se osigurava za slučaj da trku prema Balkanu dobiju jedinice Crvene armije. On se povlači na minimalne pozicije da bi odobrovoljio Staljina i bacio težište na Grčku, a tek zatim na Jugoslaviju i Mađarsku, smatrajući da će možda ipak postići više. U najgorem slučaju, on bi osiguravao makar jednu poziciju na Mediteranu, koji je još uvek smatrao glavnom saobraćajnicom britanske imperije. Na taj korak ga je navodila i okolnost što je u jesen 1944. godine već postalo sasvim jasno da nema prodora u slabine Evrope pod britanskom komandom. Sondiranje raspoloženja narodnooslobodilačkog pokreta pokazalo je jasno da se nikakve operacije u Jugoslaviji ne mogu i neće moći da vode pod inostranom komandom..."
-    strana 72, citat Lea Matesa iz predgovora za izdanje Harimanovih memoara.
-
+<blockquote>
+"Mišljenja sam da je vaša trogodišnja borba dospela na nultu tačku. I to uglavnom zbog toga što se Engleska previše interesuje za vašu zemlju. Sovjetski Savez nema nameru da se sukobljava sa Velikom Britanijom zbog dve zemlje - Grčke i Jugoslavije. Nigde na svetu, sem u izvesnom smislu u Francuskoj, ne postoje uslovi za prevrate... Vaša politička linija je u raksoraku s današnjim vremenom. Ona se još uvek nalazi negde između 1935-1936. godine. U stvari, vi sada imate dve političke linije koje proizilaze iz postojanja EAM i ELAS, kao i vaše partije KPG u kojima se govori o brzom prelasku u socijalizam, što se smatra velikoburžoaskom stvari..."
+[strana 60]
+<br><br>
+"Prilazeći Staljinu ponudo o partnerstvu, Čerčil se osigurava za slučaj da trku prema Balkanu dobiju jedinice Crvene armije. On se povlači na minimalne pozicije da bi odobrovoljio Staljina i bacio težište na Grčku, a tek zatim na Jugoslaviju i Mađarsku, smatrajući da će možda ipak postići više. U najgorem slučaju, on bi osiguravao makar jednu poziciju na Mediteranu, koji je još uvek smatrao glavnom saobraćajnicom britanske imperije. Na taj korak ga je navodila i okolnost što je u jesen 1944. godine već postalo sasvim jasno da nema prodora u slabine Evrope pod britanskom komandom. Sondiranje raspoloženja narodnooslobodilačkog pokreta pokazalo je jasno da se nikakve operacije u Jugoslaviji ne mogu i neće moći da vode pod inostranom komandom..."
+[strana 72, citat Lea Matesa iz predgovora za izdanje Harimanovih memoara].
+</blockquote>
 
 ### Britanski dokumentarac "Greece: The Hidden War"
 

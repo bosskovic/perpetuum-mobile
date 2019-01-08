@@ -20,8 +20,15 @@ tags:
 
 Ukratko, srž rada je u sledećem citatu (strana 45).
 
-    Od tada pa do danas, kazna je materijalni dokaz protiv Milovana Đilasa za njegove "lijeve greške" u Crnoj Gori. Partija je svog jeretika "ulijevo" razapela. Međutim, "razapinjanje" Milovana Đilasa je išlo široko rasprostranjenim i dobro poznatim lukavstvom jednopartijskog, staljinističkog uma. A to je sledeće: javno ćemo priznati da su partizani/komunisti pravili zločine u ratu, koje ćemo u istoriografiji stručno, stidljivo i eufemistički nazvati "lijeve greške". "Lijeva skretanja" sa početka ustanka istoriografski ćemo izjednačiti, povezati sa "lijevim greškama". S obzirom na to da je u Foči 1942. godine Đilas partijski ukoren za "lijeva skretanja" sa početka ustanka, Partija je silogistički "pravilno" zaključila da je Đilas kriv i za "lijeve greške" tj. zločine po Crnoj Gori. Materijalni "dokaz" je Fočanska kazna.
-
+<blockquote>
+Od tada pa do danas, kazna je materijalni dokaz protiv Milovana Đilasa za njegove "lijeve greške" u Crnoj Gori. Partija 
+je svog jeretika "ulijevo" razapela. Međutim, "razapinjanje" Milovana Đilasa je išlo široko rasprostranjenim i dobro 
+poznatim lukavstvom jednopartijskog, staljinističkog uma. A to je sledeće: javno ćemo priznati da su partizani/komunisti 
+pravili zločine u ratu, koje ćemo u istoriografiji stručno, stidljivo i eufemistički nazvati "lijeve greške". "Lijeva 
+skretanja" sa početka ustanka istoriografski ćemo izjednačiti, povezati sa "lijevim greškama". S obzirom na to da je u 
+Foči 1942. godine Đilas partijski ukoren za "lijeva skretanja" sa početka ustanka, Partija je silogistički "pravilno" 
+zaključila da je Đilas kriv i za "lijeve greške" tj. zločine po Crnoj Gori. Materijalni "dokaz" je Fočanska kazna.
+</blockquote>
 
 
 Kazna o kojoj je reč je ukor koji je Đilas dobio od CK KPJ 19. juna 1942. za neuspehe ustanka u Crnoj Gori (u 

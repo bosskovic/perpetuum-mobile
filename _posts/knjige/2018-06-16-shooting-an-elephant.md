@@ -17,7 +17,7 @@ tags:
   - aaa-George-Orwell
   - bbb-esejistika
   - bbb-sociologija-/-socijalna-pravda
-  - bbb-nedovršen-prikaz
+
 ---
 
 <a class="external" href="http://orwell.ru/library/books/htm_file/se">Kompletan tekst 18 eseja na engleskom.</a>

@@ -19,10 +19,12 @@ tags:
  
 ---
 
-    Ima jedno rđavo shvatanje patriotizma koje stavlja otadžbinu iznad svega: iznad prava i krivice. Iznad morala, iznad 
-    poštenja i koje odobrava i zločine predstavnicima te otadžbine. Takav patriota Tucović nije bio.
-    (Kosta Novaković o Tucoviću nakon njegove smrti)
-
+<blockquote>
+Ima jedno rđavo shvatanje patriotizma koje stavlja otadžbinu iznad svega: iznad prava i krivice. Iznad morala, iznad 
+poštenja i koje odobrava i zločine predstavnicima te otadžbine. Takav patriota Tucović nije bio.
+<br>
+(Kosta Novaković o Tucoviću nakon njegove smrti)
+</blockquote>
 
 Od ponovnog začetka srpske države (1804. godine), prilikom njenog širenja na jug i jugoistok ona je dolazila sve češće u 
 kontakt sa albanskim stanovništvom (koje je do druge polovine devetnaestog veka bilo prisutno sve do okoline Niša). Ti 

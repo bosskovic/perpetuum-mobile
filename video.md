@@ -9,6 +9,11 @@ animation:
   height: 199
 videos:
   -
+    youtube: fNcSjCJP2mA
+    title: Divčibare
+    date: januar 2019.
+    description: 
+  -
     youtube: J-quwba8AVI
     title: Venac
     date: 10. novembar 2018.

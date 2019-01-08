@@ -37,11 +37,14 @@ Sve mi vrlo liči na početak 1990-ih u SFRJ: iznenadni i neočekivani udaljeni 
 povlačenje Materniha, revolucija u Budimu i ukidanje feudalizma. Narod pije, veseli se, maše zastavama (mađarskim). 
 Zatim Majska skupština i: 
 
-    "Srbine brate, nećeš više smeti u tvojoj crkvi zapojati 'Gospodi pomiluj' niti ćeš više tvog milog srpskog imena čuti. 
-    Sve će ti to, što ti je najmilije, Mađari oduzeti i zabraniti. No, na oružje, mila braćo, svi složno, malo i veliko, 
-    staro i mlado! Ne dajmo, da nam kivni naš neprijatelj gazi našu milu veru i narodnost, koju su nam pretci krvlju 
-    svojom očuvali i u amanet nam predali."
-    (Golubski citira patrijarhovog sekretara Jovan Stanković u obraćanju narodu u Karlovcima u maju 1848.)
+<blockquote>
+"Srbine brate, nećeš više smeti u tvojoj crkvi zapojati 'Gospodi pomiluj' niti ćeš više tvog milog srpskog imena čuti. 
+Sve će ti to, što ti je najmilije, Mađari oduzeti i zabraniti. No, na oružje, mila braćo, svi složno, malo i veliko, 
+staro i mlado! Ne dajmo, da nam kivni naš neprijatelj gazi našu milu veru i narodnost, koju su nam pretci krvlju 
+svojom očuvali i u amanet nam predali."
+<br>
+(Golubski citira patrijarhovog sekretara Jovan Stanković u obraćanju narodu u Karlovcima u maju 1848.)
+</blockquote>
 
 
 I opet klicanje i veselje, mahanje zastavama, ali ne više mađarskim, sad carskim. Vidim uspaljen narod, u kolektivnoj 

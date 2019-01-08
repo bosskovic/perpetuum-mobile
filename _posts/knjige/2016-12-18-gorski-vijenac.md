@@ -18,7 +18,9 @@ tags:
 
 ---
 
-    Gorski vijenac ne pamti se po događajima nego po izrekama, njegovi junaci su poznati po onome što govore a ne po onome što čine
+<blockquote>
+Gorski vijenac ne pamti se po događajima nego po izrekama, njegovi junaci su poznati po onome što govore a ne po onome što čine
+</blockquote>
 
 stoji u pogovoru izdanja koje imam u rukama (Zavod za udžbenike, Beograd 2013.)
 
@@ -76,18 +78,29 @@ Neka čudna mešavina odjeka tradicije srednjevekovne srpske pravoslavne crkve k
 čitaju i tradicija patrijarhalnog plemenskog ratničkog društva. Nije baš u duhu Novog zaveta. U jednom trenutku tokom 
 sastanka između Crnogoraca i Muhamedanaca vojvoda Batrić kaže:
 
-    No lomite munar i džamiju,
-    pa badnjake srpske nalagajte
-    i šarajte uskrsova jaja,
-    časne dvoje postah da postite;
-    za ostalo kako vam je drago!
-    Ne šćeste li poslušat Batrića,
-    kunem vi se vjerom Obilića
-    i oružjem, mojijem uzdanjem,
-    u krv će nam vjere zaplivati,
-    biće bolja koja ne potone!
-    Ne složi se Bajram sa Božićem
-
+<blockquote>
+No lomite munar i džamiju,
+<br>
+pa badnjake srpske nalagajte
+<br>
+i šarajte uskrsova jaja,
+<br>
+časne dvoje postah da postite;
+<br>
+za ostalo kako vam je drago!
+<br>
+Ne šćeste li poslušat Batrića,
+<br>
+kunem vi se vjerom Obilića
+<br>
+i oružjem, mojijem uzdanjem,
+<br>
+u krv će nam vjere zaplivati,
+<br>
+biće bolja koja ne potone!
+<br>
+Ne složi se Bajram sa Božićem
+</blockquote>
 
 Nalaganje badnjaka i šaranje jaja je doživljaj vere i religije, i ko ga ne deli, sa njim treba na život i smrt.
 
@@ -109,7 +122,7 @@ kraju i biva skrhan tek kada čuje o žrtvama Crnogoraca u Crmnici. Tek u replik
 koje upućuju vladici vidi se da ga osuđuju što se prema Muhamedancima odnosi kao prema braći, mada se to iz njegovih 
 reči ne vidi nigde.
 
-***
+* * *
 
 Radnja Gorskog vijenca, takva kakva je, naglo staje negde oko polovine, kod 1400-tog stiha. Do tada, Njegoš nas uvodi u 
 istoriju borbe islama i hrišćanstva, istoriju Crne Gore, uvodi likove, crnogorske poglavare koji diskutuju i kuju 
@@ -212,11 +225,15 @@ celokupnog dela. Što se tiče dva dela koje sam posebno naglasio u mom prikazu 
 Skender-age), Komentari ih na žalost nisu dovoljno razjasnili. Dok je Banašević objasnio značenje pojedinih 
 reči ("Šišana" je kratka puška, "lakat" jedinica za meru), mislim da nije objasnio šta se dešava u stihovima:
 
-    a odovud neki od našijeh,
-    umimogred, pokraj odže mini
-    i tisni mu od lakta rožinu
-    njegovojzi u grlić šišani.
-
+<blockquote>
+a odovud neki od našijeh,
+<br>
+umimogred, pokraj odže mini
+<br>
+i tisni mu od lakta rožinu
+<br>
+njegovojzi u grlić šišani.
+</blockquote>
 
 Što se drugog slučaja tiče (replike na obraćanje Skender-age), mislim da se pojašnjenje u komentarima opet više odnosi 
 na formu a ne na suštinu - pojašnjeno je izolovano značenje pojedinih stihova, ali ne i zašto su tako nepovezani sa 
@@ -238,5 +255,8 @@ Zanimljiv citat na koji sam naišao iz Memoara Rade Turov Plamenca, koji govori 
 Mahmut paše Bušatlije čija je vojska izvršila invaziju Crne Gore (nekoliko godina pre dešavanja Istrage poturica) da se 
 Crnogorci poštede i ne popale:
 
-    Rade Turov Plamenac; Jovan R. Bojović (1997). Memoari. CID. p. 537. 
-    "Гувернадур Јоко, чим опази турску војску преко Бјелица, он изгори своју кућу и утече у Млетачку државу. Кара-Махмут паша хоћаше опалит племе Његуше, него су га измолили Никшићи да се сачувају, јер са њима држе везу трговине."
+<blockquote>
+Rade Turov Plamenac; Jovan R. Bojović (1997). Memoari. CID. p. 537.
+<br>
+"Гувернадур Јоко, чим опази турску војску преко Бјелица, он изгори своју кућу и утече у Млетачку државу. Кара-Махмут паша хоћаше опалит племе Његуше, него су га измолили Никшићи да се сачувају, јер са њима држе везу трговине."
+</blockquote>    

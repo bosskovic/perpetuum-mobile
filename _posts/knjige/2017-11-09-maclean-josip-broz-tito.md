@@ -25,8 +25,14 @@ pitanju nekritički hvalospev.
 Možda bolje da ilustrujem primerom opis Brozovih avantura, napisanih u strip maniru, na primer Bluberry Hill-a ili 
 Flash Gordon-a:
 
-    U Rusiji će provesti još tri godine. Bile su to godine krvoprolića i građanskih borbi. Bijeli su 1918. zauzeli Omsk. Broz se neko vrijeme krio kod lijepe, plavokose Ruskinje Pelagije Bjelousove, zvane Polka. Među njima se rodila ljubav, ali je on uskoro morao napustiti grad. Na obližnjim stepama sreo je pleme kirgiskih nomada čiji je zapovjednik, Hadži Isaije Džaksembajev, trebao mehaničara u mlinu. S Kirgizima je Broz proveo nekoliko mjeseci. Zadivljeni njegovim jahačkim vještinama, vodili su ga u lov na vukove koje su u punom galopu nabijali na koplja. Uskoro ga Hadži Isaije pozva da se pridruži plemenu i ponudi mu svoju kćer za ženu. Ali Broz je imao druge planove.
-
+<blockquote>
+U Rusiji će provesti još tri godine. Bile su to godine krvoprolića i građanskih borbi. Bijeli su 1918. zauzeli Omsk. 
+Broz se neko vrijeme krio kod lijepe, plavokose Ruskinje Pelagije Bjelousove, zvane Polka. Među njima se rodila ljubav, 
+ali je on uskoro morao napustiti grad. Na obližnjim stepama sreo je pleme kirgiskih nomada čiji je zapovjednik, Hadži 
+Isaije Džaksembajev, trebao mehaničara u mlinu. S Kirgizima je Broz proveo nekoliko mjeseci. Zadivljeni njegovim 
+jahačkim vještinama, vodili su ga u lov na vukove koje su u punom galopu nabijali na koplja. Uskoro ga Hadži Isaije 
+pozva da se pridruži plemenu i ponudi mu svoju kćer za ženu. Ali Broz je imao druge planove.
+</blockquote>
 
 
 U opisima kasnijih događaja, izbegnuta su sva nezgodna i kontroverzna mesta, iako su mnoga u vreme izdavanja knjige već 
@@ -40,8 +46,10 @@ i slaže sa tim. Ovo na primer uopšte nije tačno.
 
 Knjiga sadrži brojne citate a ni jednu jedinu referencu. Baš bih voleo da vidim gde je Himmler ovo rekao:
 
-    >>Želio bih<<, rekao je ljubomorno Heinrich Himmler nekoliko tjedana kasnije, >>da imamo tucet Tita u Njemačkoj, vođa sa takvom odlučnošću i hrabrošću koji, mada su potpuno opkoljeni, neće nikad podleći.<<
-
+<blockquote>
+>>Želio bih<<, rekao je ljubomorno Heinrich Himmler nekoliko tjedana kasnije, >>da imamo tucet Tita u Njemačkoj, vođa sa 
+takvom odlučnošću i hrabrošću koji, mada su potpuno opkoljeni, neće nikad podleći.<<
+</blockquote>
 
 
 Možda su trebali da love vukove na konjima sa Titom, nabadaju ih na koplja i ponude Titu Hitlerovu ćerku, pa bi se možda 

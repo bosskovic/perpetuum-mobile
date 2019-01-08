@@ -100,19 +100,20 @@ priredio i predgovor napisao Branko Popović, pa neka im je to na čast. Takođe
 
 Citiram preskočeni deo kako stoji u engleskom izdanju:
 
-    What especially upset the established mores was not so much the murders themselves, but the way in which they were 
-    carried out. After those prisoners in Šahovići were mowed down, one of our villagers, Sekula, went from corpse to 
-    corpse and severed the ligaments at their heels. This is what is done in the village with oxen after they are struck 
-    down by a blow of the ахe, to keep them from getting up again if they should revive. Some who went through the pockets 
-    of the dead found bloody cubes of sugar there and ate them. Babes were taken from the arms of mothers and sisters 
-    and slaughtered before their eyes. These same murderers later tried to justify themselves by saying that they would 
-    not have cut their throats but only shot them had their mothers and sisters not been there. The beards of the Moslem 
-    religious leaders were torn out and crosses were carved into their foreheads. In one village a group was tied around 
-    a haystack with wire and fire set to it. Some later observed that the flames of burning men are purple. 
-
-    One group attacked an isolated Moslem homestead. They found the peasant skinning a lamb. The intended to shoot him 
-    and burn down the house, but the skinning of the lamb inspired them to hang the peasant by his heels on the same plum 
-    tree. A skilled butcher split open the peasant's head with an axe, but very carefully, so as not to harm the torso. 
-    Then he cut open the chest. The heart was still pulsating. The butcher plucked it out with his hand and threw it to 
-    a dog. Later it was said that the dog did not touch the heart because not even а dog would eat Turkish meat.
-
+<blockquote>
+What especially upset the established mores was not so much the murders themselves, but the way in which they were 
+carried out. After those prisoners in Šahovići were mowed down, one of our villagers, Sekula, went from corpse to 
+corpse and severed the ligaments at their heels. This is what is done in the village with oxen after they are struck 
+down by a blow of the ахe, to keep them from getting up again if they should revive. Some who went through the pockets 
+of the dead found bloody cubes of sugar there and ate them. Babes were taken from the arms of mothers and sisters 
+and slaughtered before their eyes. These same murderers later tried to justify themselves by saying that they would 
+not have cut their throats but only shot them had their mothers and sisters not been there. The beards of the Moslem 
+religious leaders were torn out and crosses were carved into their foreheads. In one village a group was tied around 
+a haystack with wire and fire set to it. Some later observed that the flames of burning men are purple. 
+<br><br>
+One group attacked an isolated Moslem homestead. They found the peasant skinning a lamb. The intended to shoot him 
+and burn down the house, but the skinning of the lamb inspired them to hang the peasant by his heels on the same plum 
+tree. A skilled butcher split open the peasant's head with an axe, but very carefully, so as not to harm the torso. 
+Then he cut open the chest. The heart was still pulsating. The butcher plucked it out with his hand and threw it to 
+a dog. Later it was said that the dog did not touch the heart because not even а dog would eat Turkish meat.
+</blockquote>

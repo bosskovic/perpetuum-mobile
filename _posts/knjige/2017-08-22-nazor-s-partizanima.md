@@ -28,33 +28,42 @@ neizvesnost.
 Zbunjeni starac, proizvod i proponent građanskog nacionalizma i romantizma, izneveren brutalnom realnošću, pokušava na 
 drugoj strani da nađe primere "hrvatstva" koji će ga iskupiti i moralno očistiti.
 
-    I naš narod proživljuje sada možda najvažnije dane.
-    Izbaciti iz sebe sav svoj vjekovni mutni talog, pročistiti se i afirmirati se ili zauvijek propasti.
-    Naš je život bio do danas nikakav: život slugu i robova. Prvi je ovo put što se dio hrvatskog naroda, a upravo onaj koji je najbliži zemlji, prkosno - uz Srbe - diže da se, gotovo bez oružja, bez obuće i bez hrane, bez ičije pomoći, bori samo za sebe. Nov je nagon koji ga vodi; nisu ni uskoci ni hajduci osjećali ovako; njegova je svijest sada šira i dublja. Osjećaj slavenstva i hrvatstva probio se iz dubokih, davno zatrpanih izvora.
-    (str. 22)
-
+<blockquote>
+I naš narod proživljuje sada možda najvažnije dane.
+<br>
+Izbaciti iz sebe sav svoj vjekovni mutni talog, pročistiti se i afirmirati se ili zauvijek propasti.
+<br>
+Naš je život bio do danas nikakav: život slugu i robova. Prvi je ovo put što se dio hrvatskog naroda, a upravo onaj koji je najbliži zemlji, prkosno - uz Srbe - diže da se, gotovo bez oružja, bez obuće i bez hrane, bez ičije pomoći, bori samo za sebe. Nov je nagon koji ga vodi; nisu ni uskoci ni hajduci osjećali ovako; njegova je svijest sada šira i dublja. Osjećaj slavenstva i hrvatstva probio se iz dubokih, davno zatrpanih izvora.
+<br>
+(str. 22)
+</blockquote>
 
 
 Nazor pre rata nije bio sklon komunistima nisu mu bile bliske leve, socijalne ideja, a sada kada se našao među borcima 
 koji za njih ginu, pokušava nekako da ih proguta:
 
-    Nisu partizani neki anacionalni zanešenjaci kako ih protivnici prikazuju. Moje im hrvatstvo ni najmanje ne smeta.
-    (str. 34)
-
-
-
-    Kada sam još u rudniku Tušnici pročitao u "Borbi" Titovu deklaraciju, rekoh mu odmah da će ona za nas vrijedeti kao jedna dobivena bitka.
-    Raspršit će lažne glasine što ih već dugo šire o partizanima protivnici i umirit će lakovjerne i prevarene koji je boje nekoga našeg "divljeg komunizma", nijekanja svake svojine, vjere i narodnosti.
-    (str. 40)
-
+<blockquote>
+Nisu partizani neki anacionalni zanešenjaci kako ih protivnici prikazuju. Moje im hrvatstvo ni najmanje ne smeta.
+<br>
+(str. 34)
+<br><br>
+Kada sam još u rudniku Tušnici pročitao u "Borbi" Titovu deklaraciju, rekoh mu odmah da će ona za nas vrijedeti kao jedna dobivena bitka.
+<br>
+Raspršit će lažne glasine što ih već dugo šire o partizanima protivnici i umirit će lakovjerne i prevarene koji je boje nekoga našeg "divljeg komunizma", nijekanja svake svojine, vjere i narodnosti.
+<br>
+(str. 40)
+</blockquote>
 
 
 I Tito mu je nekako prihvatljiviji jer u njemu vidi ono što želi da vidi:
 
-    Hrvatskom Zagorcu, tvrdom vojniku i hladnom strategu kao da bliješti na dnu duše sjaj dalmatinskog sunca i plavetnilo našeg Jadrana.
-    Osvaja se lako što se doista voli.
-    (str. 61)
-
+<blockquote>
+Hrvatskom Zagorcu, tvrdom vojniku i hladnom strategu kao da bliješti na dnu duše sjaj dalmatinskog sunca i plavetnilo našeg Jadrana.
+<br>
+Osvaja se lako što se doista voli.
+<br>
+(str. 61)
+</blockquote>
 
 
 Nazor je kao pismen i obrazovan čovek sigurno bio u prilici da sazna više o stanovištima marksista i lenjinista o 
@@ -78,9 +87,11 @@ golubove na tavanu).
 
 Nazor kao da je na dugo željenoj ekskurziji, obilazi šume i planine o kojima je pevao ceo život.
 
-    Čudnovato je kako me sudbina, sada u moje stare dane, nosi u krajeve o kojima sam negda, u mladosti, mogao samo slutiti, željeti ih ili se njih bojati.
-    Moja se prošlost spaja s mojom sadašnjošću.
-
+<blockquote>
+Čudnovato je kako me sudbina, sada u moje stare dane, nosi u krajeve o kojima sam negda, u mladosti, mogao samo slutiti, željeti ih ili se njih bojati.
+<br>
+Moja se prošlost spaja s mojom sadašnjošću.
+</blockquote>
 
 
 Opčinjen je prirodom, planinama, rekama, godišnjim dobima, a doživljaj mu kvare prizori pokolja i posledice rata i 
