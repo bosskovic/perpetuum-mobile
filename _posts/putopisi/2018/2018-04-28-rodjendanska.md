@@ -4,7 +4,7 @@ title:       "Rođendanska 2018"
 excerpt:     "Prolećno hodočašće Biogradskom gorom i Prokletijama"
 description: "Mali prolećni raspust proveli smo na dva prelepa mesta, vreme nas je poslužilo i maksimalno smo ga iskoristili."
 categories:  ['putopisi']
-image: "/putopisi/2018-rodjendanska/img/20180501-01.jpg"
+image: "/putopisi/2018-rodjendanska/img/20180429-28.jpg"
 videos: ["PJ3nDAyKDrQ"]
 tags:
   - bjelasica

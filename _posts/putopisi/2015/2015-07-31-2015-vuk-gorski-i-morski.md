@@ -6,7 +6,7 @@ title:        "Vuk gorski i morski - 2015"
 excerpt:      "Sa bebom na planini, u šatoru, i drugi ekstremni sportovi"
 description:  "Imate živahnog jednogodišnjaka i nije vam dovoljno da ga jurite po kući? U tom slučaju, zašto ga ne bi poveli na dve
                nedelje u najviše planine na Balkanu i posle na kampovanje na moru?"
-image:        "/2015-vuk-gorski-i-morski/prokletije/img/20150801-20.jpg"
+image:        "/2015-vuk-gorski-i-morski/prokletije/img/20150802-10.jpg"
 has_subcategories: true
 date:         2015-07-31
 videos:       ["_6R3_oEIABw"]

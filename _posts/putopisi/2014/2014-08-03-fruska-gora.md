@@ -4,7 +4,7 @@ title:       "Fruška gora 2014"
 excerpt:     "prve Vukove 'šetnje'"
 description: "Tek što se rodio, a već planinari. Kengur se fino pokazao i baš uživam što Vuka stalno imam ispred sebe, a ni on se ne buni (uglavnom spava). Popovica, Orlovo bojište, Torine, Kobila, Dumbovac..."
 categories:  ['putopisi']
-image: "/putopisi/2014-fruska-gora/img/20140803_05.jpg"
+image: "/putopisi/2014-fruska-gora/img/20140803_09.jpg"
 photos:
   -
     key: 20140523_01.jpg

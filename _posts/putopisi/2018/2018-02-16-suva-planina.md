@@ -1,11 +1,11 @@
 ---
 slug:        "2018-niska-banja"
 title:       "Opušteni i raspušteni u Niškoj Banji"
-excerpt:     "hedonistički vikend - prvi put sami bez Vuka"
+excerpt:     "hedonistički vikend - prvi i poslednji put sami bez Vuka"
 description: "Lep i opušten produženi vikend, bogat i sadržajan ali ne pretrpan. Doza snega, oblaka i planine, doza tople 
               vode, saune i đakuzija, doza druženja i Niša."
 categories:  ['putopisi']
-image: "/putopisi/2018-niska-banja/img/20180216-75.jpg"
+image: "/putopisi/2018-niska-banja/img/20180216-53.jpg"
 videos: ["9lUAuIGwhsQ"]
 tags:
   - suva planina

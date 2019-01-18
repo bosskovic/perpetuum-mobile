@@ -6,7 +6,7 @@ description: "Nemamo više nekih ograničenja po pitanju vremena i terena, i dos
               Vuk već mnogo zna o šumi i njenim žiteljima, a ono što ne zna, primećuje i pita."
 categories:  ['putopisi']
 image: "/putopisi/2018-fruska-gora/img/20180414-11.jpg"
-videos: ["casy0CIi0Ic", "ky3BoqEp3A0", "67QYRiGR2KE", "oFnGHlENPYM"]
+videos: ["casy0CIi0Ic", "ky3BoqEp3A0", "67QYRiGR2KE", "oFnGHlENPYM", "4U7kGR8nttU", "02KVCGkdZ8s", "QyR9HzwTrOE", "AewTNo2VeNc", "V6aU4srzZ_c", "7DBE14k0gH8", "J-quwba8AVI"]
 show_date: false
 tags:
   - fruska-gora
@@ -17,6 +17,14 @@ tags:
   <li><a href="#20180320">Noćna šetnja za prvo veče proleća</a></li>
   <li><a href="#20180408">Laza, Murga i Babaroga</a></li>
   <li><a href="#20180414">Kroz atare Bukovca i Petrovaradina</a></li>
+  <li><a href="#20180421">Dumbovo i Kobila (proleće)</a></li>
+  <li><a href="#20180915">Krug oko Orlovca</a></li>
+  <li><a href="#20180923">Dumbovo i Kobila (jesen)</a></li>
+  <li><a href="#20181013">Krug oko Popovice</a></li>
+  <li><a href="#20181014">Letenka i Šuljamska glavica</a></li>
+  <li><a href="#20181027">Tancoš</a></li>
+  <li><a href="#20181028">Stražilovo</a></li>
+  <li><a href="#20181110">Venac i Hopovo</a></li>
 </ul>
 
 {% include separator.html %}
@@ -163,3 +171,107 @@ Vuku šta se tu dešavalo i zašto, ali bilo mu je zabavno kako sam to pokušava
 
 Od Vezirca smo se spustili u Širine, i onda putem koji ide paralelno sa starim putem za Beograd, samo par stotina metara
 dalje, sišli sve do Petrovaradina. Ako računam i pešačenje po NS do busa i od busa do kuće, imali smo dobrih 15ak kilometara. 
+
+
+{% include separator.html %}
+{% include layout/content/id.html id="20180421" %}
+### Dumbovo, Kobila, Beli majdan (proleće)
+
+21\. april 2018.  
+Brankovac - Dumbovo - Kobila   
+Vuk, Rastko, Slobodan, Marko
+
+{% include layout/content/youtube.html id="4U7kGR8nttU" %}
+
+Šetnja bi bila prijatnija da baš tog dana nisu punom parom sekli šumu između Sedam izvora i Brankovca. Tak kada smo zašli 
+duboko u Dumbovo, pobegli smo od zvuka motorne testere. Na Kobili smo napravili dugu, prijatnu pauzu. U povratku smo
+svratili na Veliki gradac i do Belog majdana.
+
+
+{% include separator.html %}
+{% include layout/content/id.html id="20180915" %}
+### Krug oko Orlovca
+
+15\. septembar 2018.  
+Crveni čot - Osovlje - Orlovac  
+Vuk, Anita, Matija, Žarko, Dragana, Marko
+
+{% include layout/content/youtube.html id="02KVCGkdZ8s" %}
+
+Dom na Osovlju je ostavljen da propada - prozori i vrata su porazbijani, inventar izlomljen i razvučen, zidovi polupani
+i instalacije iščupane. Gre'ota...
+
+Osim toga, dan je bio idealan za šetnju. Dugu pauzu smo napravili na Orlovcu...
+
+
+{% include separator.html %}
+{% include layout/content/id.html id="20180923" %}
+### Dumbovo, Kobila, Beli majdan (jesen)
+
+23\. septembar 2018.  
+Brankovac - Dumbovo - Kobila   
+Vuk, Mia, Maša, Ranko, Marko
+
+{% include layout/content/youtube.html id="QyR9HzwTrOE" %}
+
+Ovaj krug baš volim i rado ga ponavljam. Usput nalazimo brojne jelenke i cikade. Pravimo dugu pauzu na Kobili.
+
+{% include separator.html %}
+{% include layout/content/id.html id="20181013" %}
+### Krug oko Popovice
+
+13\. oktobar 2018.  
+Popovica  
+Velika družina
+
+{% include layout/content/youtube.html id="AewTNo2VeNc" %}
+
+Po broju dece svih uzrasta valjda rekordna šetnja do sada, a krug oko Popovice je idealan za tako nešto.
+
+{% include separator.html %}
+{% include layout/content/id.html id="20181014" %}
+### Od Letenke do Šuljamske glavice
+
+14\. oktobar 2018.  
+Letenka - Popov čot - Šuljamska glavica  
+Velika družina
+
+{% include layout/content/youtube.html id="AewTNo2VeNc" %}
+
+Šarenilo jeseni polako počinje i lepo smo kombinovali šume i livade.
+
+{% include separator.html %}
+{% include layout/content/id.html id="20181027" %}
+### Tancoš
+
+27\. oktobar 2018.  
+Crveni čot - Gredelj - Tancoš - Stranputica - Kestenski put  
+Velika družina
+
+{% include layout/content/youtube.html id="V6aU4srzZ_c" %}
+
+Stigla prava jesen, a mi šetamo prelepim grebenima oko Crvenog čota.
+
+{% include separator.html %}
+{% include layout/content/id.html id="20181028" %}
+### Stražilovo
+
+28\. oktobar 2018.  
+Brankov čardak - dom - Avala - srednji čot  
+Velika družina
+
+{% include layout/content/youtube.html id="7DBE14k0gH8" %}
+
+Laganini šetnja uprkos košavi.
+
+{% include separator.html %}
+{% include layout/content/id.html id="20181110" %}
+### Venac
+
+11\. novembar 2018.  
+Venac - Novo Hopovo - Staro Hopovo  
+Vuk, Marko
+
+{% include layout/content/youtube.html id="J-quwba8AVI" %}
+
+Brzinska šetnja kroz poznu jesen (a u ataru bulke!)

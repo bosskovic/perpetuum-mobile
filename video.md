@@ -9,15 +9,20 @@ animation:
   height: 199
 videos:
   -
-    youtube: fNcSjCJP2mA
+    youtube: 5JgSp68aV-o
+    title: Klizanje
+    date: januar 2019.
+    description: ""
+  -
+    youtube: W6Uzn9GindU
     title: Divčibare
     date: januar 2019.
-    description: 
+    description: ""
   -
     youtube: J-quwba8AVI
     title: Venac
     date: 10. novembar 2018.
-    description: 
+    description: ""
   -
     youtube: VPn1wTd8Pw8
     title: Gospodar vatre
@@ -55,8 +60,13 @@ videos:
     desctiption: Beč sa klincima
   -
     youtube: QyR9HzwTrOE
-    title: Kobila
+    title: Dumbovo, Kobila, Beli majdan (jesen)
     date: 2018-09-23
+    description: Fruška gora
+  -
+    youtube: 02KVCGkdZ8s
+    title: Krug oko Orlovca
+    date: 2018-09-15
     description: Fruška gora
   -
     youtube: j7LKcn-Zt6s
@@ -84,6 +94,11 @@ videos:
     date: 2018-05-03
     description: Rođendanska 2018
   -
+    youtube: 4U7kGR8nttU
+    title: Dumbovo, Kobila, Beli majdan (proleće)
+    date: 2018-04-21
+    description: ""
+  -
     youtube: rFKa709lO5M
     title: Tradicionalna vožnja do Begečke jame (2018)
     date: 2018-04-15
@@ -93,6 +108,11 @@ videos:
     title: Laza, Murga i Babaroga
     date: 2018-04-08
     description: Laza, Murga i Babaroga
+  -
+    youtube: ky3BoqEp3A0
+    title: Noćna šetnja za prvo veče proleća
+    date: 2018-03-20
+    description: Orlovo bojište
   -
     youtube: casy0CIi0Ic
     title: Zimske majstorije
@@ -107,7 +127,7 @@ videos:
     youtube: mEsfFW0-MNE
     title: Bratsko mini-zimovanje
     date: 2018-02-10
-    description:
+    description: ""
   -
     youtube: BZF88saWp98
     title: Sunca sin
@@ -122,12 +142,12 @@ videos:
     youtube: CV1TkqEIUUA
     title: Boka, avgust 2016.
     date: 2016-08-06
-    description:
+    description: ""
   -
     youtube: _6R3_oEIABw
     title: Vuk gorski i morski 2015
     date: 2015-08-01
-    description:
+    description: ""
 
 ---
 

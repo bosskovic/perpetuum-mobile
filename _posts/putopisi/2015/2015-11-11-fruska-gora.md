@@ -4,7 +4,7 @@ title:       "Fruška gora 2015"
 excerpt:     "iz kengura u ranac, ali i dalje većinu prespava"
 description: "Ranac mi se manje dopada od kengura - viđam Vuka samo na pauzama. Trebalo je da prođe neko vreme dok se nisam konačno dosetio i privezao za kaiš od ranca stari retrovizor sa bicikla. Osovlje, Orlovac, Tancoš, Potoranj, Kobila, Dumbovac, Direk, Stražilovo, Beli Majdan, Kesten... lista lokaliteta koje je Vuk prespavao je sve bogatija"
 categories:  ['putopisi']
-image: "/putopisi/2015-fruska-gora/img/20150214-05.jpg"
+image: "/putopisi/2015-fruska-gora/img/20150214-10.jpg"
 photos:
   -
     key: 20150214-01.jpg
