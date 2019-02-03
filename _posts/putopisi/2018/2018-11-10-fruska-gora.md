@@ -1,11 +1,11 @@
 ---
 slug:        "2018-fruska-gora"
 title:       "Fruška gora 2018"
-excerpt:     "Brankovac, Orlovo bojište, Morintovo, Bukovac, Zanoš, Vezirac"
+excerpt:     "Brankovac, Orlovo bojište, Morintovo, Bukovac, Zanoš, Vezirac, Dumbovo, Kobila, Orlovac, Tancoš, Letenka, Šuljamska glavica, Stražilovo, Venac, Hopovo..."
 description: "Nemamo više nekih ograničenja po pitanju vremena i terena, i dostižno nam je sve što je do petnaestak kilometara. 
               Vuk već mnogo zna o šumi i njenim žiteljima, a ono što ne zna, primećuje i pita."
 categories:  ['putopisi']
-image: "/putopisi/2018-fruska-gora/img/20180414-11.jpg"
+image: "/putopisi/2018-fruska-gora/img/20181110-07.jpg"
 videos: ["casy0CIi0Ic", "ky3BoqEp3A0", "67QYRiGR2KE", "oFnGHlENPYM", "4U7kGR8nttU", "02KVCGkdZ8s", "QyR9HzwTrOE", "AewTNo2VeNc", "V6aU4srzZ_c", "7DBE14k0gH8", "J-quwba8AVI"]
 show_date: false
 tags:

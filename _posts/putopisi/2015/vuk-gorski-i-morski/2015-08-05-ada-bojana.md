@@ -164,7 +164,7 @@ Međutim, glavni problem u vezi kampa bio je taj što u šipražju ostrva živi 
 bikova koji šetaju gde im je volja, ali uglavnom se drže skriveni u rastinju podalje od ljudi, osim u ranim
 jutarnjim satima kada slobodno iz šumaraka ulaze u kamp koji sa te strane nije ograđen. To mi se od početka nije dopalo,
 i žalio sam se "kampovskim vlastima", što svako ko je imao posla sa Crnogorcima zna da je uzaludno. "Da da, trebalo je
-da to bude ograđeno, ma nema problem, zvaće nekog, evo već sutra, ma biće..." I onda ne bude.
+da to bude ograđeno, ma nema problema, zvaće nekog, evo već sutra, ma biće..." I onda ne bude.
 
 Ujutro smo u pesku oko šatora nalazili duboke tragove kopita, a i komšija Slovenac iz šatora pored nam je rekao kako je
 video goveda kako šetaju tik uz šator. Ideja da se pola tone mesa i rogova bez mnogo mozga šeta oko šatora, i da je između naših

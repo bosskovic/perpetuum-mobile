@@ -1,0 +1,13 @@
+{% include matching_posts.html %}
+
+{% unless matching_posts == site.array %}
+
+<span class="post-previews">
+  <h2>Srodni tekstovi</h2>
+  <br>
+  {% for post in matching_posts %}
+    {% include layout/content/misc_post_preview.html %}
+  {% endfor %}
+</span>
+
+{% endunless %}

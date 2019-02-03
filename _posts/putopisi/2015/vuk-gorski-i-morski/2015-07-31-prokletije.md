@@ -191,7 +191,7 @@ Ropojansko jezero ka kom smo se uputili je nestalno, i njegovo dno nije u stanju
 Sav ovaj teren je kraški, i potoci i rečice malo teku po površini a malo ispod nje, jedino u proleće kada se sneg topi
 njihova korita su zapenjena celom dužinom.
 
-Ponor Grlje je jedno od takvih mesta na kom voda nestaje, da bi ponovo izbila kod Ali-pašinih izvora. Pratimo Grlju uzodno,
+Ponor Grlje je jedno od takvih mesta na kom voda nestaje, da bi ponovo izbila kod Ali-pašinih izvora. Pratimo Grlju uzvodno,
 i posle njenu desnu pritoku, Skakavicu. Spuštamo se do Oka Skakavice (ili Savinog oka), lepog modro-plavog jezerceta sa
 savršeno prozirnom ledenom vodom, kroz koju pogled dopire sve do pećinice na dnu iz koje treperi i izbija voda. 
 

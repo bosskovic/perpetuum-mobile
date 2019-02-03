@@ -8,6 +8,11 @@ $(function () {
   $("img").addClass("img-responsive");
 });
 
+// make all external links open in another window
+$(function () {
+  $(".external").attr('target', '_blank');
+});
+
 // responsive tables
 $(document).ready(function () {
   $("table").wrap("<div class='table-responsive'></div>");
