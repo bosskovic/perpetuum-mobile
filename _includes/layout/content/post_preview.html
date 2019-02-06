@@ -27,9 +27,10 @@
     {% endif %}
   </span>
   <p class="post-meta">
-    {{ post.description | strip_html }}
+    {% if post.description %}
+      {{ post.description | strip_html }}<br>
+    {% endif %}
     <span class="screen-only">
-      <br>
       <br>
       {% if post.has_subcategories %}
         {% assign time = 0 %}

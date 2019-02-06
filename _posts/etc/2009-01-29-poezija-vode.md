@@ -3,6 +3,7 @@ slug:         "poezija-vode"
 layout:       etc_post
 title:        "Zdenko Jelčić: Poezija vode"
 excerpt:      "Tekst pesme i izvedba Ibrice Jusića"
+description:  ""
 animation:
   url: /assets/img/animated/etc.gif
   width: 250

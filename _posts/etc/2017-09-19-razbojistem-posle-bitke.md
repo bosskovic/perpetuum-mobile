@@ -2,7 +2,8 @@
 slug:         "razbojistem-posle-bitke"
 layout:       etc_post
 title:        "Krajimir Grbović: Razbojištem posle bitke"
-excerpt:      "Tokom V neprijateljske ofanzive, veče pred pokušaj proboja obruča na Sutjesci od strane III proleterske brigade,
+excerpt:      "Iz zbornika radova 'Sutjeska III'"
+description:  "Tokom V neprijateljske ofanzive, veče pred pokušaj proboja obruča na Sutjesci od strane III proleterske brigade,
                Krajimir Grbović se našao sa svojom jedinicom ispod Mrkalj-Klada. U narednih desetak dana poći će mu naopako
                gotovo sve što je moglo, ali volja za životom, borbom i osvetom neprijatelju održala ga je uprkos najtežim 
                iskušenjima na kojima se našao."

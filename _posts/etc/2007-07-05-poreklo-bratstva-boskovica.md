@@ -2,10 +2,12 @@
 slug:         "poreklo-bratstva-boskovica"
 layout:       etc_post
 title:        "Poreklo bratstva Boškovića"
-excerpt:      "Neposredno pred polazak na moje prvo putešestvije po Crnoj Gori, prikupio sam literaturu koja mi je bila dostupna, 
+excerpt:      "Od Luštice i Prevlake preko Morače, Rovaca, Onogošta do Potarja i Zatarja"
+description:  "Neposredno pred polazak na moje prvo putešestvije po Crnoj Gori, prikupio sam literaturu koja mi je bila dostupna, 
                poskidao internet članke koje sam našao i sistematizovao znanje o mojim crnogorskim precima. U međuvremenu sam još
                svašta saznao, nabavio još mnogo literature, više puta obišao pomenuta mesta, tako da je tekst verovatno zreo za preradu.
                Tekst je iz jula 2007. a fotografije su novije."
+image: "/etc/poreklo-rovackog-plemena/img/rodoslov-naslovna.jpg"
 animation:
   url: /assets/img/animated/etc.gif
   width: 250
@@ -13,6 +15,8 @@ animation:
 categories: ['etc']
 tags: 
   - rodoslov
+  - rovca
+  - vraneš
 ---
 
 ( -> <a href="/putopisi/2007-cg-biciklom/">Crna Gora biciklom 2007 - tragom predaka</a> )  

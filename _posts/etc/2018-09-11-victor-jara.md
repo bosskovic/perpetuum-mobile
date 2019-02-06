@@ -3,6 +3,7 @@ slug:         "victor-jara"
 layout:       etc_post
 title:        "Victor Jara"
 excerpt:      "Prevodi pesama 'El arado' i 'A Desalambrar' na srpskohrvatski"
+description:  ""
 animation:
   url: /assets/img/animated/etc.gif
   width: 250

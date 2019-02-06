@@ -2,7 +2,8 @@
 slug:         "morcheeba"
 layout:       etc_post
 title:        "Morcheeba"
-excerpt:      "Tekst nekoliko pesama"
+excerpt:      "Tekstovi nekoliko pesama"
+description:  ""
 animation:
   url: /assets/img/animated/etc.gif
   width: 250

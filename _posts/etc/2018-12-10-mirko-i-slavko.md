@@ -2,7 +2,8 @@
 slug:         "mirko-i-slavko"
 layout:       etc_post
 title:        "Mirko i Slavko"
-excerpt:      "Kratak istorijat, izvori, spisak epizoda i poneke skenirane epizode."
+excerpt:      "pazi metak!"
+description:  "Kratak istorijat, izvori, spisak epizoda i poneke skenirane epizode."
 animation:
   url: /assets/img/animated/etc.gif
   width: 250

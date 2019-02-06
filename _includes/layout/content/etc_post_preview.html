@@ -13,11 +13,16 @@
   </em>
   <br>
   <a class="screen-only" href="{{ post.url }}">
-    <strong> {{ post.title }} </strong>
+    <strong> {{ post.title }} </strong><br>
+    {% if post.excerpt %}
+      <h3 class="post-subtitle">{{ post.excerpt }}</h3>
+    {% endif %}
   </a>
   <p class="muted mt-0">
-    {{ post.excerpt }}
-    <br>
+    {% if post.description %}
+      {{ post.description }}
+      <br>
+    {% endif %}
     [{% include read_time.html content = post.content %}]
   </p>
 </div>

@@ -30,8 +30,13 @@
 
                 <h2>{{ page.title }}</h2>
                 <p class="muted mt-0">
-                    {{ page.excerpt }}
-                    <br>
+                    {% if page.excerpt %}
+                        <strong>{{ page.excerpt }}</strong><br>
+                    {% endif %}
+                    {% if page.description%}
+                        {{ page.description }}<br>
+                    {% endif %}
+
                     [{% include read_time.html content = page.content %}]
                 </p>
 

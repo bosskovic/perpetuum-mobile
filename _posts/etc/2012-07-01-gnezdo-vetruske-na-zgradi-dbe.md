@@ -2,7 +2,8 @@
 slug:         "gnezdo-vetruske-na-zgradi-dbe"
 layout:       etc_post
 title:        "Gnezdo vetruške na zgradi DBE"
-excerpt:      "Pre mnogo godina dok sam još radio na fakultetu, zajedno sa ornitolozima sam napravio i postavio gnezdo za
+excerpt:      "videomonitoring uz pomoć štapa i kanapa"
+description:  "Pre mnogo godina dok sam još radio na fakultetu, zajedno sa ornitolozima sam napravio i postavio gnezdo za
                vetruške i od štapa i kanapa sastavio sistem za video praćenje koji je bio u funkciji nekoliko godina. Ovo
                je tekst koji je tada bio dostupan na sajtu departmana a u međuvremenu je povučen."
 animation:
