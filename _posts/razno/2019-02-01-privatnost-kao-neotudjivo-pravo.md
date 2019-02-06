@@ -6,9 +6,9 @@ excerpt:      "Ako pojedinac ima pravo na privatnost, onda je nebitno da li ima 
                biti ograničeno ili suspendovano na samovoljan, netransparentan i neregulisan način. A upravo to je ono
                što je razvoj informatičkih tehnologija učinio lakšim nego ikada."
 animation:
-  url: /assets/img/animated/anonymous.gif
-  width: 200
-  height: 200
+  url: /assets/img/animated/cctv.gif
+  width: 220
+  height: 222
 categories: ['razno']
 
 ---

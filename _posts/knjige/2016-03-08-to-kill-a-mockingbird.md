@@ -50,3 +50,5 @@ Was this all a compromise that made it possible to publish the book in the first
 Or maybe I got it all wrong and I give too much importance to the trial in the book, maybe it's just one of the episodes, 
 equally important as others: "Boo Radley", "Mrs Dubose", "Scout in school", etc, that portray growing up in the Deep 
 South in the 1930s... 
+
+{% include layout/content/youtube.html id="uqkohqLvClI" %}

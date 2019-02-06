@@ -613,7 +613,7 @@ savladati. Čitajući tekst tačno mogu da zamislim kuda se kretao, prepoznajem 
 Nemoguće je potpuno rekonstruisati kude je sve prošao, to sigurno ni on sam nije znao, ali na osnovu opisa i karte, 
 napravio sam jedan mogući trek.
 
-<div id="map" data-track="/razno/razbojistem-posle-bitke/track.kml" style="width= 100%;"></div>
+<div id="map" data-track="http://perpetuum-mobile.net/razno/razbojistem-posle-bitke/track.kml" style="width= 100%;"></div>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBEQkG-mZY78w26WBrUoMUa0fCyqvhvFHY"></script>
 <script>
 $(window).on('load', function () {

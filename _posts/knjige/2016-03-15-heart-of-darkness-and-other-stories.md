@@ -53,3 +53,5 @@ greed and hypocrisy. Seen like that, the "hearth of darkness" might be something
 
 
 I had enough of Conrad for the time being and I skipped the third story (End of tether).
+
+{% include layout/content/youtube.html id="XIFUHIM-w7M" %}

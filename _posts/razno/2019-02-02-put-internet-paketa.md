@@ -6,9 +6,9 @@ excerpt:      "Malo suvoparan i tehnički orijentisan tekst koji sam izdvojio iz
                i u kojem se pojašnjavaju čvorovi na putu koji paket pređe od ishodišta do odredišta i nazad, kao i načini
                na koje mogu biti ugroženi."
 animation:
-  url: /assets/img/animated/anonymous.gif
-  width: 200
-  height: 200
+  url: /assets/img/animated/cctv.gif
+  width: 220
+  height: 222
 categories: ['razno']
 
 ---

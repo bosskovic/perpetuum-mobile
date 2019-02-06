@@ -137,3 +137,5 @@ Huxley got some science wrong, and was off in some of his predictions of the fut
 
 All in all, I liked it, liked thinking about the ideas it introduced me to and I am going to read Brave New World 
 Revisited and Island soon.
+
+{% include layout/content/youtube.html id="raqVySPrDUE" %}

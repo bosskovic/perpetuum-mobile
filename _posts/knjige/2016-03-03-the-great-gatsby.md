@@ -36,3 +36,5 @@ in the same morning - once at the Buchanan's and then at Gatsby's. Don't they ha
 butlers guarding their palaces. I was led to believe that they do. Again, it was convenient for driving the plot.
 
 All in all, it's ok, I will probably ready it again sometimes, but not very soon...
+
+{% include layout/content/youtube.html id="e6Iu29TNfkM" %}
