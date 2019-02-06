@@ -1,13 +1,13 @@
 ---
 slug:         "que-he-sacado-con-quererte"
-layout:       razno_post
+layout:       etc_post
 title:        "Violeta Parra: Que he sacado con quererte"
 excerpt:      "Tekst pesme na španskom."
 animation:
-  url: /assets/img/animated/razno.gif
+  url: /assets/img/animated/etc.gif
   width: 250
   height: 250
-categories: ['razno']
+categories: ['etc']
 ---
 
 What have I gained from the moon that we both watched together  

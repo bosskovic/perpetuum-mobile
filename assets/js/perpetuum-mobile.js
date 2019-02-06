@@ -100,8 +100,8 @@ $(document).ready(function (e) {
     $('a.fancybox-video[data-id="' + $(this).data('id') + '"]').click();
   });
 
-  $(document).on('click', '#item-razno', function (e) {
-    $('#razno').toggleClass('hidden');
+  $(document).on('click', '#item-etc', function (e) {
+    $('#etc').toggleClass('hidden');
     $(this).blur();
     e.preventDefault();
     return false;

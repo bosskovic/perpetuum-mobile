@@ -1,10 +1,4 @@
 /*!
- * perpetuum-mobile v1.0.0 (http://startbootstrap.com)
- * Copyright 2019 perpetuum-mobile
- * Licensed under MIT (https://spdx.org/licenses/MIT)
- */
-
-/*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -6957,7 +6951,7 @@ button.close {
   content: '\e81a';
 }
 /* '' */
-.icon-razno:before {
+.icon-etc:before {
   content: '\e81c';
 }
 /* '' */
@@ -8640,7 +8634,7 @@ hr.separator {
 .simple-head .menu li a:hover i {
   background-color: #eee;
 }
-.simple-head .menu li a#item-razno i {
+.simple-head .menu li a#item-etc i {
   padding-left: 16px;
   padding-right: 16px;
 }

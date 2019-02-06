@@ -1,16 +1,16 @@
 ---
 slug:         "razbojistem-posle-bitke"
-layout:       razno_post
+layout:       etc_post
 title:        "Krajimir Grbović: Razbojištem posle bitke"
 excerpt:      "Tokom V neprijateljske ofanzive, veče pred pokušaj proboja obruča na Sutjesci od strane III proleterske brigade,
                Krajimir Grbović se našao sa svojom jedinicom ispod Mrkalj-Klada. U narednih desetak dana poći će mu naopako
                gotovo sve što je moglo, ali volja za životom, borbom i osvetom neprijatelju održala ga je uprkos najtežim 
                iskušenjima na kojima se našao."
 animation:
-  url: /assets/img/animated/razno.gif
+  url: /assets/img/animated/etc.gif
   width: 250
   height: 250
-categories: ['razno']
+categories: ['etc']
 tags:
   - peta-ofanziva
 ---
@@ -613,7 +613,7 @@ savladati. Čitajući tekst tačno mogu da zamislim kuda se kretao, prepoznajem 
 Nemoguće je potpuno rekonstruisati kude je sve prošao, to sigurno ni on sam nije znao, ali na osnovu opisa i karte, 
 napravio sam jedan mogući trek.
 
-<div id="map" data-track="http://perpetuum-mobile.net/razno/razbojistem-posle-bitke/track.kml" style="width= 100%;"></div>
+<div id="map" data-track="http://perpetuum-mobile.net/etc/razbojistem-posle-bitke/track.kml" style="width= 100%;"></div>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBEQkG-mZY78w26WBrUoMUa0fCyqvhvFHY"></script>
 <script>
 $(window).on('load', function () {

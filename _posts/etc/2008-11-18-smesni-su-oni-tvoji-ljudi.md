@@ -1,13 +1,13 @@
 ---
 slug:         "smesni-su-oni-tvoji-ljudi"
-layout:       razno_post
+layout:       etc_post
 title:        "Maksim Gorki"
 excerpt:      "odlomak iz Makar Čudre"
 animation:
-  url: /assets/img/animated/razno.gif
+  url: /assets/img/animated/etc.gif
   width: 250
   height: 250
-categories: ['razno']
+categories: ['etc']
 ---
 
 \- Smešni su oni tvoji ljudi.  

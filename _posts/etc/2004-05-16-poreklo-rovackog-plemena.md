@@ -1,6 +1,6 @@
 ---
 slug:         "poreklo-rovackog-plemena"
-layout:       razno_post
+layout:       etc_post
 title:        "Poreklo rovačkog plemena"
 excerpt:      "Pre petnaestak godina, nakon što sam prvi put počeo da se interesujem za rodoslov i priče o precima, nabavio sam i pročitao
                par knjiga i rezultat je bio ovaj obiman tekst koji sam izvorno napisao za neki forum koji odavno više ne postoji. 
@@ -8,10 +8,10 @@ excerpt:      "Pre petnaestak godina, nakon što sam prvi put počeo da se inter
                Originalni tekst, takav kakav je, manjkav, neprecizan, na mestima netačan... može se u produžetku naći u celosti i u 
                izvornom obliku bez ispravki. Ilustracije su išle uz originalni tekst a fotografije su novije."
 animation:
-  url: /assets/img/animated/razno.gif
+  url: /assets/img/animated/etc.gif
   width: 250
   height: 250
-categories: ['razno']
+categories: ['etc']
 photos:
   -
     key: barjaktarovic-mapa.jpg

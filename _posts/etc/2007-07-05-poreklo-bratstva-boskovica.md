@@ -1,16 +1,16 @@
 ---
 slug:         "poreklo-bratstva-boskovica"
-layout:       razno_post
+layout:       etc_post
 title:        "Poreklo bratstva Boškovića"
 excerpt:      "Neposredno pred polazak na moje prvo putešestvije po Crnoj Gori, prikupio sam literaturu koja mi je bila dostupna, 
                poskidao internet članke koje sam našao i sistematizovao znanje o mojim crnogorskim precima. U međuvremenu sam još
                svašta saznao, nabavio još mnogo literature, više puta obišao pomenuta mesta, tako da je tekst verovatno zreo za preradu.
                Tekst je iz jula 2007. a fotografije su novije."
 animation:
-  url: /assets/img/animated/razno.gif
+  url: /assets/img/animated/etc.gif
   width: 250
   height: 250
-categories: ['razno']
+categories: ['etc']
 tags: 
   - rodoslov
 ---

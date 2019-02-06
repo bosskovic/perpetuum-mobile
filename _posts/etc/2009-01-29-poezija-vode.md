@@ -1,13 +1,13 @@
 ---
 slug:         "poezija-vode"
-layout:       razno_post
+layout:       etc_post
 title:        "Zdenko Jelčić: Poezija vode"
 excerpt:      "Tekst pesme i izvedba Ibrice Jusića"
 animation:
-  url: /assets/img/animated/razno.gif
+  url: /assets/img/animated/etc.gif
   width: 250
   height: 250
-categories: ['razno']
+categories: ['etc']
 ---
 
 Ispričat ću ti jednu davnu priču  

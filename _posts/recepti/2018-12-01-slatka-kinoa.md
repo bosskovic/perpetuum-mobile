@@ -7,7 +7,7 @@ animation:
   url: /assets/img/animated/anonymous.gif
   width: 200
   height: 200
-categories: ['razno']
+categories: ['etc']
 published: false
 ---
 

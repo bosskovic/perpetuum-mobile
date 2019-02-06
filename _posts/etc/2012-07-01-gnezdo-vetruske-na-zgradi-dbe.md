@@ -1,15 +1,15 @@
 ---
 slug:         "gnezdo-vetruske-na-zgradi-dbe"
-layout:       razno_post
+layout:       etc_post
 title:        "Gnezdo vetruške na zgradi DBE"
 excerpt:      "Pre mnogo godina dok sam još radio na fakultetu, zajedno sa ornitolozima sam napravio i postavio gnezdo za
                vetruške i od štapa i kanapa sastavio sistem za video praćenje koji je bio u funkciji nekoliko godina. Ovo
                je tekst koji je tada bio dostupan na sajtu departmana a u međuvremenu je povučen."
 animation:
-  url: /assets/img/animated/razno.gif
+  url: /assets/img/animated/etc.gif
   width: 250
   height: 250
-categories: ['razno']
+categories: ['etc']
 
 ---
 

@@ -9,11 +9,11 @@ animation:
   url: /assets/img/animated/cctv.gif
   width: 220
   height: 222
-categories: ['razno']
+categories: ['etc']
 
 ---
 
-( -->  <a title="Pravo na privatnost je neotuđivo pravo" href="/razno/privatnost-kao-neotudjivo-pravo/">Pravo na privatnost je neotuđivo pravo</a> )
+( -->  <a title="Pravo na privatnost je neotuđivo pravo" href="/etc/privatnost-kao-neotudjivo-pravo/">Pravo na privatnost je neotuđivo pravo</a> )
 
 ## Put internet paketa
 

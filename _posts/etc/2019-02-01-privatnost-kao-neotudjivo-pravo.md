@@ -9,7 +9,7 @@ animation:
   url: /assets/img/animated/cctv.gif
   width: 220
   height: 222
-categories: ['razno']
+categories: ['etc']
 
 ---
 
@@ -212,7 +212,7 @@ Primer nekoliko čestih scenaria:
 - pc -> windows -> ms outlook -> provera email-a -> pop3 -> ... -> mail server -> ... ... -> ms outlook
 
 <p class="muted">U želji da rasteretim ovaj tekst, detaljan (i pomalo suvoparan) tehnički opis svakog od ovih čvorova kao i njihovu ulogu
-i rizike po privatnost internet paketa sam izdvojio u <a href="/razno/put-internet-paketa/">poseban tekst</a>.</p>  
+i rizike po privatnost internet paketa sam izdvojio u <a href="/etc/put-internet-paketa/">poseban tekst</a>.</p>  
 
 ( --> zanimljiv članak: <a class="external" href="https://labs.rs/sr/nevidljiva-infrastruktura-uzbudljiv-zivot-internet-paketa/">Nevidljiva infrastruktura: Uzbudljiv život internet paketa</a>)
 
