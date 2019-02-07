@@ -5,8 +5,8 @@ title:        "Poreklo rovačkog plemena"
 excerpt:      "Od Luštice i Prevlake preko Morače do Rovaca i Onogošta"
 description:  "Pre petnaestak godina, nakon što sam prvi put počeo da se interesujem za rodoslov i priče o precima, nabavio sam i pročitao
                par knjiga i rezultat je bio ovaj obiman tekst koji sam izvorno napisao za neki forum koji odavno više ne postoji. 
-               U međuvremenu sam prikupio još mnoštvo literature a i više puta obiša mnoge od lokaliteta koji se ovde pominju. 
-               Originalni tekst, takav kakav je, manjkav, neprecizan, na mestima netačan... može se u produžetku naći u celosti i u 
+               U međuvremenu sam prikupio još mnoštvo literature a i više puta obišao mnoge lokalitete koji se ovde pominju. 
+               Originalni tekst, takav kakav je, manjkav, neprecizan, na mestima netačan... može se ovde naći u celosti i u 
                izvornom obliku bez ispravki. Ilustracije su išle uz originalni tekst a fotografije su novije."
 image: "/etc/poreklo-rovackog-plemena/img/rodoslov-naslovna.jpg"
 animation:
@@ -44,6 +44,7 @@ tags:
 ( -> <a href="/putopisi/2007-cg-biciklom/">Crna Gora biciklom 2007 - tragom predaka</a> )  
 ( -> <a href="/2009-cg-dijagonala/lola-i-zurim/">Preko moračkih planina, Lole i Žurima biciklom 2009</a> )  
 ( -> <a href="/2009-cg-dijagonala/rovca/">Biciklom kroz Rovca i kanjon Mrtvice 2009</a> )
+( -> <a href="/etc/rovca-mapa/">Rovca - topografska karta 1:25000</a> )
 
 ***
 

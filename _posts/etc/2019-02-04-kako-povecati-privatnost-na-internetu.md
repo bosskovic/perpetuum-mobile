@@ -4,6 +4,7 @@ layout:       oprema
 title:        "Pravo na privatnost je neotuđivo pravo - kako povećati privatnost na internetu?"
 excerpt:      ""
 description:  ""
+image:        "/etc/privatnost-kao-neotudjivo-pravo/img/guy.jpg"
 animation:
   url: /assets/img/animated/cctv.gif
   width: 220
