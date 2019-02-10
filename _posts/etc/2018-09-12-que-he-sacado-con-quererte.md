@@ -2,7 +2,7 @@
 slug:         "que-he-sacado-con-quererte"
 layout:       etc_post
 title:        "Violeta Parra: Que he sacado con quererte"
-excerpt:      "Tekst pesme na španskom."
+excerpt:      "Tekst pesme, tj. prevod na engleski."
 description:  ""
 animation:
   url: /assets/img/animated/etc.gif

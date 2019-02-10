@@ -6,7 +6,7 @@ description: "Na putu od Prokletija do mora, svratili smo u Štavnu i na Biograd
               ispadala, pa smo imali lep dan."
 excerpt:     "Vasojevića kom i Biogradsko jezero"
 categories:  ['2015-vuk-gorski-i-morski']
-image: "/2015-vuk-gorski-i-morski/komovi-i-bjelasica/img/20150803-13.jpg"
+image: "/2015-vuk-gorski-i-morski/komovi-i-bjelasica/img/20150803-01.jpg"
 tags:
   - komovi
   - biogradsko jezero
@@ -34,9 +34,8 @@ videos: ["VxWJohXt2b4", "m0pcKOZvPU8", "fCr0yHaUsEA", "YJ5WQcLrQuo"]
 
 ### Vasojevića kom, 3. avgust 2015.  
 
-{% include layout/content/img_full.html file_name="20150803-01.jpg" %}
+{% include layout/content/img_full.html file_name="20150803-06.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20150803-06.jpg" %}
 Jutro je već počelo da se pretvara u sparan dan kada smo pošli iz katuna Štavna ka Vasojevića Komu, i u vazduhu je bio
 miris kiše. Zanimljivo kako je pamćenje subjektivno. Prethodni put kada sam se penjao na ovaj vrh, mlađi, laganiji i
 bez velikog tereta, upamtio sam ga kao tehnički i fizički nezahtevan. Danas mi nije tako izgledao. Iscrpljen prethodnih dana,

@@ -4,6 +4,7 @@ layout:       etc_post
 title:        "Mirko i Slavko"
 excerpt:      "pazi metak!"
 description:  "Kratak istorijat, izvori, spisak epizoda i poneke skenirane epizode."
+image:        "/etc/mirko-i-slavko/img/mirko_i_slavko.jpg"
 animation:
   url: /assets/img/animated/etc.gif
   width: 250
