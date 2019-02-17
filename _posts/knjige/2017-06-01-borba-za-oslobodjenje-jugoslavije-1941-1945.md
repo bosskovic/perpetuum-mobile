@@ -1,16 +1,10 @@
 ---
 slug:              "borba-za-oslobodjenje-jugoslavije-1941-1945"
-layout:            knjiga
 title:             "Borba za oslobođenje Jugoslavije 1941-1945 I"
 authors:           "Josip Broz Tito"
 goodreads_id:      "35448795"
 img:               "https://images.gr-assets.com/books/1497653234l/35448795.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Josip-Broz-Tito
   - bbb-Tito

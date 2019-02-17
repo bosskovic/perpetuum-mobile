@@ -1,16 +1,10 @@
 ---
 slug:              "karadzic-crna-gora-i-boka-kotorska"
-layout:            knjiga
 title:             "Crna Gora i Boka Kotorska"
 authors:           "Vuk Stefanović Karadžić"
 goodreads_id:      "30718250"
 img:               "https://images.gr-assets.com/books/1466550255l/30718250.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Vuk-Stefanović-Karadžić
   - bbb-Boka

@@ -1,17 +1,11 @@
 ---
 slug:              "zorkic-pinki"
-layout:            knjiga
 title:             "Boško Palkovljević - Pinki"
 authors:           "Sretenije Zorkić"
 goodreads_id:      "43176131"
 img:               "https://images.gr-assets.com/books/1544293556l/43176131.jpg"
 excerpt:           "Nevešto napisana romansirana biografija koja se temelji na šturim podacima; umesto da pruži i osvetli
                     detaljnije epizode iz Pinkijevog života, ona ekstrapolira kratke crtice iz njegove biografije."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Sretenije-Zorkić
   - bbb-NOB-memoar-/-dnevnik

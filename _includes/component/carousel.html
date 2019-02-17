@@ -1,0 +1,42 @@
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner" role="listbox">
+        {% for pic in include.carousel_items %}
+            {% if pic.title and pic.title != "" and pic.title != nil %}
+                {% assign has_title=true %}
+                {% assign alt=pic.title %}
+            {% else %}
+                {% assign has_title=false %}
+                {% assign alt="" %}
+            {% endif %}
+            {% if pic.description and pic.description != "" and pic.description != nil %}
+                {% assign has_description=true %}
+            {% else %}
+                {% assign has_description=false %}
+            {% endif %}
+            <div class="item {% if forloop.first == true %}active{% endif %}">
+                <img src="{{ pic.src }}" alt="{{alt}}" class="img">
+                <img src="{{ pic.src | replace: '/img', '/thumbs' }}" alt="{{alt}}" class="thumb">
+                {% if has_title or has_description %}
+                    <div class="carousel-caption">
+                        {% if has_title %}
+                            <h4>{{ pic.title }}</h4>
+                        {% endif %}
+                        {% if has_description %}
+                            <p>{{ pic.description }}</p>
+                        {% endif %}
+                    </div>
+                {% endif %}
+            </div>
+        {% endfor %}
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only"><--</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">--></span>
+    </a>
+</div>

@@ -1,21 +1,14 @@
 ---
 slug:              "brave-new-world"
-layout:            knjiga
 title:             "Brave New World"
 authors:           "Aldous Huxley"
 goodreads_id:      "11274720"
 img:               "https://images.gr-assets.com/books/1486589476l/11274720.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Aldous-Huxley
-  - bbb-klasik
   - bbb-utopija-/-distopija
-  
+videos:       ["raqVySPrDUE"]  
 ---
 
 Huxley identifies these as causes for personal unhappiness (in random order):
@@ -138,4 +131,4 @@ Huxley got some science wrong, and was off in some of his predictions of the fut
 All in all, I liked it, liked thinking about the ideas it introduced me to and I am going to read Brave New World 
 Revisited and Island soon.
 
-{% include layout/content/youtube.html id="raqVySPrDUE" %}
+{% include component/youtube/video.html id="raqVySPrDUE" %}

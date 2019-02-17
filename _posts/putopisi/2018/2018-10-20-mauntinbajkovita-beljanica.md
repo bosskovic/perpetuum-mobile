@@ -3,7 +3,6 @@ slug:        "2018-mauntinbajkovita-beljanica"
 title:       "Mauntinbajkovita Beljanica"
 excerpt:     "Resava, Vinatovača i Kločanica"
 description: "Dva kišna i maglovita dana i dva lepa uspona kroz jesenje šarenilo Beljanice i Kučaja."
-categories:  ['putopisi']
 image: "/putopisi/2018-mauntinbajkovita-beljanica/img/20181020-07.jpg"
 videos: ["bktS_UWTLVo"]
 ---
@@ -13,18 +12,18 @@ Stala mi krava na nogu da po svaku cenu negde vozim ovog vikenda, pa sam u to us
 Kasno uveče stižemo u Stenjevac, smeštamo i neko vreme družimo sa Ljubinkom, našom domaćicom, uz domaću rakiju i 
 interesantne priče.
 
-{% include layout/content/youtube.html id="bktS_UWTLVo" %}
+{% include component/youtube/img_full.html id="bktS_UWTLVo" %}
 
 ### Prvi dan: Stenjevac-Sladaja-Beljanica-Raškova livada-kanjon Resave-Lisine-Stenjevac
 
-{% include layout/content/img_horizontal.html file_name="20181020-01.jpg" %}
+{% include component/img/horizontal.html file_name="20181020-01.jpg" %}
 Krećemo rano ujutro po kiši koja sipi. Prelazimo mali prevoj između Stenjevca i Stromstena, i iznad Resave obilazimo spomenik 
 nastradalim rudarima. Odatle kreće uspon kom neće biti kraja skoro do samog vrha Beljanice.
 
 Asfalt je solidan pa idemo dosta brzo i uskoro postižemo radnu temperaturu, skidamo suvišne slojeve dok ne nađemo balans
 između ključalog jezgra i kišice koja hladi.
 
-{% include layout/content/img_horizontal.html file_name="20181020-03.jpg" %}
+{% include component/img/horizontal.html file_name="20181020-03.jpg" %}
 U Sladaji silazimo sa asfalta na makadam; znak nas upozorava da idemo na sopostvenu odgovornost. Dok vozimo između
 kamenih džombi iznad nas proleću crvenkaste krošnje bukvi a vidljivost varira između 50 i 100 metara.
 
@@ -44,7 +43,7 @@ dužu, kojom bi opasali ceo masiv Beljanice ali sam se na kraju odlučio za sred
 kosom u kanjon Resave. Prva varijanta po ovoj magli uopšte ne bi imala smisla a i druga bi nam odnela ceo dan i zadržala
 nas do mraka, sve zbog vožnje koja nije obećavala mnogo više od magle i oblaka.
 
-{% include layout/content/img_full.html file_name="20181020-04.jpg" %}
+{% include component/img/full.html file_name="20181020-04.jpg" %}
  
 Vozeći se po visoravni Beljanice, makadame smo zamenili zemljanim putevima koji su nas odveli u stare bukove šume koje su
 nedavno isečene a stabla poobarana preko puta. Stotinama metara se provlačimo kroz položene krošnje i preskačemo ispružena 
@@ -89,7 +88,7 @@ Jedini interesantan detalj sa povratka je mala lokomotiva uskotračne rudarske �
 
 ### Drugi dan: Lisine-kanjon Resave-Vinatovača-Klencuš-kanjon Kločanice-Lisine
 
-{% include layout/content/img_horizontal.html file_name="20181021-01.jpg" %}
+{% include component/img/horizontal.html file_name="20181021-01.jpg" %}
 Budimo se blago upaljeni od jučerašnje vožnje, a jutro koje nas dočekuje je još musavije od prethodnog. Dogovaramo se da
 izbegnemo dupli prolazak rutom Lisine - Stromsten - Stenjevac tako što ćemo da natrpamo bajseve na nosač, kolima odemo
 do Lisina i odatle počnemo vožnju.
@@ -102,7 +101,7 @@ sa leve strane je crkvena zemlja i tu uz prasak i lom motorne testere rade punom
 šuma, sva zaodenuta u nijanse žute, crvene i smeđe, sa gustim pokrivačem lišća na šumskom podu kroz koji vijuga potok.
 Idila bi bila savršena da je ne remeti zvuk seče i destrukcije.
 
-{% include layout/content/img_full.html file_name="20181021-03.jpg" %}
+{% include component/img/full.html file_name="20181021-03.jpg" %}
 
 Točkovi skakuću tražeći svoju putanju između džombi koje štrče iz strmog makadama kojim se penjemo opasujući rezervat.
 Dok nas ovaj musavi, bezbojni dan zasipa ledenom kišom, crvene krošnje nas ipak štite od najgoreg. Ali, kako izlazimo na

@@ -1,16 +1,10 @@
 ---
 slug:              "anarchism-for-beginners"
-layout:            knjiga
 title:             "Anarchism for Beginners"
 authors:           "Marcos Mayer"
 goodreads_id:      "2878950"
 img:               "https://images.gr-assets.com/books/1397432685l/2878950.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Marcos-Mayer
   - bbb-anarhizam

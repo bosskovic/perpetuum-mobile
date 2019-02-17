@@ -1,16 +1,10 @@
 ---
 slug:              "nacertanije"
-layout:            knjiga
 title:             "Načertanije"
 authors:           "Ilija Garašanin"
 goodreads_id:      "23010310"
 img:               "https://images.gr-assets.com/books/1476943276l/23010310.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Ilija-Garašanin
   - bbb-Srbija

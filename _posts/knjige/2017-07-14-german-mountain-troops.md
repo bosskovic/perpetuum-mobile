@@ -1,16 +1,10 @@
 ---
 slug:              "german-mountain-troops"
-layout:            knjiga
 title:             "German Mountain Troops (World War 2 Photo Album, 15)"
 authors:           "Bruce Quarrie"
 goodreads_id:      "3472582"
 img:               "https://images.gr-assets.com/books/1377862735l/3472582.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Bruce-Quarrie
   - bbb-NOB

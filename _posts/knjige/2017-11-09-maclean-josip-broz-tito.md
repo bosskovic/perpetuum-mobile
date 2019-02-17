@@ -1,16 +1,10 @@
 ---
 slug:              "maclean-josip-broz-tito"
-layout:            knjiga
 title:             "Josip Broz Tito"
 authors:           "Fitzroy MacLean"
 goodreads_id:      "36551642"
 img:               "https://images.gr-assets.com/books/1510056818l/36551642.jpg"
 excerpt:           "Knjiga kakva se i mogla očekivati neposredno nakon Titove smrti, najveća vrednost joj je u mnoštvu fotografija."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Fitzroy-MacLean
   - bbb-Tito

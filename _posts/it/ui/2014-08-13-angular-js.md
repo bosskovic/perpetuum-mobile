@@ -1,6 +1,4 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "angular-js"
 title:      angular.js
 excerpt:    Scopes, JSON Web Tokens, authentication, code organization, generators, HTML5mode, base tag, reasons agains angular...
@@ -8,10 +6,6 @@ date:       2014-08-13
 tags:
   - ttt-angularjs
   - ttt-front-end
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 #### Scopes

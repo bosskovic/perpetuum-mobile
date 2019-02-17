@@ -4,7 +4,6 @@ title:       "Vampiri i vodenice"
 excerpt:     "povlenske podgorine"
 description: "Lep kraj, jedan od najlepših kroz koje sam vozio, prošaran listopadnim šumama i šarmantnim zaseocima i 
               ukrašen lepim vidicima. Kao izmišljen za jednodnevne vožnje."
-categories:  ['putopisi']
 image: "/putopisi/2018-vampiri-i-vodenice/img/20181006-03.jpg"
 videos: ["NYnPFKzzrIk"]
 ---
@@ -13,9 +12,9 @@ Lep kraj, jedan od najlepših kroz koje sam vozio, rame uz rame sa Liškovcem, M
 je idealan za vožnju; išao sam većinom makadamima raznog kvaliteta - od puteva kojima su kiše i traktori sažvakali dušu, 
 do finih tucanika, zemljanih puteva i uzanih asfalta koji povezuju zaseoke.
 
-{% include layout/content/youtube.html id="NYnPFKzzrIk" %}
+{% include component/youtube/img_full.html id="NYnPFKzzrIk" %}
 
-{% include layout/content/img_horizontal.html file_name="20181006-01.jpg" %}
+{% include component/img/horizontal.html file_name="20181006-01.jpg" %}
 Krenuo sam sa Debelog brda glavnim grebenskim putem preko Povlena, pored Velikog, Srednjeg i Malog vrha. Sezona zidanja 
 luksuznih vikendica još je u jeku, a niču i "etno sela", kolibe i slično. Sa Povlena sam se spustio u Donji Taor i tamo 
 obišao mali vodopad na Skrapežu i nekoliko vodenica u blizini Taorskog vrela. Jedna vodenica (Pepića vodenica) je 
@@ -46,9 +45,9 @@ provaljenim krovom, a godinu dana kasnije su se i zidovi obrušili.
 Skupo me je koštao ovaj spust radi nagrade koja je izostala, i sad je trebalo nadohnaditi svu izgubljenu visinu. Penjem 
 se konstantno strmim putem, srećom asfaltnim, koji prolazi tik ispod Sokolina stena (proverio sam, ipak nisu "rogovi").
 
-{% include layout/content/img_full.html file_name="20181006-06.jpg" %}
+{% include component/img/full.html file_name="20181006-06.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20181006-10.jpg" %}
+{% include component/img/horizontal.html file_name="20181006-10.jpg" %}
 Posle pola sata isceđen izlazim na put Bajina Bašta - Valjevo, i krećem prema Debelom brdu. A za kraj dana, bonus: duga 
 na horizontu. I tako punih sat vremena vozim uzbrdo, s jedne stane mi je sunce koje zalazi, sa druge duga, i to dvostruka, 
 a iznad mene pada kiša. Sliva mi se svežina niz lice i bubrege ali mi je toplo oko ... centra za mazohizam i fascinaciju 

@@ -1,16 +1,10 @@
 ---
 slug:              "rome-and-the-barbarians"
-layout:            knjiga
 title:             "Rome and the Barbarians"
 authors:           "Kenneth W. Harl"
 goodreads_id:      "22800882"
 img:               https://images.gr-assets.com/books/1406180957l/22800882.jpg
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-antička-istorija
   - bbb-srednjevekovna-istorija

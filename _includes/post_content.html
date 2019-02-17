@@ -1,0 +1,19 @@
+{% include component/sidebar.html %}
+
+{% if ppt_map_exists %}
+  {% include component/map.html %}
+{% endif %}
+
+{% if ppt_stats_exist %}
+  {% include component/stats.html %}
+{% endif %}
+
+{% if ppt_gallery_exists %}
+  {% include component/fancybox/gallery.html %}
+{% endif %}
+
+{% if page.videos %}
+  {% include component/fancybox/videos.html %}
+{% endif %}
+
+{% include content/post_default.html %}

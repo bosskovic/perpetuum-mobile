@@ -1,16 +1,10 @@
 ---
 slug:              "zapretena-proslost-prevlake"
-layout:            knjiga
 title:             "Zapretana prošlost prevlake, prilozi istorijskoj raspravi"
 authors:           "Vasko Kostić"
 goodreads_id:      "30742057"
 img:               "https://images.gr-assets.com/books/1466753936l/30742057.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Vasko-Kostić
   - bbb-Boka

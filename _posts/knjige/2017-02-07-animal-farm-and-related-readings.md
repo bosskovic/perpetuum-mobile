@@ -1,16 +1,10 @@
 ---
 slug:              "animal-farm-and-related-readings"
-layout:            knjiga
 title:             "Animal Farm and Related Readings"
 authors:           "Littell McDougal"
 goodreads_id:      "3341119"
 img:               "https://images.gr-assets.com/books/1267946186l/3341119.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-George-Orwell
   - aaa-Kurt-Vonnegut

@@ -1,16 +1,10 @@
 ---
 slug:              "why-socialism"
-layout:            knjiga
 title:             "Why Socialism?"
 authors:           "Albert Einstein"
 goodreads_id:      "12007777"
 img:               "https://images.gr-assets.com/books/1521201919l/12007777.jpg"
 excerpt:           "Einstein's take on inequality and injustice in the world, and how they could be solved."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Albert-Einstein
   - bbb-sociologija-/-socijalna-pravda

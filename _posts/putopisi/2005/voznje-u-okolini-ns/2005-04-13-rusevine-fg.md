@@ -1,9 +1,10 @@
 ---
+category:  2005-voznje-u-okolini-ns
+parent_category: putopisi
 slug:        "rusevine-fg"
 title:       "Ruševine fruškogorskih utvrđenih gradova"
 excerpt:     "Nekoliko novih koraka (kotrljaja?) u upoznavanju Fruške gore"
 description: "Fruška gora je interesantnija nego što možda izgleda na prvi pogled, i krije mnoge tajne. Sa mojim novim samopouzdanjem i verom u istraživanje na dva točka krenuo sam da otkrijem neke od njih."
-categories:  ['2005-voznje-u-okolini-ns']
 image: "/2005-voznje-u-okolini-ns/rusevine-fg/img/034.jpg"
 videos: ["5rDktLuo8MI", "Z_TvmSgPcAw", "8z5qieQv-hE", "CiP0wgCZ3P4", "Z214Ug6VQoI"]
 photos:
@@ -123,7 +124,7 @@ Naslov ovog teksta bi komotno mogao da bude i "Vuk samotnjak ponovo jaše", poš
 konvoja od 4 ili više bajkera krenuo samo jedan manijak (moji nesuđeni saputnici su se izgleda uplašili kiše, ali tu su 
 se preračunali).
 
-{% include layout/content/img_horizontal.html file_name="002.jpg" %}
+{% include component/img/horizontal.html file_name="002.jpg" %}
 Vreme je bilo pomalo hladnjikavo i vlažno, ali kiša nije padala. Do Begeča sam ipak išao putem (a ne nasipom kao što sam 
 planirao) i ispostavilo se da je to bila dobra odluka, pošto sam stigao 30ak sekundi pre polaska skele na sremsku stranu.
 Nivo Dunava je baš visok ovih dana, pa sam se tokom desetminutne vožnje do Banoštora zanimao gleadajući poplavljenu šumu sa
@@ -137,7 +138,7 @@ zaštićen tvrđavama načičkanim po fruškogorskim obroncima. U blizini Banoš
 su nekada bile tvrđave; jedan je u samom selu, na poslednjem brdašcu uz Tekeniški potok pre ušća u Dunav, a drugi su 
 Gradine uz Dunav, u blizini Koruške.
 
-{% include layout/content/img_horizontal.html file_name="006.jpg" %}
+{% include component/img/horizontal.html file_name="006.jpg" %}
 Dok sam se približavao prvom lokalitetu, zaustavio sam jednog starijeg Banoštorca i zamolio za pomoć. *"Ja tu živim već 
 sedamdeset godina i kažem ti da tu nema ničega, a ti ako hoćeš idi proveri"* nije previše obećavalo. Mada, iz iskustva 
 sam zaključio da meštani često ne poznaju baš najbolje svoju bližu i dalju okolinu, i da za ono za šta oni nisu čuli, ne 
@@ -154,7 +155,7 @@ ispod vodopada, na mestu gde je prošli put bio crknuti pas.
 
 ### Bogda iz Sviloša
 
-{% include layout/content/img_horizontal.html file_name="007.jpg" %}
+{% include component/img/horizontal.html file_name="007.jpg" %}
 Nešto pre pola deset sam ušao u Sviloš, i u blizini spomenika žrtvama fašizma prišao jednom starcu (Bogdi Brankoviću, 
 pravo ime mu je Bogoljub ali njegovoj majci je to zvučalo suviše starinski, pa ga je od milošte zvala Bogda, te ga zato 
 danas mnogi znaju samo po tom imenu) da ga pitam za svilošku Veliku gradinu. Kada je čuo o čemu se radi, pustio je jedno 
@@ -180,7 +181,7 @@ je još jedno dva puta ponovio kako da dođem do sviloške gradine, otišao sam 
 
 ### Zbog motorcikla streljano četrdeset Svilošana
 
-{% include layout/content/img_horizontal.html file_name="010.jpg" %}
+{% include component/img/horizontal.html file_name="010.jpg" %}
 Tek što sam počeo razgledanje, Bogda mi je opet prišao sa osmehom i rečima *"pošto vidim da si radoznao i da se interesuješ, 
 sa' ću ja da ti ispričam nešto što nigde ne piše"*, i poveo me je do table sa imenima žrtava. Počeo je priču kako je i ovo 
 kao i druga sremska sela teško stradalo od Ustaša tokom rata. Sviloš je pre rata imao oko dvesta kuća, a na tabli stoji 
@@ -198,7 +199,7 @@ preke i nezgodne naravi. Videvši šta mu rade sa bratom, izleteo je i sekirom u
 svakog ko nešto zna o ubistvu žandara. Javljali su se ljudi i koji su znali nešto i koji nisu, i Ustaše su pokupile četrdesetoro 
 njih, i odvele na Lokve iznad Iloka i tamo ih streljale. Tako polumrtve i sa teškim ranama su ih sve zakopale..."*
 
-{% include layout/content/img_horizontal.html file_name="011.jpg" %}
+{% include component/img/horizontal.html file_name="011.jpg" %}
 Video sam da na ploči ima i puno Boškovića, pa sam ga pitao da li možda zna nešto o njihovom poreklu. Nije znao, ali mi je 
 ispričao ponešto o nekima od njih. Jedno od imena je i Milice Bošković, koja je još od pre rata držala prodavnicu, a tokom 
 rata je iz Iloka donosila lekove za partizane, ali ju je neko potkazao, pa je streljana sa petnaestogodišnjim sinom.
@@ -214,9 +215,9 @@ Još dugo smo tu pričali, i pošto sam video da mu to sve veoma imponuje, rekao
 tome, i zamolio ga da ga fotografišem. Nakon toga smo se pozdravili, i dok sam se spremao da krenem dalje, Bogda se vratio 
 žurnim korakom da me podseti da mu donesem jednu fotografiju kada sledeći put budem tu prolazio. Obećao sam mu da neću 
 zaboraviti i krenuo dalje.
-{% include time_machine.html text="Zaista mu jesam doneo fotografiju kada sam naredni put prolazio kroz Sviloš, i to ga je vrlo obradovalo." %}
+{% include component/time_machine.html text="Zaista mu jesam doneo fotografiju kada sam naredni put prolazio kroz Sviloš, i to ga je vrlo obradovalo." %}
 
-{% include layout/content/img_horizontal.html file_name="013.jpg" %}
+{% include component/img/horizontal.html file_name="013.jpg" %}
 Prošao sam pored sviloške crkve, i uskoro izašao iz sela. Predamnom se ukazao u daljini kupasti breg na kom se nalazila 
 tvrđava. Asfaltni put zaobilazi u širokom luku taj breg, i penje se u maglu prema Mačkovcu i Čotovima. Kako sam ušao u 
 šumu, vlaga se osetno povećala. Voda se slivala pored puta, kapljala sa lišća - prizor prave kišne šume. 
@@ -226,7 +227,7 @@ narednih 4-5 sati me je pratilo sunce i prelep dan. U centru sela sam naišao na
 i pitao za Veliku gradinu. *"Pa da, tu ti je groblje"*. Pitao sam ih da li možda znaju nešto o ostacima utvrđenja, ali su 
 samouvereno počeli uglas da me ubeđuju kako tamo nema ničega. 
 
-{% include layout/content/img_horizontal.html file_name="014.jpg" %}
+{% include component/img/horizontal.html file_name="014.jpg" %}
 Rešio sam da ih ipak ne poslušam, i krenuo prema crkvi. Tu iza crkve počinje put koji se penje prema groblju i dalje prema 
 vrhu koji se zove Velika gradina (uspon visok oko 100 metara).  Stigao sam do groblja, prošao kroz njega i nastavio prema 
 njivama. Lutao sam malo, tražio najvišu tačku i eventualne ostatke šanaca ili bedema, i naišao na par mesta na tako nešto, 
@@ -244,21 +245,21 @@ jedna, Mala gradina.
 
 ### Ležimirska Velika gradina
 
-{% include layout/content/img_horizontal.html file_name="016.jpg" %}
+{% include component/img/horizontal.html file_name="016.jpg" %}
 Pošao sam kuda me je poslao, i ubrzao naišao na duboke rovove i nasipe visoke oko dva metra. Nasip kao da je probijen na 
 jednom mestu, i tu put izlazi na njivu koja se nalazi usred gradine. Zemljište oranice je prepuno izmrvljenog kamenja, 
 tako da je iluzorno bilo očekivati da ću naći nešto vidljivo. Ni na nasipima (tj. bivšim bedemima) nema mnogo šta, po 
 poneki kamen, uglavnom ispod korenja drveća. Na jednom mestu sam našao nekoliko ukrasno obrađenih kamenih komada, ali to 
 je sve. 
 
-{% include layout/content/img_horizontal.html file_name="019.jpg" %}
+{% include component/img/horizontal.html file_name="019.jpg" %}
 Nisam bio jako razočaran, pošto sam ipak našao ono što sam tražio, bio sam svestan njegove veličine, a i odatle se pružao 
 lep pogled prema Ležimiru. Sjurio sam se dole i prolazeći kroz ulicu koja se nastavlja na put od gradine, pažnju mi je 
 privukla činjenica da su mnoge baštice ograđene kamenim blokovima, osnove starih kuća su izgrađene od kamenih blokova, 
 čak je i jendek popločan istim materijalom. Pošto to nije slučaj i za druge delove sela, pomislio sam, nije li možda to 
 mesto gde je završio kamen sa gradine... Krenuo sam na sever. 
 
-{% include layout/content/img_horizontal.html file_name="026.jpg" %}
+{% include component/img/horizontal.html file_name="026.jpg" %}
 Zastao sam pored spomenika ležimirskim žrtvama fašizma (ukupno njih 260). Tu mi je jedan meštanin koji je čistio prilaz 
 od granja i lišća koje je vetar naneo, pričuvao bicikl, dok sam se ja ispeo do vrha uz 260 stepenika. Gore se nalazi 
 "spomenik ocu i sinu", oko kojeg je lepo uređeno zelenilo. Po povratko sam malo porazgovarao sa starim Ležimircem koji 
@@ -268,7 +269,7 @@ samog puta trebala da bude velika pećina koju je našao neki Slobodan. Prošao 
 "Slobodanova pećina", ili tako nešto), ali meni se učinilo da je to samo mala rupa u kamenu visoka oko 1.5 metara, 
 i otprilike isto toliko duboka, pa nisam ni stajao da je bolje proučim. Sada mi se čini da sam se možda prevario...
 
-{% include layout/content/img_horizontal.html file_name="030.jpg" %}
+{% include component/img/horizontal.html file_name="030.jpg" %}
 Pošao sam uzbrdo, i skrenuo na mestu gde sam mislio da se ide za gradinu. Čim sam sišao sa puta, naišao sam na nekakv 
 spomenik na kom se od teksta jedino još raspoznavalo "Mai 1915". U pitanju je betonski luk ispod kog teče potok, i 
 razliva se na sve strane, pa i po putu kojim bih ja trebao da idem (dubina mu je tu do tridesetak santimetara). Malo sam 
@@ -282,7 +283,7 @@ sedamdesetak metara sam se probio kroz trnje i žbunje, i izašao na Malu gradin
 
 ### Ležimirska Mala gradina
 
-{% include layout/content/img_horizontal.html file_name="032.jpg" %}
+{% include component/img/horizontal.html file_name="032.jpg" %}
 Već pri prvom pogledu na visoke zemljane bedeme čija se spoljna ivica strmo spušta, jasno je da je u pitanju nešto što je 
 čovek napravio. U sredini se i ovde, kao i na Velikoj gradini, nalazi njiva. Nema razloga da ne verujem meštanima kada 
 kažu da su šance i bedeme napravili austrijski vojnici, a tu je i austrijsko vojno kupatilo koje to potvrđuje, ali 
@@ -303,7 +304,7 @@ mu pomenuo ležimirske pećine, to ga je asociralo na Genu (profesor u Jovinoj g
 glasu), koji ih je izgleda takođe tražio. Konačno mi je rekao *"Hajdemo mi do Vlade"*. Tako smo nas dvojica pošli do 
 Vlade, čije je kuća još dublje u brdu (jedna od poslednjih).
 
-{% include layout/content/img_horizontal.html file_name="038.jpg" %}
+{% include component/img/horizontal.html file_name="038.jpg" %}
 Vlada je Božina sušta suprotnost: živahni mršavi starčić, stalno sa osmehom na licu. U većini novosadskih srednjih škola 
 je predavao samodbranu i zaštitu (ili kako se već zvalo), a kad je to ukinuto, položio je ruski, pa je radio kao profesor 
 ruskog do penzije. Odmah nakon što smo se upoznali, doneo mi je da probam fantastičan med (i prstom podvukao crtu na pola 
@@ -314,13 +315,13 @@ Posle nekih petnaestak minuta, krenuli smo prema obližnjoj pećini. Kako smo kr
 sedamdesetogodišnjaka"*. Vlada je izgledao dosta vitalno, i ispeo se na vrh skoro pre mene, dok me je Boža, koji je i po 
 ravnom jedva uspevao da nadiše, mnogo više brinuo. Ali nije odustao, i uskoro nam se pridružio na vrhu kod pećine.
 
-{% include layout/content/img_horizontal.html file_name="036.jpg" %}
+{% include component/img/horizontal.html file_name="036.jpg" %}
 Pećina je dosta mala, ali izgleda kao da je prirodna. Otkrivena je odronom ili vađenjem kamena. U njoj ima tragova (doduše 
 veoma malih) pećinskog nakita, i jedan deo je pokriven lišajevima. Ima nekoliko otvora. Ispred jednog otvora se nalazi trag 
 od loženja vatre, kao da je tu neko nedavno živeo, ili se sklonio od nevremena, što je posebno iznenadilo moje domaćine. 
 Ubrzo smo se vratili do Vladine kuće, ali još nepristupačnijim putem. Tamo smo razgovarali još neko vreme, i saznao sam 
 da tu u blizini, na severnoj strani grebena, u dolini potoka Lišvara postoje tragovi nekog samostana. 
-{% include time_machine.html text="Prolazio sam tu kasnije nekoliko puta i ništa nisam našao. Ni u literaturi nisam našao pomen nekog samostana u tom delu Fruške gore." %}
+{% include component/time_machine.html text="Prolazio sam tu kasnije nekoliko puta i ništa nisam našao. Ni u literaturi nisam našao pomen nekog samostana u tom delu Fruške gore." %}
 
 Skrenuli su mi još pažnju da je šuma tamo strašno neprohodna. Pozdravili smo se sa Vladom i krenuli prema Božinoj kući, 
 gde sam ranije ostavio bicikl. Odatle mi je on pokazao gde da tražim vrelo potoka Kuštilj, pa pošto je već bilo dosta sati 
@@ -332,18 +333,18 @@ Boža opisao, produžio još malo, i naišao na zasek u planini (verovatno neki 
 Ne želeći više da gubim vreme, požurio sam nazad. Analizirajući karte po povratku kući, zaključio sam da bi vrelo koje sam 
 tražio moglo biti na oko pedesetak metara vazdušno od kamenoloma. Ništa - za sledeći put.
 
-{% include layout/content/img_horizontal.html file_name="039.jpg" %}
+{% include component/img/horizontal.html file_name="039.jpg" %}
 Prošao sam pored zloglasnog motela i izbio na asfalt. Tu sam se dugo čistio od blata, i uspeo samo jedan mali deo da 
 ostružem. Čekao me je strm uspon, a blato nije ni malo pomagalo.
 
-{% include layout/content/img_horizontal.html file_name="040.jpg" %}
+{% include component/img/horizontal.html file_name="040.jpg" %}
 Iza leđa sam ostavio raskrsnicu na Čotovima i krenuo na istok. Posle par neuspešnih pokušaja, konačno sam napipao pravo 
 skretanje za svilošku Veliku gradinu, i ušao u šumu. Put je bio pravi šumski, dosta blatnjav i prekriven debelim slojem 
 lišća i granja, i pri tom prilično strm. Posle downhill-a koji je trajao dosta dugo, našao sam se u podnožju brda koje 
 nosi naziv Velika gradina. Parkirao sam sam bicikl pored drveta i počeo da se penjem uz liticu koja je odabrana baš 
 zbog toga što se uz nju teško penje. Posle malo muke, izbio sam na prelep greben prekriven travom i zelenišem, i njime ubrzo stigao do vrha.
 
-{% include layout/content/youtube.html id="CiP0wgCZ3P4" print="no" %}
+{% include component/youtube/video.html id="CiP0wgCZ3P4" print="no" %}
 
 ### Sviloška gradina
 
@@ -353,14 +354,14 @@ vrh. Kao što sam pomenuo, ukupna dužina (obim) tih rovova je možda oko kilome
 ponegde dublji). Osim rovova, nisam ništa drugo interesantno primetio (Bogda je pominjao neke kapije i podrume), ali da 
 budem iskren, nisam se previše ni zadržavao.
 
-{% include layout/content/img_horizontal.html file_name="041.jpg" %}
+{% include component/img/horizontal.html file_name="041.jpg" %}
 Spustio sam se do bicikla gde me je čekala dilema: da li da se vraćam onim strmim putem uzbrdo do Partizanskog puta 
 (99% bih mora da guram, a tu ima bar dva kilometra), ili da krenem ka malom asfaltnom putu kojeg je karta obećavala. 
 Taj put se odvaja negde južno od Sviloša i ide grubo na jugoistok prema Partizanskom putu. Odlučio sam se za drugu 
 varijantu, pošto mi se učinilo da sam ugledao u daljini asfalt kako se belasa (što je zapravo bilo par stabala divlje 
 jabuke u cvetu). Ispostavilo se da put do asfalta kojim sam krenuo uopšte nije kratak, niti ide nizbrdo.
 
-{% include layout/content/youtube.html id="Z214Ug6VQoI" print="no" %}
+{% include component/youtube/video.html id="Z214Ug6VQoI" print="no" %}
 
 To je u stvari bio offroad najekstremnije vrste, sve sa popadalim deblima na svakih desetak metara, žitkim blatom, dubokim 
 koritima potoka koja učestalo seku "put", ako se uopšte tako može nazvati linija koja ide kroz šumu i gde je rastinje samo 
@@ -372,13 +373,13 @@ tvrd put će mi biti više nego dobar). Trebalo je da odlučim na koju ću stran
 Svilošu i banoštorskoj skeli, ili prema grebenu i Grgurevačkoj pećini. Zapravo i nije bilo mnogo dileme - nastavio sam 
 prema grebenu.
 
-{% include layout/content/img_horizontal.html file_name="044.jpg" %}
+{% include component/img/horizontal.html file_name="044.jpg" %}
 Posle oko pet minuta vožnje kroz prelepu šumu, naišao sam na znak koji mi zabranjuje da produžim dalje - prokleta vojska, 
 i tu su se instalirali. Šta da radim, da li da se napravim lud i nastavim još desetak minuta asfaltom kroz "zabranjenu zonu" 
 dok ne izbijem na Partizanski put, ili da se upustim u avanturu penjanja bogazama kroz šumu koja bi mogla da traje 
 neodređeno dugo. Rekoh, šta mi treba da me ubije neka budala koja čuva neku drugu budalu koja neće u Hag?
 Niko ne bi ni znao gde sam nestao - poj'o bi me mrak. 
-{% include time_machine.html text="Kasnije sam saznao da je to zapravo put za vilu Ravne, nekadašnje mesto za zabavu visokih državnih funkcionera, danas prilično napušteno. Bez ikakvih problema sam tu prolazio kako peške, tako i biciklom." %}	
+{% include component/time_machine.html text="Kasnije sam saznao da je to zapravo put za vilu Ravne, nekadašnje mesto za zabavu visokih državnih funkcionera, danas prilično napušteno. Bez ikakvih problema sam tu prolazio kako peške, tako i biciklom." %}	
 
 Uglavnom da ne dužim, penjao sam se uz strmi klizavi uspon (koji nije baš lako uspeti ni bez opterećenja) sve sa biciklom 
 na leđima, pa jedno najmanje četrdeset minuta, možda i duže. Sve to stoji, da je šuma prelepa, prepuna puževa, što ovih 

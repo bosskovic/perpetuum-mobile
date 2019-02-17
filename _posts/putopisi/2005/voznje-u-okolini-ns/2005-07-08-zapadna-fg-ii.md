@@ -5,7 +5,8 @@ excerpt:     "Šarengrad, erdevička jezera, Berkasovo"
 description: "Interesantna vožnja tokom koje smo Tibor i ja obišli tvrđave u Iloku i Šarengradu, ostatke tvrđave u Berkasovu (zapravo zemljane 
               šance zarasle u koprive), najzapadniji fruškogorski manastir, jezera Šidina, Bruje i Moharač. Vreme 
               nas je uglavnom dobro služilo, osim što nas je na ulazu u Novi Sad uhvatio pljusak. Oko 170km za oko 14 sati. "
-categories:  ['2005-voznje-u-okolini-ns']
+category:  2005-voznje-u-okolini-ns
+parent_category: putopisi
 image: "/2005-voznje-u-okolini-ns/zapadna-fg-ii/img/008.jpg"
 photos:
   -

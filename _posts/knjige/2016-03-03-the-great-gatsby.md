@@ -1,20 +1,14 @@
 ---
 slug:              "the-great-gatsby"
-layout:            knjiga
 title:             "The Great Gatsby"
 authors:           "F. Scott Fitzgerald"
 goodreads_id:      "4672"
 img:               "https://images.gr-assets.com/books/1490607368l/4672.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-F.-Scott-Fitzgerald
   - bbb-klasik
-  
+videos:       ["e6Iu29TNfkM"]  
 ---
 
 Even though I found the style challenging at first (only at my third try at the book I managed to pass the first chapter, 
@@ -37,4 +31,4 @@ butlers guarding their palaces. I was led to believe that they do. Again, it was
 
 All in all, it's ok, I will probably ready it again sometimes, but not very soon...
 
-{% include layout/content/youtube.html id="e6Iu29TNfkM" %}
+{% include component/youtube/video.html id="e6Iu29TNfkM" %}

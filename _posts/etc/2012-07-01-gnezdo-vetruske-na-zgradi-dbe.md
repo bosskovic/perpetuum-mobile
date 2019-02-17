@@ -1,17 +1,13 @@
 ---
 slug:         "gnezdo-vetruske-na-zgradi-dbe"
-layout:       etc_post
 title:        "Gnezdo vetruške na zgradi DBE"
 excerpt:      "videomonitoring uz pomoć štapa i kanapa"
 description:  "Pre mnogo godina dok sam još radio na fakultetu, zajedno sa ornitolozima sam napravio i postavio gnezdo za
                vetruške i od štapa i kanapa sastavio sistem za video praćenje koji je bio u funkciji nekoliko godina. Ovo
                je tekst koji je tada bio dostupan na sajtu departmana a u međuvremenu je povučen."
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
-
+tags:
+  - videomonitoring
+  - sam-svoj-majstor
 ---
 
 Originalnom sadržaju sa sajta Departmana i dalje je moguće pristupiti putem servisa 
@@ -96,8 +92,8 @@ drugim vrstama (golubovima) kao sklonište.
 
 ## 2011
 
-{% include layout/content/youtube_playlist.html id="PLKEPDfNr_uZTfKhkKEJIHAS5rfM1NR7Xf" %}
+{% include component/youtube/playlist.html id="PLKEPDfNr_uZTfKhkKEJIHAS5rfM1NR7Xf" %}
 
 ## 2012
 
-{% include layout/content/youtube_playlist.html id="PLKEPDfNr_uZQnT5qbTHl6GrFe5Qyix8-R" %}
+{% include component/youtube/playlist.html id="PLKEPDfNr_uZQnT5qbTHl6GrFe5Qyix8-R" %}

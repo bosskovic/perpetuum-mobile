@@ -1,6 +1,4 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "docker-rails-aws"
 title:      docker-rails-aws
 excerpt:    docker-rails-aws
@@ -13,7 +11,7 @@ animation:
   url: /assets/img/animated/tech.gif
   width: 250
   height: 176
-published: false    
+    
 ---
 
 #### Installing Docker CE for Ubuntu
@@ -95,46 +93,75 @@ Add docker and docker-compose to the plugins array of your zshrc file:
     
 Create **Dockerfile** at the project root:
 
-    FROM ruby:alpine
-    
-    RUN apk add --update build-base postgresql-dev tzdata
-    RUN gem install rails -v '5.1.6'
-    WORKDIR /app
-    ADD Gemfile Gemfile.lock /app/
+    FROM ruby:2.5
+    RUN apt-get update -qq && apt-get install -y nodejs postgresql-client
+    RUN mkdir /myapp
+    WORKDIR /myapp
+    COPY Gemfile /myapp/Gemfile
+    COPY Gemfile.lock /myapp/Gemfile.lock
     RUN bundle install
+    COPY . /myapp
+    
+    # Add a script to be executed every time the container starts.
+    COPY entrypoint.sh /usr/bin/
+    RUN chmod +x /usr/bin/entrypoint.sh
+    ENTRYPOINT ["entrypoint.sh"]
+    EXPOSE 3000
+    
+    # Start the main process.
+    CMD ["rails", "server", "-b", "0.0.0.0"]
 
 That’ll put your application code inside an image that builds a container with Ruby, Bundler and all your dependencies 
 inside it.
 
 ( --> <a class="external" href="https://docs.docker.com/get-started/part2/#dockerfile">more information on how to write Dockerfiles</a> )
 
+Create a bootstrap Gemfile
+
+    source 'https://rubygems.org'
+    gem 'rails', '~>5'
+
+Create an empty Gemfile.lock
+
+    touch Gemfile.lock
+
+Next, provide an entrypoint script to fix a Rails-specific issue that prevents the server from restarting when a certain 
+server.pid file pre-exists. This script will be executed every time the container gets started. entrypoint.sh consists of:
+
+    #!/bin/bash
+    set -e
+    
+    # Remove a potentially pre-existing server.pid for Rails.
+    rm -f /myapp/tmp/pids/server.pid
+    
+    # Then exec the container's main process (what's set as CMD in the Dockerfile).
+    exec "$@"
+
+
 Create **docker-compose.yml**
 
-version: '3.6'
-
+    version: '3'
     services:
+      db:
+        image: postgres
+        volumes:
+          - ./tmp/db:/var/lib/postgresql/data
       web:
         build: .
+        command: bash -c "rm -f tmp/pids/server.pid && bundle exec rails s -p 3000 -b '0.0.0.0'"
         volumes:
-          - ./:/app
-        working_dir: /app
-        command: puma
+          - .:/myapp
         ports:
-          - 3000:3000
+          - "3000:3000"
         depends_on:
           - db
-        environment:
-          DATABASE_URL: postgres://postgres@db
-      db:
-        image: postgres:10.3-alpine
-    
     
 Build the project
 
-    $ sudo docker-compose run web rails new --database=postgresql -J --skip-coffee .
+    $ sudo docker-compose run web rails new . --force --no-deps --database=postgresql
 
     # change the ownership of new files
-    $ sudo chown -R $USER:$USER *
+    $ sudo chown -R $USER:$USER .
 
 Whenever **Gemfile** or **Dockerfile** change, it is necessary to rebuild the project:
 
@@ -149,7 +176,6 @@ To connect the database, edit the contents of **config/database.yml** to match t
       username: postgres
       password:
       pool: 5
-      url: <%= ENV['DATABASE_URL'] %>
     
     development:
       <<: *default
@@ -160,30 +186,35 @@ To connect the database, edit the contents of **config/database.yml** to match t
       <<: *default
       database: myapp_test
 
-Create the db
+Create the db in another terminal
 
-    $ sudo docker-compose run --rm web rails db:create db:migrate
+    $ sudo docker-compose run web rails db:create
 
 After that, rails app is bootable:
 
     $ sudo docker-compose up
 
+The app is running on http://localhost:3000
 
 
+Stop the application
 
+    $ sudo docker-compose down
+    
+Restart the application
 
+    $ sudo docker-compose up     
 
+Rebuild the application
 
-
-
-
-
-
-
+    $ sudo docker-compose run web bundle install
+    $ sudo docker-compose up --build
 
 #### Resources:
 
 - <a class="external" href="https://docs.docker.com/compose/gettingstarted/">Get started with Docker Compose</a>
 - <a class="external" href="https://docs.docker.com/get-started/">Get Started with Docker</a>
 - <a class="external" href="https://stackoverflow.com/questions/45333492/postgres-with-docker-postgres-fails-to-load-when-persisting-data">stackoverflow: a solution to an issue with Postgres fail when booting an image</a>
-- <a class="external" href=""></a>
+- <a class="external" href="https://docs.docker.com/compose/rails/">Quickstart: Compose and Rails</a>
+
+

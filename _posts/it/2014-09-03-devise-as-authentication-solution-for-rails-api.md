@@ -1,20 +1,13 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "devise-as-authentication-solution-for-rails-api"
 title:      Devise as authentication solution for rails API
 excerpt:    Authentication token, the use of sessions, intsallation and setup, configuring the model, the routes, application controller, custom devise controllers, testing the controllers
 date:       2014-09-03
 tags:
   - ttt-api
-  - ttt-back-end
   - ttt-ruby
   - ttt-ruby-gem
   - ttt-security
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 Instead of implementing my own authentication, I decided to adapt the Devise for my rails API. it differs in two main ways when applied to the rails API as opposed to the "regular" rails application:

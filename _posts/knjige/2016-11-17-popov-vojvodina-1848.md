@@ -1,16 +1,10 @@
 ---
 slug:              "popov-vojvodina-1848"
-layout:            knjiga
 title:             "Vojvodina 1848"
 authors:           "Grupa autora"
 goodreads_id:      "32996728"
 img:               "https://images.gr-assets.com/books/1479315885l/32996728.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Čedomir-Popov
   - aaa-Slavko-Gavrilovic

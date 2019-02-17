@@ -1,6 +1,5 @@
 ---
 slug:         "privatnost-kao-neotudjivo-pravo"
-layout:       oprema
 title:        "Pravo na privatnost je neotuđivo pravo"
 excerpt:      "Ako ništa ne kriješ, nemaš čega da se plašiš?"
 description:  "Ako pojedinac ima pravo na privatnost, onda je nebitno da li ima nešto da krije ili ne. To pravo ne sme 
@@ -11,8 +10,6 @@ animation:
   url: /assets/img/animated/cctv.gif
   width: 220
   height: 222
-categories: ['etc']
-
 ---
 
 ***

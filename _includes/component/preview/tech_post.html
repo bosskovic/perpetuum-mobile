@@ -1,0 +1,25 @@
+<div class="tech-preview post-preview col-sm-6" data-tags='{{ post.tags | replace:"-/-", "-" }}'>
+  <em class="muted header-line">
+    <i class="icon-kalendar"></i>{{ post.date | date: "%d. %m. %Y." }}
+    <i class="icon-etc"></i>
+    {% assign start=true %}
+    {% for tag in post.tags %}
+      {% unless start %}
+      *
+      {% endunless %}
+      {% assign start=false %}
+      {{ tag | replace: 'ttt-', ' ' | replace:'-', ' ' }}
+    {% endfor %}
+  </em>
+  <div class="content">
+    <a class="screen-only" href="{{ post.url }}">
+      <strong> {{ post.title }} </strong>
+    </a>
+    <p class="muted mt-0">
+      {{ post.excerpt }}
+    </p>
+  </div>
+  <p class="muted reading-time">
+    [{% include component/read_time.html content = post.content english=page.english %}]
+  </p>
+</div>

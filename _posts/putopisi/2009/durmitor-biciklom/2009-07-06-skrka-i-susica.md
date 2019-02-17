@@ -3,7 +3,8 @@ slug:        "skrka-i-susica"
 title:       "Škrčka jezera i Sušičko jezero"
 excerpt:     "'Oj Durmitore, svih planina direktore'"
 description: "Lepa šetnja sa biolozima od sela Mala Crna Gora, preko Međeđeg dola do Škrke i nazad kroz Sušicu do Sušičkog jezera." 
-categories:  ['2009-durmitor-biciklom']
+category:  2009-durmitor-biciklom
+parent_category: putopisi
 image: "/2009-durmitor-biciklom/skrka-i-susica/img/052.jpg"
 photos:
   -
@@ -71,7 +72,7 @@ Biolozi su me prijatno iznenadili, pre svega voljom i elanom sa kojim pristupaju
 i za sobom su već imali nekoliko napornih šetnji, ali bez obzira na to, svaki dan se ide nešto novo, i niko se ne žali, 
 niko se ne buni, niko ne kuka, svi sve mogu, baš fino... :-)
 
-{% include layout/content/img_horizontal.html file_name="055.jpg" %}
+{% include component/img/horizontal.html file_name="055.jpg" %}
 Do jutra sam uspeo da budem uglavnom suv, i spreman da im se pridružim na narednoj šetnji. Potrefilo se da tog dana idu 
 u Škrku i Sušicu, mesta koja sam svakako planirao i želeo da posetim a koja baš nisu stvorena za bicikl, tako da mi se 
 to idealno uklopilo. Ukratko, otišli smo kombijem preko Štulca do sela Crna Gora, tu se kroz mešovitu šumu strmom stazom 
@@ -82,7 +83,7 @@ fenomenalni durmitorski vidici... S obzirom na veličinu grupe dosta smo se brzo
 uskoro se spustili u Škrku. Poglede prema Škrki sa Botuna tog dana ili sa Prutaša sutradan ne bih nikako mogao da 
 opišem, pa neću ni pokušavati, ali to je galerija sa par pokušaja da se to zabeleži.
 
-{% include layout/content/img_vertical.html file_name="064.jpg" %}
+{% include component/img/vertical.html file_name="064.jpg" %}
 Veliko jezero je bilo do vrha puno, čak je delom i poplavilo okolnu šumu. Obišli smo Malo jezero, i krenuli prema 
 Sušici. Staza koja vodi dole prema rečici Skakali i vodopadu na njoj je jako neprohodna, zarasla i zatrpana popadalim 
 stablima, silno bih se napatio da sam tu krenuo biciklom, i još uzbrdo... Vodopad je zanimljiv, šteta što nismo imali 
@@ -91,6 +92,6 @@ staru, visoku šumu čije krošnje bacaju debeli hlad na šumski pod obrastao sr
 kojem je još bilo vode, o njegovu površinu još su se odbijali crvenkasto-žuti profili udaljenih kamenitih vrhova 
 obasjanih kosim zracima večernjeg sunca. Sa vremenom smo imali sreće. Oluja nam je stalno bila za petama ali u našoj 
 neposrednoj okolini je uvek bilo suvo.
-{% include time_machine.html text="Desetak dana kasnije vratio sam se na Sušičko jezero i već tada je tu bila livada umesto odraza udaljenih kamenih vrhova." %}
+{% include component/time_machine.html text="Desetak dana kasnije vratio sam se na Sušičko jezero i već tada je tu bila livada umesto odraza udaljenih kamenih vrhova." %}
 
 <span class="caption text-muted pull-right">Integralni tekst napisan u proleće 2010.</span>

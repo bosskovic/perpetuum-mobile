@@ -1,16 +1,10 @@
 ---
 slug:              "surely-youre-joking-mr-feynman"
-layout:            knjiga
 title:             "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character"
 authors:           "Richard Feynman"
 goodreads_id:      "5544"
 img:               "https://images.gr-assets.com/books/1348445281l/5544.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Richard-Feynman
   - bbb-omiljene-knjige

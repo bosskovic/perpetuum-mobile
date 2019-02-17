@@ -1,4 +1,4 @@
-exclude: ["assets/less","node_modules","Gruntfile.js","package.json","README.md","Gemfile","Gemfile.lock","_local","CNAME","pics.sh","thumbs.sh","thumbs_200.sh","s3_website.yml","perpetuum-mobile.iml","*/img_src", ".idea/workspace.xml"]
+exclude: ["assets/less","node_modules","Gruntfile.js","package.json","README.md","Gemfile","Gemfile.lock","_local","CNAME","pics.sh","thumbs.sh","thumbs_200.sh","s3_website.yml","perpetuum-mobile.iml","*/img_src", ".idea/workspace.xml", "assets/css/perpetuum-mobile.css", "assets/js/perpetuum-mobile.js"]
 timezone: Europe/Belgrade
 
 title: perpetuum mobile
@@ -7,19 +7,14 @@ email: bosskovic@gmail.com
 
 url: "http://perpetuum-mobile.net"
 
-google_tracking_id: UA-32485230-5
-
-facebook:
-  app_id: 1622174981427557
-  publisher: https://www.facebook.com/stalnoupokretu/
-
 logo: /assets/favicon/android-icon-192x192.png
 
 paginate: 20
 paginate_path: /tekstovi/strana:num
 #safe: true
 
-gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap, jekyll-gist]
+# , jekyll-feed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-gist]
 
 gist:
   noscript: false
@@ -31,20 +26,134 @@ defaults:
     scope:
       path: ""
     values:
+      layout: page_default
       show_date: false
       home_page: false
-      has_subcategories: false
+      has_subposts: false
       image: /assets/img/todorov_do.jpg
       file_name:
         gps_track: "track.kml"
         jpg_map: "track.jpg"
         stats: "stats.png"
+# POSTS
   -
     scope:
       path: ""
       type: posts
     values:
-      layout: post
+      layout: post_default
+      image_in_listing: true
+      same_category_in_related: true
+      tags_in_listing: true
+      description_in_listing: true
       is_post: true
       permalink: /:categories/:title/
       show_date: true
+  -
+    scope:
+      path: "_posts/putopisi"
+    values:
+      subtype: putopisi
+      category:  putopisi
+      same_category_in_related: false
+      tags_in_listing: false
+  -
+    scope:
+      path: "_posts/zanimljiva_mesta"
+    values:
+      subtype: zanimljiva_mesta
+      category: zanimljiva_mesta
+      same_category_in_related: false
+      tags_in_listing: false
+  -
+    scope:
+      path: "_posts/etc"
+    values:
+      subtype: etc
+      category: etc
+      image: /assets/img/todorov_do.jpg
+      image_in_listing: false
+      animation:
+        url: /assets/img/animated/etc.gif
+        width: 250
+        height: 250
+  -
+    scope:
+      path: "_posts/it"
+    values:
+      subtype: tech
+      category: tech
+      english: true
+      image_in_listing: false
+      description_in_listing: false
+      animation:
+        url: /assets/img/animated/tech.gif
+        width: 250
+        height: 176
+  -
+    scope:
+      path: "_posts/knjige"
+    values:
+      subtype: knjige
+      category: knjige
+      image_in_listing: false
+      animation:
+        url: /assets/img/book.gif
+        width: 300
+        height: 244
+# PAGES
+  -
+    scope:
+      path: "putopisi"
+    values:
+      subtype: putopisi
+      animation:
+        url: /assets/img/animated/tocak.gif
+        width: 250
+        height: 250
+  -
+    scope:
+      path: "zanimljiva_mesta"
+    values:
+      subtype: zanimljiva_mesta
+      animation:
+        url: /assets/img/animated/hiking.gif
+        width: 253
+        height: 250
+  -
+    scope:
+      path: "etc"
+    values:
+      subtype: etc
+      animation:
+        url: /assets/img/animated/etc.gif
+        width: 250
+        height: 250
+  -
+    scope:
+      path: "tech"
+    values:
+      subtype: tech
+      english: true
+      animation:
+        url: /assets/img/animated/tech.gif
+        width: 250
+        height: 176
+  -
+    scope:
+      path: "knjige"
+    values:
+      subtype: knjige
+      animation:
+        url: /assets/img/book.gif
+        width: 300
+        height: 244
+  -
+    scope:
+      path: "video"
+    values:
+      subtype: video
+      animation:
+        url: /assets/img/animated/kamera.gif
+        width: 250
+        height: 199

@@ -1,12 +1,9 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "internationalization-how-to-for-the-5-most-popular-php-frameworks"
 title:      Internationalization How To for the 5 most popular PHP frameworks
 excerpt:    In this how-To you will read about using CodeIgniter, CakePHP, Zend, Yii and Symfony
 date:       2014-09-17
 tags:
-  - ttt-back-end
   - ttt-cakephp
   - ttt-codeigniter
   - ttt-i18n&l10n
@@ -14,10 +11,6 @@ tags:
   - ttt-symfony
   - ttt-yii
   - ttt-zend
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 <p class='muted'>I originally published this article on <a href="http://blog.lingohub.com/">Lingohub blog</a> in 2013, while working for the company. <a href="http://lingohub.com/">Lingohub</a> specializes in providing app localization for developers and translators.</a></p>

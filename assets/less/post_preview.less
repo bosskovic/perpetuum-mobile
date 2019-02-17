@@ -1,0 +1,112 @@
+// Post Preview Pages
+
+.post-preview {
+  > a {
+    color: @gray-dark;
+    &:hover,
+    &:focus {
+      text-decoration: none;
+      color: @brand-primary;
+    }
+    > .post-title {
+      font-size: 25px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    > .post-subtitle {
+      margin: 0;
+      font-weight: 300;
+      font-size: 20px;
+      margin-bottom: 10px;
+    }
+  }
+  > .post-meta {
+    color: @gray;
+    font-size: 17px;
+    font-style: italic;
+    margin-top: 0;
+    > a {
+      text-decoration: none;
+      color: @gray-dark;
+      &:hover,
+      &:focus {
+        color: @brand-primary;
+        text-decoration: underline;
+      }
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    > a {
+      > .post-title {
+        font-size: 25px;
+      }
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    img {
+      display: none;
+    }
+  }
+  p {
+    text-align: left !important;
+  }
+  .date {
+    margin-bottom: 10px;
+  }
+}
+
+.book-preview {
+  > a {
+    color: @gray-dark;
+    > .post-subtitle {
+      margin: 0;
+      font-weight: 300;
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+.tech-preview {
+  .reading-time{
+    margin-top: 0;
+  }
+  .content p{
+    margin-bottom: 10px;
+  }
+
+  @media only screen and (min-width: 768px) {
+    padding: 15px;
+    padding-top: 10px;
+    overflow: hidden;
+    border: 1px solid #e8e8e8;
+
+    .content{
+      height: 150px;
+      margin-bottom: 30px;
+    }
+    .reading-time{
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      margin: 0;
+      margin-right: 15px;
+      margin-bottom: 10px;
+    }
+    .header-line{
+      overflow: hidden;
+      height: 43px;
+      display: block;
+    }
+  }
+
+  > a {
+    color: @gray-dark;
+    > .post-subtitle {
+      margin: 0;
+      font-weight: 300;
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+  }
+}

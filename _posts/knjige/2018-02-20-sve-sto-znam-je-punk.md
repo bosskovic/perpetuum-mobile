@@ -1,16 +1,10 @@
 ---
 slug:              "sve-sto-znam-je-punk"
-layout:            knjiga
 title:             "Sve što znam je punk"
 authors:           "Predrag Drčelić"
 goodreads_id:      "38719508"
 img:               "https://images.gr-assets.com/books/1519291717l/38719508.jpg"
 excerpt:           "Preporučujem ljubiteljima domaćeg punka i muzike sa angažovanim porukama."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Predrag-Drčelić
   - bbb-punk

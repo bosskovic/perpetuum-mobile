@@ -1,6 +1,5 @@
 ---
 slug:              "popovic-pinki"
-layout:            knjiga
 title:             "Boško Palkovljević Pinki"
 authors:           "Jovan Popović"
 goodreads_id:      "43240132"
@@ -8,11 +7,6 @@ img:               "https://images.gr-assets.com/books/1544883965l/43240132.jpg"
 excerpt:           "Kratka romansirana biografija koja opisuje Pinkijevo učešće u ratu. Čitljivog ali pomalo patetičnog 
                     stila, skoro svuda se poklapa sa informacijama koje imam iz drugih izvora ali izostavlja imena i 
                     doprinose gotovo svih ostalih saboraca."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Jovan-Popović
   - bbb-NOB-memoar-/-dnevnik

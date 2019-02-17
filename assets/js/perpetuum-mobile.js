@@ -69,6 +69,11 @@ $(window).on('load', function () {
       $introHeader.css('background-image', "url('" + $introHeader.data('url') +"')");
     }
   }
+  
+  $('.carousel').css('height', window.innerHeight);
+  $('.carousel img').css('max-height', window.innerHeight);
+  $('iframe.youtube').css('height', parseInt($('iframe.youtube').css('width'))*9/16);
+  $('.videos-table').css('position', 'static');
 });
 
 $(window).on('resize', function () {
@@ -78,6 +83,11 @@ $(window).on('resize', function () {
     $introHeader.css('height', window.innerHeight);
     $introHeader.find('.overlay').css('height', window.innerHeight);
   }
+  
+  $('.carousel').css('height', window.innerHeight);
+  $('.carousel img').css('max-height', window.innerHeight);
+  
+  $('iframe.youtube').css('height', parseInt($('iframe.youtube').css('width'))*9/16);
 });
 
 $(document).ready(function (e) {
@@ -85,6 +95,8 @@ $(document).ready(function (e) {
   //
   // var img = new Image();
   // img.src = $introHeader.data('url');
+  
+  $('.carousel').carousel();
 
   $(document).on('click', '#text img.pic', function (e) {
     if ($(window).width() > 800 && $(window).height() > 600) {
@@ -96,7 +108,7 @@ $(document).ready(function (e) {
     }
   });
 
-  $(document).on('click', '#text img.video', function (e) {
+  $(document).on('click', '#text .pm-youtube', function (e) {
     $('a.fancybox-video[data-id="' + $(this).data('id') + '"]').click();
   });
 
@@ -119,19 +131,25 @@ $(document).ready(function (e) {
     if(!$(this).hasClass('prikazi-sve')){
      if($(this).hasClass('active')){
         $('.tag-cloud a, .authors-cloud a').removeClass('active');
-        $('.book-preview').show();
+        $('.post-preview').show();
       }
       else{
         $('.tag-cloud a, .authors-cloud a').removeClass('active');
         $(this).addClass('active');
-        $('.book-preview').hide();
-        $('.book-preview[data-tags*='+$(this).data("tag")+']').show();
+        $('.post-preview').hide();
+        $('.post-preview[data-tags*='+$(this).data("tag")+']').show();
       }
       $([document.documentElement, document.body]).animate({
         scrollTop: $(".post-previews").offset().top
       }, 1000);
       $(this).blur();
     }
+    e.preventDefault();
+    return false;
+  });
+  
+  $(document).on('click', '.menu .vrh', function (e) {
+    $("html, body").animate({scrollTop:"0"},600);
     e.preventDefault();
     return false;
   });

@@ -1,6 +1,4 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "how-to-quickly-digitalize-a-book-from-command-line"
 title:      How to quickly digitalize a book from command line
 excerpt:    Creating a PDF from a batch of images 
@@ -9,10 +7,6 @@ tags:
   - ttt-image-manipulation
   - ttt-linux
   - ttt-ubuntu
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 If you have a printed book that you want quickly turned into an e-book, you can follow these steps:

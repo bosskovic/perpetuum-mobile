@@ -3,7 +3,8 @@ slug:        "skadarsko-jezero"
 title:       "Severnom stranom Rumije"
 excerpt:     "Sa pogledom na Skadarsko jezero"
 description: "Budim se posle burne noći i vozim severnom stranom Rumije. Spuštam se u Virpazar i tu čekam voz za Novi Sad." 
-categories:  ['2009-cg-dijagonala']
+category:  2009-cg-dijagonala
+parent_category: putopisi
 image: "/2009-cg-dijagonala/skadarsko-jezero/img/122.jpg"
 
 tags: 
@@ -40,7 +41,7 @@ Budi me mučnina u pola noći, izlećem iz šatora i povraćam pored. Ili sam tr
 onaj silan jogurt i testo. Te sam noći dušu ispovraćao i jedva da sam uopšte spavao. Nije pomoglo to što sam imao vrlo malo
 vode.
 
-{% include layout/content/img_horizontal.html file_name="119.jpg" %}
+{% include component/img/horizontal.html file_name="119.jpg" %}
 Ujutro se pakujem (preskačem doručak) i krećem uz obalu jezera u potrazi za vodom. "Uz obalu" ne opisuje baš najbolje put kojim
 sam išao - gore-dole uvek 250-350 metara iznad jezera, nikad bliže od 2-3 kilometra od obale. Jezero se često nije ni videlo. I kao
 za inat, severna strana Rumije je bezvodna - usput neću naići na česme i izvore i prodavnice su mi jedina opcija, one koje
@@ -59,7 +60,7 @@ Ostatak vožnje bio je uglavnom mučenje - nepodnošljiva sparina, a ja se borim
 da nateram sebe da pijem. Pri tom sam i malaksao pošto u želucu nisam zadržao skoro ništa od onog što sam pojeo juče a danas
 samo jednu-dve čokoladne bananice.
 
-{% include layout/content/img_horizontal.html file_name="120.jpg" %}
+{% include component/img/horizontal.html file_name="120.jpg" %}
 Misli mi je malo skrenulo mesto Koštanje (Koštanica). Tu sam prošao pored prastarog zasada ogromnih pitomih kestena koji su
 mestu i dali ime. Desetak stabala je bilo dovoljno da napravi hlad u koji bi mogao da se smesti fudbalski teren. U narednom selu,
 mislim da su bili Livari, nailazim na starca sa dečakom, prve ljude koje srećem na ovo žezi. Javljamo se jedan drugome i
@@ -71,13 +72,13 @@ ga kakvo je to mesto, kaže *"da, Taraboš, tu su vođene bitke pre sto godina, 
 taj kraj".* Kaže da sam dobro uradio što sam se sklonio sa puta. Miran je ovo narod, ali ko će ga znati, uvek može da se nađe
 neko naopak. To sam znao od ranije i čini mi se da to nije specijalno za ovaj kraj.
 
-{% include layout/content/img_full.html file_name="121.jpg" %}
+{% include component/img/full.html file_name="121.jpg" %}
 
 Kaže mi da se najviše pazim albanskih turista sa Kosova od kojih neki tu (u Ulcinjskoj rivijeri) divljaju razulareni, i
 da ih baš ni lokalni Albanci ne vole previše. Na kraju, kada sam ga pitao za vodu, potvrdio mi je da je ovo bezvodan kraj,
 i poslao sa mnom dečaka koji nas je sve vreme mirno slušao, da me odvede do najbliže bistijerne da iz nje zahvatim vode.
 
-{% include layout/content/img_horizontal.html file_name="123.jpg" %}
+{% include component/img/horizontal.html file_name="123.jpg" %}
 Nastavljam da vozim putem, koji se kako se približavam Virpazaru sve više penje, sve do nekih 400-500 metara iznad jezera.
 Teren se konačno malo otvara, pa i jezero sve više proviruje. Poslednjih petnaestak kilometara do Virpazara su srećom
 nizbrdo. Dok sam se spustio u grad i sišao do železničke stanice, bilo je već rano veče.
@@ -96,7 +97,7 @@ ram bio prevrnut (nosim ga tako što proguram ruku u kesu i uhvatim za ram u bli
 izdržali), jedna pedala je virila napolje. Kako me kondukteri vide, oči im se zacakle i odmah pitaju *"a jel to bicikl, e 
 pa moraš doplatnu kartu da platiš za bicikl"*. Nije bicikl, već moj prtljag, a šta je unutra to je moja stvar. Ali džabe.
 
-{% include layout/content/img_horizontal.html file_name="125.jpg" %}
+{% include component/img/horizontal.html file_name="125.jpg" %}
 Sa Crnogorcem sam se nekako objasnio, voz je bio polu-prazan i naplatio mi je samo putničku kartu do Bijelog Polja, i upozorio
 me da ću tamo morati ponovo da pregovaram sa "srbijanskim kondukterom". Naš nije bio otvoren za saradnju i nije hteo da 
 odustane dok mi nije naplatio doplatnu kartu za bicikl od 300 dinara. A u sitnim satima na granici ni ja nisam bio oran

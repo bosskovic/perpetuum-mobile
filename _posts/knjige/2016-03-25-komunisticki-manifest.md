@@ -1,16 +1,10 @@
 ---
 slug:              "komunisticki-manifest"
-layout:            knjiga
 title:             "Komunistički manifest"
 authors:           "Marx, Engels"
 goodreads_id:      "29616976"
 img:               "https://images.gr-assets.com/books/1458911089l/29616976.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Karl-Marx
   - aaa-Friedrich-Engels

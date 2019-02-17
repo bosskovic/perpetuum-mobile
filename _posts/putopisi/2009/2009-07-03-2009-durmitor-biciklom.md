@@ -1,15 +1,11 @@
 ---
-layout:      subcategory
+has_subposts: true
 slug:        "2009-durmitor-biciklom"
 title:       "Durmitor biciklom - 2009"
 excerpt:     "u planinama bicikl ponekad vozi tebe"
 description: "Tako sam i planirao, da mu polako priđem, prišunjam se, osmotrim iz svih uglova i izvezem sve što je vozno. Već prvog 
               dana bio sam u Nacionalnom parku, i tako sve do poslednjeg."
 image:       "/2009-durmitor-biciklom/zabljak-piva/img/101.jpg"
-categories:  ['putopisi']
-has_subcategories: true
-date:        2009-07-03
-  
 ---
 
 Durmitor, magična planina, zaslužuje da bude u centru planova nekog višednevnog putešestvija, a ne samo usputna stanica. 

@@ -1,0 +1,68 @@
+{% assign category = post.category %}
+{% include scripts/find_parent.html category=category %}
+
+{% if post.image %}
+  {% assign post_header_img = post.image %}
+{% else %}
+  {% assign post_header_img = parent.image %}
+{% endif %}
+
+
+<div class="post-preview">
+  <em class="muted header-line">
+    {% unless post.show_date == false %}
+      <i class="icon-kalendar"></i>{{ post.date | date: "%d. %m. %Y." }}
+      {% if post.tags_in_listing %}
+        <i class="icon-etc"></i>
+      {% endif %}
+    {% endunless %}
+    {% if post.tags_in_listing %}
+      {% assign start=true %}
+      {% for tag in post.tags %}
+        {% unless start %} * {% endunless %}
+        {% assign start=false %}
+        {{ tag | replace: 'ttt-', ' ' | replace: 'ttn-', ' ' | replace: 'rrr-', ' ' | replace:'-', ' ' }}
+      {% endfor %}
+
+    {% endif %}
+  </em>
+
+  <a class="screen-only" href="{{ post.url }}">
+    {% if post.image_in_listing %}
+      <img src="{{ post_header_img | replace: '/img/', '/thumbs_200/' }}" class="pull-right" style="width: 160px; height: 120px;">
+    {% endif %}
+    <h2 class="post-title"> {{ post.title }} </h2>
+    {% if post.excerpt and post.description_in_listing %}
+      <h3 class="post-subtitle">{{ post.excerpt }}</h3>
+    {% endif %}
+  </a>
+  <span class="for-print">
+    <img src="{{ post_header_img | replace: '/img/', '/thumbs_200/' }}" class="pull-right" style="width: 160px; height: 120px;">
+    <h2 class="post-title"> {{ post.title }} </h2>
+    {% if post.excerpt %}
+      <h3 class="post-subtitle">{{ post.excerpt }}</h3>
+    {% endif %}
+  </span>
+  <span class="muted">
+    {% if post.description and post.description_in_listing %}
+      {{ post.description | strip_html }}<br>
+    {% endif %}
+    {% unless post.description_in_listing %}
+      {{ post.excerpt }}
+    {% endunless %}
+    <span class="screen-only">
+      <br>
+      {% if post.has_subposts %}
+        {% assign time = 0 %}
+        {% for p in site.categories[post.slug] %}
+          {% assign time = p.content | number_of_words | divided_by:170 | plus: time %}
+        {% endfor %}
+        vreme čitanja: ~ {{ time }} min.
+
+      {% else %}
+        {% include component/read_time.html content=post.content english=page.english %}
+      {% endif %}
+    </span>
+  </span>
+</div>
+<hr class="clearfix">

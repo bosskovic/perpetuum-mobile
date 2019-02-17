@@ -1,16 +1,10 @@
 ---
 slug:              "deak-the-lawful-revolution"
-layout:            knjiga
 title:             "The Lawful Revolution: Louis Kossuth and the Hungarians 1848-1849"
 authors:           "István Deák"
 goodreads_id:      "1331984"
 img:               "https://images.gr-assets.com/books/1182807773l/1331984.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-István-Deák
   - bbb-revolucija-1848-49

@@ -1,16 +1,10 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       password-attacks
 title:      Password attacks
 excerpt:    Brute-force attack, dictionary attack, rainbow table attacks, timing attack
 date:       2014-08-19
 tags:
   - ttt-security
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 ### Brute-force attack

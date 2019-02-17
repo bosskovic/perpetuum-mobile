@@ -1,6 +1,5 @@
 ---
 slug:         "poreklo-bratstva-boskovica"
-layout:       etc_post
 title:        "Poreklo bratstva Boškovića"
 excerpt:      "Od Luštice i Prevlake preko Morače, Rovaca, Onogošta do Potarja i Zatarja"
 description:  "Neposredno pred polazak na moje prvo putešestvije po Crnoj Gori, prikupio sam literaturu koja mi je bila dostupna, 
@@ -8,11 +7,6 @@ description:  "Neposredno pred polazak na moje prvo putešestvije po Crnoj Gori,
                svašta saznao, nabavio mnogo literature, više puta obišao pomenuta mesta, tako da je tekst verovatno zreo za preradu.
                Tekst je iz jula 2007. a fotografije su novije."
 image: "/etc/poreklo-rovackog-plemena/img/rodoslov-naslovna.jpg"
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
 tags: 
   - rodoslov
   - rovca
@@ -593,7 +587,7 @@ Rovčani učestvuju pod kučkim vojvodom Radonjom Petrovićem u pohodu brđanski
 
 ### Reference
 
-{% include layout/content/id.html id="1" %}
+{% include component/id.html id="1" %}
 **[1]** U tom dokumentu Vitoje Nikšić sa još šest svedoka jemaca iz Onogošta, obavezuje se Dubrovčaninu Juniju Grubešiću 
 da će Ninec Nikšić platiti Grubešiću 19 perpera do Božića; a ako on ne plati, da su oni dužni platiti dug do korizme 
 (uskršnjeg posta), odričući se svih zakonskih osnova po kojima bi se mogli braniti da ne plate.
@@ -605,70 +599,70 @@ dabit et solvet eidem Junio ipperperos XVIIII usque ad Nativitatem. Et si ipse n
 dictos iperperos XVIIII usque ad Carnisprivium ad meiiorem se tenendo. Renuncianties et sit per apthagi.“ – Div. Canc. 18, 85v, (1354-1356)</blockquote>
 Datirano 20. septembra 1355. godine.
     
-{% include layout/content/id.html id="2" %}
+{% include component/id.html id="2" %}
 **[2]** Jelena, žena Đurđa Balšića Stracimirovića bila je ćerka kneza Lazara. Posle Đurđeve smrti, udala se za Sandalja Hranića
 
-{% include layout/content/id.html id="3" %}
+{% include component/id.html id="3" %}
 **[3]** S. Popović, isto
 
 Primarni izvor: Pucić, Srpski spomenici, I, 23.
 
-{% include layout/content/id.html id="4" %}
+{% include component/id.html id="4" %}
 **[4]** S. Popović, isto
 
 Primarni izvor: Schafarik, Acta arch. veneti, str. 475.
 
-{% include layout/content/id.html id="5" %}
+{% include component/id.html id="5" %}
 **[5]** S. Popović, isto
 
 Primarni izvor:B. Đurđev, Iz istorije brdskih i malisorskih plemena, str. 178.
 
-{% include layout/content/id.html id="6" %}
+{% include component/id.html id="6" %}
 **[6]** V. Bulatović pominje bana Milutina kao Vladimirovog oca, ali ne navodi izvor te tvrdnje.
 
 V. Bulatović, Rovca, bratstvo Bulatovića, str. 78.
 
-{% include layout/content/id.html id="7" %}
+{% include component/id.html id="7" %}
 **[7]** U Župi Gračanica se 1411. pominje neki carinik Ugren, ali nije sigurno da li je to “ban Ugren” kojeg je tradicija 
 upamtila. (B. Đurđev, Postanak brdskih, crnogorskih i hercegovačkih plemena, Zgodovinski časopis 19-20, Ljubljana, 1965/6, str. 192).
 
 Od starosedelaca Lužana, U Župi Nikšićkoj su ostali Ugrenovići i Raičevići (P. Šobajić, Nikšić-Onogošt, Beograd, 1938, str. 35).
 
-{% include layout/content/id.html id="8" %}
+{% include component/id.html id="8" %}
 **[8]** O Ugrenu i njegovoj borbi sa Balšom postoji narodna pesma „Ugren Jerinić“
 
-{% include layout/content/id.html id="9" %}
+{% include component/id.html id="9" %}
 **[9]** Kazivanja starih Trebješana i arhiva serdara Mališe i kapetana Boška Bućića-Nikšića, u Beogradu 1842. godine
 
-{% include layout/content/id.html id="10" %}
+{% include component/id.html id="10" %}
 **[10]** Isto, str. 4-6.
 
-{% include layout/content/id.html id="11" %}
+{% include component/id.html id="11" %}
 **[11]** Isto, str. 248.
 
-{% include layout/content/id.html id="12" %}
+{% include component/id.html id="12" %}
 **[12]** Vlasima su u ranom srednjem veku nazivali potomke predslovenskog romanizovanog stanovništva Balkana. Oni su se 
 vremenom u najvećem broju slavizirali i izgubili svoj etnički identitet, a kako su se pretežno bavili stočarstvom, već 
 od razvijenog srednjeg veka vlasima se nazivaju svi stočari. Turci po dolasku na Balkan Vlasima nazivaju svo hrišćansko 
 stanovništvo, a u Dalmaciji se i dalje pežorativno za pravoslavce, ili uopšte stanovništvo visokih planina kaže da su Vlasi.
 
-{% include layout/content/id.html id="13" %}
+{% include component/id.html id="13" %}
 **[13]** I Rovčani, kada su trgovali, uglavnom su to radili preko Podgorice. Trgovci iz Podgorice su još u XV veku terali 
 živu stoku i odnosili vunu i kože u Kotor. Prema predanju, iz Rovaca je u Kotor u davna vremena odnošen i Rujev list, a 
 kažu i drenove kuke. Rujev list se koristio za štavljenje kože, a namena drenovih kuka nije poznata. (M, Barjaktarović, 
 Rovca, etnološka monografija, str. 59).
 
-{% include layout/content/id.html id="14" %}
+{% include component/id.html id="14" %}
 **[14]** Kiljan stoji uspravno, viri iz zemlje oko 120cm a horizontalni presek mu je četvrtast, duža strana je 60 a 
 kraća 50cm. Po ornamentici bi mogao da se svrsta u red stećaka.
 
-{% include layout/content/id.html id="15" %}
+{% include component/id.html id="15" %}
 **[15]** B. Simović, M. Šundića, Gospodar Onogošta, sajt Ilustrovane Politike: http://www.politika.co.yu/ilustro/2068/treci.htm
 
-{% include layout/content/id.html id="16" %}
+{% include component/id.html id="16" %}
 **[16]** Vukanovi sinovi Stefan i Dimitrije jedva da se pominju u istorijskim izvorima, dok ćerka Jevrosima nigde ni ne spominje.
 
-{% include layout/content/id.html id="17" %}
+{% include component/id.html id="17" %}
 **[17]** Mrtvica je glavna rovačka reka, pošto celim tokom protiče kroz Rovca. Na delovima svog toka je ponornica, pa 
 zato nije skroz jasno koje joj je tačno izvor. Glavno izvorište joj je definitivno ispod planina Utlica i Vojonovac 
 iznad sela Višnje, a ostaje sporno da li i Lukavičko jezero otiče kroz kraške stene prema kanjonu Mrtvice gde se nalaze 
@@ -681,18 +675,18 @@ izbacivalo “mrtve” (sic) donesene čak iz Ozrinića kod Nikšića! Ime Mrtvi
 odlikama. Ona još na početku svog toka ponire i nestaje: kao da umre i umrtvi se. (M. Barjaktarović, Rovca, etnološka 
 zbirka, str 16, u fusnoti).
          
-{% include layout/content/id.html id="18" %}
+{% include component/id.html id="18" %}
 **[18]** Rovce je deminutiv jednine od reči rov, što zanči zarez, udubljenje, rupa u zemlji. Množina od rovce je rovca 
 a ne rovci.
 
-{% include layout/content/id.html id="19" %}
+{% include component/id.html id="19" %}
 **[19]** M. Barjaktarović, Rovca, etnološka monografija, str. 51. Ovi podaci su sa kraja sedamdesetih godina XX veka. 
 Prema istom izvoru, površina Rovaca ne računajući jezera i vodotokove je oko 18582ha.
 
-{% include layout/content/id.html id="20" %}
+{% include component/id.html id="20" %}
 **[20]** M. Barjaktarović, Rovca, etnološka monografija, str. 56. Bar je sličan prosu.
 
-{% include layout/content/id.html id="21" %}
+{% include component/id.html id="21" %}
 **[21]** U doba pre dolaska Slovena, na ovom širem području živela su ilirska plemena Labeati, Dokleati i Autarijati i 
 formirala savez pod imenom Arideji. Uopšteno uzeto, Arideji su živeli u planinskim masivima Crne Gore, pa prema rimskom 
 pridevu aduus (visok, strm) njihovo ime bi trebalo da znači gorštaci, brđani. (M. Barjaktarović, Rovca, etnološka 
@@ -705,15 +699,15 @@ vlaškog porekla.
 
 Druge grupacije tih predslovenskih naroda su uspele da se očuvaju, i od njih su nastali moderni narodi Albanci i Rumuni.
 
-{% include layout/content/id.html id="22" %}
+{% include component/id.html id="22" %}
 **[22]** Erdeljanović veruje da naziv Macura ima veze sa italijanskim mazzare, biti, tući se.
 
-{% include layout/content/id.html id="23" %}
+{% include component/id.html id="23" %}
 **[23]** S. Popović, Rovca i Rovčani, str. 35
 
 Primarni izvor: Erdeljanović, Postanak plemena Pipera, str. 418.
 
-{% include layout/content/id.html id="24" %}
+{% include component/id.html id="24" %}
 **[24]** Predanja o ženidbi neuglednom, grdnom devojkom nisu retka, i nisu samo rovačka. Predanja kažu da se i Vaso 
 oženio od “starih” Pipera, Bijeli Pavle od starih Lužana, Lale Drekalov od bratonoškog vojvode. Predak Klimenata, 
 rema tradiciji, oženio se hromom ćerkom bogatog stočara u Trijepču, kao što je bila i Žiža, po kojoj su rovački Žižići 
@@ -724,19 +718,19 @@ I predanja o prosutim crevima su stara. Po raširenoj verziji, Drobnjaci su i sv
 nekog silnika. (Srpski etnografski zbornik 50, Rasprave i građa 1, uredio V. Čajkanović, str 236.)
 
 Po drugoj verziji, Drobnjaci su dobili ime po tome što su nastali spajanjem pune malih, sitnih (drobnih) bratstava u pleme.
-{% include layout/content/id.html id="25" %}
+{% include component/id.html id="25" %}
 **[25]** M. Barjaktarović, Rovca, etnološka monografija, str. 44 i u fusnoti.
 
-{% include layout/content/id.html id="26" %}
+{% include component/id.html id="26" %}
 **[26]** Isto, str. 44, fusnota.
 
-{% include layout/content/id.html id="27" %}
+{% include component/id.html id="27" %}
 **[27]** Katunska nahija
 
-{% include layout/content/id.html id="28" %}
+{% include component/id.html id="28" %}
 **[28]** Srednjevekovno Bijelo Polje
 
-{% include layout/content/id.html id="29" %}
+{% include component/id.html id="29" %}
 **[29]** S. Popović, Rovca i Rovčani, str. 41
 
 Primarni izvori: K. Jiriček, Trgovački drumovi i rudnici Srbije i Bosne; Pucić, Srpski spomenici; Istorija Crne Gore 1.
@@ -744,45 +738,45 @@ Primarni izvori: K. Jiriček, Trgovački drumovi i rudnici Srbije i Bosne; Puci�
 Postojao je i takozvani turski put koji se odvjao od glavnog puta kod Trebiješa na severoistok pored Lukavičkog jezera 
 preko Lole, Javorja i Sinjavine niz Lipovo dolinom Plašnice, pored Tare za Brskovo i Lim, kao i za Kolašin kada je ovaj podignut.
 
-{% include layout/content/id.html id="30" %}
+{% include component/id.html id="30" %}
 **[30]** S. Popović, Rovca i Rovčani, str. 40
 Primarni izvor: M. Dinić, Zemlje hercega svetog Save (Glas SKA, II, 92, str. 229, 154, 166.)
 U povelji aragonskog kralja Alfonsa V nabrajaju se posedi i utvrđena mesta koja on daje Stepanu Vukčiću Kosači, među 
 kojima se nalazi utvrđenje Morača 1448. godine, a 1456. godine navode se u povelji i stanovnici sa tvrđavom i okolinom 
 (civitate Morachii cum castris et pertinentiis suis).
 
-{% include layout/content/id.html id="31" %}
+{% include component/id.html id="31" %}
 **[31]** Spomenik SKA, III, str 211; Stojanović, Zapisi, I, str. 280.
 
-{% include layout/content/id.html id="32" %}
+{% include component/id.html id="32" %}
 **[32]** S. Popović, Rovca i Rovčani, str. 360-381
 
-{% include layout/content/id.html id="33" %}
+{% include component/id.html id="33" %}
 **[33]** Sajt Srednjevekovni gradovi Crne Gore: http://www.gradovi.cg.yu/FS-gradovi.htm
 
-{% include layout/content/id.html id="34" %}
+{% include component/id.html id="34" %}
 **[34]** Sajt Srednjevekovni gradovi Crne Gore: http://www.gradovi.cg.yu/FS-gradovi.htm
 
 Sajt Minhadž: http://minhadz.com/index.php?option=com_content&task=view&id=305&Itemid=30
 
-{% include layout/content/id.html id="35" %}
+{% include component/id.html id="35" %}
 **[35]** M. Barjaktarović, Rovca, etnološka monografija, str. 22-23; 
 
 sajt Srednjevekovni gradovi Crne Gore: http://www.gradovi.cg.yu/FS-gradovi.htm
 
-{% include layout/content/id.html id="36" %}
+{% include component/id.html id="36" %}
 **[36]** Sajt Srednjevekovni gradovi Crne Gore: http://www.gradovi.cg.yu/FS-gradovi.htm
 
-{% include layout/content/id.html id="37" %}
+{% include component/id.html id="37" %}
 **[37]** Pretpostavlja se da je ime planine Maganik nastalo od Maglenik, i da se transformisalo radi lakšeg izgovora.
 
-{% include layout/content/id.html id="38" %}
+{% include component/id.html id="38" %}
 **[38]** Lukavičko ili Kapetanovo jezero, dobilo je ime po planini Lukavici i po kapetanima Mušovićima koji su upravljali 
 Nikšićem, dok su begovi Mušovići imali svoj katun pored ovog jezera nakon što su proterali Trebješane iz Trebjese (1789. godine)
  
 Jezero je zapravo cirk napunjen vodom posle povlačenja lednika. Dugačko je 480m sa najvećom širinom od 330m, a najveća dubina je 37m. Površina je oko 92000m².
          
-{% include layout/content/id.html id="39" %}
+{% include component/id.html id="39" %}
 **[39]** Brnjičko ili Manito jezero se nalazi u podnožju brda Jablanovac, ispod Stošca a u predelu planine Brnjik, po 
 kojoj je i dobilo ime. Drugo ime, Manito jezero, dali su joj Piperi po manitoj nemani koja živi u dubinama jezera koje nema dna.
 
@@ -799,21 +793,21 @@ usmrtila. Kad je vila videla da je dečak poginuo, počela je da roni suze od ko
 naziva Vilina voda. Jezero iz kojeg je iskočila ona manita neman nazva se Manito jezero, a vis gde je Vojin poginuo – 
 Vojinovac. (M. Janković, Priče sa sijela, Pobjeda od 8. 8. 1971.)
          
-{% include layout/content/id.html id="40" %}
+{% include component/id.html id="40" %}
 **[40]** Lokva Puletića nazvana je tako po bratstvu Puletića čiji predak Puleta Šćepanović se tu doselio sa sinovima iz Lipija.
 
-{% include layout/content/id.html id="41" %}
+{% include component/id.html id="41" %}
 **[41]** S. Popović, Rovca i Rovčani, str. 10
 
 Primarni izvor: Petar Šobajić, Bjelopavlići i Pješivci (SEZ, XXVII, 1923, 253.)
          
-{% include layout/content/id.html id="42" %}
+{% include component/id.html id="42" %}
 **[42]** J. Erdeljanović, Postanak plemena Pipera str. 245, 275, 287, 297, 305, 398.
 
-{% include layout/content/id.html id="43" %}
+{% include component/id.html id="43" %}
 **[43]** M. Barjaktarović, Rovca, etnološka monografija, str 14. u fusnoti.
 
-{% include layout/content/id.html id="44" %}
+{% include component/id.html id="44" %}
 **[44]** Rovca su u turskom defteru iz 1477. godine upisana kao vlaška nahija, i po “zakonu” koji je priložen uz popis 
 imali su da daju: svako domaćinstvo o Đurđev-danu po dukat, ovcu sa jagnjetom (ili u novcu 12 akči) i ovna (ili 15 akči). 
 Pored toga, ceo “katun” Rovca je bio dužan da obezbedi jednu čergu (šator), a kada je bio ratni pohod, da svakih deset 
@@ -822,7 +816,7 @@ Rovčani su imali status slobodnih seljaka, dakle, bez obaveze timara i čitluka
 predela koje je obuhvatala feudalna obaveza, dukat, ovca i ovan nisu bili preveliko opterećenje za domaćinstva koja su 
 držala više stoke.
 
-{% include layout/content/id.html id="45" %}
+{% include component/id.html id="45" %}
 **[45]** Prevod dela deftera koji se odnosi na Rovca glasi ovako: 
 
 Nahija Rovca – džemat kneza Vuksana
@@ -843,7 +837,7 @@ U mestima po imenu Bogutov Dol, Gostilje, Plate (Platije), Janište i Kranović 
 
 Nikola, kojem se ne može pročitati ime oca u defteru, prema nekim rodoslovima je bio Vlahov sin.
 
-{% include layout/content/id.html id="46" %}
+{% include component/id.html id="46" %}
 **[46]** Original fermana nije sačuvan, a u prepisu glasi: „Sultan Selim han, sin presvijetloga i uzmožnoga i nikada 
 nepokorenoga sultana Bajazita hana, primorskijem, romanskijem, anatolskijem i inijem mnozem zemljam gospodar, ovu svetu 
 kletovnu knjigu dajem knezu rovačkom... i vlasteli, da ću ugovoreni mir držati nenarušivim. Tako mi vere i tako mi 
@@ -852,17 +846,17 @@ sinova glave. – Tako da se znade.
 Dano u našem stolnom mjestu Brusi od Roždestva Hristova 1513. ljeta mjeseca marta 5.“ (S. Popović, Rovca i Rovčani, 
 str 54, primarni izvor: Arhiv Srbije, Beograd, zaostavština A. Luburića, kut. 14, br. 371)
          
-{% include layout/content/id.html id="47" %}
+{% include component/id.html id="47" %}
 **[47]** S. Popović, Rovca i Rovčani, str 56, primarni izvor: J. Tomić, Politički odnos Crne Gore prema Turskoj 1528-1684 g. (Glas SKA, LXVIII, 42, str. 105)
          
-{% include layout/content/id.html id="48" %}
+{% include component/id.html id="48" %}
 **[48]**  ra(b) b(o)ži Vuk(ić) n(ne)z. (S. Popović, Rovca i Rovčani, str 59, primarni izvor: D. Kamber, Pisma crnogorskih i albanskih prvaka papi Pavlu V, str 288)
          
-{% include layout/content/id.html id="49" %}
+{% include component/id.html id="49" %}
 **[49]** Narodno predanje je pomešalo imena i likove Bulatovog sina, Gojakovog unuka kneza Vuksana kojeg pominje turski 
 defter iz 1477. i kneza Vuksana koji se borio sa Turcima i bio zatočen u Skadru.
 
-{% include layout/content/id.html id="50" %}
+{% include component/id.html id="50" %}
 **[50]** S. Popović, Rovca i Rovčani, str 61, primarni izvor: Starine, knj. XII, (1880), str. 181.
 
 <span class="caption text-muted pull-right">5. jul 2007.</span>

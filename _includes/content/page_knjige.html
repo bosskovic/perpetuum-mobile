@@ -1,0 +1,15 @@
+<div class="authors-cloud pull-right">
+    {% include component/tag_cloud.html prefix="aaa-" min_size=2 %}
+</div>
+<div class="tag-cloud">
+    {% include component/tag_cloud.html prefix="bbb-" min_size=2 %}
+</div>
+
+
+<div class="clearfix"></div>
+<br>
+<span class="post-previews">
+  {% for p in site.categories[page.slug] %}
+    {% include component/preview/book.html post=p %}
+  {% endfor %}
+</span>

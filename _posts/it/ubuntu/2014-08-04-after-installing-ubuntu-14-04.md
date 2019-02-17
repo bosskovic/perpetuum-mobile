@@ -1,6 +1,4 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "after-installing-ubuntu-14-04"
 title:      After installing Ubuntu 14.04
 excerpt:    detailed instructions
@@ -8,10 +6,6 @@ date:       2014-08-04
 tags:
   - ttt-linux
   - ttt-ubuntu
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 Partner repositories should be enabled.

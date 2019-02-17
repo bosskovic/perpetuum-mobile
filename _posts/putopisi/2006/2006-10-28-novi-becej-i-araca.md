@@ -3,7 +3,6 @@ slug:        "2006-novi-becej-i-araca"
 title:       "Novi Bečej i Arača biciklom"
 excerpt:     "Stara Tisa, ostaci novobečejske tvrđave, ruševine srednjevekovne crkve"
 description: "Van puta i dobro skriveni, u blizni Novog Bečeja nalazi se par vrlo interesantnih srednjevekovnih spomenika: ostataci novobečejske tvrđave na obali Tise i ruševina srednjevekovne crkve Arače. Najzgodine od svega je što se to može obići biciklom iz Novog Sada za jedan dan."
-categories:  ['putopisi']
 image: "/putopisi/2006-novi-becej-i-araca/img/20061028-36.jpg"
 photos:
   -
@@ -75,7 +74,7 @@ date: 2006-10-28
 Fruška gora, Kovilj i Koviljski rit i Begečka jama su očigledni izbori za jednodnevne vožnje biciklom, ali i okolina
 Bečeja je interesantna a ipak i dalje dovoljno blizu.
 
-{% include layout/content/img_vertical.html file_name="20061028-04.jpg" %}
+{% include component/img/vertical.html file_name="20061028-04.jpg" %}
 Krenuli smo rano ujutro iz Novog Sada, pa preko Bačkog Jarka, Temerina, Bačkog Gradišta i uz meandar "Mrtve Tise" i preko Tise stigli
 u Banat i Novi Bečej. Ovo je najnezgodnija deonica celog puta, pošto se stalno vozi kroz saobraćaj. Tu smo imali i jednu
 malu nezgodu; u jednom trenutku sam iz nekog razloga morao da stanem, pa sam sišao sa ivice asfalta 30-40 santimetara u 
@@ -86,16 +85,16 @@ U Novom Bečeju Žarko i Daca su se odmah odvojili u nekom kafiću, nju je bolel
 se on ponudio da joj pravi društvo dok ne krenemo nazad prema Novom Sadu. Mi ostali (Tića, Danijel i ja) smo se provozali
 kroz centar, izašli na kej i krenuli da tražimo ostatke novobečejske tvrđave dole u nebranjenom delu uz Tisu.
 
-{% include layout/content/id.html id="novobecejska-tvrdjava" %}
+{% include component/id.html id="novobecejska-tvrdjava" %}
 {% capture story %}
 <p>
-{% include layout/content/img_horizontal.html file_name="20061028-11.jpg" %}
+{% include component/img/horizontal.html file_name="20061028-11.jpg" %}
 Prema Rudolfu Šmitu, Bečej se prvi put pominje u dokumentima 1238. godine, kada kralj Bela IV potvrđuje poklon sela Bečej
 (villa Wechey) konventu krstaša u Stonom Beogradu. U cilju obezbeđenja poseda, krstaši podižu tvrđavu (Castellanus de Beche) 
 krajem XIII ili početkom XIV veka, verovatno na mestu ostataka starijeg rimskog utvrđenja.</p>
 <br>
 <p>
-{% include layout/content/img_horizontal.html file_name="becej-ostaci.jpg" %}
+{% include component/img/horizontal.html file_name="becej-ostaci.jpg" %}
 1386. godine markgraf od Brandenburga, budući kralj Žigmund grad poklanja braći Ladislavu i Ištvanu Lošonci. 
 Krajem XIV veka drži ga Stefan Lazarević a od 1419. je u rukama Đurđa Brankovića, zatim Hunjadija a od početka XVI veka 
 drži ga porodica Geréb de Vingárt. Turci ga osvajaju 19. septembra 1551. godine pod komandom Mehmed-paše Sokolovića, 
@@ -104,7 +103,7 @@ do temelja srušena 5. maja 1701. godine. Ostaci tvrđave na obali Tise smetali 
 i razrušen 1911. godine.</p>
 <br>
 <p>
-{% include layout/content/img_vertical.html file_name="becej-plan-1701.jpg" %}
+{% include component/img/vertical.html file_name="becej-plan-1701.jpg" %}
 Tipičan srednjevekovni grad na vodi, nalazio se na obali Tise sa 30m širokim i 3m dubokim opkopom sa ostalih strana, a jedini
 ulaz bio je preko pokretnog mosta pa kroz gradsku kapiju zaštićenu sa boka polu-kulom. U sredini se nalazilo malo uzvišenje
 sa gradskom kulom, a iza nje, naslonjen na zid bio je stan komadanta tvrđave. Na osnovu sačuvanog plana koji je pre rušenja 
@@ -121,16 +120,16 @@ Izvori:
 <li>sajt <a href="http://www.novibechej.com/novi-becej-i-vranjevo-kroz-istoriju/201-novobecejska-tvrdava" target="_blank">www.novibechej.com</a>, pristupljeno u maju 2017.</li>
 </ul>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Novobečejska tvrđava" %}
+{% include post/side_story.html story=story title="Novobečejska tvrđava" %}
 
 Posle obilaska tvrđave, vratili smo se u Novi Bečej, i uz Slano Kopovo krenuli prema Arači. Crkva je vrlo markantna,
 i već iz daleka se uočava kako dominira okolnim njivama.
 
-{% include layout/content/id.html id="araca" %}
+{% include component/id.html id="araca" %}
 {% capture story %}
-{% include layout/content/youtube.html id="BtvTXaOXrcY" %}
+{% include component/youtube/video.html id="BtvTXaOXrcY" %}
 <br>
-<p>{% include layout/content/img_horizontal.html file_name="20061028-26.jpg" %}
+<p>{% include component/img/horizontal.html file_name="20061028-26.jpg" %}
 Arača se nalazi na blago uzvišenom terenu između Novog Bečeja, Novog Miloševa i Bašaida. Prva crkve u Arači bile su 
 podignute u kasnoj antici, a neki objekti su postojali i između devetog i jedanaestog veka (sa mogućnošću kontinuiteta od 
 kasne antike), dok sadašnji očuvani ostaci najverovatnije potiču iz 1228. godine, i bili
@@ -140,7 +139,7 @@ su u sklopu benediktanskog samostana. Crkva je opljačkana i porušena 1280. god
 Pred turska osvajanja, crkva je utvrđena, i Turci je spaljuju 1551. godine. Od tada nije obnavljana, a prvi konzervatorski
 radovi vrše se tek krajem XIX veka.</p>
 <br>
-<p>{% include layout/content/img_horizontal.html file_name="20061028-25.jpg" %}
+<p>{% include component/img/horizontal.html file_name="20061028-25.jpg" %}
 Uz crkvu je postojalo srednjevekovno naselje, koje je u XV veku bilo u posedu Stefana Lazarevića, i kasnije Đurđa 
 Brankovića, koji ovaj kraj naseljavaju stanovništvom iz Srbije. I tokom turskog perioda, selo je naseljeno Srbima. Nakon
 austrijsko-turskog rata i pomeranja granice, Arača ulazi u sastav Austrijske carevine. Zbog teških uslova života u Banatu
@@ -153,9 +152,9 @@ Izvori:
 </ul>
 
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Arača" %}
+{% include post/side_story.html story=story title="Arača" %}
 
-{% include layout/content/img_horizontal.html file_name="20061028-41.jpg" %}
+{% include component/img/horizontal.html file_name="20061028-41.jpg" %}
 Posle duge pauze u Arači, vratili smo se u Novi Bečej, pokupili Dacu i Žarka i krenuli istim putem nazad za Novi Sad.
 Sve u svemu, lako dostižna distanca za jednodnevne vožnje iz Novog Sada, ali put NS - Bačko Gradište je malo dosadan, najvećim
 delom ide kroz saobraćaj i ponavlja se (tamo i nazad). Ali zbog onoga što čeka iza, vredi.

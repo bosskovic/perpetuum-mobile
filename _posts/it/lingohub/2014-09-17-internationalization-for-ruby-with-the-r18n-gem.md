@@ -1,18 +1,11 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "internationalization-for-ruby-with-the-r18n-gem"
 title:      Internationalization for Ruby with the r18n gem
 excerpt:    Installation and setup, translation lookup, filters for translations processing, pluralization, translating activeRecord models and plain Ruby objects, locale settings, r18n wrappers for rails and sinatra, r18n vs i18n
 date:       2014-09-17
 tags:
-  - ttt-back-end
   - ttt-i18n&l10n
   - ttt-ruby
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 <p class='muted'>I originally published this article on <a href="http://blog.lingohub.com/">Lingohub blog</a> in 2013, while working for the company. <a href="http://lingohub.com/">Lingohub</a> specializes in providing app localization for developers and translators.</a></p>

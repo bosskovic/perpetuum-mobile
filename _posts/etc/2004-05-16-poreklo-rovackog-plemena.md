@@ -1,6 +1,5 @@
 ---
 slug:         "poreklo-rovackog-plemena"
-layout:       etc_post
 title:        "Poreklo rovačkog plemena"
 excerpt:      "Od Luštice i Prevlake preko Morače do Rovaca i Onogošta"
 description:  "Pre petnaestak godina, nakon što sam prvi put počeo da se interesujem za rodoslov i priče o precima, nabavio sam i pročitao
@@ -9,11 +8,6 @@ description:  "Pre petnaestak godina, nakon što sam prvi put počeo da se inter
                Originalni tekst, takav kakav je, manjkav, neprecizan, na mestima netačan... može se ovde naći u celosti i u 
                izvornom obliku bez ispravki. Ilustracije su išle uz originalni tekst a fotografije su novije."
 image: "/etc/poreklo-rovackog-plemena/img/rodoslov-naslovna.jpg"
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
 photos:
   -
     key: barjaktarovic-mapa.jpg
@@ -50,7 +44,7 @@ tags:
 
 ## Ime i granice Rovce
 
-{% include layout/content/img_horizontal.html file_name="popovic-mapa.jpg" %}
+{% include component/img/horizontal.html file_name="popovic-mapa.jpg" %}
 Rovca se nalazi u trouglu koji formiraju Podgorica, Nikšić i Kolašin (u delu koji je bliži Kolašinu), u samom centru 
 teritorije Crne Gore, i grubo se geografski poklapa sa dolinom reke Mrtvice koja se uliva u Moraču a delom se poklapa 
 sa slivom same Morače, nizvodno od ušća Mrtvice. U pitanju je veoma strm predeo, razrovan jarugama, urvinama i rovovima, 
@@ -58,7 +52,7 @@ po kojima je Rovca i dobila ime. To ime je veoma staro; prvi put se pojavljuje u
 defteru, kada je popisano rovačko stanovništvo.
 
 
-{% include layout/content/img_horizontal.html file_name="barjaktarovic-mapa.jpg" %}
+{% include component/img/horizontal.html file_name="barjaktarovic-mapa.jpg" %}
 Najveća udaljenost od severne do južne granice teritorije Rovce iznosi oko 35 kilometara, a od zapadne do istočne oko 20 
 kilometara. Na geografski najnižem delu (sa oko 170 metara nadmorske visine), tj. kod same reke Morače, granica prema 
 Piperima ide od mesta Kupine, pored Morače, preko Javorka, Mučin Dola, Smonika, Maganika, Kurozeba i Rogođeda do piperske 
@@ -71,14 +65,14 @@ pomerale, ali uglavnom na štetu Rovčana (jači i brojniji susedi Piperi i Bjel
 posede), tako da su sva ova nabrojana mesta kroz istoriju bila deo Rovaca. Rovca je danas u dodiru sa Piperima, 
 Bjelopavlićima, Gornjom Moračom, Donjom Moračom, Vasojevićima i Bratonožićima. 
 
-{% include layout/content/img_full.html file_name="plemena.jpg" %}
+{% include component/img/full.html file_name="plemena.jpg" %}
 
 Pleme Rovčani je tradicionalno deo šire grupe plemena poznate kao Brda, ili **Sedmero Brda**. Tu pored **Rovčana** spadaju i 
 druga crnogorska plemena: **Morača** (Donja i Gornja), **Kuči**, **Piperi**, **Bratonožići**, **Bjelopavlići** i **Vasojevići**.
 
 ## Gojakovo poreklo
 
-{% include layout/content/img_full.html file_name="rodoslov1.jpg" %}
+{% include component/img/full.html file_name="rodoslov1.jpg" %}
 
 Najveći broj Rovčana (oko 75%) vodi poreklo od **Gojaka**, rodonačelnika Rovačkog plemena. Gojak je bio poreklom iz Grblja. 
 Najstariji poznati predak Rovčana je **ban Milutin**, koji je živeo u mestu Krtole (na jugu Tivatskog zaliva) negde krajem 
@@ -107,7 +101,7 @@ drugoj polovini XIV veka. Moguće pojašnjenje ove “zabune” nude spisi nazva
 
 ### Trebješansko predanje o Nikši (Nikšama)
 
-{% include layout/content/img_vertical.html file_name="niksa.jpg" %}
+{% include component/img/vertical.html file_name="niksa.jpg" %}
 Predanje o Nikši i njegovom potomstvu najbolje se očuvalo u Manastiru Morača. Morački kaluđeri, koji su čuvali predanje, 
 izdali su pismenu potvrdu 1649. godine vojvodi Petru Gavriloviću Trebješaninu, sinovcu vojvode Grdana (podigao čuvenu 
 Grdanovu bunu),  o njegovom poreklu od “knjaza Nikše”. Ovo pismo je kasnije prepisano, 1745. godine u manastiru pod 
@@ -227,12 +221,12 @@ Ono je s vremenom postalo veliko saborište, pre svih, Rovčana i Župljana.
 
 ## Gojak i njegovi potomci
 
-{% include layout/content/img_full.html file_name="rodoslov2.jpg" %}
+{% include component/img/full.html file_name="rodoslov2.jpg" %}
 
 Po nekim verzijama predanja, **Gojak** je bio Nikšin najstariji sin, dok je po drugim bio najmlađi. Kako god bilo, sve 
 verzije se slažu da je Nikša imao sina Gojaka. 
 
-{% include layout/content/img_vertical.html file_name="gojak.jpg" %}
+{% include component/img/vertical.html file_name="gojak.jpg" %}
 Nikši se na putu da zagospodari celom Župom nalazio ban Ugren, i on odluči da ga ubije. Sa sinovima se dogovorio, čim 
 Ugren dođe u Župu, da realizuju odluku. Kada je Ugren došao u Župu, Nikša i njegovi sinovi ga napadnu i izbodu noževima. 
 Uvereni da su ga ubili, napuste mesto zločina. Ugrena su preneli u njegov dvor u Moštanici. Nikšin sin Gojak, koji je 

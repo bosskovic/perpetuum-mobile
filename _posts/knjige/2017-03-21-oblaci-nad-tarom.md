@@ -1,16 +1,10 @@
 ---
 slug:              "oblaci-nad-tarom"
-layout:            knjiga
 title:             "Oblaci nad Tarom"
 authors:           "Čedomir Minderović"
 goodreads_id:      "34657896"
 img:               "https://images.gr-assets.com/books/1490127382l/34657896.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Čedomir-Minderović
   - bbb-NOB-proza

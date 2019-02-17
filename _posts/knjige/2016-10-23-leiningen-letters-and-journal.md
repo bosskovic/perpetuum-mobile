@@ -1,16 +1,10 @@
 ---
 slug:              "leiningen-letters-and-journal"
-layout:            knjiga
 title:             "The Letters and Journal (1848-49) of Count Charles Leiningen-Westerburg: General in the Hungarian Army"
 authors:           "Henry Marczali"
 goodreads_id:      "26954752"
 img:               "https://images.gr-assets.com/books/1476747716l/26954752.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Henry-Marczali
   - bbb-revolucija-1848-49

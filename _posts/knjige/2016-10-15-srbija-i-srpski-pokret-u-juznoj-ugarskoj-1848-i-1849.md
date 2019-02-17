@@ -1,16 +1,10 @@
 ---
 slug:              "srbija-i-srpski-pokret-u-juznoj-ugarskoj-1848-i-1849"
-layout:            knjiga
 title:             "Srbija i srpski pokret u Južnoj Ugarskoj 1848 i 1849"
 authors:           "Dragoljub M. Pavlović"
 goodreads_id:      "32575629"
 img:               "https://images.gr-assets.com/books/1476208385l/32575629.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Dragoljub-M.-Pavlović
   - bbb-revolucija-1848-49

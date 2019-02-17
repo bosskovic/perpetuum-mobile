@@ -1,16 +1,10 @@
 ---
 slug:              "deset-krvavih-godina"
-layout:            knjiga
 title:             "Deset krvavih godina i drugi politički eseji"
 authors:           "Miroslav Krleža"
 goodreads_id:      "25506592"
 img:               "https://images.gr-assets.com/books/1431112456l/25506592.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Miroslav-Krleža
   - bbb-esejistika

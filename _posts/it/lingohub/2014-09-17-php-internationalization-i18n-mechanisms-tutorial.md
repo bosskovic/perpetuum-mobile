@@ -1,20 +1,11 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "php-internationalization-i18n-mechanisms-tutorial"
 title:      PHP internationalization – i18n mechanisms tutorial
 excerpt:    Static web and internationalization, dynamic web applications, localizing strings directly in the code, storing the strings in a relational database, message catalogues (string arrays), JSON, use of resource files
 date:       2014-09-17
-layout:     tech_post
-categories: ['tech']
 tags:
-  - ttt-back-end
   - ttt-i18n&l10n
   - ttt-php
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 <p class='muted'>I originally published this article on <a href="http://blog.lingohub.com/">Lingohub blog</a> in 2013, while working for the company. <a href="http://lingohub.com/">Lingohub</a> specializes in providing app localization for developers and translators.</a></p>

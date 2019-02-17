@@ -1,16 +1,10 @@
 ---
 slug:              "ratnim-stazama-milovana-djilasa"
-layout:            knjiga
 title:             "Ratnim stazama Milovana Đilasa"
 authors:           "Miloš Mido Milikić"
 goodreads_id:      "35531361"
 img:               "https://images.gr-assets.com/books/1498676272l/35531361.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Miloš-Mido-Milikić
   - bbb-NOB-memoar-/-dnevnik

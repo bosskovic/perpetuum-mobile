@@ -3,7 +3,8 @@ slug:        "trnovacki-durmitor"
 title:       "Trnovački Durmitor"
 excerpt:     "levitiranje iznad jezera"
 description: "Za kraj obilaska planina u okolini Trnovačkog jezera ostavili smo onu koja mu je dala ime - Trnovački Durmitor. U pitanju je kamena gromada koja se nadnosi nad samim jezero koje gledano iz tog ugla najviše podseća na srce."
-categories:  ['2012-trnovacko-jezero']
+category:  2012-trnovacko-jezero
+parent_category: putopisi
 photos:
   -
     key: 010.jpg
@@ -37,25 +38,25 @@ tags:
 </a>
 <img class="for-print" style="width:90%;" src="/2012-trnovacko-jezero/vrhovi/20120718-00-mapa.jpg">
 
-{% include layout/content/img_horizontal.html file_name="010.jpg" %}
+{% include component/img/horizontal.html file_name="010.jpg" %}
 Ređaju se dani i gomilaju utisci ali i umor i žuljevi. Ponestaje nam i preostalih destinacija oko jezera. Poslednja naša 
 šetnja od Trnovačkog jezera vodi nas ponovo preko Rudinskih koliba i Boje do Trnovačkog Durmitora. Do Rudinskih koliba 
 je lako doći, pastirskom stazom od jezera. Dalje vodi markacija pravo u Boju i tu se putevi račvaju. Jedan put (ako tako 
 uopšte može da se nazove) izlazi na Bojanska vrata i nije markiran. Drugi vodi na Trnovački Durmitor. Markaciju je 
 moguće pratiti dok se ne dođe u strmo podnožje Durmitora, a dalje nema mnogo filozofije – samo strmo uzbrdo do vrha.
 
-{% include layout/content/img_horizontal.html file_name="012.jpg" %}
+{% include component/img/horizontal.html file_name="012.jpg" %}
 Trnovački Durmitor je kameni vrh direkt iznad jezera koji pruža na njega pogled iz ptičije perspektive. Sjajno mesto za 
 uživanje, osim ako ne duva ledeni vetar kao što je duvao tog dana. Osim jezera, lepo se vide i Maglić, Prijevor, Suva 
 jezerina, Suha, Volujak i Zelengora u daljini. Štrči kupa Trzivke, svega nekoliko metara niža od Maglića, sa jedne njene 
 strane je jezero a sa druge Ordeni dolovi, široko relativno ravno polje prošarano klekom i siparom. Iza dolova je Bioč i 
 njegovi vrhovi Veliki i Mali Vitao.
 
-{% include layout/content/img_horizontal.html file_name="018.jpg" %}
+{% include component/img/horizontal.html file_name="018.jpg" %}
 Trebalo je da nastavimo i obiđemo još nešto, Trzivku ili Vitlove ali se ipak dogovaramo da to ostavimo za neki naredni 
 put. Mićko i Dajana obilaze Trzivku i zajedno se spuštamo do koliba i jezera.
 
-{% include layout/content/video_thumb.html id="96HmErutpOk" %}
+{% include component/youtube/thumb.html id="96HmErutpOk" %}
 Predveče su do jezera "zalutala" dva skauta iz Nemačke (Maks i Danijel), u kratkim čakširama, sa smešnim kapicama, 
 prevelikim rancima i gitarom. Pozivamo ih da nam se pridruže pored vatre i zabavljaju nas do kasno u noć.
 

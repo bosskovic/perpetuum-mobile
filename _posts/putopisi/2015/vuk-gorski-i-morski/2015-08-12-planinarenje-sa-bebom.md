@@ -4,7 +4,8 @@ title:       "Planinarenje i šatorovanje sa bebom"
 description: "Ranac koji brblja, guguče i ima neke posebne potrebe, ali ako se one ispune, srećan je da deli sa mamom i tatom
               ljubav prema prirodi i planinama."
 excerpt:     "priručnik za ljubitelje ekstremnog roditeljstva"
-categories:  ['2015-vuk-gorski-i-morski']
+category:  2015-vuk-gorski-i-morski
+parent_category: putopisi
 image: "/2015-vuk-gorski-i-morski/planinarenje-sa-bebom/img/20150802-10.jpg"
 photos:
   -
@@ -34,7 +35,7 @@ tags:
   
 ---
 
-{% include layout/content/img_horizontal.html file_name="20150804-01.jpg" %}
+{% include component/img/horizontal.html file_name="20150804-01.jpg" %}
 Kod planinarenja sa malim detetom postoji nekoliko krupnih razlika u poređenju sa "običnim" planinarenjem.
 Po ukupnoj masi "prtljaga", najsličnije je trekingu. Ali "prtljag" se ne da lepo presložiti i podeliti, nije moguće
 centar mase (i ravnoteže) približiti donjem delu leđa, čak šta više, tovar često voli da se ispruži, zavali, ili kada
@@ -43,9 +44,9 @@ Raspevan je i brbljiv, povremeno te šutne nogicom u leđa ili ti čupka kosu ak
 na odredište, ili bar u neki zgodan hlad, ne možeš samo da skineš i tresneš dole taj dragoceni tovar, kao da su unutra samo
 vreća, šator, majce i gaće, sudovi i druga oprema, već moraš polako da ga spustiš, zabavljaš i opslužuješ.
 
-{% include layout/content/youtube.html id="_6R3_oEIABw" %}
+{% include component/youtube/img_full.html id="_6R3_oEIABw" %}
 
-{% include layout/content/img_horizontal.html file_name="20150731-19.jpg" %}
+{% include component/img/horizontal.html file_name="20150731-19.jpg" %}
 Pored bezbednog i udobnog prevoza u rancu, osnovne potrebe bebe u planini su: hrana, spavanje, zaštita od sunca,
 insekata, vetra, kiše i prevencija i zaštita od dosade. Hranu smo dosta jednostavno rešili; sa 15 punih meseci Vuk
 je već uveliko jeo čvrstu hranu, ali je i dalje sisao par puta dnevno. Obično bi mu dali da doručkuje nešto
@@ -54,30 +55,30 @@ kombinovao sa sisanjem. Za ovako malo dete, od maminog mleka nema bolje i zgodni
 ispravno i sveže, potaman podgrejano, u dovoljnoj količini a u ambalaži koja te mazi i češka. Takođe, od sise nema
 bolje utehe kad padne i udari se ili se iz bilo kog drugog razloga rastuži.
 
-{% include layout/content/img_vertical.html file_name="20150801-05.jpg" %}
+{% include component/img/vertical.html file_name="20150801-05.jpg" %}
 Ni sa spavanjem nije bilo problema, ranac mu je bio dovoljno udoban i prostran, pa je mogao da se smesti kako želi,
 i kada mu dosadi da gleda kuda idemo i prolazimo, mogao je da se opusti i prepusti ljuljuškanju i truckanju i
 odrema koliko mu treba. Zato bi on naše dnevne šetnje završavao odmoran i osvežen, spreman za akciju, za razliku
 od nas, izmučenih i iscrpljenih.
 
-{% include layout/content/img_full.html file_name="20150801-12.jpg" %}
+{% include component/img/full.html file_name="20150801-12.jpg" %}
 Ranac koji smo nosili je imao zgodnu nadstrešnicu - zaštitu od sunca, i to smo po potrebi kombinovali sa šeširićem,
 kremama, laganim dugim rukavima i nogavicama. Sa insektima nije bilo problema, ali bili smo i na to spremni, sa
 raznim sprejevima i kremama.
 
-{% include layout/content/img_horizontal.html file_name="20150731-23.jpg" %}
+{% include component/img/horizontal.html file_name="20150731-23.jpg" %}
 Mda, zaboravih pelene. Kod kuće smo od početka Vuku stavljali platnene pelene, ali to bi ovde bilo vrlo
 nepraktično, pa smo napravili kompromis i poneli jednokratne. Te pelene se reklamiraju kao bio-razgradive, ali svejedno 
 smo izbegavali da iskorišćenu, punu pelenu ostavljamo u planini.
 
-{% include layout/content/img_horizontal.html file_name="20150731-01.jpg" %}
+{% include component/img/horizontal.html file_name="20150731-01.jpg" %}
 Sve u svemu, bilo je jednostavnije i izvodljivije nego što smo se nadali. Bili smo sa prijateljima voljnim da pomognu i na
 koje možemo da se oslonimo, a i Vuk je bio kooperativan, nije se bunio i protivio da sedi u rancu, rado je posmatrao iz 
 njega, brbljao i gugutao ili spavao. Uglavnom nije bilo nužno da neko hoda pored njega i zabavlja ga.
 
 ### Kampovanje
 
-{% include layout/content/img_horizontal.html file_name="20150805-08.jpg" %}
+{% include component/img/horizontal.html file_name="20150805-08.jpg" %}
 Spavanje u šatoru nije problem, lako je napraviti meku podlogu ispod deteta i pokriti ga u skladu sa vremenskim 
 prilikama. Ni sa održavanjem higijene i pripremanjem hrane u improvizovanim uslovima nije bilo teškoća. Najnezgodnije nam je bilo što je 
 svuda u kampu livada u čijoj osnovi je pesak, (u koji bi se Vuk uvaljao kao kolač sa makom, pogotovo kada bi ga namazali

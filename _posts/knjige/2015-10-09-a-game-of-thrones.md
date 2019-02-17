@@ -1,16 +1,10 @@
 ---
 slug:              "a-game-of-thrones"
-layout:            knjiga
 title:             "A Clash of Kings"
 authors:           "George R.R. Martin"
 goodreads_id:      "13496"
 img:               "https://images.gr-assets.com/books/1436732693l/13496.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-George-R.R.-Martin
   - bbb-epska-fantastika

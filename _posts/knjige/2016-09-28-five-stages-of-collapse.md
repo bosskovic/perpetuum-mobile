@@ -1,16 +1,10 @@
 ---
 slug:              "five-stages-of-collapse"
-layout:            knjiga
 title:             "The Five Stages of Collapse: Laying the Groundwork for Social, Political, and Economic Revolution"
 authors:           "Dmitry Orlov"
 goodreads_id:      "16057204"
 img:               "https://images.gr-assets.com/books/1368071597l/16057204.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Dmitry-Orlov
   - bbb-društveni-kolaps

@@ -1,6 +1,4 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "setting-up-ssd-for-faster-use-and-longer-life-with-ubuntu-14-04"
 title:      Setting up SSD for faster use and longer life with Ubuntu 14.04
 excerpt:    instructions
@@ -8,10 +6,6 @@ date:       2014-08-04
 tags:
   - ttt-linux
   - ttt-ubuntu
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 - AHCI sata operation in BIOS

@@ -1,16 +1,10 @@
 ---
 slug:              "gulivers-travels"
-layout:            knjiga
 title:             "Gulliver's Travels"
 authors:           "Jonathan Swift"
 goodreads_id:      "1095560"
 img:               "https://images.gr-assets.com/books/1330217560l/1095560.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Jonathan-Swift
   - bbb-klasik

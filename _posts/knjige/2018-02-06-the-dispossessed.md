@@ -1,6 +1,5 @@
 ---
 slug:              "the-dispossessed"
-layout:            knjiga
 title:             "The Dispossessed"
 authors:           "Ursula K. Le Guin"
 goodreads_id:      "756970"
@@ -8,11 +7,6 @@ img:               "https://images.gr-assets.com/books/1357434680l/756970.jpg"
 excerpt:           "An interesting thought experiment of an anarchist society that was allowed to get established, to 
                     grow and evolve, set against a SF backdrop. Le Guin really puts lots of effort to imagine a realistic, 
                     believable society, and to try to predict problems it could face."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-sf
   - aaa-Ursula-Le-Guin

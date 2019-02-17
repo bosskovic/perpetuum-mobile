@@ -1,16 +1,10 @@
 ---
 slug:              "djilas-nova-klasa"
-layout:            knjiga
 title:             "Nova klasa"
 authors:           "Milovan Đilas"
 goodreads_id:      "37917940"
 img:               "https://images.gr-assets.com/books/1515761423l/37917940.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Milovan-Đilas
   - bbb-SFRJ

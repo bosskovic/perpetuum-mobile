@@ -1,16 +1,10 @@
 ---
 slug:              "majstor-i-margarita"
-layout:            knjiga
 title:             "Majstor i Margarita"
 authors:           "Mikhail Bulgakov"
 goodreads_id:      "23466189"
 img:               "https://images.gr-assets.com/books/1414523372l/23466189.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Mikhail-Bulgakov
   - bbb-klasik

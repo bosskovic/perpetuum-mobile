@@ -3,7 +3,8 @@ slug:        "vrdnicka-tvrdjava"
 title:       "Vrdnička tvrđava"
 excerpt:     "najmarkantniji srednjevekovni objekat centralnog dela Fruške gore"
 description: "Na ovom mestu još od antike postoji vojni objekat, a današnja tvrđava podignuta je verovatno u XIII veku da bi čuvala južni prilaz putu preko Fruške gore. Turci su je osvojili i razorili 1521. godine, i nije obnavljana od tada."
-categories:  ['fruska-gora']
+category:  fruska-gora
+parent_category: zanimljiva_mesta
 image: "/fruska-gora/vrdnicka-tvrdjava/img/09-20031213.jpg"
 
 show_date: false
@@ -112,7 +113,7 @@ u lepom Sremu kitnjastome
 stoji sama upola survana."</em><br>
 Jovan Subotić
 
-{% include layout/content/img_horizontal.html file_name="01-20050430.jpg" %}
+{% include component/img/horizontal.html file_name="01-20050430.jpg" %}
 Na kupastom bregu nekoliko kilometara severno od fruškogorskog gradića Vrdnika, nalaze se ostaci Vrdničke tvrđave. 
 Zidine su se prilično urušile, ali dvadesetak metara visoka kula i dalje dominira širom okolinom.
 
@@ -121,20 +122,20 @@ imperatora Proba. Marcus Aurelius Equitius Probus, rođen je u Sirmiumu 232. god
 ga njegovi pobunjeni legionari u jesen 282. Tokom svoje kratke vladavine ostvario je nekoliko velikih vojnih pobeda 
 kako nad varvarima tako i pobunjenicima unutar carstva. 
 
-{% include layout/content/img_horizontal.html file_name="06-20060219.jpg" %}
+{% include component/img/horizontal.html file_name="06-20060219.jpg" %}
 Zaslužan je i za učvršćivanje rimske granice na Rajni i 
 Dunavu, gradnju utvrđenja, puteva i mostova, isušivanje i kultivisanje močvara i širenje vinove loze u Galiji, Panoniji 
 i Meziji. Po legendi zapisanoj još u antičko doba, dok je boravio u Sirmiumu legionari su se pobunili zato što ih je 
 imperator terao da sade vinovu lozu i kopaju kanale. Prob se sklonio u osmatračnicu u blizini Sirmiuma, ali vojska ga 
 je ubrzo zarobila i pogubila.
 
-{% include layout/content/img_horizontal.html file_name="10-20031213.jpg" %}
+{% include component/img/horizontal.html file_name="10-20031213.jpg" %}
 U antičko doba, Fruška gora, ili Mons Almus kako su je Rimljani zvali, nije bila pitoma i prohodna planina kao danas. 
 Guste šume hrasta, bukve i graba prostirale su se od obale Dunava sve do ritova na obali Save. Bilo je samo nekoliko 
 bezbednih puteva kojima se odvijala trgovina i komunikacija između obale Dunava i Sirmiuma, i vrdničko utvrđenje je 
 štitilo južni krak jednog od tih puteva. Severni krak branila je tvrđava u Dombu, današnjem Novom Rakovcu.
 
-{% include layout/content/img_vertical.html file_name="19-20051004.jpg" %}
+{% include component/img/vertical.html file_name="19-20051004.jpg" %}
 Posle vekova nadiranja i povlačenja bezbrojnih osvajača, vrdnička tvrđava je u ruševinama dočekala učvršćivanje mađarske 
 vlasti na ovim prostorima. U pisanim izvorima, obnovljena tvrđava se prvi put pominje 1315. kao Castellum Redneck, ali 
 sudeći po romaničkom stilu gradnje, verovatno je izgrađena tokom XIII veka. Grad Vrdnik štitio je važan put Rednek - 
@@ -143,9 +144,9 @@ Dombo, bio je stanica na tom putu i u njemu su se održavali vašari.
 U XV veku, Vrdnik je u posedu kaločkog nadbiskupa. 1521. godine, tokom prodora kroz Srem, vrdničku tvrđavu osvajaju i 
 ruše Turci, i od tada ona više nema vojni značaj.
 
-{% include layout/content/youtube.html id="ORY9RP68RFE" %}
+{% include component/youtube/video.html id="ORY9RP68RFE" %}
 
-{% include layout/content/img_vertical.html file_name="18-20051004.jpg" %}
+{% include component/img/vertical.html file_name="18-20051004.jpg" %}
 Ruševinama vrdničke tvrđave dominira čvrsta, 18.5 metara visoka branič kula, potkovičaste osnove. Kula se nalazila u 
 sredini utvrđenja, i jedini ulaz u nju je bio preko pokretnih drvenih lestava kroz otvor na prvom spratu. Imala je tri 
 ili četiri etaže, međusobno odvojene drvenom konstrukcijom od koje su ostali samo tragovi potpornih greda u zidovima. 
@@ -153,7 +154,7 @@ Saobraćaj između prvog i viših spratova obavljao se kroz hodnik unutar masivn
 otvora. Kroz najveći se ulazilo, dok su manji prozori služili za prilaz odbranbenim balkonima napravljenim od drveta. 
 Ovako podeljene na spratove, zatvorene prostorije kule su možda mogle da budu korišćene i za stanovanje.
 
-{% include layout/content/img_horizontal.html file_name="25-20051004.jpg" %}
+{% include component/img/horizontal.html file_name="25-20051004.jpg" %}
 Zid kule je specifične konstrukcije. Na bočnim stranama, nalazili su se kosi potporni zidovi, koji su je dodatno 
 osiguravali. Za izradu lica biran je krupniji, grubo obrađen kamen, dok su jedino ivičnjaci bolje obrađeni. Jezgro je 
 od "trpanca", lomljenog kamena nepravilno naslaganog i utopljenog u malter. Zid kule je rađen u horizontalnim slojevima 
@@ -161,7 +162,7 @@ od pedeset do osamdeset santimetara, koji su i sami ozidani od sitnijih i krupni
 sa pokojim komadom pritesanog krečnjaka. Opeka je u zidu kule korišćena samo oko ulaza i pojedinih prozora i ima je 
 nešto malo, verovatno kasnije umetnute debljine oko 5 cm, dok je u ostacima zida podgrađa u nešto većem broju.
 
-{% include layout/content/img_vertical.html file_name="tlocrt.jpg" %}
+{% include component/img/vertical.html file_name="tlocrt.jpg" %}
 Obimne gradske zidine bile su izdužene polukružne osnove, a spoljna površina je bila zakošena, a ne vertikalna. Na 
 istočnoj strani naziru se zidovi još jedne, iznutra pravougaone a sa spoljane strane zaobljene ulazne kule.
 
@@ -171,7 +172,7 @@ Zid koji je opasivao podgrađe obuhvatao je prostor dužine oko 200 i širine ok
 <p>Marcus Aurelius Equitius Probus je rođen u Sirmiumu 19. avgusta 232. godine. Njegov otac (Dalmatius Rimski ?) je bio 
 trgovac povrćem, manji državni činovnik ili vojnik.</p>
 
-{% include layout/content/img_vertical.html file_name="probus-2.jpg" %}
+{% include component/img/vertical.html file_name="probus-2.jpg" %}
 <p>Probova rana vojna karijera je uglavnom nepoznata. Najverovatnije se polako probijao kroz činove, stičući značajno 
 iskustvo u komandovanju trupama. Za vreme cara Aureliana (Lucius Domitius Aurelianus), Prob je važio za carevog 
 najistaknutijeg vojskovođu. U to vreme branio je Rajnsku granicu od Alemana.</p>
@@ -188,7 +189,7 @@ je zahvaljujući velikom vojnom iskustvu i talentu uspeo da izbegne neposredni s
 savladaju bliskoistočne vrućine. Moral Florianovih evropskih legija, nenaviknutih na takve uslove, brzo je opao. Plašeći 
 se neuspeha, pobunili su se i ubili svog vođu, a Prob je ostao jedini pretendent na presto.</p>
 
-{% include layout/content/img_horizontal.html file_name="probus-1.jpg" %}
+{% include component/img/horizontal.html file_name="probus-1.jpg" %}
 <p>Prob je zatim otišao u Rim, gde ga je senat potvrdio kao imperatora, a on je za uzvrat ukazao veliko poštovanje senatu 
 i vratio mu neka ranija ovlašćenja, na primer pravo postavljanja guvernera u ranije "senatorske provincije" i obavezu 
 potvrde svih carskih edikata. Takođe je pogubio preostale zaverenike koji su ubili cara Aureliana, a moguće i cara Tacita.</p>
@@ -257,4 +258,4 @@ Imperator, najčestitiji čovek, osvajač svih varvarskih naroda i uzurpatora"</
 <li><a href="http://www.newadvent.org/cathen/12446a.htm" target="_blank">Catholic encyclopedia</a></li>
 </ul>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Marcus Aurelius Equitius Probus (AD 232 - AD 282)" %}
+{% include post/side_story.html story=story title="Marcus Aurelius Equitius Probus (AD 232 - AD 282)" %}

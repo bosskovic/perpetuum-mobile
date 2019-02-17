@@ -1,17 +1,11 @@
 ---
 slug:              "carr-ruska-revolucija"
-layout:            knjiga
 title:             "Ruska revolucija od Lenjina do Staljina 1917-1929"
 authors:           "Edward Hallett Carr"
 goodreads_id:      "40481190"
 img:               "https://images.gr-assets.com/books/1528370093l/40481190.jpg"
 excerpt:           "Dobar uvod u prvih desetak godina sovjetske istorije, na laičkom nivou, iz 
                     perspektive uglednog britanskog profesora istorije s kraja sedamdesetih godina."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-oktobarska-revolucija
   - bbb-Lenjin

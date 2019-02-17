@@ -1,19 +1,12 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "php-internationalization-with-gettext-tutorial"
 title:      PHP internationalization with gettext tutorial
 excerpt:    Installation, portable object template files, plurals, an example of a PO file, directory structure, machine object files, gettext caching problems, setting up PHP for internationalization with gettext...
 date:       2014-09-17
 tags:
-  - ttt-back-end
   - ttt-gettext
   - ttt-i18n&l10n
   - ttt-php
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 <p class='muted'>I originally published this article on <a href="http://blog.lingohub.com/">Lingohub blog</a> in 2013, while working for the company. <a href="http://lingohub.com/">Lingohub</a> specializes in providing app localization for developers and translators.</a></p>

@@ -1,0 +1,9 @@
+<div id="videos">
+  {% for video in page.videos %}
+    {% if video.youtube %}
+      <a class="fancybox-video fancybox.iframe" data-id="{{ video.youtube }}" href="http://www.youtube-nocookie.com/embed/{{ video.youtube }}?wmode=opaque"></a>
+    {% else %}
+      <a class="fancybox-video fancybox.iframe" data-id="{{ video }}" href="http://www.youtube-nocookie.com/embed/{{ video }}?wmode=opaque"></a>
+    {% endif %}
+  {% endfor %}
+</div>

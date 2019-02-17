@@ -1,17 +1,11 @@
 ---
 slug:              "kako-vaspitati-sjajne-decake"
-layout:            knjiga
 title:             "Kako vaspitati sjajne dečake"
 authors:           "Ian Grant"
 goodreads_id:      "39720238"
 img:               "https://images.gr-assets.com/books/1522886970l/39720238.jpg"
 excerpt:           "Vrlo personalizovano (lično), anegdotsko iskustvo koje autor crpi iz svoje brojne porodice (četiri sina i njihova deca) 
                     koje bez naročite distance, upakovano u sopstveni sistem vrednosti, pokušava da uopšti i učini korisnim drugima."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-vaspitanje-dece
   - aaa-Ian-Grant

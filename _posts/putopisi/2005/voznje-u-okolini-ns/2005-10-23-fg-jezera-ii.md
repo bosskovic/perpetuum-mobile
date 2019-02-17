@@ -3,7 +3,8 @@ slug:        "fg-jezera-ii"
 title:       "Fruškogorska jezera"
 excerpt:     "Šelovrenac, Ljukovo, Dobrodol, Međeš, Borkovačko, Kudoš, Mali Mutalj, Mutalj, Beli kamen"
 description: "Lep jesenji dan, idealan za obilazak jezera u jugoistočnom podnožju fruške gore. Obišli smo jezera Šelovrenac, Ljukovo, Dobrodol, Međeš, Borkovačko, Kudoš, Mali Mutalj, Mutalj i Beli kamen"
-categories:  ['2005-voznje-u-okolini-ns']
+category:  2005-voznje-u-okolini-ns
+parent_category: putopisi
 image: "/2005-voznje-u-okolini-ns/fg-jezera-ii/img/024.jpg"
 videos: ["K9jmReW6Wc0", "feDvsfVIfr4"]  
 photos:
@@ -98,7 +99,7 @@ tags:
 NS - Krušedol - Maradik - jezero Šelovrenac - jezero Ljukovo - jezero Dobrodol - jezero Međeš - Borkovačko jezero - jezero Kudoš
 - jezero Mutalj - jezero Beli kamen - Crveni čot - Banstol - Novi Sad
 
-{% include layout/content/youtube.html id="feDvsfVIfr4" print="no" %}
+{% include component/youtube/video.html id="feDvsfVIfr4" print="no" %}
 
 Tibor i ja smo krenuli iz Novog Sada pre nego što je svanulo, da bi se našli sa Dejanom i Igorem u Krušedolu. Prošli smo
 pored manastira, kroz Prnjavor i Maradik i tu izbili na prvo jezero - akumulaciju Šelovrenac. Od tog trenutka pa na dalje,

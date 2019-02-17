@@ -1,16 +1,10 @@
 ---
 slug:              "the-world-of-ice-and-fire"
-layout:            knjiga
 title:             "The World of Ice & Fire: The Untold History of Westeros and the Game of Thrones"
 authors:           "George R.R. Martin"
 goodreads_id:      "17345242"
 img:               "https://images.gr-assets.com/books/1400360220l/17345242.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-George-R.R.-Martin
   - bbb-epska-fantastika

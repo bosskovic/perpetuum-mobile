@@ -1,16 +1,10 @@
 ---
 slug:              "foundation"
-layout:            knjiga
 title:             "Foundation"
 authors:           "Isaac Asimov"
 goodreads_id:      "29579"
 img:               "https://images.gr-assets.com/books/1417900846l/29579.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Isaac-Asimov
   - bbb-sf

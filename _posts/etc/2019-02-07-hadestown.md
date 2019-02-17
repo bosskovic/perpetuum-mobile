@@ -1,22 +1,16 @@
 ---
 slug:         "hadestown"
-layout:       etc_post
 title:        "Hadestown"
 excerpt:      "bedak i posle dve i po hiljade godina"
 description:  "Konceptualni album Anaïs Mitchell iz 2010. godine, koji obrađuje mit o Orfeju i Euridici i smešta ga u post-apokaliptični 
                kontekst ekonomske depresije. Album je kasnije proširen dodatnim numerama i poslužio je kao osnova za mjuzikl."
 image: "/etc/hadestown/img/album-cover.jpg"
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
 tags: 
   - orfej-i-euridika
-  
+videos:       ["wJO1A1aw680"]  
 ---
 
-{% include layout/content/youtube.html id="wJO1A1aw680" %}
+{% include component/youtube/img_full.html id="wJO1A1aw680" %}
 
 ***
 
@@ -44,7 +38,7 @@ tags:
 
 ***
 
-{% include layout/content/id.html id="wedding-song" %}
+{% include component/id.html id="wedding-song" %}
 ### Wedding Song
 
 [EURYDICE]  
@@ -98,7 +92,7 @@ And the rivers are gonna give us the wedding band
 
 ***
 
-{% include layout/content/id.html id="epic1" %}
+{% include component/id.html id="epic1" %}
 ### Epic (Part I)
 
 [ORPHEUS]  
@@ -129,7 +123,7 @@ La la la la la la la…
 
 ***
 
-{% include layout/content/id.html id="way-down-hadestown" %}
+{% include component/id.html id="way-down-hadestown" %}
 ### Way Down Hadestown
 
 [HERMES]  
@@ -210,7 +204,7 @@ Way down under the ground
 
 ***
 
-{% include layout/content/id.html id="hey-little-songbird" %}
+{% include component/id.html id="hey-little-songbird" %}
 ### Hey, Little Songbird
 
 [HADES]  
@@ -260,7 +254,7 @@ See, people get mean when the chips are down
 
 ***
 
-{% include layout/content/id.html id="gone-im-gone" %}
+{% include component/id.html id="gone-im-gone" %}
 ### Gone, I’m Gone
 
 [EURYDICE]  
@@ -291,7 +285,7 @@ Now that the chips are down
 
 ***
 
-{% include layout/content/id.html id="when-the-chips-are-down" %}
+{% include component/id.html id="when-the-chips-are-down" %}
 ### When the Chips Are Down
 
 [THE FATES]  
@@ -344,7 +338,7 @@ Now that the chips are down
 
 ***
 
-{% include layout/content/id.html id="wait-for-me" %}
+{% include component/id.html id="wait-for-me" %}
 ### Wait for Me
 
 [HERMES]  
@@ -400,7 +394,7 @@ Wait, wait, wait, wait
 
 ***
 
-{% include layout/content/id.html id="why-we-build-the-wall" %}
+{% include component/id.html id="why-we-build-the-wall" %}
 ### Why We Build the Wall
 
 [HADES]  
@@ -471,7 +465,7 @@ We build the wall to keep us free
 
 ***
 
-{% include layout/content/id.html id="our-lady-of-the-underground" %}
+{% include component/id.html id="our-lady-of-the-underground" %}
 ### Our Lady of the Underground
 
 [PERSEPHONE]  
@@ -541,7 +535,7 @@ What the boss don’t know, the boss won’t mind
 
 ***
 
-{% include layout/content/id.html id="flowers" %}
+{% include component/id.html id="flowers" %}
 ### Flowers (Eurydice’s Song)
 
 [EURYDICE]  
@@ -580,7 +574,7 @@ Come and find me lying in the bed I made
 
 ***
 
-{% include layout/content/id.html id="nothing-changes" %}
+{% include component/id.html id="nothing-changes" %}
 ### Nothing Changes
 
 [THE FATES]  
@@ -609,7 +603,7 @@ Nothing changes anyhow
 
 ***
 
-{% include layout/content/id.html id="if-its-true" %}
+{% include component/id.html id="if-its-true" %}
 ### If It’s True
 
 [ORPHEUS]  
@@ -662,14 +656,14 @@ Is it true what they say?
 
 ***
 
-{% include layout/content/id.html id="papers" %}
+{% include component/id.html id="papers" %}
 ### Papers (Hades Finds Out)
 
 [Instrumental]  
 
 ***
 
-{% include layout/content/id.html id="how-long" %}
+{% include component/id.html id="how-long" %}
 ### How Long?
 
 [PERSEPHONE]  
@@ -720,7 +714,7 @@ How long, how long, how long?
 
 ***
 
-{% include layout/content/id.html id="epic2" %}
+{% include component/id.html id="epic2" %}
 ### Epic (Part II)
 
 [ORPHEUS]  
@@ -755,14 +749,14 @@ La la la la la la la…
 
 ***
 
-{% include layout/content/id.html id="lovers-desire" %}
+{% include component/id.html id="lovers-desire" %}
 ### Lover’s Desire
 
 [Instrumental]  
 
 ***
 
-{% include layout/content/id.html id="his-kiss-the-riot" %}
+{% include component/id.html id="his-kiss-the-riot" %}
 ### His Kiss, the Riot
 
 [HADES]  
@@ -814,7 +808,7 @@ And doubt comes...doubt comes in
 
 ***
 
-{% include layout/content/id.html id="doubt-comes-in" %}
+{% include component/id.html id="doubt-comes-in" %}
 ### Doubt Comes In
 
 [ORPHEUS & THE FATES]  
@@ -864,7 +858,7 @@ Comes right before the dawn
 
 ***
 
-{% include layout/content/id.html id="i-raise-my-cup-to-him" %}
+{% include component/id.html id="i-raise-my-cup-to-him" %}
 ### I Raise My Cup to Him
 
 [EURYDICE]  

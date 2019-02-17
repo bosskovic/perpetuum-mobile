@@ -4,7 +4,8 @@ title:       "Rovca kamena i Župa Nikšićka"
 excerpt:     "uspon kroz Rovca od Veljeg Dubokog do Kapetanovog jezera, Manito jezero, Nikšin kiljan, Nikšina ploča, manastir Sv. Luke u Nikšićkoj Župi, mramor bana Ugrena, Nikšić"
 description: "Ovaj deo je verovatno bio 'srce' puta, ono što sam najviše i pošao da vidim i o čemu sam najviše čitao.
               I vredelo je. Šteta samo što sam proleteo tako brzo, ali pravim kompromise i žurim na more. Počinju problemi na domaćem frontu."
-categories:  ['2007-cg-biciklom']
+category:  2007-cg-biciklom
+parent_category: putopisi
 photos:
   -
     key: 084.jpg
@@ -116,16 +117,16 @@ tags:
   
 ---
 
-{% include layout/content/img_horizontal.html file_name="084.jpg" %}
+{% include component/img/horizontal.html file_name="084.jpg" %}
 Nadigli smo se pre zore, posle svega nekoliko sati spavanja. Božina mi je ponudio da deo puta idem sa njim, pošto je on 
 krenuo na katun kod majke. Posle desetak metara postalo je jasno da to baš neće funkcionisati, jer Božinin konj nije 
 hteo da trpi prisustvo bicikla (ili bicikliste) kraj sebe. Zahvalih mu se na svemu, pozdravismo se i krenusmo svako na 
 svoju stranu, on prema Stožcu a ja prema Veljem Dubokom.
-{% include time_machine.html text="Sa Božinom sam obnovio kontakt preko fejsbuka godinama kasnije." %}
+{% include component/time_machine.html text="Sa Božinom sam obnovio kontakt preko fejsbuka godinama kasnije." %}
  
 ### Kapetanovo jezero
 
-{% include layout/content/img_horizontal.html file_name="089.jpg" %}
+{% include component/img/horizontal.html file_name="089.jpg" %}
 Prošao sam Liješnje iznad Mrtvičkih greda i spustio se u Velje Duboko, seoce stegnuto u kamenom amfiteatru. Obišao sam 
 crkvicu i staro "macursko" groblje i krenuo dalje prema Kapetanovom jezeru. U dvorištu jedne od poslednjih kuća na 
 izlazu iz sela videh ljude u nekom poslu. Javio sam im se i poželeo srećan rad. *"Ideš li gore na Kapetanovo jezero?"* 
@@ -137,11 +138,11 @@ po - tri sata mučnog guranja po suncu koje je već pržilo. Dok sam tako stajao
 po džombastom putu, i pridržavao bicikl fiksiran gurtnama za daske, jedan od braće Janušević mi je pokazivao vrhove 
 Maganika koji su izranjali i govorio mi kako se koji zove.
 
-{% include layout/content/img_horizontal.html file_name="093.jpg" %}
+{% include component/img/horizontal.html file_name="093.jpg" %}
 Vrhovi se više nisu nadnosili visoko nad nama i imao sam osećaj da smo im sada nekako ravni. Kamion je konačno prestao 
 da se trese - stigli smo u Milin Do i pred kolibu Januševića, i tu sam čak i ručak dobio.
 
-{% include layout/content/img_horizontal.html file_name="098.jpg" %}
+{% include component/img/horizontal.html file_name="098.jpg" %}
 Do jezera mi je ostalo još nekoliko kilometara preko Trebiješa. Malo vozim, malo guram i osvrćem se unaokolo kao 
 izgubljen diveći se kamenim divovima oko sebe. Preda mnom se ukazuje poveća srcasta vodena površina okovana kamenim 
 liticama. Pravim krug oko jezera, parkiram bicikl i počinjem da se penjem na Orlovac prema Brnjiku, a od gore 
@@ -156,7 +157,7 @@ kiljan. U pitanju je kameni monolit ukrašen šarama (stećak) koji označava me
 predak svih Nikšića, Trebješana i Rovčana.
 
 {% capture story %}
-{% include layout/content/img_horizontal.html file_name="099.jpg" %}
+{% include component/img/horizontal.html file_name="099.jpg" %}
 <p>Prema legendi nakon što se Gojak već iselio u Međuriječje, jednom prilikom kada mu je Nikša išao u posetu, na Lukavici 
 su ga presreli i ubili razbojnici. Jedan od njih koji je ugrabio Nikšinog konja, oružje i odelo, požurio je na trg u 
 Podgoricu da to odmah proda. Na njegovu nesreću, na pazaru se toga dana zadesio Nikšin sin Radovan koji je prepoznao 
@@ -166,13 +167,13 @@ Zagrad gde i danas stoji Nikšina ploča. Na mestu pogibije kasnije je pobijen v
 mesto zove Nikšin kiljan. Verziju ovog predanja sam čuo prethodno veče i od Božine uz gusle.</p>
 {% endcapture %}
 
-{% include layout/post/side_story.html story=story title="Nikšin kiljan" %}
+{% include post/side_story.html story=story title="Nikšin kiljan" %}
 
 Pored kiljana je u izgradnji crkvica sv. Ilije. Na tom mestu se svake godine na sv. Iliju (drugog avgusta) dešava 
 veliki sabor pet plemena. Nisam tačno upamtio koja su plemena u pitanju, ali recimo da su Rovčani, Župljani, Piperi, 
 Moračani i ne znam ko bi bio peti, možda Uskoci. Do sabora je ostalo još desetak dana ali pripreme su već bile u toku.
 
-{% include layout/content/img_horizontal.html file_name="106.jpg" %}
+{% include component/img/horizontal.html file_name="106.jpg" %}
 Ostavio sam za sobom Lukavicu, Bare Bojovića, pogled na Žurime i počeo obroncima Maganika da se spuštam prema Zagradu. 
 Tamo sam uspeo nekako da pronađem staro groblje, i na njemu Nikšinu ploču. Odustao sam od vožnje do Morakova gde je na 
 jednom bregu Kurvin grad - ruševine Susjeda, srednjevekovnog grada hercega Stjepana, i umesto toga požurio prema 
@@ -180,13 +181,13 @@ manastiru sv. Luke u Nikšićkoj župi.
  
 ### Nikšićka Župa
 
-{% include layout/content/img_horizontal.html file_name="108.jpg" %}
+{% include component/img/horizontal.html file_name="108.jpg" %}
 U zelenom dvorištu bela crkvica a u hladu konaka sto. Za stolom sedi debeo monah sa dugom bradom, kao presađen iz 
 Banata Stevana Sremca, bori se sa krupnom kriškom lubanice. Kada me je ugledao, odmah mi je punih usta gestikulirao da 
 mu se pridružim, ali mene je više interesovalo da mi ispriča nešto o manastiru, Župi i Nikšićima. U borbi za njegovu 
 pažnju lubenica je ipak odnela prevagu, i posle par šturih rečenica bio sam opet na putu za Nikšić.
 
-{% include layout/content/img_vertical.html file_name="110.jpg" %}
+{% include component/img/vertical.html file_name="110.jpg" %}
 Zastao sam na kratko pored mramora bana Ugrena koji označava mesto njegovog davnašnjeg sukoba sa Gojakom Nikšinim, 
 prošao pored jezera Liverovići i ubrzo se našao u predgrađu Nikšića. Odmah me je zapljusnuo mediteranski šmek, miris 
 crnogorice, dok sam miris mora verovatno umislio.
@@ -196,7 +197,7 @@ crnogorice, dok sam miris mora verovatno umislio.
 Nikšić je pomalo zastrašujuće mesto; nakon kratke vožnje kroz grad stekao sam utisak da prvenstvo na putu umesto 
 saobraćajnih propisa ovde određuje veličina vozila - onaj koga će više boleti se sklanja sa puta.
 
-{% include layout/content/img_horizontal.html file_name="117.jpg" %}
+{% include component/img/horizontal.html file_name="117.jpg" %}
 U centru Nikšića bacio sam pogled na Bedem - ostatke turske tvrđave, ali pošto se bližio mrak, nisam se zadržavao, već 
 sam ubrzao prema izlazu iz grada. Usput sam obišao stari rimski most na Moštanici. Iako je izgrađen u drugom veku nove 
 ere, i dalje je sjajno očuvan, jedino što nakon regulacija toka Zete u koritu Moštanice ispod mosta više nema vode...
@@ -205,7 +206,7 @@ Dok vozim branom Slanskog jezera, sa jedne strane su mi nepregledne livade na ko
 grad i planine, a na drugoj jarko crveno-narandžasti zalazak sunca iznad površine jezera i dim požara koji divlja na 
 suprotnoj obali.
 
-{% include layout/content/img_horizontal.html file_name="119.jpg" %}
+{% include component/img/horizontal.html file_name="119.jpg" %}
 Počinjem već malo da se brinem, pada mrak a ja sam blizu grada. Moram uskoro da otvorim šator, ali ne bih da to bude na 
 nekom suviše pristupačnom mestu, negde gde će neko u toku noći nabasati na mene. Uzimam u obzir obalu jezera, ali 
 odustajem od te ideje. Odvajam se od jezera, put počinje da krivuda i polako se penje kroz krš iz kojeg se probija po 

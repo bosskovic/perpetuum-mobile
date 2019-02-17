@@ -1,14 +1,9 @@
 ---
 slug:         "que-he-sacado-con-quererte"
-layout:       etc_post
 title:        "Violeta Parra: Que he sacado con quererte"
 excerpt:      "Tekst pesme, tj. prevod na engleski."
 description:  ""
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
+videos: ["QsEEwHBr2K4"]
 ---
 
 What have I gained from the moon that we both watched together  
@@ -31,4 +26,4 @@ The two names on the wall and your trail on the road
 But you, ungrateful dove, no longer coo in my nest  
 Ay Ay Ay Ay Ay  
 
-{% include layout/content/youtube.html id="QsEEwHBr2K4" %}
+{% include component/youtube/video.html id="QsEEwHBr2K4" %}

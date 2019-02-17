@@ -1,16 +1,10 @@
 ---
 slug:              "popovic-srbi-u-vojvodini-3"
-layout:            knjiga
 title:             "Srbi u Vojvodini #3 Od Temišvarskog sabora 1790. do Blagoveštanskog sabora 1861."
 authors:           "Dušan J. Popović"
 goodreads_id:      "32620733"
 img:               "https://images.gr-assets.com/books/1476647180l/32620733.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Dušan-J.-Popović
   - bbb-revolucija-1848-49

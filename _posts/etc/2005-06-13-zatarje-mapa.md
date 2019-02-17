@@ -1,16 +1,10 @@
 ---
 slug:         "zatarje-mapa"
-layout:       etc_post
 title:        "Zatarje - mapa"
 excerpt:      "Topografska karta u razmeri 1:25000"
 description:  "Mapa Mojkovačkih (Kolašinskih) Polja, Donjeg Kolašina, Zatarja, Potarja, Vraneša, Krička...
                napravljena spajanjem sekcija vojne karte iz 1972. godine."
 image: "/etc/zatarje-mapa/img/zatarje-mapa.jpg"
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
 tags: 
   - vreneš
   - mapa
@@ -20,7 +14,7 @@ tags:
   - manastir dobrilovina  
 ---
 
-{% include layout/content/img_full.html file_name="zatarje-mapa.jpg" %}
+{% include component/img/full.html file_name="zatarje-mapa.jpg" %}
 
 Kartu sam napravio spajanjem sekcija vojne topografske karte u razmeri 1:25000.
 

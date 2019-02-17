@@ -1,9 +1,10 @@
 ---
+category:     2004-prve-voznje
+parent_category: putopisi
 slug:        "zimska-voznjica-po-komsiluku"
 title:       "Zimska vožnjica po komšiluku"
 excerpt:     "sremskom stranom do rakovačke gradine, dvorca u Beočinu i vodopada na Sviloškom potoku"
 description: "Vožnja sremskom stranom i obilazak interesantnih mesta kao što su ostaci samostana Dombo u Novom Rakovcu, ruševni dvorac Špicer u Beočinu i lep vodopad na Sviloškom potoku." 
-categories:  ['2004-prve-voznje']
 image: "/2004-prve-voznje/zimska-voznjica-po-komsiluku/img/047.jpg"
 photos:
   -
@@ -152,32 +153,32 @@ Dosta sam se dobro pokazao, i uspeo od tih šest vodopada da obiđemo čak pet (
 svog položaja, postajao sve dalji i dalji kako se dan skraćivao. U pitanju je vodopad na Sviloškom potoku (u blizini 
 Koruške i Banoštora). Autobuske veze do ovog kraja su poprilično loše, a da bi se stiglo dotle iz recimo Beočin Sela, 
 bilo bi potrebno dosta rano krenuti, i ići brzo da bi se do vodopada stiglo pre mraka.
-{% include time_machine.html text="U tom trenutku bilo je poznato samo šest vodopada na Fruškoj gori. U narednih par godina taj broj će se povećati za još dvadesetak." %}
+{% include component/time_machine.html text="U tom trenutku bilo je poznato samo šest vodopada na Fruškoj gori. U narednih par godina taj broj će se povećati za još dvadesetak." %}
 
 Napravio sam plan za pešačenje po Fruškoj gori, navio sat u "sitne sate" i legao da spavam. Sutra kada sam se probudio i pogledao na 
 sat, na njemu je bilo deset sati! Očigledno sam isključio alarm i nastavio da spavam. Ali, napolju je zubato sunce sijalo 
 i mamilo me da izađem. Ubrzo sam "u hodu" napravio alternativan plan, natrpao, sendviče, bonžite i vodu u bisage, osedlao 
 mog "konjića" i krenuo put Srema.
 
-{% include layout/content/img_horizontal.html file_name="004.jpg" %}
+{% include component/img/horizontal.html file_name="004.jpg" %}
 Osnovna ideja bila je: držati se plana, samo umesto planinariti kroz šumu, stići do vodopada biciklom uz Dunav (vodopad 
 se srećom nalazi na samo par desetina metara od puta). Vreme je bilo oštro, ali suvo i bez vetra. Verovatno je bilo oko 
 nule, pošto su se u Sremu još ponegde videli tragovi snega koji se u gradu odavno otopio. Čim sam prešao barže, našao 
 sam se u podnožju tvrđave, koja me je prosto mamila da mi malo pozira. Ovo je prva vožnja na koju nosim mog novog 
 digitalca, tako da sam rešio da se opustim, i popunim karticu od 512MB.
 
-{% include layout/content/img_full.html file_name="007.jpg" %}
+{% include component/img/full.html file_name="007.jpg" %}
 
 Krenuo sam prema Trandžamentu, i sišao Donjim putem u Ribnjak. Tamo me je dočekalo još fantastičnih prizora. 
 
-{% include layout/content/img_horizontal.html file_name="010.jpg" %}
+{% include component/img/horizontal.html file_name="010.jpg" %}
 Prošao sam kroz Kamenički park, izašao na nasip i ubrzo se našao na putu Kamenica-Beočin. Izgleda da sam imao sreće da 
 pogodim baš vreme kada je na njemu bilo zatišje (radni dan oko 10.30), i vožnja putem na kom se inače gubi glava, mi je
 čak prijala. Prošao sam Bocke, Ledince i prišao skretanju za Rakovac. Tu sam ponovo dokazao da kada su biciklističke 
 ture u pitanju, nikako nisam u stanju da se držim planova koje sam napravim.
 
 
-{% include layout/content/img_horizontal.html file_name="012.jpg" %}
+{% include component/img/horizontal.html file_name="012.jpg" %}
 Preko puta škole u Novom Rakovcu nalaze se ostaci antičke bazilike koja je u srednjem veku pretvorena u franjevački 
 samostan, a ceo kompleks je pred najezdu Turaka bio ograđen bedemom. Pored ovih vidljivih ostataka, rakovačko podzemlje 
 je prepuno i drugih antičkih ostataka kao što je rimski vodovod, nekropole, kućišta, rimski popločani putevi... Veliki 
@@ -192,7 +193,7 @@ imanju, tako da su i saznjanja o lokalitetu ostala parcijalna. Kakogod bilo, gla
 obližnjih objekata, uprkos činjenici da su dugo korišćeni kao izvor građevinskog materijala, ostali su relativno dobro 
 očuvani, i svakako vredni posete. 
 
-{% include layout/content/youtube.html id="xEHuJq-ePeg" %}
+{% include component/youtube/video.html id="xEHuJq-ePeg" %}
 
 U Novom Rakovcu sam već bio više puta, ali kada sam već tako blizu, zašto ne bih svratio na kratko, i malo fotografisao. 
 Naravno, tako sam i uradio. Ubrzao sam malo kako bih umanjio gubljenje vremena zbog promene plana, i "prokuvao" dok sam 
@@ -202,7 +203,7 @@ zavukao se svude gde se moglo zavući, snimio desetine fotografija i nekoliko vi
 Vratio sam se na put za Beočin. Rakovac je bio iza mene, prošao sam Dumbovo i ušao u Beočin. Tu ponovo nisam uspeo da 
 ostanem karakter, i odlučio sam se da svratim do Starog Dvorca na putu za Beočin Selo.
 
-{% include layout/content/youtube.html id="2FcLTffwy_I" %}
+{% include component/youtube/video.html id="2FcLTffwy_I" %}
 
 Izgrađen u drugoj polovini XIX veka, beočinski Stari Dvorac je tipičan predstavnik mađarske secesije, i njegova fuzija 
 raznovrsnih stilova je nešto što primeti i onaj ko se savršeno ne razume u arhitekturu. Lukovi, kupole, ornamenti, 
@@ -211,14 +212,14 @@ strane daje jednu posebnu draž (dok sam sam išao kroz njegove tihe oronule pro
 moji koraci, osećao sam se kao da se nalazi u letnjoj rezidenciji grofa Drakule), ali sa druge strane, ono ne pruža 
 nikakve garancije da će bez vrlo skore sanacije izdržati još dugo. Naprotiv! 
 
-{% include layout/content/img_horizontal.html file_name="023.jpg" %}
+{% include component/img/horizontal.html file_name="023.jpg" %}
 Glavni usud dvorca je bočinska fabrika 
 cementa, nedavno privatizovana. Iznad placa na kom se dvorac nalazi, a u neposrednoj blizini fasade same zgrade, nalazi 
 se bučna pokretna traka koja nosi laporac prema cementari, i širi oblak prašine. Upravo je ta traka kriva za to što broj 
 zainteresovanih za eventualni zakup i sanaciju objekta (koji se nalazi u takvom komšiluku) konvergira nuli. I kao da to 
 nije dovoljno, ispod dela temelja same zgrade dvorca nalazi se korito Kozarskog potoka. 
 
-{% include layout/content/img_horizontal.html file_name="035.jpg" %}
+{% include component/img/horizontal.html file_name="035.jpg" %}
 Potok se tokom poslednjih 
 stotinjak godina toliko proširio i podlokao samu osnovu dvorca, da je velik deo staze kojom se prilazi dvorcu skroz 
 propao, i sad tu zjapi ogromna rupa, koja može samo da nagovesti koliko je loše stvarno stanje. I na žalost, to nije 
@@ -230,7 +231,7 @@ Ali, uprkos svemu navedeno, ovaj dvorac je nezaboravan prizor. Ja sam ga obilazi
 hrabrost da uđem u sve prostorije osim podruma, a mogu misliti kakav je osećaj obilaziti ga noću! Savršeno mesto za 
 snimanje horor filma...
 
-{% include layout/content/img_horizontal.html file_name="036.jpg" %}
+{% include component/img/horizontal.html file_name="036.jpg" %}
 Slikao sam, snimao sam, i nakon otprilike pola sata krenuo dalje. Prošao sam pored sedišta BFC Lafarge-a, i izašao na 
 obilaznicu oko cementare. Odatle se pruža pogled na grupu građevina iz kojih kulja gust beli dim, i koje sa svojim 
 tornjevima, silosima, kupolama i dimnjacima izgledaju kao da nisu sa ove planete. Prešao sam preko kanala mrtve, 
@@ -251,12 +252,12 @@ zinule iz puta, tako da sam stigao jedino prednji točak da podignem, dok sam za
 tri žbice, i zbog toga mi se točak prilično iskrivio. Od tog trenutka (a to nije bila ni polovina puta) pa do kraja, moj 
 konjić se tužno lelujao i s mukom nosio svoj teret. 
 
-{% include layout/content/img_horizontal.html file_name="039.jpg" %}
+{% include component/img/horizontal.html file_name="039.jpg" %}
 Čim se uđe u Banoštor, odmah se uoči neobičan šiljak, ruševni ostatak zvonika nemačke crkve, ostavljene da potone u 
 zemlju nakon što su Nemci napustili selo posle rata. Nisam se ovaj put zadržavao da bolje istražim ostatke crkve, ali ću 
 to sigurno učiniti nekom narednom prilikom. 
 
-{% include layout/content/img_horizontal.html file_name="041.jpg" %}
+{% include component/img/horizontal.html file_name="041.jpg" %}
 Stotinak metara dalje, iz centra sela, pruža se pogled na neobičnu pravoslavnu 
 crkvu koja sa svog brežuljka dominira okolinom. Kažem neobičnu, pošto sa svojim patuljastim zvonikom to zaista i jeste. 
 Rešio sam da ovo ne odlažem za sledeći put, i popeo sam se na breg. Nije toliko privlačila sama crkva, a ni pogled koji 
@@ -276,7 +277,7 @@ skretanje za Sviloš. Nisam bio siguran, ali me je u to uverio neki pandur koji 
 prolaznike. Krenuo sam prema Svilošu, i nakon oko jednog kilometra, pedesetak metara iza mostića, začuo se jak šum vode, 
 ponadao sam se od vodopada.
 
-{% include layout/content/youtube.html id="p-GL_Rimmzk" %}
+{% include component/youtube/video.html id="p-GL_Rimmzk" %}
 
 Ostavio sam bicikl pored puta i krenuo kroz njivu prema koritu potoka. Nakon pedesetak metara blatne avanture, stigao sam 
 do ivice korita, i sa visine ugledao bučan i vodom bogat vodopad! Ne samo što je visok, već je zahvaljujući tome što se 
@@ -293,7 +294,7 @@ sam ga da li bi mi dozvolio da iz njegovog dvorišta siđem do korita potoka, je
 ne postoji prilaz do potoka, jer je odsek visok desetak metara, i da ako hoću da vidim vodopad, da idem (tamo gde sam 
 već bio) iznad njega. 
 
-{% include layout/content/img_vertical.html file_name="044.jpg" %}
+{% include component/img/vertical.html file_name="044.jpg" %}
 Na Železničarovom sajtu sam pročitao u opisu koji je napisao Aleksandar Damjanović, da neki prilaz 
 ipak postoji, pa sam nastavio da insistiram i da obrađujem dedicu kako sam vozio kilometrima samo zato da bih video 
 vodopad. Pristao je konačno da me odvede do dvorišta njegovog komšije, koji u blatnoj litici uklesao stepenice koje se 
@@ -309,7 +310,7 @@ Uzvodno od te tačke, kanjon se strašno sužavao, i gotovo vertikalnim liticama
 dalje, bio je verući se po rastinju koje je mestimično naseljavalo te litice. Odabrao sam levu stranu, i nakon pedesetak 
 metara, više rukama nego nogama, stigao sam do proširenja gde se moglo stajati, i ugledao vodopad.
 
-{% include layout/content/img_horizontal.html file_name="043.jpg" %}
+{% include component/img/horizontal.html file_name="043.jpg" %}
 Sviloški vodopad je jedan od najviših na Fruškoj gori (viši je jedino Šakotinački, a Dumbovački je možda tu negde ili 
 malo niži) a svakako je najbogatiji vodom. Prizor koji bi inače bio fantastičan, ponovo je pokvario ljudski faktor. 
 Pošto je pre te tačke kilometrima prolazio kroz dvorišta nekulturnih ljudi, potok je uspeo da nakupi značajnu količinu 
@@ -321,13 +322,13 @@ dvadesetak minuta, a možda i više, da bi se vratio do dvorišta u kom sam osta
 odviše ne izblatnjavim. Popričao sam još malo sa onim starcem (pričao mi je o vodopadima u njegovoj rodnoj Slavoniji), 
 i zatim krenu nazad prema Banoštoru.
 
-{% include layout/content/img_horizontal.html file_name="045.jpg" %}
+{% include component/img/horizontal.html file_name="045.jpg" %}
 Do skele sam stigao nešto posle tri, taman na vreme da joj mašem dok je prelazila na drugu stranu. Nije mi preostalo 
 ništa drugo do da čekam da se nakupe putnici, i da skela krene nazad. Bio sam ugrejan, i nije mi još bilo hladno, pa sam 
 ubijao vreme fotografišući i gledajući zalazak sunca. Prizor je bio vrlo lep, a sigurno bi bio još mnogo, mnogo lepši da 
 sam stigao na prethodnu skelu, i fotografisao ga kako se iznad Banoštora ogleda u Dunavu.
 
-{% include layout/content/img_horizontal.html file_name="047.jpg" %}
+{% include component/img/horizontal.html file_name="047.jpg" %}
 Padao je mrak i postajalo je sve hladnije i hladnije. Obukao sam sve što sam imao, a od skele još ni traga. Tek negde oko 
 pola četiri, krenula je nazad za sremsku stranu. Pošto je tu već dovoljno ljudi čekalo, nadao sam se da će odmah krenuti, 
 ali ispostavilo se da su oni još narednih pola sata pili kafu u čardi. Kada je skela konačno krenula, ja sam bio već 

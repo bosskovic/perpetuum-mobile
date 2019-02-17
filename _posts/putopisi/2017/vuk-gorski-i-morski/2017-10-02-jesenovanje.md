@@ -3,7 +3,8 @@ slug:        "jesenovanje"
 title:       "Aktivno jesenovanje sa aktivnim trogodišnjakom"
 description: "Kako poći krajem septembra sa malim detetom na deset dana u visoke planine Crne Gore, pa malo i na plažu na kupanje, i kako to sve preživeti."
 excerpt:     "planovi, realizacija i naravoučenije"
-categories:  ['2017-vuk-gorski-i-morski']
+category:  2017-vuk-gorski-i-morski
+parent_category: putopisi
 image: "/2017-vuk-gorski-i-morski/biogradska-gora/img/20171001-18.jpg"
 photos:
   -
@@ -23,7 +24,7 @@ bili zamišljeni fleksibilno, tako da mogu da se menjaju i prilagođavaju u hodu
 
 #### Pakovanje
 
-{% include layout/content/img_horizontal.html file_name="pakovanje.jpg" %}
+{% include component/img/horizontal.html file_name="pakovanje.jpg" %}
 Pakovanju sam se ozbiljno posvetio. Odeća za tri godišnja doba, oprema za planinarenje, oprema za plažu, hrana i sudovi,
 lekovi i higijena, knjige i igračke... I nije bilo dovoljno to samo potrpati u kola - često smo se premeštali i bilo je
 važno da sve to uvek bude sortirano, dostupno i na dohvat ruke.

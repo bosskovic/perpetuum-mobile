@@ -1,16 +1,10 @@
 ---
 slug:              "a-farewell-to-arms"
-layout:            knjiga
 title:             "A Farewell to Arms"
 authors:           "Ernest Hemingway"
 goodreads_id:      "10799"
 img:               "https://images.gr-assets.com/books/1313714836l/10799.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Ernest-Hemingway
   - bbb-klasik

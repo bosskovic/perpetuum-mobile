@@ -4,7 +4,8 @@ title:       "Prokletije"
 description: "Smestili smo se na nekoliko dana u Grbaji, i odatle pravili jednodnevne šetnje ka Volušnici, Vezirovoj bradi, 
               Malom karanfilu i Ropojani. Vreme je bilo vedro a jagode i borovnice zrele."
 excerpt:     "planinarenje sa bebom"
-categories:  ['2015-vuk-gorski-i-morski']
+category:  2015-vuk-gorski-i-morski
+parent_category: putopisi
 image: "/2015-vuk-gorski-i-morski/prokletije/img/20150731-12.jpg"
 tags:
   - volušnica
@@ -114,7 +115,7 @@ Ela, Vuk i ja. Uspeli smo da ukombinujemo planove i slobodne dane tako da deo vr
 
 ### Volušnica, 31. jul 2015.  
 
-{% include layout/content/img_vertical.html file_name="20150731-01.jpg" %}
+{% include component/img/vertical.html file_name="20150731-01.jpg" %}
 Prokletije su krupan zalogaj za prvi odlazak u planine sa detetom, ali išli smo na poznat teren, sa ljudima na koje možemo
 da se oslonimo i imali smo odlično vreme.
 Stacionirali smo se u Eko katunu u Grbaji i odatle pravili jednodnevne izlete. Prvi od njih bio je uspon na Volušnicu.
@@ -124,21 +125,21 @@ trebalo nositi uzbrdo, zajedno sa Vukovih desetak, vodom, hranom, pelenama, reze
 i pratio tempo mojih saputnika, neopterećenih tim svim dodatnim teretom. Dok smo izašli iz bukove šume na livade ispod
 Volušnice, već sam ključao.
 
-{% include layout/content/youtube.html id="4BrMVi3SuEU" %}
+{% include component/youtube/video.html id="4BrMVi3SuEU" %}
 
-{% include layout/content/img_horizontal.html file_name="20150731-13.jpg" %}
+{% include component/img/horizontal.html file_name="20150731-13.jpg" %}
 A na proplanku na ivici šume, u travi su se zacrvenele jagode - desetine i desetine jagoda, na Vukovo ogromno zadovoljstvo -
 nismo uspevali da ih naberemo brzinom kojom ih je njupao. Dan je bio lep i vedar, topao ali bar stabilan, tj. imali smo
 vremena koliko god da nam je bilo potrebno. I tako, nogu pred nogu, izašli smo na Maja Canit, jedan od najlepših vrhova
 Volušnice. Tu smo se nauživali u prelepom pogledu na Karanfile, Grbaju, Vezirovu bradu... a i Vuk je dobio priliku da
 malo izađe iz ranca i protegne noge.
 
-{% include layout/content/youtube.html id="VMPFe4TFJtk" %}
+{% include component/youtube/video.html id="VMPFe4TFJtk" %}
 
 U povratku smo ponovo prošli kroz žbunove borovnica i livade istačkane jagodama, pravili pauzice svaki desetak metara i trebili ukusne
 zalogajčiće.
 
-{% include layout/content/video_thumb.html id="_wxTIHaCKis" %}
+{% include component/youtube/thumb.html id="_wxTIHaCKis" %}
 Kad smo se vratili dole u smeštaj, shvatili smo da uspon na planinu nije najteži deo. Dok smo se mi penjali, Vuk je ceo
 dan dremao i odmarao, i sad je kao nov, spreman za akciju a u onom najgorem stadijumu - vrlo brz, pokretan, radoznao a
 totalno nerazuman. Sve vreme je morao neko da trči za njim, da mu otima baštensko crevo, da ga vadi iz ognjišta, pazi da
@@ -147,30 +148,30 @@ se ne otkotrlja niz stepenica...
 
 ### Vezirova brada i Mali karanfil, 1. avgust 2015.  
 
-{% include layout/content/youtube.html id="J7SfMNt65ts" %}
+{% include component/youtube/img_full.html id="J7SfMNt65ts" %}
 
-{% include layout/content/img_vertical.html file_name="20150801-03.jpg" %}
+{% include component/img/vertical.html file_name="20150801-03.jpg" %}
 Vezirova brada je greben južno od Gusinja koji razdvaja doline Ropojane i Grbaje, polako se penje i spaja sa
 Karanfilima. Pošto nije lako iskombinovati neku relativno kratku kružnu šetnju, Vladinog punta smo ostavili u Grbaji, s
 jedne strane planine, a našim autom smo svi otišli do Ali-pašinih izvora, sa druge. Odatle smo pratili strmu senovitu
 stazu, mestimično vrlo zaraslu.
 
-{% include layout/content/img_horizontal.html file_name="20150801-06.jpg" %}
+{% include component/img/horizontal.html file_name="20150801-06.jpg" %}
 Kako smo izašli iz šume, otvorio se pogled ka Visitoru i Plavu. Još neko vreme smo se probijali ivicom šume, kroz korita
 potoka i preko vlažnih padina prekrivenih džinovskim papratima, i oko podneva smo konačno izašli iznad katuna Ćafa Brada.
 Od prevoja iznad katuna, preko livada prekrivenih travom i žbunovima brusnice, na jug prema Karanfilima se penje letnji kolski
 put. Sunce je nemilosrdno pržilo. Bilo mi je baš teško, i svaki retki hlad usamljenog drveta sam koristio za pauzu.
 
-{% include layout/content/img_full.html file_name="20150801-10.jpg" %}
+{% include component/img/full.html file_name="20150801-10.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20150801-17.jpg" %}
+{% include component/img/horizontal.html file_name="20150801-17.jpg" %}
 Taj kratki potez od prevoja do Malog karanfila nam se otegao više od sat i po. Konačno prilazimo vrhu i probijamo se do
 njega kroz stenje i kamenje. A nagrada koja nas čeka tamo je vredna sve muke - prelep pogled ka Ropojani i najvišim
 vrhovima Prokletija. Uživamo tamo skoro sat vremena.
 
-{% include layout/content/img_full.html file_name="20150801-22.jpg" %}
+{% include component/img/full.html file_name="20150801-22.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20150801-25.jpg" %}
+{% include component/img/horizontal.html file_name="20150801-25.jpg" %}
 Put nazad, iako konstantno nizbrdo, nije bio mnogo lakši. Tvrdim makadamom spustili smo se nazad do prevoja, a zatim konačno
 kroz hlad, vijugavim šumskim putem niz nebrojene serpentine do Dolje.
 
@@ -186,7 +187,7 @@ poslednji dan na Prokletijama, i krenuli ka Vusanju i ponoru Grlje, gde smo park
 
 Dan je bio topao, sparan, i ponovo smo imali vrlo malo hlada i zaklona.
 
-{% include layout/content/img_vertical.html file_name="20150802-07.jpg" %}
+{% include component/img/vertical.html file_name="20150802-07.jpg" %}
 Ropojansko jezero ka kom smo se uputili je nestalno, i njegovo dno nije u stanju da zadrži vodu tokom leta.
 Sav ovaj teren je kraški, i potoci i rečice malo teku po površini a malo ispod nje, jedino u proleće kada se sneg topi
 njihova korita su zapenjena celom dužinom.
@@ -195,15 +196,15 @@ Ponor Grlje je jedno od takvih mesta na kom voda nestaje, da bi ponovo izbila ko
 i posle njenu desnu pritoku, Skakavicu. Spuštamo se do Oka Skakavice (ili Savinog oka), lepog modro-plavog jezerceta sa
 savršeno prozirnom ledenom vodom, kroz koju pogled dopire sve do pećinice na dnu iz koje treperi i izbija voda. 
 
-{% include layout/content/img_horizontal.html file_name="20150802-01.jpg" %}
+{% include component/img/horizontal.html file_name="20150802-01.jpg" %}
 Dalje uzvodno u ovo doba godine korito je suvo i vodopadi po kojima je Skakavica dobila ime su tihi. Posle odmora pored 
 jezerceta, nastavili smo putem uz suvo korito ka moreni Ropojanskog jezera. I po ovoj
 žegi bila je očigledna neukrotiva sila vode koja tu tutnji u proleće, odnosi obalu, širi se i razliva po putu kako joj se hoće,
 kotrljajući stenje i kamenje, urezujući i praveći sebi novo korito.
 
-{% include layout/content/img_full.html file_name="20150802-06.jpg" %}
+{% include component/img/full.html file_name="20150802-06.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20150802-08.jpg" %}
+{% include component/img/horizontal.html file_name="20150802-08.jpg" %}
 Morena Ropojanskog jezera nije obrasla šumom kao kod nekih drugih jezera, i čim smo izašli na prevoj, ugledali smo travnato
 dno jezera. Poslednji put kada smo Ela i ja tu bili u maju pre tri godine, voda je bila poplavila celu dolinu, prekrivši 
 čak i najniža stabla na strmim liticama cirka, a sada, početkom avgusta, na njegovom dnu bila je livada. Nismo ni pokušavali 
@@ -211,9 +212,9 @@ da siđemo skroz dole, već smo našli prvi gust hlad uz široku livadu na plato
 bere i jede jagode. Silno ga je zabavljao odjek u akustičnom kamenom amfiteatru oko jezera, i glasić koji mu se javljao 
 svaki put kada vikne.
 
-{% include layout/content/youtube.html id="Sv32uyO67tE" %}
+{% include component/youtube/img_full.html id="Sv32uyO67tE" %}
 
-{% include layout/content/img_horizontal.html file_name="20150802-13.jpg" %}
+{% include component/img/horizontal.html file_name="20150802-13.jpg" %}
 Kad je sunce malo oslabilo, silazimo nazad istim putem i predveče stižemo do kola. Krećemo prema Plavu, pa niz Lim ka
 Andrijevici i onda strmim vijugavim putem ka Komovima. Vuka je taj put silno namučio, uzmućkao se i rasplakao, jedva
 smo, uz česte pauze, prešli tih poslednjih desetak kilometara do Štavne. Oko devet uveče smo bili u bungalovima u Štavni.

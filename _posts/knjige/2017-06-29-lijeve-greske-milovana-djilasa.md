@@ -1,16 +1,10 @@
 ---
 slug:              "lijeve-greske-milovana-djilasa"
-layout:            knjiga
 title:             "'Lijeve greške' Milovana Đilasa ili partijski silogizam"
 authors:           "Veselin B. Pavlićević"
 goodreads_id:      "35548451"
 img:               "https://images.gr-assets.com/books/1498764493l/35548451.jpg"
 excerpt:           "Odličan, koncizan, dobro argumentovan i referencama potkrepljen rad."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Veselin-B.-Pavlićević
   - bbb-NOB

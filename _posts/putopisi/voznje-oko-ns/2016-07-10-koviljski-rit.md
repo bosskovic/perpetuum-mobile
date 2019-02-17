@@ -3,7 +3,7 @@ slug:        "koviljski-rit"
 title:       Koviljski rit
 excerpt:     "dolmom od Šangaja i makadamom kroz rit"
 description: "Vožnja do Kovilja je obično jedan od boljih kandidata za počinjanje sezone - 40-50km po ravnom, van saobraćaja, sa strane rit i barske ptice a u Kovilju desetine gnezda na banderama sa rodama u njima."
-categories:  ['voznje-oko-ns']
+category:  voznje-oko-ns
 
 image: "/voznje-oko-ns/koviljski-rit/img/20160710-04.jpg"
 
@@ -60,16 +60,16 @@ Vožnja do Kovilja je obično jedan od boljih kandidata za počinjanje sezone - 
 strane rit i barske ptice a u Kovilju desetine gnezda na banderama sa rodama u njima.
 
 {% include separator.html %}
-{% include layout/content/id.html id="20120103" %}
+{% include component/id.html id="20120103" %}
 ### Koviljska ilovača i lekovito blato  
 
 3\. januar 2012.  
 NS - Šangaj - Subić - Kozjak - Jamina - Šlajz - Kovilj - Arkanj (Kraj sveta) - dolmom nazad   
 Ela, Marko  
   
-{% include layout/content/img_full.html file_name="20120103-04.jpg" %}
+{% include component/img/full.html file_name="20120103-04.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20120103-01.jpg" %}
+{% include component/img/horizontal.html file_name="20120103-01.jpg" %}
 Vožnja kojom smo počeli biciklističku sezonu 2012-e, i Elina i moja prva veća vožnja van grada. Pošto je bio nizak vodostaj
 Dunava, iskoristili smo priliku da probamo da prođemo kroz rit što je više moguće, pa smo sa dolme sišli već kod Subića,
 i probijali se negde putevima, negde preko peščanih plaža, obišli Dobrovaču i Jaminu, pa uz Patrijaršijsku Tonju zašli
@@ -85,16 +85,16 @@ iskorišćen zimski dan, oko 65km za sedam i po sati.
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="20160710" %}
+{% include component/id.html id="20160710" %}
 ### Vožnja sa kumom  
 
 10\. jul 2016.  
 NS - Šangaj - dolma - makadamom kroz rit - Kovilj - Tikvara - istim putem nazad   
 Ana, Ela, Vuk, Marko  
   
-{% include layout/content/img_full.html file_name="20160710-04.jpg" %}
+{% include component/img/full.html file_name="20160710-04.jpg" %}
 
-{% include layout/content/img_vertical.html file_name="20160710-01.jpg" %}
+{% include component/img/vertical.html file_name="20160710-01.jpg" %}
 Za kraj jula smo planirali odlazak na more, i planirali smo da ponesemo i bicikle. Ova vožnja je trebalo da bude prva
 blaga kondiciona priprema za to putešestvije.
 
@@ -105,7 +105,7 @@ Sunce je pržilo već od ranog jutra. Sa dolme smo sišli u rit makadamom nešto
 suviše visok, do same šume, i sav pesak je bio pod vodom. U ritu nije bilo ni daška vetra, iz makadama je isijavala vrelina
 sunca a iz rastinja je izbijala vlaga. Hlad je nudio zaklon od sunca ali i društvo rojeva komaraca.
 
-{% include layout/content/img_horizontal.html file_name="20160710-08.jpg" %}
+{% include component/img/horizontal.html file_name="20160710-08.jpg" %}
 Vratili smo se nazad na dolmu, bez planiranog kupanja, i po najvećoj vrućini stigli do Kovilja i Tikvare, i tu našli lep
 hlad za odmor. U povratku smo se počastili sladoledom u centru Kovilja.
 

@@ -1,16 +1,10 @@
 ---
 slug:              "uspomene-i-dozivljaji-dimitrija-marinkovica"
-layout:            knjiga
 title:             "Uspomene i doživljaji Dimitrija Marinkovića 1846-1869"
 authors:           "Dimitrije Marinković"
 goodreads_id:      "32721621"
 img:               "https://images.gr-assets.com/books/1477083823l/32721621.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Dimitrije-Marinković
   - bbb-revolucija-1848-49

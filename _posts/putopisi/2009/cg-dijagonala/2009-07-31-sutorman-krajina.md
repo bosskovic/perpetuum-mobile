@@ -3,7 +3,8 @@ slug:        "sutorman-krajina"
 title:       "Južnom stranom Rumije"
 excerpt:     "Stari Bar, Ulcinj, Svač"
 description: "Dan počinjem severno od Sutormana, spuštam se u Stari Bar, obilazim Rumiju sa južne strane, zastajem u Ulcinju i starom gradu Svaču, i dan završavam sa severne strane Rumije nedaleko od albanske granice." 
-categories:  ['2009-cg-dijagonala']
+category:  2009-cg-dijagonala
+parent_category: putopisi
 image: "/2009-cg-dijagonala/sutorman-krajina/img/107.jpg"
 
 tags:
@@ -77,7 +78,7 @@ se more vidi - i vidi se, ili bolje rečeno proviruje između kamenih obronaka k
 Pošto je mesto na kom sam spavao jednako nepodesno za doručak koliko i za spavanje, odmah sam krenuo prema Baru. Makar nisam
 morao šator da pakujem. 
 
-{% include layout/content/img_horizontal.html file_name="102.jpg" %}
+{% include component/img/horizontal.html file_name="102.jpg" %}
 Put za Bar vodi serpentinama konstantno nizbrdo. Usput prolazim pored ostataka tvrđave Crni krš o kojoj nisam uspeo ništa da 
 saznam ni pre ni posle puta. Negde u ovom kraju bila je tromeđa Crne Gore, Mletačke republike (kasnije Austrije i Austro-Ugarske)
 i Turske. Ja sada polako zalazim u "turski" deo primorja, koji je Crna Gora dobila 1878. godine. Tvrđavu je mogao držati
@@ -88,7 +89,7 @@ U Bar ulazim u ranim jutarnjim satima, i idem pravo prema Starom Baru. Poslednji
 
 <div id="stari-bar"></div>
 {% capture story %}
-{% include layout/content/img_horizontal.html file_name="103.jpg" %}
+{% include component/img/horizontal.html file_name="103.jpg" %}
 <p>Kada je došlo do sloma antičke civilizacije, postalo je nebezbedno živeti u ravnicama pored mora ako nisu bile zaštićene
 utvrđenim gradovima. Iz tog razloga se i stanovništvo okoline današnjeg Bara povuklo ka obroncima Rumije, i tu, 5 kilometara od obale mora, podiglo
 utvrđeni grad Bar. Na obali mora bio je Pristan, mala utvrđena luka u kojoj su se ljuljale barske lađe. Početkom dvedesetog veka, 
@@ -109,12 +110,12 @@ do 1878. kada ga dobija Crna Gora po odredbama Berlinskog kongresa.</p>
 1979. godine ga je razrušio
 <a href="http://www.seismo.co.me/questions/13.htm" target="_blank" class="external">snažan zemljotres</a> koji je pogodio crnogorsko primorje.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Stari Bar" %}
+{% include post/side_story.html story=story title="Stari Bar" %}
 
 Stižem u Stari Bar, primorski grad na brdu pet kilometara od mora. Razumem logiku, kada se pojavi gusarsko ili drugo 
 neprijateljsko jedro na horizontu, tih pet kilometara predstavljaju razliku između života i smrti (ili ropstva).
 
-{% include layout/content/img_horizontal.html file_name="104.jpg" %}
+{% include component/img/horizontal.html file_name="104.jpg" %}
 Šetam se kamenim uličicama između ruševnih građevina koje čekaju obnovu evo već četrdeset godina. Razumem nedostatak finansija
 za neke opsežne sanacije i rekonstrukcije, ali ne vidim kako to može da pravda postojanje budžaka zaraslih u šikaru, posebno
 na lokalitetu na koji se ulaz plaća (jedan ili dva eura, ne sećam se tačno) i koji očigledno vrvi od stranih turista, eto,
@@ -148,7 +149,7 @@ Te pauze se sećam kao kroz izmaglicu - sedim izvaljen u stolicu u uglu kafića,
 borim se sa očima koje mi se same zatvaraju. Posle oko sat vremena, možda i nešto duže, kao dolazim sebi, i krećem u
 obilazak Ulcinja.
 
-{% include layout/content/img_horizontal.html file_name="112.jpg" %}
+{% include component/img/horizontal.html file_name="112.jpg" %}
 Ulcinj je ružno haotično mesto, bez ikakvog plana i reda. Krivudave ulice načičkane ružnim zgradama, trotoari pretrpani 
 tezgama, automobili parkirani na sve strane i pri svemu tome velika gužva. Spuštam se do Male plaže, polukružne uvale
 široke par stotina metara na čijem kraju vidim stari kameni grad. Plaža je pretrpana suncobranima i ležaljkama a more
@@ -156,7 +157,7 @@ vrvi od glava koje idu gore-dole u ritmu talasa. Miris soli i kreme za sunčanje
 
 <div id="ulcinj"></div>
 {% capture story %}
-{% include layout/content/img_horizontal.html file_name="109.jpg" %}
+{% include component/img/horizontal.html file_name="109.jpg" %}
 <p>Ulcinj je jedno od najstarijih mesta na ovom delu Jadrana. Legenda kaže da su ga osnovali naseljenici iz Kolhide u petom veku pre nove ere,
 i da je po njima grad dobio ime Colchinium, ali je verovatnija priča da su ga Grci ili Rimljani nazvali po obližnjem plemenu Ilira. 
 163. pre nove ere zauzimaju ga Rimljani i drže ga do kraja antike. Podelom Rimskog
@@ -168,7 +169,7 @@ zauzimaju 1405. godine, i drže do 1571. kada celu južnu Mletačku Albaniju zau
 Turci drže Ulcinj do 1880. godine, 
 kada ih velike sile primoravaju da ispoštuju ugovor sa Berlinskog kongresa i grad predaju Crnoj Gori.</p>
 
-{% include layout/content/img_horizontal.html file_name="110.jpg" %}
+{% include component/img/horizontal.html file_name="110.jpg" %}
 <p>Ulcinj je imao dugu istoriju kao središte jadranskih pirata, još od doba Ilira, pa i kasnije tokom ranog srednjeg veka.
 Ali današnju reputaciju stekao je nakon prelaska u Turske ruke. Tu se prvo naselila grupa od oko 400 malteških i severno
 afričkih gusara, ali broj im je brzo porastao i pridruživali su im se Albanci, Turci i Srbi. Ometali su trgovinu u južnom
@@ -181,9 +182,9 @@ krajeva. Navodno je i Servantes bio zatočen u jednom od ulcinjskih laguma nakon
 <p>Zidine ulcinjske tvrđave sadrže slojeve gotovo iz svake ere koju su preživele - grčko-ilirske kiklopske zidine, rimski i vizantijski
 bedemi, kula Balšića i kasnije mletačke i turske građevine.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Stari grad Ulcinj" %}
+{% include post/side_story.html story=story title="Stari grad Ulcinj" %}
 
-{% include layout/content/img_horizontal.html file_name="111.jpg" %}
+{% include component/img/horizontal.html file_name="111.jpg" %}
 Ulcinjska tvrđava se nalazi na kamenoj kupici koja sa zapadne strane zatvara ulcinjsku uvalu. Grad obiluje nivoima i stepenicama
 i nije baš zgodan za obilazak biciklom. Teško je stradao u velikom zemljotresu 1979. godine, i umesto da bude planski obnovljen
 i restauriran, danas deli sudbinu ostatka Ulcinja. Haotična gradnja i novogradnja (pretpostavljam divlja jer ne vidim u koji 
@@ -195,26 +196,26 @@ Malo sam se razdrmao i vozim ka Šasu, mestašcu u podnožju Rumije, desetak kil
 mi je interesantno, jer se tu nalaze ruševine čuvenog grada Svača.
 
 {% capture story %}
-{% include layout/content/img_horizontal.html file_name="115.jpg" %}
+{% include component/img/horizontal.html file_name="115.jpg" %}
 <p>Aleksandar Deroko kaže: "Ruševine prvobitno vizantiskog zatim, od XI veka, grada katoličkog episkopa. Svač je zauzeo Nemanja 1181 godine. Mongoli su grad razorili 1241. godine a stanovništvo poubijali. Svač su držali zatim Nemanjići sve do XV veka kada je ostao napušten. Grad je kovao i svoj novac (s natpisom "Sovacii civitas"). Od svega je danas ostalo na prostranoj krševitoj zaravni malo temelja starog naselja, među kojima se uzdižu još samo zidine nekih crkava, sve zaraslo u žbunje, a više ovoga, na izduženoj uzvišici iznad jednog jezera, bila je tvrđavica, koja je danas takođe potpuno u ruševinama."</p>
 <p>Ostaci Svača su i danas u sličnom stanju kao što ih opisuje Deroko pre sedamdesetak godina.</p>
 <p>Čitao sam teorije da je bio prestonica Duklje Vojislavljevića. Od najezde Mongola, grad se nekako oporavio, ali od kraja XIV veka propada zauvek.
 1406. godine utvrđenje je napušteno a pominje se samo selo u podnožju, i tadašnji episkop moli Veneciju da pomogne u opasivanju sela zidinama, kao što je to
 nekada bilo.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Svač" %}
+{% include post/side_story.html story=story title="Svač" %}
 
-{% include layout/content/img_horizontal.html file_name="114.jpg" %}
+{% include component/img/horizontal.html file_name="114.jpg" %}
 Do ostataka Svača dolazi se kroz malo mesto Šas, nekoliko kilometara južno od puta koji vodi ka Skadru. Mesto je
 razuđeno, deluje siromašno a kućice trošne. Ruševine se nalaze zarasle u šikaru na ivici naselja. Sakrio sam bicikl
 u žbunju, i krenuo u obilazak ruševina - nekoliko vijugavih linija nekadašnjih zidina koje ponegde izviruju iz žbunja.
 
-{% include layout/content/img_horizontal.html file_name="117.jpg" %}
+{% include component/img/horizontal.html file_name="117.jpg" %}
 Ostaci crkava su mnogo uočljiviji, i izbrojao sam ih najmanje sedam. Najveća je ruševina katedrale sv. Jovana. Uz malo
 mašte, prošetao sam se ulicama srednjevekovnog Svača, a magiju je upotpunilo crveno-narandžasto svetlo zalazećeg sunca.
-{% include time_machine.html text="Posle sam čitao da je po legendi Svač imao crkava koliko u godini ima dana, ali su arheolozi našli ostatke 15 crkava." %}
+{% include component/time_machine.html text="Posle sam čitao da je po legendi Svač imao crkava koliko u godini ima dana, ali su arheolozi našli ostatke 15 crkava." %}
 
-{% include layout/content/img_horizontal.html file_name="116.jpg" %}
+{% include component/img/horizontal.html file_name="116.jpg" %}
 Osećao sam se nekako izloženo ovde, daleko od urbane anonimnosti ali opet dovoljno na videlu i nisam želeo da me mrak tu uhvati. 
 Na svom prolasku kroz ovaj kraj naseljen Albancima, nisam imao ni najmanji problem sa lokalnim stanovništvom, čak naprotiv,
 sva komunikacija je bila vrlo ljubazna, ali svejedno sam se tripovao.

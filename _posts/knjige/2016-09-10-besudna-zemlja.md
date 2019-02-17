@@ -1,16 +1,10 @@
 ---
 slug:              "besudna-zemlja"
-layout:            knjiga
 title:             "Besudna Zemlja"
 authors:           "Milovan Đilas"
 goodreads_id:      "31937265"
 img:               "https://images.gr-assets.com/books/1473533738l/31937265.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Milovan-Đilas
   - bbb-Crna-Gora

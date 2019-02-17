@@ -1,0 +1,54 @@
+<div id="text" class="content">
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+                    {% if page.subtype == "knjige" %}
+                        {% include component/goodreads_header.html post=page %}
+                        <p class="muted mt-0">{{ page.excerpt }}</p>
+                    {% endif %}
+
+                    {{ content }}
+
+                    {% include component/media_footer.html %}
+                    <hr class="screen-only">
+
+                    {% if page.has_subposts %}
+                    <span class="post-previews">
+                      {% for post in site.categories[page.slug] reversed %}
+                        {% include component/preview/default.html %}
+                      {% endfor %}
+                    </span>
+                    {% endif %}
+
+                </div>
+            </div>
+        </div>
+    </article>
+
+    {% if page.parent_category %}
+        <div class="container category-listing-container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    {% include post/navigation.html %}
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    {% include post/category_listing.html %}
+                </div>
+            </div>
+        </div>
+        <hr class="screen-only">
+    {% endif %}
+
+    {% include post/related_posts_listing.html %}
+
+    <div class="for-print">
+        {% if ppt_stats_exist %}
+        <img src="{{ ppt_stats_path }}" class="img-responsive stats" />
+        {% endif %}
+    </div>
+</div>

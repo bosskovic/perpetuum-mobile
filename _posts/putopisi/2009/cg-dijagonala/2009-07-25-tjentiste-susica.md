@@ -3,7 +3,8 @@ slug:        "tjentiste-susica"
 title:       "Od Sutjeske do Sušice"
 excerpt:     "kroz NP Sutjeska i NP Durmitor"
 description: "Tokom godina planinarenja (peške i na točku) par lokaliteta me je osvojilo na takav način da im se rado iznova i iznova vraćam. Jedan od njih je definitivno NP Sutjeska, ovo je bio već treći put u tri meseca da tu zalazim, i svakako ne poslednji."
-categories:  ['2009-cg-dijagonala']
+category:  2009-cg-dijagonala
+parent_category: putopisi
 image: "/2009-cg-dijagonala/tjentiste-susica/img/007.jpg"
 photos:
   -
@@ -87,7 +88,7 @@ nastavljam dalje.
 
 ### Maglić i Vučevo - Peta ofanziva
 
-{% include layout/content/img_horizontal.html file_name="001.jpg" %}
+{% include component/img/horizontal.html file_name="001.jpg" %}
 Stižem do Dragoš sedla i sjajnog vidikovca na kojem sam bio prošle godine sa Srđanom i Zoricom. Uživam nekoliko 
 trenutaka u pogledu na prašumu Perućicu pod sobom, na veliki vodopad Skakavac koji tutnji sve do ovde, iako je prilično 
 udaljen, na grebene Volujaka i Zelengore u daljini. Dok se vraćam do bicikla, srećem grupu turista u papučama i slamenim 
@@ -106,9 +107,9 @@ konstantnim bombardovanjima ili se podavili u noćnom gazu preko Sutjeske.</p>
 
 <p>Među preživelim partizanima, u jednoj od jedinica kojima je komandovao Sava Kovačević bio je i moj deda, tada još šesnaestogodišnji dečak.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Peta ofanziva" %}
+{% include post/side_story.html story=story title="Peta ofanziva" %}
 
-{% include layout/content/img_horizontal.html file_name="005.jpg" %}
+{% include component/img/horizontal.html file_name="005.jpg" %}
 Posle rata, komunisti su od ovog stratišta napravili mit uz koji su generacije pre nas odrastale. Ekskurzije do 
 Tjentišta gde se nalazi centralni spomenik stradalima su bile praktično obavezne za sve škole u SFRJ. Moja generacija 
 je bila počašćena malo drugačijom mitomanijom, tako da sam vrlo malo znao o Petoj ofanzivi. Tek pred ovu vožnju sam malo 
@@ -121,10 +122,10 @@ i na biciklu, a ne njima noću i pod paljbom...). Kostić je bio tada među part
 napisao dosta kasnije, ili su mu ove sitnice igrale drugu ulogu u odnosu na likove i radnju. U svakom slučaju, knjižica je
 160 strana, može se pročitati za jedno veče, pa ko nije ili koje davno čitao, treba joj se vratiti.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Dušan Kostić: Sutjeska" %}
+{% include post/side_story.html story=story title="Dušan Kostić: Sutjeska" %}
 
 
-{% include layout/content/img_horizontal.html file_name="008.jpg" %}
+{% include component/img/horizontal.html file_name="008.jpg" %}
 Prolazim pored groba Nurije Pozderca i Mrkalj Klada ispisujući polukrug oko Maglića, vozim prema Vučevu i gledam 
 bespuće po kom su se partizani povlačili, gladni, ranjeni, po mraku i uz konstantne borbe... Prelazim na Vučevo, veliku 
 kamenito-travnatu visoravan, opkoljenu Drinom i Pivom s jedne i stenovitim vrhovima Maglića sa druge strane. Makadamski 
@@ -134,14 +135,14 @@ minuta truckanja makadamom nizbrdo prema Mratinju i Pivi.
 
 ### Pivsko more 
 
-{% include layout/content/img_horizontal.html file_name="011.jpg" %}
+{% include component/img/horizontal.html file_name="011.jpg" %}
 Ma koliko mi bila strašna pomisao na HE Mratinje i na svu štetu koju je uzrokovala, vožnja ivicom velikog modrog slatkog 
 Pivskog mora daleko od toga da je bila neprijatna. Strmi stenoviti zidovi opkoljavaju to more sa svih strana i kad se 
 gleda pod odgovarajućim uglom, ogledaju se u njemu. Odrazi belih oblaka trče po površini. Ponegde površinu remeti 
 borovima obrastao otočić, ostatak neke čuke što se pre par decenija nadnosila nad Pivom. Vijugavi borovi rastu iz 
 stena kanjona na mestima iz kojih samo oni mogu.
 
-{% include layout/content/img_horizontal.html file_name="014.jpg" %}
+{% include component/img/horizontal.html file_name="014.jpg" %}
 Prilazim brani, i znakovima "zabranjeno snimanje i osmatranje". Ne snimam, ali osmatram. S jedne strane tanka ovalna 
 betonska linija koja zarobljava nezamislive litre vode, a sa druge čudovišni zid visoko nadnesen nad koritom Pive. U 
 produžetku potpun kontrast tom obilju vode - žedna reka koja se lagano cedi prema Šćepan Polju.
@@ -159,7 +160,7 @@ druge nije lepo da prođem tu a da se ne javim ljudima. Tim pre što su me oček
 da prođem. Ok, potražih ih malo, i kako nisu bili tu tog trenutka, ja nastavih dalje prema cilju koji sam sebi zacrtao 
 za taj dan - Sušičkom jezeru.
 
-{% include layout/content/img_horizontal.html file_name="016.jpg" %}
+{% include component/img/horizontal.html file_name="016.jpg" %}
 Polje ostavljam za sobom i ulazim u četinarske šume sa ogromnim stablima. Već je rano predvečerje, na nogama, odnosno 
 na točkovima sam od zore, za sobom sam ostavio prilično prostranstvo i polako ulazim u "zombi mod". Usredsređujem se na 
 cilj: stići do mraka do jezera, i puštam lepote da mi promiču. Prolazim Gornje Crkvice, Kneževiće, Vojvodiće i dok su 

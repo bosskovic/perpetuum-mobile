@@ -1,16 +1,10 @@
 ---
 slug:              "continuous-integration"
-layout:            knjiga
 title:             "Continuous Integration"
 authors:           "Martin Fowler"
 goodreads_id:      "25892443"
 img:               "https://images.gr-assets.com/books/1437607682l/25892443.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Martin-Fowler
   - bbb-IT

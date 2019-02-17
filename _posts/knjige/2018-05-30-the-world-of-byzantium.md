@@ -1,16 +1,10 @@
 ---
 slug:              "the-world-of-byzantium"
-layout:            knjiga
 title:             "The World of Byzantium"
 authors:           "Kenneth W. Harl"
 goodreads_id:      "23360462"
 img:               "https://images.gr-assets.com/books/1413190110l/23360462.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-Mala-Azija
   - bbb-antička-istorija

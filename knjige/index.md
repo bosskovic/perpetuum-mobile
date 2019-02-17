@@ -1,12 +1,8 @@
 ---
-layout:      knjige
 title:       "knjige"
 slug:        "knjige"
 excerpt:     ""
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
+
 ---
 
 Dobra knjiga informiše, podučava, provocira, uzbuđuje, i na kraju se staloži i ugradi u duh.

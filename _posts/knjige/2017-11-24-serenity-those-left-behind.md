@@ -1,16 +1,10 @@
 ---
 slug:              "serenity-those-left-behind"
-layout:            knjiga
 title:             "Serenity: Those Left Behind "
 authors:           "Joss Whedon"
 goodreads_id:      "133765"
 img:               "https://images.gr-assets.com/books/1403203994l/133765.jpg"
 excerpt:           "Dumbed down and exaggerated version of the characters and stories from the tv series"
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Joss-Whedon
   - bbb-strip

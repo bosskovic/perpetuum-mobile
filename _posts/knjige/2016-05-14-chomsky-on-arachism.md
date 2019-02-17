@@ -1,16 +1,10 @@
 ---
 slug:              "chomsky-on-arachism"
-layout:            knjiga
 title:             "On Anarchism"
 authors:           "Noam Chomsky"
 goodreads_id:      "25335127"
 img:               "https://images.gr-assets.com/books/1428683027l/25335127.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Noam-Chomsky
   - bbb-sociologija-/-socijalna-pravda

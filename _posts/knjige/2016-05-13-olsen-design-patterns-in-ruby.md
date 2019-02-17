@@ -1,16 +1,10 @@
 ---
 slug:              "olsen-design-patterns-in-ruby"
-layout:            knjiga
 title:             "Design Patterns in Ruby"
 authors:           "Russ Olsen"
 goodreads_id:      "2278064"
 img:               "https://images.gr-assets.com/books/1347345993l/2278064.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Russ-Olsen
   - bbb-IT

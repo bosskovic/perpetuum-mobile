@@ -1,0 +1,12 @@
+<div class="simple-header">
+    <img src={{ page.animation.url }} height={{ page.animation.height }} width={{ page.animation.width }} />
+    <br>
+    <div id="moto">
+        {% if page.english %}
+            perpetuum mobile
+        {% else %}
+            stalno u pokretu
+        {% endif %}
+    </div>
+    {% include header/main_menu.html %}
+</div>

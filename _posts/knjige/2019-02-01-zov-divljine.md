@@ -1,6 +1,5 @@
 ---
 slug:              "zov-divljine"
-layout:            knjiga
 title:             "Zov divljine"
 authors:           "Jack London"
 goodreads_id:      "15996967"
@@ -8,11 +7,6 @@ img:               "https://images.gr-assets.com/books/1347127526l/15996967.jpg"
 excerpt:           "Kućni ljubimac biva otet iz svog ugodnog okruženja i bačen u nemilosrdan svet gde se kroz borbu za 
                     opstanak u njemu bude instikti sve dok ne postaje überhund, savršeni spoj divlje mašine za ubijanje
                     i cinika koji poznaje mehanizme civilizacije i svesno ih odbacuje."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Jack-London
   - bbb-beletristika

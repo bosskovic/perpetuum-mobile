@@ -1,19 +1,14 @@
 ---
 slug:         "victor-jara"
-layout:       etc_post
 title:        "Victor Jara"
 excerpt:      "Prevodi pesama 'El arado' i 'A Desalambrar' na srpskohrvatski"
 description:  ""
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
+videos: ["RgSypCtwbk0", "VQJhk6e0I9g"]
 ---
 
 ### El arado
 
-{% include layout/content/youtube.html id="RgSypCtwbk0" %}
+{% include component/youtube/video.html id="RgSypCtwbk0" %}
 
 stežem ruku čvrsto  
 plug u zemlju tiskam  
@@ -47,7 +42,7 @@ jer sve će se promeniti
 
 ### A Desalambrar
 
-{% include layout/content/youtube.html id="VQJhk6e0I9g" %}
+{% include component/youtube/video.html id="VQJhk6e0I9g" %}
 
 recite mi, pitam  
 je l' ste pomislili ikad  

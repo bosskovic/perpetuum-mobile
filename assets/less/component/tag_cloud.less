@@ -1,0 +1,58 @@
+.tag-cloud {
+  text-align: center;
+
+  .site-tag {
+    a {
+      display: inline-block;
+      margin: 5px;
+      border: 1px solid #8c8c8c;
+      border-radius: 50%;
+      padding: 10px 20px;
+    }
+    a:hover {
+      background-color: #eee;
+      text-decoration: none;
+    }
+    a.active {
+      color: @brand-primary;
+    }
+  }
+
+  &.tech {
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+    .site-tag {
+      a {
+        border: none;
+        border-radius: 0;
+        padding: 0 !important;
+        margin: 0;
+        margin-right: 5px;
+        font-weight: bold;
+      }
+      &.even a{
+        color: grey;
+      }
+      a:hover {
+        background-color: white;
+        text-decoration: underline;
+        color: @brand-primary;
+      }
+    }
+  }
+}
+
+.authors-cloud {
+  .site-tag {
+    a {
+      display: block;
+      float: right;
+      padding: 5px !important;
+      clear: both;
+    }
+    a.active {
+      color: @brand-primary;
+    }
+  }
+}

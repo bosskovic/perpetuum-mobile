@@ -1,16 +1,10 @@
 ---
 slug:              "nazor-s-partizanima"
-layout:            knjiga
 title:             "S partizanima"
 authors:           "Vladimir Nazor"
 goodreads_id:      "23380828"
 img:               "https://images.gr-assets.com/books/1413439451l/23380828.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Vladimir-Nazor
   - bbb-NOB-proza

@@ -1,0 +1,100 @@
+#text {
+  p {
+    text-align: justify;
+  }
+
+  img {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    border: 1px solid @gray-dark;
+    border-radius: 4px;
+    box-shadow: 5px 5px 8px #CCC;
+    clear: both;
+  }
+  img.vertical {
+    height: 200px;
+  }
+  img.horizontal {
+    margin-top: 15px;
+    width: 200px;
+    &.for-print {
+      width: 300px;
+    }
+  }
+  .side-story {
+    clear: both;
+    background-color: #f9fafa;
+    h4 {
+      background-color: #ebeeee;
+      padding: 15px;
+    }
+    .story {
+      padding: 0 15px 15px;
+      font-size: 15px;
+
+      p {
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+    }
+  }
+
+  a.time_machine {
+    outline: none;
+    float: right;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px;
+    text-align: left;
+    text-decoration: none;
+    cursor: pointer;
+    background: #f9fafa;
+    border: 1px solid #ebeeee;
+    border-radius: 4px;
+    box-shadow: 5px 5px 8px #CCC;
+    margin-top: 5px;
+
+    span {
+      z-index: 10;
+      display: none;
+      padding: 14px 20px;
+      margin-top: -5px;
+      margin-left: -295px;
+      width: 300px;
+      line-height: 16px;
+      font-weight: normal;
+      font-size: 16px;
+
+      border-radius: 4px;
+      box-shadow: 5px 5px 8px #CCC;
+    }
+  }
+
+  a.time_machine:hover {
+    text-decoration: none;
+
+    span {
+      display: inline;
+      position: absolute;
+      color: @gray-dark;
+      border: 1px solid #ebeeee;
+      background: #f9fafa;
+    }
+  }
+
+  .ppt-pdf {
+    img {
+      margin: 0;
+      display: inline;
+      border: none;
+      border-radius: 0;
+      box-shadow: none;
+    }
+  }
+
+  .caption.text-muted {
+    clear: both;
+  }
+}

@@ -1,16 +1,10 @@
 ---
 slug:         "smesni-su-oni-tvoji-ljudi"
-layout:       etc_post
 title:        "Maksim Gorki"
 excerpt:      "odlomak iz Makar Čudre"
 description:  "Smešni su oni tvoji ljudi. Stisli su se u gomilu i dave jedan drugoga, a mesta na zemlji pogledaj koliko je, 
                i svi rade. Zašto? Kome? Niko ne zna! ..."
 image:        "/etc/smesni-su-oni-tvoji-ljudi/img/trava.jpg"
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
 ---
 
 \- Smešni su oni tvoji ljudi.  

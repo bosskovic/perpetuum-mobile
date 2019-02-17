@@ -41,7 +41,8 @@ photos:
   -
     key: 065.jpg
     title: Moračke planine
-categories:  ['2007-cg-biciklom']
+category:  2007-cg-biciklom
+parent_category: putopisi
 image: "/2007-cg-biciklom/bjelasica-gornja-moraca/img/050.jpg"
 
 tags:
@@ -83,7 +84,7 @@ još malo pre nego što upeče sunce.
  
 ### Beranci
 
-{% include layout/content/img_horizontal.html file_name="052.jpg" %}
+{% include component/img/horizontal.html file_name="052.jpg" %}
 Budim se nešto posle devet. Vukovi su već neka davna uspomena, sad mi treba pijeća voda. Još sinoć sam čuo potok kako 
 se uz žubor spušta u jezero. Pretpostavljam da je tu negde i izvor, perem na brzinu dres i biciklističke u jezeru, i 
 krećem da nađem izvor. Stižem do potoka, pratim ga pedesetak metara, i nailazim na slab izvor u jednoj rupi. Barica je 
@@ -102,12 +103,12 @@ Krupan, snažno građeni pedesetogodišnjak Miško je posebno oduševljen susret
 Miška dok mi nabraja čelne funkcije u raznim telima na kojima se nalazio, i pamtim jedino da je bio predsednik mtb 
 saveza Jugoslavije. Zato se i oduševio biciklom. 
 
-{% include layout/content/img_horizontal.html file_name="056.jpg" %}
+{% include component/img/horizontal.html file_name="056.jpg" %}
 Vadim bajs iz šatora i svi se na smenu slikamo. Priča se dalje širi. Ivan je ginekolog a Miško je preplivao sva 
 lednička jezera bivše Jugoslavije, Ivan često ide u Beograd pošto tamo završava neke postdiplomske studije, a Miško ima 
 brata u Vrdniku. Pa dobro, Fruška gora je onda blizu i jednom i drugom. Razmenjujemo brojeve telefona i e-mail adrese, 
 i dogovaramo se da ćemo se naći na Fruškoj gori.
-{% include time_machine.html text="Razmenili smo par mail-ova po povratku, poslao sam im fotke, ali posle nismo ostali u kontaktu." %}
+{% include component/time_machine.html text="Razmenili smo par mail-ova po povratku, poslao sam im fotke, ali posle nismo ostali u kontaktu." %}
  
 Pričam im o mojoj jutrošnjoj avanturi, kažu *„Nema šanse da su vuci u ovo doba leta, sigurno su katunski psi“*. *„Katunski 
 psi?! Pa valjda znam kako pas zvuči?! A i u 10 do 5?!“*. Pitaju da li sam izlazio iz šatora da vidim; ma kakvo izlaženje, 
@@ -125,7 +126,7 @@ najžešćem suncu počinjem uspon prema Zekovoj glavi.
  
 ### Zekova glava
 
-{% include layout/content/img_horizontal.html file_name="051.jpg" %}
+{% include component/img/horizontal.html file_name="051.jpg" %}
 Još iz podnožja, kada sam od Pešića jezera gledao prema Zekovoj glavi, video sam da će tu biti podosta posla. Ali, 
 Miško me je hrabrio kako *„To nije tako strašno“*, i da ću *„izaći za oko sat i po“*, a i pre nego što sam krenuo iz Novog 
 Sada, ponovo sam čitao Jonetov putopis na Ciklonautu, gde piše da je i on pre nekoliko godina izgurao natovaren bajs 
@@ -188,13 +189,13 @@ Srećom, „nadrkane budale“ čuče u hladu bar do 4, tako da sam mirno izaša
 releja. Jezero se nalazi na 1838mnv, a Zekova glava, drugi najviši vrh Bjelasice na 2117mnv. Za nešto više od 3 sata 
 sam izneo oko 40kg teškog natovarenog mazgu na usponu koji je dugačak oko 1.5km a visinska razlika je 279m. Bilo je to 
 nešto najteže što sam ikada pokušao.
-{% include time_machine.html text="Najteže do tada :-). Pobrinuo sam se da na narednim putešestvijima pomeram granicu težine i 'ludila'. Dobro je rekao onaj čovek dole..." %}
+{% include component/time_machine.html text="Najteže do tada :-). Pobrinuo sam se da na narednim putešestvijima pomeram granicu težine i 'ludila'. Dobro je rekao onaj čovek dole..." %}
  
 Prišao sam ružnoj betonskoj zgradi na Zekovoj glavi, i sa strepnjom gledao polupane prozore. Ako ovde nema nikoga, ko 
 zna kada ću sipati vodu... Ostavio sam bicikl, ušao unutra i počeo da vičem *„Dobar dan“*, *„Ima li koga?“*, i dalje ne baš 
 siguran koga ću tu zateći i na kakav prijem ću naići.
 
-{% include layout/content/img_horizontal.html file_name="059.jpg" %}
+{% include component/img/horizontal.html file_name="059.jpg" %}
 Nakon što sam tako vikao neko vreme, pojavi se čovek srednjih godina i začuđeno me pogleda. Zamolim da li može da mi da 
 vode, ma može, sve može, uvede me u kontrolnu sobu gde se upravlja tv signalom koji relej prenosi, i kaže *„Sedi, odmori 
 se“*. Ja reko’ *„Mislio sam da ćete me oterati kad me vidite“*, a on *„Oterati?! Ma ne. Hoćeš da ručaš, ima pasulja? A ima 
@@ -207,7 +208,7 @@ bio u sedlu. Iako sam se nalazio na visini preko 2000 metara, prelepi daleki vid
 sam mislio da je to možda zbog vetra koji je jako duvao i podigao prašinu, ali posle sam saznao da je uzrok „zamućenog“ 
 neba vatra koja divlja negde kod Mateševa.
 
-{% include layout/content/video_thumb.html id="48tgyVWS014" %}
+{% include component/youtube/thumb.html id="48tgyVWS014" %}
 Od Zekove glave do Kolašina ide makadam veoma lošeg kvaliteta. Bar sam išao nizbrdo, a nisam baš siguran da li je tu 
 uopšte moguće ići uzbrdo. Bio sam prilično iscrpljen posle uspona na Zekovu glavu, tako da na tom dugom spustu prema 
 Kolašinu nisam registrovao mnogo šta. Na jednom mestu sam naišao na krdo prelepih konja, najlepših koje sam ikad video: 
@@ -227,7 +228,7 @@ saobraćaju u nekim prometnijim ulicama u Novom Sadu.
  
 ### Gornja Morača
  
-{% include layout/content/img_horizontal.html file_name="064.jpg" %}
+{% include component/img/horizontal.html file_name="064.jpg" %}
 Stižem ispod Mijoske i krećem prema Gornjoj Morači. Napuštam tok rečice Slatine, i ispod mene se pojavljuje klisura 
 Morače, a iznad niz ogromnih nazubljenih kamenih vrhova koji se žute na večernjem suncu. Posle kratkog spuštanja počinju 
 uzbrdice, tako da imam dovoljno vremena da se divim neverovatnim kontrastima oko sebe: gustoj zelenoj prašumi u klisuri 
@@ -237,7 +238,7 @@ Sudeći po karti, trebalo bi da sam prošao već kroz nekoliko sela, a nisam vid
 ovaj put se sve upornije penje. Plan je da se spustim do Morače i idem prema izvoru, ali nigde ne vidim odvajanje, a 
 ako ovako nastavim, ima da završim u Šavniku.
 
-{% include layout/content/img_horizontal.html file_name="065.jpg" %}
+{% include component/img/horizontal.html file_name="065.jpg" %}
 Već sam na poslednjim rezervama snaga, a i dalje uporno okrećem pedale. Ponovo se nalazim u situaciji da mrak samo što 
 nije pao, a ja još nemam mesto za logor. Usput sam ostao i bez vode. Konačno, u poslednjem trenutku, na mestu gde 
 magistrala pravi veliku serpentinu u pravcu Redica i razbija svaku iluziju da će uskoro biti neko skretanje prema 

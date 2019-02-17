@@ -1,16 +1,10 @@
 ---
 slug:              "metode-anarho-sindikalizma"
-layout:            knjiga
 title:             "Metode anarho-sindikalizma: Anarho-sindikalizam u Porto Realu"
 authors:           "Rudolf Rocker"
 goodreads_id:      "17794301"
 img:               "https://images.gr-assets.com/books/1365801739l/17794301.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Rudolf-Rocker
   - bbb-anarhizam

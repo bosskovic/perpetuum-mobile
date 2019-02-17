@@ -1,16 +1,10 @@
 ---
 slug:              "homage-to-catalonia"
-layout:            knjiga
 title:             "Homage to Catalonia"
 authors:           "George Orwell"
 goodreads_id:      "9646"
 img:               "https://images.gr-assets.com/books/1394868278l/9646.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-George-Orwell
   - bbb-anarhizam

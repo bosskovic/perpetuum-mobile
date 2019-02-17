@@ -1,9 +1,10 @@
 ---
+category:     2004-prve-voznje
+parent_category: putopisi
 slug:        "jugozapadna-backa-biciklom"
 title:       "Jugozapadna Bačka biciklom"
 excerpt:     "vožnja do Bača"
 description: "Za nešto više od 12 sati prešli smo oko 160km. Putevi su uglavnom solidnog kvaliteta i ne odviše prometni. Jedini deo koji ne preporučujem je deonica Bačka Palanka-Novi Sad, zbog gustog saobraćaja." 
-categories:  ['2004-prve-voznje']
 image: "/2004-prve-voznje/jugozapadna-backa-biciklom/img/023.jpg"
 photos:
   -
@@ -112,19 +113,19 @@ mountain bike se po ravnom teško može meriti sa tracking biciklom (obim točko
 toku dana postati svestan, postoje razni tipovi kondicije. To što on sa lakoćom prelazi veliki fruškogorski maraton (82 km) 
 mu na biciklu ne znači previše. Kakogod bilo, moraćemo da idemo dosta sporije od onoga što sam planirao.
 
-{% include layout/content/img_horizontal.html file_name="001.jpg" %}
+{% include component/img/horizontal.html file_name="001.jpg" %}
 Dok smo prilazili Rumenki, polako se razdanjivalo, a i počela je da sipi jedva primetna kiša. Rumenka je proletela za 
 nama, a da ja, još bunovan, nisam uspeo to gotovo ni da registrujem. Tek pošto smo izašli iz sela, razbudio me je prizor 
 starog đerma i karuca parkiranih ispod njega. 
 
-{% include layout/content/img_horizontal.html file_name="002.jpg" %}
+{% include component/img/horizontal.html file_name="002.jpg" %}
 Tokom našeg putešestvija, prošli smo kroz teritorije više opština (Novi Sad, Bački Petrovac, Odžaci, Bač, Bačka Palanka), 
 ali, koliko se sećam, samo nas je jedna pozdravila kada smo u nju ulazili i poželela srećan put kada smo izlazili - Bački 
 Petrovac. Za sam istoimeni gradić koji je sedište opštine, mogu reći samo najlepše. Već sam nekako navikao da slovačka 
 naselja (kako bačka tako i sremska) budu nekako urednija, čistija, sa cvećem ispred kuća, i Petrovac me po tom pitanju 
 nije razočarao. Naprotiv. 
 
-{% include layout/content/img_horizontal.html file_name="003.jpg" %}
+{% include component/img/horizontal.html file_name="003.jpg" %}
 Čim se pređe kanal, oseti se razlika. Kako se uđe u naselje, prolazi se pored svetlo plavih 
 doteranih kuća, sa ošišanom travom ili cvećem ispred, ponegde klupom (često napravljenom od osovine nekih starih kočija), 
 po koji restaurirani đeram, saonice, fijaker ili bunar... Iza te seoske idile, u malome centru nalazi se nekoliko većih 
@@ -133,7 +134,7 @@ izlazi, i do kraja se ide kroz prijatan seoski ambijent.
 
 Iako je Kulpin sa svojim dvorcima bio u planu nekih širih varijanti, ostalo je da ga obiđemo nekom drugom prilikom.
 
-{% include layout/content/img_horizontal.html file_name="004.jpg" %}
+{% include component/img/horizontal.html file_name="004.jpg" %}
 Na putu za Bački Maglić smo prošli pored interesantne "mini" kapelice koja se smestila ispod oraha. Maglić se ne nalazi 
 na glavnom putu, tako da kroz samo selo nismo prolazili, ali kada ga već spominjem, da kažem par reči o njegovoj istoriji, 
 pošto je interesantna. 
@@ -166,7 +167,7 @@ SCG.</p>
 <p>Selo opet ostaje napušteno, ali se u njega 1949 useljavaju kolonisti iz mnogih krajeva SFRJ. Kao simbol te izmešanosti, 
 naselje koje se do tada zvalo Buljkes, dobija ime planine sa granice Bosne i Hercegovine i Crne Gore - Maglić. </p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Istorija Bačkog Maglića" %}
+{% include post/side_story.html story=story title="Istorija Bačkog Maglića" %}
 
 Prošli smo kroz Silbaš, zatim i kroz Parage. Prizori su dosta slični, slične stare kuće, slične barokne crkve, a pri 
 pogledu na pojedine "gastarbajterske" kuće, pomislili smo da možda i nećemo morati da idemo jako daleko da bi videli 
@@ -181,14 +182,14 @@ opštinu Odžaci. Na samom ulazu u Ratkovo, najseverniju tačku našeg puta, pa�
 jarka, sa desne strane puta. Od jarka nismo mogli da priđemo bliže i izvidimo, ali Slobodan misli da je to bio put koji 
 je nekad vodio na neko bogato imanje, a da su te kamene "skulpture" oivičavale put.
 
-{% include layout/content/img_horizontal.html file_name="005.jpg" %}
+{% include component/img/horizontal.html file_name="005.jpg" %}
 Dok smo prilazili Ratkovu, primetili smo i neke ruševine u daljini, i rešili da ih izvidimo. Prilazeći blatnjavim putem, 
 upitali smo neku ženu šta je to u pitanju, i ona nam je samo kratko odgovorila "staro katoličko groblje". Ali, veoma brzo 
 je postalo jasno da to nije samo "katoličko" (ako je uopšte katoličko), već je ključna reč "nemačko" groblje. Dok smo 
 kroz maleno oskrnavljeno groblje prilazili ruševnoj kapelici, prizor je bio i tužan i jeziv. Da je groblje ostavljeno 
 da propadne samo od sebe, nekako bih još i razumeo, ali ovu dozu vandalizma - ne. 
 
-{% include layout/content/img_vertical.html file_name="006.jpg" %}
+{% include component/img/vertical.html file_name="006.jpg" %}
 Većina nadgrobnih spomenika (sa epitafima koje sam ipak uspeo delom da dešifrujem mojim zarđalim nemačkim, i da saznam 
 ponešto o ljudima koji su bili tu) su popadali i većinom slomljeni. Skoro sve (osim par grobova koje je neko nedavno 
 sredio) je zaraslo u šikaru, a na nekim spomenicima su ispisani grafiti. Kako je Slobodan primetio, vrhunac ironije 
@@ -201,14 +202,14 @@ Na izlasku iz Ratkova, kiša je počela da pljušti. Ja sam hteo da se sjurimo, 
 kompanjon već pomalo sustao, pa je ta ideja otpala. Dok se kiša cedila sa nas, pažnju su nam privukle velike kamare sena. 
 Setio sam se Monea i koliko je on pažnje posvećivao svojim studijama motiva plastova sena, i pomislio kako bi mu se ovo veoma dopalo. 
 
-{% include layout/content/img_vertical.html file_name="009.jpg" %}
+{% include component/img/vertical.html file_name="009.jpg" %}
 Do ulaska u Selenču, posle nešto više od pola sata, kiša je ponovo oslabila, ali mi smo svejedno bili prilično mokri. 
 Selo je interesantno. I ovde sam fotografisao crkve, protestantsku i pravoslavnu. Nije da sam nešto lud za crkvama, ali 
 one su najčešće najreprezentativniji objekti u selima, i njihovoj izgradnji bude posvećena velika pažnja. Po njima se 
 takođe često može zaključiti štošta o selu: o njegovoj starosti, stanovnicima, njihovoj imućnosti, urednosti i kulturi 
 življenja... 
 
-{% include layout/content/img_vertical.html file_name="008.jpg" %}
+{% include component/img/vertical.html file_name="008.jpg" %}
 U centru sela smo zastali kod zgrade mesne zajednice (gde je halo govornica). Ispred se nalazi spomenik žrtvama Drugog 
 svetskog rata. Čitajući imena, vidi se da je i ovo selo pretežno naseljeno Slovacima. U neposrednoj 
 blizini mesne zajednice nalazi se vatrogasni toranj. Slobodan zaključuje da je selo moralo biti nekada bogato, kad je 
@@ -244,9 +245,9 @@ u Rakocijevoj buni 1704.</p>
 <p>Bač nikad više nije uspeo da povrati svoj stari sjaj i značaj, pošto mu je primat polako "preoteo" Sombor, a kasnije i 
 Novi Sad. Danas je on samo centar opštine. </p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Istorija Bača" %}
+{% include post/side_story.html story=story title="Istorija Bača" %}
 
-{% include layout/content/img_vertical.html file_name="010.jpg" %}
+{% include component/img/vertical.html file_name="010.jpg" %}
 Ulazeći u centar Bača, odmah nam pažnju privlači monumentalni franjevački samostan. Tu srećemo mog kolegu sa fakulteta, 
 koji je tu, kao i mi, samo u prolazu, i pravi nam društvo u obilasku samostana.
 
@@ -259,16 +260,16 @@ traju od 1723. do 1764. Ponovo je obnavljan 1824.</p>
 
 <p>Arhitektura samostana odaje znake romanike, pozne gotike i kasnijih baroknih dodataka. </p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Samostan u Baču" %}
+{% include post/side_story.html story=story title="Samostan u Baču" %}
 
 Pored ovog samostana koji se bavio širenjem zapadnog, rimokatoličkog hrišćanstva, Bač je sve do XV veka bio podjednako 
 centar i istočnog, vizantijskog hrišćanstva.
 
-{% include layout/content/img_horizontal.html file_name="012.jpg" %}
+{% include component/img/horizontal.html file_name="012.jpg" %}
 Krenuli smo peške (pošto je Saša bio sa nama) prema tvrđavi, prošli pored pravoslavne crkve, i neposredno pre rečice 
 Mostonge naišli smo na ostatke turskog toplog kupatila - hamama. 
 
-{% include layout/content/img_horizontal.html file_name="013.jpg" %}
+{% include component/img/horizontal.html file_name="013.jpg" %}
 Nedaleko odatle je i mostić preko Mostonge, sa kog se silazi u masivnu kapiju "Šiljak", koja je čuvala ulaz u podgrađe. 
 Kada se uđe na nekadašnje veštačko ostrvce, sa leve strane je uzvišenje koje podseća na Golgotu (ima tri velika krsta), 
 i sa kog se pruža lep pogled na Bač sa jedne, i podgrađe i tvrđavu sa druge strane. Stotinak metara odatle nalazi se tvrđava Bač. 
@@ -284,13 +285,13 @@ rečicom Mostongom. Bila je toliko prostrana da su u njoj osim odaja bili hodnic
 štale. Imala je 8 kula, a najčuvenija je bila šestospratna kula. Ruševine Bača su najbolje očuvane od svih srednjevekovnih 
 gradova u Vojvodini. </p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Tvrđava u Baču" %}
+{% include post/side_story.html story=story title="Tvrđava u Baču" %}
 
-{% include layout/content/img_horizontal.html file_name="014.jpg" %}
+{% include component/img/horizontal.html file_name="014.jpg" %}
 Kada smo stigli do tvrđave, bio sam srećan, što bi rek'o moj drug, "ko kuče sa dve piše" :-) Sve sam obišao dva puta, 
 svuda sam morao da zavirim, da se popnem gde je to bilo moguće i da žmurim i zamišljam kako je to izgledalo pre oko 300 godina.
 
-{% include layout/content/img_vertical.html file_name="017.jpg" %}
+{% include component/img/vertical.html file_name="017.jpg" %}
 Prostor ograđen ostacima zidina je toliko velik, da je u njega stao ceo fudbalski teren, pored njega letnja pozorišna 
 pozornica i još je ostalo dovoljno mesta okolo. Videvši teren, palo nam je na pamet da se na tom mestu 1529. odigrala 
 "prijateljska" utakmica između Fener Bakče-a iz Stambola grada i peštanskog Ujpešt Dože. Turci su izgubili 6:0, i onda 
@@ -306,7 +307,7 @@ rak i odsekli su mu testise ;-) ) Slobodan posle te priče više nije spominjao 
 
 Stigli smo u Vajsku, i prošli u blizini interesantne crkve, koju na žalost nisam fotografisao, pošto mi je film već bio 
 pri kraju. Kad se izađe iz Vajske, posle samo desetak minuta stiže se do sela Bođani, a manastir je praktično na samom ulazu. 
-{% include time_machine.html text="Da da, to je bilo još u vreme klasičnih (analognih) foto aparata." %}
+{% include component/time_machine.html text="Da da, to je bilo još u vreme klasičnih (analognih) foto aparata." %}
 
 {% capture story %}
 <p>Predanje kaže da je manastir podigao bogati dalmatinski trgovac Bogdan koji je "mučio muku s' očima", ali je "čudesno 
@@ -315,9 +316,9 @@ zaceljenja, izgradio je 1478. pravoslavni manastir. Manastirski kompleks je teš
 crkvu podigao je 1722. godine bogati Mihajlo Temišvarlija iz Segedina, kao četvrto crkveno zdanje na istom mestu. Veliki 
 konak i crkva u Bođanima sagrađeni su u baroknom stilu, a freske je živopisao poznati zoograf Hristifor Žefarović 1737.godine.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Manastir Bođani" %}
+{% include post/side_story.html story=story title="Manastir Bođani" %}
 
-{% include layout/content/img_vertical.html file_name="024.jpg" %}
+{% include component/img/vertical.html file_name="024.jpg" %}
 U manastiru su nas lepo dočekali i pustili nas da uđemo u crkvu, iako smo bili prilično blatnjavi. Crkva ima interesantan, 
 solidno očuvan živopis, sa veoma, hm, maštovitim scenama, i, čini mi se, nesvakidašnjim crtama lica biblijskih aktera na 
 manastirskim zidovima. Manastir ima veliki konak, u čijem krilu se vide Žefarovićeve gravire (nismo ulazili, ali smo malo 

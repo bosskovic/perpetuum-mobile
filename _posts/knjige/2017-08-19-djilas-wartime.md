@@ -1,16 +1,10 @@
 ---
 slug:              "djilas-wartime"
-layout:            knjiga
 title:             "Wartime"
 authors:           "Milovan Đilas"
 goodreads_id:      "8664781"
 img:               "https://images.gr-assets.com/books/1412134494l/8664781.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Milovan-Đilas
   - bbb-NOB-memoar-/-dnevnik

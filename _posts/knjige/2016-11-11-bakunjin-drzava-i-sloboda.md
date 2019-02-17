@@ -1,16 +1,10 @@
 ---
 slug:              "bakunjin-drzava-i-sloboda"
-layout:            knjiga
 title:             "Država i sloboda"
 authors:           "Mikhail Bakunin"
 goodreads_id:      "18054231"
 img:               "https://images.gr-assets.com/books/1370900431l/18054231.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Mikhail-Bakunin
   - bbb-anarhizam

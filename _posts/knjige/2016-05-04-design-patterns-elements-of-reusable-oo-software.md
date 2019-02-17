@@ -1,16 +1,10 @@
 ---
 slug:              "design-patterns-elements-of-reusable-oo-software"
-layout:            knjiga
 title:             "Design Patterns: Elements of Reusable Object-Oriented Software"
 authors:           "Grupa autora"
 goodreads_id:      "30108418"
 img:               "https://images.gr-assets.com/books/1462360844l/30108418.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Erich-Gamma
   - aaa-Richard-Helm

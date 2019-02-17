@@ -3,7 +3,8 @@ slug:        "planovi-pakovanje-put"
 title:       "Pripreme i put"
 excerpt:     "mini seoba na godišnji odmor od četiri nedelje"
 description: "Konačno imaš četiri nedelje godišnjeg, možeš da ih iskoristiš u cugu i možeš sebi da priuštiš da budeš negde toliko dugo. Ali imaš i živahnog dvogodišnjaka. Ide ti se na more, ali ti se ne sedi po 12 sati ispod suncobrana na plaži. Kako to sve pomiriti, kako se spakovati, šta poneti..."
-categories:  ['2016-boka']
+category:  2016-boka
+parent_category: putopisi
 image: "/2016-boka/planovi-pakovanje-put/img/03.jpg"
 videos:      ['x69hkfq1DaE']
 tags:
@@ -53,11 +54,11 @@ baš u centru oblasti koja nam je zanimljiva.
 
 ### Pakovanje
 
-{% include layout/content/img_horizontal.html file_name="01.jpg" %}
+{% include component/img/horizontal.html file_name="01.jpg" %}
 Pakovanje za put ove vrste sa malim detetom je posebna zabava. Liči na selidbu ali sve mora da stane u jedan 
 gepek. 
 
-{% include pdf.html path="/2016-boka/planovi-pakovanje-put/pakovanje-za-duzi-put-sa-decom.pdf" title="Pakovanje za duži put sa decom" %}
+{% include component/pdf.html path="/2016-boka/planovi-pakovanje-put/pakovanje-za-duzi-put-sa-decom.pdf" title="Pakovanje za duži put sa decom" %}
 
 ### Put
 
@@ -109,7 +110,7 @@ vozio sporije. Nadrndani pandur mi uzima saobraćajnu i vozačku koji su mi još
 predavanje o tome kako ne sme da se juri, kako je to naseljeno mesto, kako su ovo uzani putevi, itd. Pita
 da li imam svu obaveznu opremu - vidim, rešio je. 
 
-{% include layout/content/img_horizontal.html file_name="05.jpg" %}
+{% include component/img/horizontal.html file_name="05.jpg" %}
 Kreće istu onu priču o konvertibilnim markama i plaćanju u policijskoj stanici, sve uz pominjanje mog malog
 djeteta. Rekoh (verovatno blago iziritiranim tonom), platio sam već vašem kolegi pre deset kilometara. Pita
 *"Zbog brze vožnje?"* Objasnio sam mu apsurdni prekršaj zbog kog su me zaustavili i rekao da nemam potvrdu

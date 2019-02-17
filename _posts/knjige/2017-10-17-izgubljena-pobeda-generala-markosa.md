@@ -1,23 +1,17 @@
 ---
 slug:              "izgubljena-pobeda-generala-markosa"
-layout:            knjiga
 title:             "Izgubljena pobeda generala Markosa: građanski rat u Grčkoj 1946-1949. i KPJ"
 authors:           "Dragan Kljakić"
 goodreads_id:      "36425672"
 img:               "https://images.gr-assets.com/books/1508199236l/36425672.jpg"
 excerpt:           "Priča o tome kako su jedan narod i njegova borba za slobodu i bolju budućnost postali žrtve trgovine 
                     između velikih sila."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Dragan-Kljakić
   - bbb-grčki-građanski-rat
   - bbb-KPJ
   - bbb-Grčka
-  
+videos:       ["io7eNapNHEs"]  
 ---
 
 Markos Vafijadis je bio grčki komunista, tokom II svetskog rata (1942) primljen je u CK Komunističke partije Grčke i 
@@ -151,4 +145,4 @@ nisu pomenuti ni jednom rečju i taj aspekt sukoba je u potpunosti zaobiđen.
 
 <a href="" target="_blank">Članak na engleskoj wikipediji o dokumentarcu</a>
 
-{% include layout/content/youtube.html id="io7eNapNHEs" %}
+{% include component/youtube/video.html id="io7eNapNHEs" %}

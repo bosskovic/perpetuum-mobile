@@ -1,14 +1,11 @@
 ---
-layout:       subcategory
-categories:   ['putopisi']
+has_subposts: true
 slug:         "2015-vuk-gorski-i-morski"
 title:        "Vuk gorski i morski - 2015"
 excerpt:      "Sa bebom na planini, u šatoru, i drugi ekstremni sportovi"
 description:  "Imate živahnog jednogodišnjaka i nije vam dovoljno da ga jurite po kući? U tom slučaju, zašto ga ne bi poveli na dve
                nedelje u najviše planine na Balkanu i posle na kampovanje na moru?"
 image:        "/2015-vuk-gorski-i-morski/prokletije/img/20150802-10.jpg"
-has_subcategories: true
-date:         2015-07-31
 videos:       ["_6R3_oEIABw"]
   
 ---
@@ -24,7 +21,7 @@ sačekamo da dete/deca porastu dok budemo mogli da se ponovo upustimo u nešto o
 ćemo poći na ovako neki put sa bebom, ali prilika se ukazala i mnogo nam je značilo što smo se uklopili sa prijateljima
 da zajedno idemo u planine, i to nas je dodatno osmelilo i ohrabrilo da se upustimo u tu avanturu.
 
-{% include layout/content/youtube.html id="_6R3_oEIABw" %}
+{% include component/youtube/img_full.html id="_6R3_oEIABw" %}
 
 Ovo putešestvije je trebalo da nam bude neka vrsta labudove pesme, po logici, Vuk je još mali i lagan, moguće ga je nositi, 
 savladati i opslužiti. Vreme će pokazati da takvo razmišljanje nije bilo ispravno - nastavili smo i narednih godina da 

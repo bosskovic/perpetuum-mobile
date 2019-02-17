@@ -1,16 +1,10 @@
 ---
 slug:              "uspomene-iz-narodnog-pokreta-1848-i-1849"
-layout:            knjiga
 title:             "Uspomene iz narodnog pokreta 1848. i 1849. godine"
 authors:           "Novak Golubski"
 goodreads_id:      "30423675"
 img:               "https://images.gr-assets.com/books/1465488859l/30423675.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Novak-Golubski
   - bbb-revolucija-1848-49

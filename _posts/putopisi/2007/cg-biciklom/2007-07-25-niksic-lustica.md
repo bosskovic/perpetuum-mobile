@@ -7,7 +7,8 @@ description: "Na svim dosadašnjim putešestvijima (2007-2015) osećao sam se pr
               grabim prema moru, u susret žegi, kamenu i šumskim požarima čije mirise vetar donosi. Dobro sam potegao, 
               i posle 80km se spuštam u 'apokaliptičan' Kotor, skriven u žutoj izmaglici i smradu šume koja gori negde 
               u Boki. Devojka ipak neće doći pa ja u hodu improvizujem i vozim još 40ak km do Luštice."
-categories:  ['2007-cg-biciklom']
+category:  2007-cg-biciklom
+parent_category: putopisi
 photos:
   -
     key: 121.jpg
@@ -83,13 +84,13 @@ sam i u buduće.
 
 ### Kroz krš i kamen
 
-{% include layout/content/img_horizontal.html file_name="120.jpg" %}
+{% include component/img/horizontal.html file_name="120.jpg" %}
 Tek je šest sati a ja već zajahao vijugavu sivu liniju koja vodi na jug - u krš i kamen. Poda mnom se tope kilometri. 
 Prolazim odličnim pustim asfaltnim putem kroz Pješivce, Cuce i Bjelice, prolazim kroz Čevo i napredujem ka Njegušima. 
 U daljini je Lovćen, za mnom ostaje Njegoševa rodna kuća. Od gore prži sunce od dole kamen i asfalt. Poslednji hlad je 
 kilometrima na severu. Još jedan prevoj i stupam na put za Kotor.
 
-{% include layout/content/img_horizontal.html file_name="124.jpg" %}
+{% include component/img/horizontal.html file_name="124.jpg" %}
 Gledao sam davno na TVCG emisiju o staroj konjskoj stazi Kotor - Cetinje, i kopka me da prođem njome. Uspevam da joj 
 nađem početak, silazim sa asfalta i oprezno guram bicikl strmim belim puteljkom koji krivuda kroz makiju. Bolje reći 
 borim se da ga zaustavim dok klizi naniže po podlozi koja se kruni. Shvatam da ukoliko naiđem na neki deo koji ne može 
@@ -98,12 +99,12 @@ i s mukom se vraćam tih nekoliko desetina metara po siparu do asfalta i krećem
  
 ### Kotor
 
-{% include layout/content/img_horizontal.html file_name="129.jpg" %}
+{% include component/img/horizontal.html file_name="129.jpg" %}
 Posle nekoliko krivina, ispred sebe konačno vidim more, ali malo sam razočaran. Horizont je zamućen dimom od požara 
 koji danima besne oko Herceg Novog, i umesto svetloplavog neba i tamnoplavog mora, sve nekako vidim kroz 
 žućkasto-smeđe-sivi filter.
 
-{% include layout/content/img_horizontal.html file_name="131.jpg" %}
+{% include component/img/horizontal.html file_name="131.jpg" %}
 U Kotoru me dočekuje težak miris sparine pomešan sa dimom. Dok prolazim kroz redove ružnih sivih zgrada u predgrađu, 
 vetar prevrće plastičnu ambalažu po putu. Zastajem kod prodavnice da se okrepim izvrsnim crnogorskim jogurtom i 
 popravljenog raspoloženja spuštam se do Starog grada. Prolazim kroz “Vrata od mora”, vozim uzanim uličicama sačuvanim 
@@ -114,7 +115,7 @@ je zatečena. Odlazak na konferenciju joj je propao zbog papirologije, posvađal
 ja nestrpljiv da mi kaže kada dolazi. Posle niza poziva u oba smera i promenjenih "dolazim", "ne dolazim" odluka, 
 ostaje na tome da ipak neće doći.
 
-{% include layout/content/img_horizontal.html file_name="138.jpg" %}
+{% include component/img/horizontal.html file_name="138.jpg" %}
 Dok se veče bliži, u prvom trenutku mi je bitno samo da budem načisto šta ja dalje da radim; da tražim smeštaj u Kotoru 
 ili da nastavljam dalje ka Luštici. Tek kada je to razrešeno, na putu za Tivat dok vozim prelepom obalom Boke počinje 
 da mi splašnjava moral.
@@ -142,12 +143,12 @@ Takvo rešenje u kom bih posle supe/soka u deset uveče trebao da nastavim dalje
 odgovaralo. Iako bih na kraju verovatno dobio tu da se smestim, niti sam želeo da se namećem niti mi je društvo baš 
 trebalo u tom trenutku. Razmenjujemo brojeve telefona i ja nastavljam prema Klincima. Usput nailazim na makadam koji se 
 penje dalje u brdo i nemajući više izbora krećem da ga pratim sa poslednjim zracima sunca.
-{% include time_machine.html text="Par godina kasnije i Goran je počeo da vozi bajs, pa smo nekoliko puta vozili i zajedno u okolini Novog Sada." %}
+{% include component/time_machine.html text="Par godina kasnije i Goran je počeo da vozi bajs, pa smo nekoliko puta vozili i zajedno u okolini Novog Sada." %}
 
 Ubrzo nailazim na kamenu čistinu iznad koje se uzdiše stara austrougarska karaula. Teren nije baš sjajan, strma, 
 neravna, kamenita podloga, ali prešao sam danas 140km, nije mi baš sve po volji i hoću da se ovaj dan već jednom završi.
 
-{% include layout/content/img_horizontal.html file_name="141.jpg" %}
+{% include component/img/horizontal.html file_name="141.jpg" %}
 Uz večeru gledajući svetla Herceg Novog na drugoj strani zaliva razmišljam šta mi je dalje činiti. Već nekoliko dana 
 gonim sebe do maksimuma i još se nisam oporavio od one ludorije na Bjelasici. Cilj koji me je vodio i nosio više nemam. 
 Da otpadam tu sam dva dana na Luštici i prikupljam snagu za dalji solo put niti imam želje niti volje. Pri tom mi se i 

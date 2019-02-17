@@ -3,7 +3,8 @@ slug:        "rijeka-sutorman"
 title:       "Uspon na Sutorman"
 excerpt:     "Rijeka Crnojevića, Riječki grad, Obodska pećina, Žabljak Crnojevića, Vranjina, Lesendro, Virpazar, noćni uspon na Sutorman"
 description: "Ujutro obilazim okolinu Rijeke Crnojevića, pozdravljam se sa novim poznanicima i krećem ka Žabljaku Crnojevića. Posle Žabljakam vozim obodom Skadarskog jezera pored Vranjine i Lessandra do Virpazara i po mesečini se penjem na Sutorman." 
-categories:  ['2009-cg-dijagonala']
+category:  2009-cg-dijagonala
+parent_category: putopisi
 image: "/2009-cg-dijagonala/rijeka-sutorman/img/083.jpg"
 
 tags:
@@ -96,7 +97,7 @@ photos:
     
 ---
 
-{% include layout/content/img_horizontal.html file_name="074.jpg" %}
+{% include component/img/horizontal.html file_name="074.jpg" %}
 Ujutro deo ekipe odlučuje da ide da obiđe Obodsku pećinu, i ja im se pridružujem. Pećina nije ništa posebno, ali usput je i nije 
 teško doći do nje. na putu nazad spuštamo se do ledenog vira, tj. jezerceta koje pravi Rijeka Crnojevića, na tom mestu 
 još potok kojem su izvorišni kraci tek stotinak metara odatle (jedan od njih u pećini). Sunce je već upeklo, ali skok u
@@ -106,7 +107,7 @@ preplivao tih desetak metara tamo i nazad.
 Tu dok se cedimo na suncu, oporavljajući se od ledenog šoka, neko je dobio ideju da svako otpeva izvornu pesmu iz
 svoje domovine. Nisam baš muzikalan pa nisam ništa pevao, ali slušam po jednu pesmu iz Turske, Italije i Hrvatske.
 
-{% include layout/content/img_horizontal.html file_name="075.jpg" %}
+{% include component/img/horizontal.html file_name="075.jpg" %}
 Po povratku u Rijeku Crnojevića, opraštam se sa Biketour ekipom koja ide dalje na zapad prema Bosni, dok ja krećem nazad
 ka čuvenom mostu da ga konačno fotkam. Tu u centru srećem i kratko pričam sa starijim meštaninom (mislim da je rekao da se
 preziva Strugar). Pripoveda mi o slavnoj prošlosti Rijeke i o neslavnom stanju u kojem je sada, o propasti fabrike konzervi,
@@ -123,21 +124,21 @@ i prva koja je štampala knjige na nekom od južno-slovenskih jezika,
 a štampari su bili monasi. Pored Oktoiha tu je za tri godine štampano još četiri knjige.</p>
 <p>Sadašnja crkva obnovljena je 1743. godine na temeljima stare koju su Turci srušili.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Obod" %}
+{% include post/side_story.html story=story title="Obod" %}
 
 
-{% include layout/content/img_horizontal.html file_name="077.jpg" %}
+{% include component/img/horizontal.html file_name="077.jpg" %}
 Prelazim preko starog mosta i penjem se prema Obodu, Riječkom gradu. Kada su Turci zauzeli Žabljak, prestonica države 
 Crnojevića je na kratko prebačena ovde, dok se nisu povukli još dublje u brda, u Cetinje. Gore nema bogznašta, crkva, 
 ostaci zidina i temelja i ploča koja obeležava mesto gde je 1493. godine bila Obodska štamparija.
 
-{% include layout/content/img_horizontal.html file_name="079.jpg" %}
+{% include component/img/horizontal.html file_name="079.jpg" %}
 Spuštam se dole, prelazim Rijeku preko drugog mosta nešto dalje nizvodno, i vraćam se prema Podgorici nekoliko kilometara
 istim putem kojim sam i došao. Prolazim ponovo pored onog lepog mesta od juče i opet zastajem tamo. Penjem se dalje do
 Doljana, gde se odvajam od puta za Podgoricu i spuštam prema Karučima, Dodošima i zalivu Režavac. Na mnogim mestima pored
 puta vidim planinarske oznake, i već zamišljam fenomenalne vidike sa kamenih čuka oko jezera.
 
-{% include layout/content/img_full.html file_name="083.jpg" %}
+{% include component/img/full.html file_name="083.jpg" %}
 
 Dodoši su malo ribarsko selo okruženo vodom gotovo sa svih strana. Zastajem kraj hladovine i od čoveka koji u njoj odmara
 dobijam vode, priču o okolini i upute kako da dođem do Žabljaka Crnojevića. Između ostalog, kada sam mu rekao šta sve planiram
@@ -145,19 +146,19 @@ da obiđem, daje mi broj telefona igumana manastira Kom (Rade ili tako nekako), 
 slobodno javim, on će mi organizovati da me neko preveze do ostrva. Nije me put naveo tamo narednih dana, ali mi je 
 mesecima kasnije stojalo u mobilnom: "Manastir Kom - iguman"
 
-{% include layout/content/img_horizontal.html file_name="084.jpg" %}
+{% include component/img/horizontal.html file_name="084.jpg" %}
 Dodoši su gotovo na najjužnijoj tački malog poluostrva opkoljenog zalivom Režavac sa zapadne i Gornjim Malim Blatom sa 
 istočne strane. Sa južne strane je komad plavne zemlje u čijem centru je mala kamena čuka kojom dominira Žabljak. Kada 
 voda nadođe, sve se to pretvori u plitku močvaru iz koje jedino Žabljak izviruje.
 
-{% include layout/content/img_horizontal.html file_name="086.jpg" %}
+{% include component/img/horizontal.html file_name="086.jpg" %}
 Ja sam došao u odličnom trenutku, voda je niska i putevi su suvi, bez problema mogu da nastavim iz Dodoša prema Žabljaku.
 Prelazim mostić sa kog dečurlija skače u vodu i stupam na kolski put (zemljano-peskovita podloga izviruje iz dva traga,
 između trava a sa strane nisko rastinje iz kojeg raste po koja vrba. Gledam okolo i merkam kamene vrhove koji mi
 izgledaju još dalji sa ove savršeno ravne palačinke, kad odjednom prasak i lom. Iz vrbaka istrčava
 krdo konja, prelepih, nanegovanih, duge grive i sjajne kože. Dorati, zelenci, belci, a sa njima je i nekoliko ždrebadi.
 
-{% include layout/content/img_horizontal.html file_name="085.jpg" %}
+{% include component/img/horizontal.html file_name="085.jpg" %}
 Uplašili su me, pa nisam na vreme odreagovao, ali sam izgleda i ja njih uplašio, pa dok sam izvadio fotoaparat, već su 
 počeli da zamiču u vrbak sa druge strane. Posle sam čitao da su to (polu)divlji konji koje je neko tu pustio ko zna kada
 i da se sada brinu sami o sebi. Bila je i neka 
@@ -170,9 +171,9 @@ Crnojevića u XV veku, sve dok ga Turci nisu zauzeli 1475. godine.</p>
 <p>Turci crkvu sv. Đorđa pretvaraju u džamiju, ojačavaju bedeme i prave od Žabljaka snažno uporište koje drže sve do 1878.
 godine.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Žabljak Crnojevića" %}
+{% include post/side_story.html story=story title="Žabljak Crnojevića" %}
 
-{% include layout/content/img_horizontal.html file_name="087.jpg" %}
+{% include component/img/horizontal.html file_name="087.jpg" %}
 Žabljak je već blizu. Odavde mi izgleda kao polulopta koja izviruje iz ljubičastog cveća i zelenila, sa velikom krunom
 na vrhu. Dodoši su severozapadno od Žabljaka, i da bih mu prišao (i ušao sa istoka), morao sam da ga obiđem u širokom 
 polukrugu sa južne strane. Iz daljine se to nije videlo od drveća, ali svuda oko podnožja Žabljaka su kuće, neke od njih
@@ -180,19 +181,19 @@ prilično trošne, ali u svim se živi. U dvorištu jedne od njih ostavljam bici
 su u solidnom stanju, a i unutar tvrđave postoje ostaci nekoliko objekata (fale krovovi, prozori i vrata, ali to 
 verovatno ne bi bio problem kada bi neko rešio da restaurira ovo mesto).
 
-{% include layout/content/img_full.html file_name="093.jpg" %}
+{% include component/img/full.html file_name="093.jpg" %}
 
 Kada nadođe voda, pogled sa zidina je verovatno kao sa Nojeve barke, ali sada samo sa severne strane iza livade vidim
 plavu površinu Gornjeg Malog Blata, dok je sa svih ostalih strana samo zelenilo.
  
-{% include layout/content/img_horizontal.html file_name="089.jpg" %} 
+{% include component/img/horizontal.html file_name="089.jpg" %} 
 Vraćam se do bicikla i vozim prema Ponarima i Golubincima, gde se uključujem na magistralni put koji vodi od Podgorice 
 prema moru. Prolazim pored Vranjine i zastajem kratko da fotkam zalazak sunca kod ostataka tvrđave Lesendro. Saobraćaj je 
 prilično gust na ovom delu i jedva čekam da skrenem u Virpazar.
 
-{% include layout/content/img_full.html file_name="095.jpg" %}
+{% include component/img/full.html file_name="095.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="097.jpg" %}
+{% include component/img/horizontal.html file_name="097.jpg" %}
 A u Virpazaru lepo mirisno veče. Doterani turisti izašli da se prošetaju ulicama ovog primorskog mesta na obali jezera.
 Neka ideja mi je bila da ovde negde prenoćim, ali sada vidim da je suviše urbano da bih tu negde tek tako otvorio šator.
 I juče i danas sam relativno malo vozio i nisam se previše umorio. Na more ću ići starim putem (pošto biciklom ni ne mogu
@@ -200,13 +201,13 @@ kroz tunel Sozine) i čeka me uspon na Sutorman, dobrih 850m visinske razlike. O
 i da se ujutro probudim sa pogledom na more. U Virpazaru sam se snabdeo vodom i kupio dopunu za mobilni, i nastavio kako 
 sam naumio. 
 
-{% include layout/content/img_horizontal.html file_name="099.jpg" %}
+{% include component/img/horizontal.html file_name="099.jpg" %}
 Stari put se izgleda vrlo slabo koristi od kada je tunel probijen, ali se slabo i održava  (na par mesta se odronio deo puta).
 Bez ikakvih teškoća sam se polako klackao uzbrdo kroz mirisno veče obasjano mesečinom. Ideja da se po noći umesto po dnevnoj
 jari popnem na Rumiju se pokazala odlična. Konačno, kada sam izašao na prevoj, čak sam po mraku lako uspeo da nađem izvor
 koji sam ucrtao sa vojne karte.
 
-{% include layout/content/img_horizontal.html file_name="098.jpg" %}
+{% include component/img/horizontal.html file_name="098.jpg" %}
 Međutim, sada kada sam se popeo, trebalo je naći to mesto gde ću da otvorim šator i probudim se sa pogledom na more. Krenuo
 sam blago nizbrdo, i dole u daljini sam video svetla Bara, a iza njih zamislio more. Ok, ovde negde, bilo gde, će biti dobro.
 Ali kao za inat, put vijuga spuštajući se niz strme padine. Iznad puta strmina, ispod put strmina, i jedna i druga pokrivene

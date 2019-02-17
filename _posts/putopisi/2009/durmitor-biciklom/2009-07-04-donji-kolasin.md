@@ -3,7 +3,8 @@ slug:        "donji-kolasin"
 title:       "Donji Kolašin"
 excerpt:     "Kroz postojbinu Boškovića"
 description: "Vožnja kroz postojbinu Boškovića, ovaj put i kroz neke delove koje pre dve godine nisam obišao. Uspon na Zabojsko jezero i vožnja u 'paru'."
-categories:  ['2009-durmitor-biciklom']
+category:  2009-durmitor-biciklom
+parent_category: putopisi
 image: "/2009-durmitor-biciklom/donji-kolasin/img/001.jpg"
 photos:
   -
@@ -39,7 +40,7 @@ se smestio na gornji ležaju u spavaćem kupeu a rasklopljen bicikl i stvari del
 je dovoljno mesta da se opružim i spavam veći deo puta do Bijelog Polja. Sa kondukterima nisam imao problema. 
 Zahvaljujući kašnjenju voza na stanicu sam stigao nakon što je svanulo, pa nisam morao tamo dugo da otpadam.
 
-{% include layout/content/img_horizontal.html file_name="001.jpg" %}
+{% include component/img/horizontal.html file_name="001.jpg" %}
 Ponovo sam se potrudio da u svoj plan obilaska Crne Gore uklopim makar i kratku posetu braći i stričevima koje imam u 
 Vranešu kod Bijelog Polja, što je diktiralo moju polaznu tačku. Ali umesto da se kao prošli put držim glavnih asfaltnih 
 puteva, sada, u roku od pola sata od kako sam izašao iz voza, sklopio bicikl i napakovao opremu, napustio sam dolinu 
@@ -50,14 +51,14 @@ od Selakovića, iznad sela Pape, i uspeo sam da trasiram moj planirani put tako 
 išao uzbrdo strmim makadamom, smenjivale su se guste listopadne šume i livade sa seoskim imanjima i voćnjacima. Podloga 
 je još ponegde bila vlažna i vreme je mirisalo na kišu.
 
-{% include layout/content/img_horizontal.html file_name="003.jpg" %}
+{% include component/img/horizontal.html file_name="003.jpg" %}
 Prošao sam ispod vrha Tepe Smolovića (meštani sa kojima sam pričao ne znaju ni šta su Tepe ni ko su Smolovići) i ubrzo stigao do Gradine. U 
 pitanju je mala kamena glavica obrasla listopadnom šumom i pokrivena mahovinom. Kameni blokovi stvarno deluju kao da bi 
 mogli biti temelji nekog zida ili građevine, ali ne bih mogao ništa više da zaključim na osnovu toga što sam video. U 
 literaturi nisam našao nikakav pomen a lokalci pojma nemaju... Mesto mi je bilo više zanimljivo zbog divljih 
 jagoda i neobičnih gljiva nego gradine.
 
-{% include layout/content/img_horizontal.html file_name="005.jpg" %}
+{% include component/img/horizontal.html file_name="005.jpg" %}
 Nastavio sam putem pored Skočigorine i Grnčarevske kose i na Poljanama naišao na Rajka Belezuna (ako sam dobro upamtio 
 prezime), autoriteta za lokalnu istoriju i geografiju. Pošto se odatle pruža lep pogled na okolinu, mogao je tačno 
 prstom da mi pokaže šta je šta... Ubrzo sam stigao do mojih rođaka, i to iz pravca brda, odakle me nisu očekivali :-). 
@@ -65,7 +66,7 @@ Tokom kratke posete između pljuskova kiše sam se gostio i družio sa njima sve
 opravdam da imam prilično tesan raspored i da moram da krenem dalje. Uprkos tome sam se zadržao duplo duže nego što sam 
 planirao, tako da sam morao malo da 'pritegnem' na putu dalje.
 
-{% include layout/content/img_horizontal.html file_name="007.jpg" %}
+{% include component/img/horizontal.html file_name="007.jpg" %}
 Krenuo sam prema Mojkovcu i kanjonu Tare, mom narednom odredištu i mestu gde sam planirao da prenoćim. Ali umesto 
 glavnim putevima, ponovo sam rešio da idem preko brda, i već kod mesta na kojem se Potrčka rijeka uliva u Ljuboviđu 
 napustio sam dolinu i krenuo uzbrdo prema selu Potrk. Iznad sela se nalazi vrh Grad na kojem nema ništa osim živahne 
@@ -82,7 +83,7 @@ zidova kanjona, ali računao sam da imam još oko sat vremena dnevnog svetla. Mo
 gde sam noćio pre dve godine, ali nisam želeo da ostavljam težak uspon na Sinjevinu (oko 700m visinske razlike dužine 
 nešto manje od 10km) za početak narednog dana, a i želeo sam da se probudim pored Zabojskog jezera.
 
-{% include layout/content/img_horizontal.html file_name="009.jpg" %}
+{% include component/img/horizontal.html file_name="009.jpg" %}
 Negde na prvoj trećini makadama koji vodi na Sinjevinu, pre nego što je počeo pravi uspon i pre nego što je pao potpun 
 mrak, iznenadio me je ogroman vodopad! Voda se niz njega stropoštava uz veliku buku sa strme litice visoke sigurno 
 stotinak i više metara. Čudi me da nisam ranije čuo za taj vodopad, tim pre što to nije na nekom jako zavučenom, 

@@ -8,7 +8,8 @@ description: "Kada učiš da voziš bicikl moraš da se napinješ da razmišlja�
               urbanih sredina, sav teren mi je u potpunosti nepoznat, još ni sam ne znam šta je realno a šta ne, koliko 
               može da se pređe za jedan dan, kuda uopšte može da se prođe sa natovarenim biciklom, šta mi je od opreme 
               neophodno... Moje je znanje je bilo čisto teorijsko. Konačno je došao trenutak da ga i u praksi oprobam." 
-categories:  ['2007-cg-biciklom']
+category:  2007-cg-biciklom
+parent_category: putopisi
 image:       "/2007-cg-biciklom/bjelasica-gornja-moraca/img/058.jpg"  
 tags:
   - oprema
@@ -19,7 +20,7 @@ Nije lako povući granicu između potrebnog i nepotrebnog, između neophodnog i 
 može da bude potrebno. Ispostavilo se da sam ovaj spisak dobro pretresao i da se nije desilo da sam propustio da ponesem 
 nešto što mi je bilo neophodno, a sve što sam poneo a nisam koristio je moglo da se desi da mi bude potrebno. Jedna 
 jedina stvar koju sam se kolebao da li da ponesem pa na kraju nisam, a koja bi mi malko olakšala život bila je čeona LED lampa.
-{% include time_machine.html text="Na svako naredno putešestvije nosio sam sve manje dok konačno prtljag i opremu nisam sveo na go minimum. Jeste spartanski ali se isplati kada treba nositi bicikl + prtljag na leđima." %}
+{% include component/time_machine.html text="Na svako naredno putešestvije nosio sam sve manje dok konačno prtljag i opremu nisam sveo na go minimum. Jeste spartanski ali se isplati kada treba nositi bicikl + prtljag na leđima." %}
 
 Ponešto od opreme sam morao sam da pravim ili improvizujem, na primer, morao sam da rašivam, zasecam i ponovo zašivam 
 bisage (one jeftine Kelly’s) da ne bih kačio petama o njih, da ponovo osmislim sistem kačenja, da napravim omot preko 
@@ -39,7 +40,7 @@ koristiti. Pored svega toga nosio sam i flašicu parmezana, topljeni sir i puno 
 Što se higijene tiče, osim paste, četkice i brijača, rešio sam da nosim tečni sapun kao univerzalno rešenje za pranje 
 svega: ruku, tela, kose, odeće, sudova... 
 
-{% include pdf.html path="/2007-cg-biciklom/oprema.pdf" title="spisak opreme" %}
+{% include component/pdf.html path="/2007-cg-biciklom/oprema.pdf" title="spisak opreme" %}
 
 Dakle, bio sam, ako ne u potpunoj, onda bar u priličnoj meri samodovoljan, ali cena toga bila je poveća količina tereta. 
 Kako sam uvideo, to nije predstavljalo problem na ravnom ili umereno strmom terenu, sve dok je podloga takva da 
@@ -91,7 +92,7 @@ kod Srđana, mog brata, koji je u to vreme bio na (planini) Tari, ili 4) da se j
 Problem kod planiranja mi je bio to što mi je ovo prva vožnja ove vrste, i nisam bio siguran oko procena koliko 
 je moguće preći dnevno, po kakvom terenu, koliko je vremena potrebno za sklapanje i rasklapanje logora, spremanje hrane, 
 pranje odeće, itd...
-{% include time_machine.html text="Ispostavilo se da su procene bile dobre, pa čak i konzervativne. Od svih mojih crnogorskih putešestvija, na ovom sam najviše vremena proveo na asfaltu i najmanje 'egzibicija' sam pravio, mada nije prošlo bez toga :-)." %}
+{% include component/time_machine.html text="Ispostavilo se da su procene bile dobre, pa čak i konzervativne. Od svih mojih crnogorskih putešestvija, na ovom sam najviše vremena proveo na asfaltu i najmanje 'egzibicija' sam pravio, mada nije prošlo bez toga :-)." %}
 
 # . . .
  

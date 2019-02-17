@@ -1,16 +1,10 @@
 ---
 slug:              "vidojkovic-e-bas-vam-hvala"
-layout:            knjiga
 title:             "E baš vam hvala"
 authors:           "Marko Vidojković"
 goodreads_id:      36328813
 img:               https://images.gr-assets.com/books/1506770323l/36328813.jpg
 excerpt:           "Zanimljivo, brzo, površno, banalno..."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-sf
   - aaa-Marko-Vidojković

@@ -1,16 +1,10 @@
 ---
 slug:              "the-day-before-the-revolution"
-layout:            knjiga
 title:             "The Day Before the Revolution"
 authors:           "Ursula K. Le Guin"
 goodreads_id:      "2506433"
 img:               "https://images.gr-assets.com/books/1430909906s/2506433.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-sf
   - aaa-Ursula-Le-Guin

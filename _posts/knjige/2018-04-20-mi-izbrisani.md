@@ -1,6 +1,5 @@
 ---
 slug:              "mi-izbrisani"
-layout:            knjiga
 title:             "Mi izbrisani"
 authors:           "Slobodan Vladušić"
 goodreads_id:      "18760339"
@@ -8,11 +7,6 @@ img:               "https://images.gr-assets.com/books/1383912359l/18760339.jpg"
 excerpt:           "Pretenciozno, namerno zakomplikovano i zapetljano, misterija po receptu 'zbuni protivnika' a ne 
                     veštim i nepredvidivim zapletom. Ne znam šta je tu 'sajbee' u 'prvom srpskom sajber romanu'. DLC-ovi?
                     Ne preporučujem."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-sf
   - aaa-Slobodan-Vladušić

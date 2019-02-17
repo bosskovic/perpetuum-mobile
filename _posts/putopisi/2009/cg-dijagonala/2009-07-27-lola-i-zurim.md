@@ -3,7 +3,8 @@ slug:        "lola-i-zurim"
 title:       "Moračke planine, Lola i Žurim"
 excerpt:     "kroz travnata prostranstva okrunjena stenjem i kamenjem"
 description: "Kad staviš sve na papir, ovaj kraj nije bog-zna-šta: gotovo da nema ni drvceta, prostranstva livada okrunjena stenjem i kamenjem, nisam video mnogo upečatljivih vrhova... Uprkos tome, ovaj kraj mi ima neki specijalni šmek i posebno sam uživao prolazeći kroz njega." 
-categories:  ['2009-cg-dijagonala']
+category:  2009-cg-dijagonala
+parent_category: putopisi
 image: "/2009-cg-dijagonala/lola-i-zurim/img/038.jpg"
 photos:
   -
@@ -65,14 +66,14 @@ Iako su za mnom dva naporna dana, pet - šest planina i oko 180 kilometara prete
 odmoran. Na moje oduševljenje, prvo što vidim po izlasku iz kuće su udaljeni vrhovi Komova koji vire kroz procep koji 
 Morača pravi između masiva Sinjevine i Kape Moračke. Prvi put da ih vidim, a da pauzdano znam da su to oni.
 
-{% include layout/content/img_horizontal.html file_name="032.jpg" %}
+{% include component/img/horizontal.html file_name="032.jpg" %}
 Zahvaljujem se na svemu mojim domaćinima i krećem na put preko moračkih planina. Već drugi put prolazim ovim širim 
 područjem, i iako krajolikom dominiraju travnate kose prošarane stenama, nekako ima poseban šmek i draž. S vremena na 
 vreme nailazim na ljude u poslu, i svi su vrlo srdačni i ljubazni.
 
 ### Neško Vujačić 
 
-{% include layout/content/img_horizontal.html file_name="035.jpg" %}
+{% include component/img/horizontal.html file_name="035.jpg" %}
 U podnožju planine Lole, ispred usamljene kolibe nailazim na živahnog starca. Obradova se on kad me vide, kao da sam mu 
 rod rođeni. Uvede me unutra ne hajući za moje planove i programe i krene da me nudi rakijom. Ali ima nekoliko flaša 
 i nije siguran koja je najbolja. Probere on dva kandidata, naspe punu čašu iz jedne, trgne, naspe punu čašu iz druge, 
@@ -96,13 +97,13 @@ na sve strane, a Neškovi preci su došli ovde, u Gornju Moraču, u Uskoke.
 
 ### Malo uskoci, malo hipici 
 
-{% include layout/content/img_horizontal.html file_name="039.jpg" %}
+{% include component/img/horizontal.html file_name="039.jpg" %}
 Zabavljao bi on tu mene i zalivao rakijom do sutra, ali ja ipak želim da krenem dalje. Penjem se na Šljemena, manji 
 greben na severozapadu Lole, i spuštam u Štirni do. A tamo čudo. Na sve strane kamenjar sa po kojom travkom koja izbija tu i tamo, 
 a samo oko jedne kućice na malom placu eksplozija vegetacije. Ne znam šta su radili, nasuli humus, pažljivo negovali, puštali 
 klasičnu muziku, ali njima nekako sve lepše uspeva nego svim komšijama kilometrima unaokolo.
 
-{% include layout/content/img_horizontal.html file_name="041.jpg" %}
+{% include component/img/horizontal.html file_name="041.jpg" %}
 Penjem se na manji prevoj, i tu umesto prema Lukavici, pogrešno skrećem u Krnovsko polje. Vrlo brzo shvatam grešku, ali 
 lepo me je poneo put koji ide nizbrdo, pa računam, naići ću već kasnije na neko skretanje koje će me vratiti gde treba. 
 Prolazim pored nekoliko koliba, ali pažnju mi privlače kockaste kućice razbacane po travnatim padinama. Neodoljivo me 
@@ -126,7 +127,7 @@ naučim kako da ideš, kreneš..."* Slušam ga strpljivo, i u trenutku mi sine d
 skupljala omladina iz grada i pravila igranke, pa su tom naselju od milošte nadenuli ime Mali Pariz. I tabla koju sam 
 video njihovo je delo.
 
-{% include layout/content/img_horizontal.html file_name="042.jpg" %}
+{% include component/img/horizontal.html file_name="042.jpg" %}
 Dok guram bicikl uz strmu travnatu padinu, pedesetak metara udaljen starac mi brdskim razglasom šalje poslednja uputstva 
 kako da nađem prečicu do Lukavičkog jezera: *"Idii livadoom gore do glavicee... Do glavicee. Pa onda put krtoolee. Nemooj 
 da skrećeš, nego pravo do krtoole. Pa pored vodee na čukuu..."* Samo sam mu mahnuo i nisam dalje slušao. I tako mi je to 
@@ -134,7 +135,7 @@ isto već tri puta ispričao.
 
 ### Lukavica i Piperi 
 
-{% include layout/content/img_horizontal.html file_name="043.jpg" %}
+{% include component/img/horizontal.html file_name="043.jpg" %}
 Prolazim glavicu, krtolu, čuku, jednu, drugu, treću, sve nešto improvizujem, nigde na vidiku nečega što bi se moglo 
 nazvati putem. Na jednoj čuki malo dalje, grubo u pravcu kojim mi se čini da treba da idem, vidim čobana i stado ovaca. 
 Penjem se i prilazim mu. Lepo je "radno mesto" odabrao, odličan pogled gde god da se okreneš. *"Ođe ti Lovćen, ođe 
@@ -151,7 +152,7 @@ Kapetanovo jezero. Vozio sam tu pre dve godine, samo što je od tada makadam zam
 
 ### Mali svet 
 
-{% include layout/content/img_horizontal.html file_name="044.jpg" %}
+{% include component/img/horizontal.html file_name="044.jpg" %}
 Stižem do kraja asfalta i prelazim poslednjih nekoliko kilometara koji me dele od Kapetanovog jezera. Pravim manju pauzu 
 kod Nikšinog kiljana. Crkva Svetog Ilije čija gradnja je tek počinjala kada sam tu bio pre dve godine, sada je već skroz 
 gotova. U blizini crkve šatra a iz njenog hlada nekoliko ljudi galami da im priđem. Neki od njih su vidno intoksicirani, 
@@ -164,7 +165,7 @@ Erakovića iz Beograda"*. Naravno da znam, doduše ne lično, ali njegov <a href
 prošao upravo ovim krajem je možda bio presudan kada sam početkom 2004. kopajući po Internetu uopšte počeo da razmišljam 
 o biciklizmu na takav način.
 
-{% include layout/content/img_horizontal.html file_name="047.jpg" %}
+{% include component/img/horizontal.html file_name="047.jpg" %}
 *"A jel znaš da ima tekst u kome piše o meni na Internetu"*, pipa se po džepovima, *"nije mi sad tu, ali našao sam to ja"*. 
 Naravno da znam, vrlo je simpatično Jone opisao susret sa ovim starcem kod Nikšinog kiljana. *"A jel možeš nekako da mi 
 pomogneš da dođem u kontakt sa njim, voleo bih da mu se javim?"* Može, što da ne. Uzimam broj telefona koji sam po 
@@ -186,7 +187,7 @@ višednevnom planinarskom boravku na Moračkim planinama, gde bi jedna grupica s
 napravila niz jednodnevnih šetnji sa usponima na okolne vrhove, obilaskom kanjona Mrtvice, vrela Morače, itd... Eto 
 zgodne prilike da prikupim sve potrebne podatke vezane za logistiku. Pristajem na "razgovor", i rastajem se privremeno 
 sa grlatim Minićem.
-{% include time_machine.html text="Leto 2016, a ovaj plan i dalje čeka realizaciju" %}
+{% include component/time_machine.html text="Leto 2016, a ovaj plan i dalje čeka realizaciju" %}
 
 Kada se Dragan vratio, kod njega se okupilo još nekoliko komšija. Brzo se ispostavilo da je moje znanje rovačke
 istorije svežije od njihovog, ali sam svašta drugo korisno saznao. Saslušavši moje planove, Dragan me je uputio
@@ -197,14 +198,14 @@ Načelno smo se i dogovorili da je skroz izvodljivo da sa grupom prijatelja dođ
 ispaša pri kraju i kada on među poslednjima ostaje na jezeru. Tada se u kućicama pored jezera može naći dovoljno mesta za 
 spavanje, a i on bi mogao da pomogne oko organizovanja prevoza, na primer ako bi se spustili niz Milin do do Veljeg Dubokog i
 kroz kanjon Mrtvice do Međuriječja, da nas neko tamo pokupi, natrpa u kamion i vrati gore do Kapetanovog jezera.
-{% include time_machine.html text="Nažalost ovo nisam ostvario i kontakt sa Draganom mi je zamro nakon što sam mu par godina kasnije po prijateljima koji su boravili u tom kraju poslao neke knjige." %}
+{% include component/time_machine.html text="Nažalost ovo nisam ostvario i kontakt sa Draganom mi je zamro nakon što sam mu par godina kasnije po prijateljima koji su boravili u tom kraju poslao neke knjige." %}
 
 Ni drugih zanimljivih priča nije manjkalo, naročito nakon što sam posle nekoliko čašica
 razgovora "spontano" otvorio temu Manitog jezera. Nizale su se fantastične priče jedna za drugom, kao da su se moji sagovornici
 trudili da nadmaše jedan drugoga pripovedajući o crnim konjima i zelenim ovnovima koji u sumrak izlaze iz jezera, o zimskom danu, 
 zaleđenom jezeru i strašnom prasku uz koji se kroz led probijaju jelenski rogovi, o jezeru koje nema dno, već na 
 određenoj dubini zapravo plutaju neke kamene ploče, itd.
-{% include time_machine.html text="Dve godine ranije sam takođe slušao zanimljive priče o Manitom jezeru, ali moji tadašnji sagovornici nisu bili ni blizu ovako pričljivi i maštoviti." %}
+{% include component/time_machine.html text="Dve godine ranije sam takođe slušao zanimljive priče o Manitom jezeru, ali moji tadašnji sagovornici nisu bili ni blizu ovako pričljivi i maštoviti." %}
 
 Bilo je već kasno kada sam se kroz mrklu noć bez mesečine popeo do brežuljka iznad Drganove kuće gde sam ranije otvorio šator.
 Taj dan se nisam previše umorio, i imao sam još dovoljno snage da ležim neko vreme na travi pored šatora i posmatram

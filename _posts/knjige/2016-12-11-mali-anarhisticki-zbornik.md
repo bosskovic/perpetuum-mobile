@@ -1,16 +1,10 @@
 ---
 slug:              "mali-anarhisticki-zbornik"
-layout:            knjiga
 title:             "Mali anarhistički zbornik"
 authors:           "Grupa autora"
 goodreads_id:      "33311194"
 img:               "https://images.gr-assets.com/books/1481486955l/33311194.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Alexander-Berkman 
   - aaa-Mikhail-Bakunin

@@ -1,20 +1,13 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "internationalization-for-ruby-i18n-gem"
 title:      Internationalization for Ruby – i18n gem
 excerpt:    i18n for plain Ruby & the i18n gem, i18n for Ruby on Rails, i18n for Sinatra, i18n for Padrino
 date:       2014-09-17
 tags:
-  - ttt-back-end
   - ttt-i18n&l10n
   - ttt-padrino
   - ttt-ruby
   - ttt-sinatra
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 <p class='muted'>I originally published this article on <a href="http://blog.lingohub.com/">Lingohub blog</a> in 2013, while working for the company. <a href="http://lingohub.com/">Lingohub</a> specializes in providing app localization for developers and translators.</a></p>

@@ -1,16 +1,10 @@
 ---
 slug:              "antologija-savremene-jugoslovenske-drame-1"
-layout:            knjiga
 title:             "Antologija savremene jugoslovenske drame 1"
 authors:           "Ognjen Lakićević"
 goodreads_id:      "32180792"
 img:               "https://images.gr-assets.com/books/1474546622l/32180792.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Ivo-Brešan
   - aaa-Andrej-Hing

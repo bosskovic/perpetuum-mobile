@@ -1,16 +1,10 @@
 ---
 slug:              "knjiga-o-blamu"
-layout:            knjiga
 title:             "Knjiga o Blamu"
 authors:           "Aleksandar Tišma"
 goodreads_id:      "20319022"
 img:               "https://images.gr-assets.com/books/1388050921l/20319022.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Aleksandar-Tišma
   - bbb-NOB-proza

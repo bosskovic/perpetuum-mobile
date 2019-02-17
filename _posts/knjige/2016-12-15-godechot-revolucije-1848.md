@@ -1,16 +1,10 @@
 ---
 slug:              "godechot-revolucije-1848"
-layout:            knjiga
 title:             "Revolucije 1848"
 authors:           "Jacques Godechot"
 goodreads_id:      "32996766"
 img:               "https://images.gr-assets.com/books/1479316409l/32996766.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Jacques-Godechot
   - bbb-revolucija-1848-49

@@ -1,16 +1,10 @@
 ---
 slug:              "srbija-i-arbanija"
-layout:            knjiga
 title:             "Srbija i Arbanija - jedan prilog kritici zavojevačke politike Srpske buržoazije"
 authors:           "Dimitrije Tucović"
 goodreads_id:      "30197682"
 img:               "https://images.gr-assets.com/books/1463412397l/30197682.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Dimitrije-Tucović
   - bbb-Albanija

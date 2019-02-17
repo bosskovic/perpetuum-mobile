@@ -1,17 +1,11 @@
 ---
 slug:              "novosadski-pokolj"
-layout:            knjiga
 title:             "Novosadski pokolj"
 authors:           "Erih Koš"
 goodreads_id:      "33956263"
 img:               "https://images.gr-assets.com/books/1484942509l/33956263.jpg"
 excerpt:           "Romansirani prikaz Novosadske racije iz pera karijernog pisca sličnih dela (koji nije Novosađanin 
                     ili očevidac/svedok Racije)."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Erih-Koš
   - bbb-NOB-proza

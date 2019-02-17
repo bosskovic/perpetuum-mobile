@@ -1,16 +1,10 @@
 ---
 slug:              "treca-proleterska-sandzacka-brigada-3"
-layout:            knjiga
 title:             "Treća proleterska sandžačka brigada, zbornik sećanja, knjiga 3"
 authors:           "Boško Škrbović"
 goodreads_id:      "35448698"
 img:               "https://images.gr-assets.com/books/1497651609l/35448698.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Boško-Škrbović
   - bbb-NOB-memoar-/-dnevnik

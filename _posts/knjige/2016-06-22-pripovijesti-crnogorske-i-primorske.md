@@ -1,16 +1,10 @@
 ---
 slug:              "pripovijesti-crnogorske-i-primorske"
-layout:            knjiga
 title:             "Pripovijesti crnogorske i primorske"
 authors:           "Stjepan Mitrov Ljubiša"
 goodreads_id:      "30634830"
 img:               "https://images.gr-assets.com/books/1466117111l/30634830.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Stjepan-Mitrov-Ljubiša
   - bbb-Boka

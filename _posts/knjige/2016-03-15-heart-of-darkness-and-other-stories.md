@@ -1,21 +1,15 @@
 ---
 slug:              "heart-of-darkness-and-other-stories"
-layout:            knjiga
 title:             "Heart of Darkness & Other Stories"
 authors:           "Joseph Conrad"
 goodreads_id:      "641929"
 img:               "https://images.gr-assets.com/books/1403434681l/641929.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Joseph-Conrad
   - bbb-klasik
   - bbb-Afrika
-  
+videos:       ["XIFUHIM-w7M"]  
 ---
 
 The first two stories (the youth and the hearth of darkness) are told as stories within stories. The outer story is set 
@@ -54,4 +48,4 @@ greed and hypocrisy. Seen like that, the "hearth of darkness" might be something
 
 I had enough of Conrad for the time being and I skipped the third story (End of tether).
 
-{% include layout/content/youtube.html id="XIFUHIM-w7M" %}
+{% include component/youtube/video.html id="XIFUHIM-w7M" %}

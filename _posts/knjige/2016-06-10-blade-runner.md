@@ -1,16 +1,10 @@
 ---
 slug:              "blade-runner"
-layout:            knjiga
 title:             "Blade Runner"
 authors:           "Philip K. Dick"
 goodreads_id:      "516036"
 img:               "https://images.gr-assets.com/books/1383407615l/516036.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Philip-K.-Dick
   - bbb-sf

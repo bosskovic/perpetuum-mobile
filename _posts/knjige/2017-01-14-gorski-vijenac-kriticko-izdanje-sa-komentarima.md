@@ -1,16 +1,10 @@
 ---
 slug:              "gorski-vijenac-kriticko-izdanje-sa-komentarima"
-layout:            knjiga
 title:             "Gorski vijenac, kritičko izdanje sa komentarom"
 authors:           "Nikola Banašević"
 goodreads_id:      "33857616"
 img:               "https://images.gr-assets.com/books/1484419756l/33857616.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Nikola-Banašević
   - bbb-Njegoš

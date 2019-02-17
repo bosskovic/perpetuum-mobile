@@ -1,17 +1,10 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "resource-file-formats"
 title:      Resource file formats
 excerpt:    ini files, properties files, iOS .strings files, YAML files, RESX and RESW files, RESJSON files
 date:       2014-09-17
 tags:
-  - ttt-back-end
   - ttt-i18n&l10n
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 <p class="muted">This article is compiled from information in several past articles I published on the Lingohub blog 

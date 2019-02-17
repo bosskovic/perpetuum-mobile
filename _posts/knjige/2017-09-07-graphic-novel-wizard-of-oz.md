@@ -1,16 +1,10 @@
 ---
 slug:              "graphic-novel-wizard-of-oz"
-layout:            knjiga
 title:             "The Wonderful Wizard of Oz: The Graphic Novel"
 authors:           "Roland Mann"
 goodreads_id:      "8633116"
 img:               "https://images.gr-assets.com/books/1320557875l/8633116.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Roland-Mann
   - bbb-strip

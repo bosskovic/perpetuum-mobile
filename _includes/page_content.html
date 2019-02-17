@@ -1,0 +1,39 @@
+{% include component/sidebar.html %}
+
+{% if ppt_map_exists %}
+  {% include component/map.html %}
+{% endif %}
+
+{% if ppt_stats_exist %}
+  {% include component/stats.html %}
+{% endif %}
+
+{% if ppt_gallery_exists %}
+  {% include component/fancybox/gallery.html %}
+{% endif %}
+
+{% if page.videos %}
+  {% include component/fancybox/videos.html %}
+{% endif %}
+
+
+<div id="text" class="content">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ content }}
+
+        {% if page.subtype == "knjige" %}
+          {% include content/page_knjige.html %}
+        {% elsif page.subtype == "etc" %}
+          {% include content/page_etc.html %}
+        {% elsif page.subtype == "tech" %}
+          {% include content/page_tech.html %}
+        {% else %}
+          {% include content/page_default.html %}
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+</div>

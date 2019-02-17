@@ -1,17 +1,11 @@
 ---
 slug:              "anarchism-the-feminist-connection"
-layout:            knjiga
 title:             "Anarchism: The Feminist Connection"
 authors:           "Peggy Kornegger"
 goodreads_id:      "21463818"
 img:               "https://images.gr-assets.com/books/1500478893l/21463818.jpg"
 excerpt:           "The essay has a nice overview of what anarchism is and isn't, and also a brief history of implementation attempts of 
                     anarchism in Spain 1936-39 and France 1968."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Peggy-Kornegger
   - bbb-anarhizam

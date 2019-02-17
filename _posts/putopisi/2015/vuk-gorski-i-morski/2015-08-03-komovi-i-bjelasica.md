@@ -5,7 +5,8 @@ description: "Na putu od Prokletija do mora, svratili smo u Štavnu i na Biograd
               Vasojevića koma smo završili tesno pred provalu oblaka, a do sledećeg jutra na Biogradskom jezeru, kiša se već
               ispadala, pa smo imali lep dan."
 excerpt:     "Vasojevića kom i Biogradsko jezero"
-categories:  ['2015-vuk-gorski-i-morski']
+category:  2015-vuk-gorski-i-morski
+parent_category: putopisi
 image: "/2015-vuk-gorski-i-morski/komovi-i-bjelasica/img/20150803-01.jpg"
 tags:
   - komovi
@@ -34,7 +35,7 @@ videos: ["VxWJohXt2b4", "m0pcKOZvPU8", "fCr0yHaUsEA", "YJ5WQcLrQuo"]
 
 ### Vasojevića kom, 3. avgust 2015.  
 
-{% include layout/content/img_full.html file_name="20150803-06.jpg" %}
+{% include component/img/full.html file_name="20150803-06.jpg" %}
 
 Jutro je već počelo da se pretvara u sparan dan kada smo pošli iz katuna Štavna ka Vasojevića Komu, i u vazduhu je bio
 miris kiše. Zanimljivo kako je pamćenje subjektivno. Prethodni put kada sam se penjao na ovaj vrh, mlađi, laganiji i
@@ -43,16 +44,16 @@ teško i sporo sam napredovao stazom koja seče sipare i penje se uz strme kamen
 trebalo skoro dva sata. Vetar je počeo da muti vidik i gomila oblake. Opasnost nije bila još neposredna, ali postalo je
 jasno da će do kraja dana pljusnuti kiša.
 
-{% include layout/content/img_horizontal.html file_name="20150803-07.jpg" %}
+{% include component/img/horizontal.html file_name="20150803-07.jpg" %}
 Nisam imao snage da "istrčim" do vrha strmom kamenitom stazom, a nisam hteo ni da rizikujem
 da nas uhvati kiša na strmoj travnatoj padini Koma. Dajana, Vlada i Mića su se brzom brzinom popeli na vrh, a nas troje,
 Ela, Vuk i ja, smo odmorili malo na prevoju (Vuk i odspavao), i krenuli polako na dole. U podnožju smo se ponovo spojili
 i spustili do katuna Štavna. Kako smo seli u restoran, počele su da padaju prve kapi koje su se ubrzo pretvorile u
 provalu oblaka.
 
-{% include layout/content/img_full.html file_name="20150803-15.jpg" %}
+{% include component/img/full.html file_name="20150803-15.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20150803-16.jpg" %}
+{% include component/img/horizontal.html file_name="20150803-16.jpg" %}
 Sedimo u Štavni u polupokrivenom restoranu katuna i gledamo pljusak koji donosi rasterećenje i spira tenziju. Sevaju munje,
 praskaju gromovi, vetar kotrlja oblake preko nas i temperatura je prilično pala. Oblačimo sve što imamo dok čekamo kačamak.
 I čekamo. I čekamo... Vuku je dosadilo da ceo dan sedi u rancu. Protestuje i ne da da ga vežemo u kolicima, već trčkara okolo, 
@@ -73,16 +74,16 @@ bungalovu nedaleko od jezera.
 <em>Odgovor na pitanje sa početka teksta, buđenje u idili na obali Biogradskog jezera može bez problema da konkuriše 
 Vasojevića komu.</em>
 
-{% include layout/content/img_full.html file_name="20150804-01.jpg" %}
+{% include component/img/full.html file_name="20150804-01.jpg" %}
 
-{% include layout/content/video_thumb.html id="m0pcKOZvPU8" %}
+{% include component/youtube/thumb.html id="m0pcKOZvPU8" %}
 Kiša se tokom noći ispadala, i jutro je bilo prohladno, ali lepo, sunčano i mirisno. Doručkovali smo i krenuli u krug oko
 lepog jezera. Za razliku od žege na Prokletijama, Biogradsko jezero je bilo do vrha puno, i na njegovoj površini se
 plavilo nebo i zelenele krošnje bukvi.
 
-{% include layout/content/youtube.html id="fCr0yHaUsEA" %}
+{% include component/youtube/img_full.html id="fCr0yHaUsEA" %}
 
-{% include layout/content/img_vertical.html file_name="20150804-07.jpg" %}
+{% include component/img/vertical.html file_name="20150804-07.jpg" %}
 Vuk je konačno dobio priliku da trči i šeta koliko mu je volja, i najzabavniji mu je bio deo gde dugački mostići idu preko
 Biogradske rijeke. Najveći deo dana smo proveli pored jezera, i tek popodne se popakovali i krenuli ka Podgorici, moru i
 kilometarskim kolonama automobila koji mile po užarenom asfaltu između Sutomora i Ulcinja.

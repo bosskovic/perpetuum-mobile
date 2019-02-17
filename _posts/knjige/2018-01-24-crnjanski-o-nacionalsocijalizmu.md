@@ -1,6 +1,5 @@
 ---
 slug:              "crnjanski-o-nacionalsocijalizmu"
-layout:            knjiga
 title:             "Crnjanski o nacionalsocijalizmu"
 authors:           "Miloš Crnjanski"
 goodreads_id:      "38100647"
@@ -8,11 +7,6 @@ img:               "https://images.gr-assets.com/books/1516369610l/38100647.jpg"
 excerpt:           "U ovim esejima ja vidim eho zvanične propagande Berlina, oprezni respekt nacionalsocijalističke 
                     Nemačke, možda čak i tragove divljenja,  a u svakom slučaju odsustvo bilo kakve kritike, osude ili 
                     ozbiljne i objektivne analize."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Miloš-Crnjanski
   - bbb-esejistika

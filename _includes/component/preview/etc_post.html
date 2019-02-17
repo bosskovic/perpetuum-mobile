@@ -1,0 +1,28 @@
+<div class="book-preview post-preview" data-tags='{{ post.tags | replace:"-/-", "-" }}'>
+  <em class="muted">
+    <i class="icon-kalendar"></i>{{ post.date | date: "%d. %m. %Y." }}
+    <i class="icon-etc"></i>
+    {% assign start=true %}
+    {% for tag in post.tags %}
+      {% unless start %}
+      *
+      {% endunless %}
+      {% assign start=false %}
+      {{ tag | replace: 'rrr-', ' ' | replace:'-', ' ' }}
+    {% endfor %}
+  </em>
+  <br>
+  <a class="screen-only" href="{{ post.url }}">
+    <strong> {{ post.title }} </strong><br>
+    {% if post.excerpt %}
+      <h3 class="post-subtitle">{{ post.excerpt }}</h3>
+    {% endif %}
+  </a>
+  <p class="muted mt-0">
+    {% if post.description %}
+      {{ post.description }}
+      <br>
+    {% endif %}
+    [{% include component/read_time.html content=post.content english=page.english %}]
+  </p>
+</div>

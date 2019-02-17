@@ -7,7 +7,9 @@ gem 's3_website'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'jekyll-gist'
+gem 'jekyll-paginate'
+# gem 'jekyll-feed'
 
-group :jekyll_plugins do
-  gem 'github-pages'
-end
+# group :jekyll_plugins do
+#   gem 'github-pages'
+# end

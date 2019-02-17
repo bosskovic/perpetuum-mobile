@@ -1,16 +1,10 @@
 ---
 slug:              "ovaj-svet-moze-da-bude-bolji"
-layout:            knjiga
 title:             "Ovaj svet može da bude bolji"
 authors:           "Yanis Varoufakis"
 goodreads_id:      "28019155"
 img:               "https://images.gr-assets.com/books/1448915593l/28019155.jpg"
 excerpt:           "Osnove ekonomije iz marksističkog ugla za trinaestogodišnje devojčice"
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Yanis-Varoufakis
   - bbb-ekonomija

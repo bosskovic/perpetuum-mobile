@@ -3,7 +3,8 @@ slug:        "zabljak-piva"
 title:       "Južnim obodom Durmitora"
 excerpt:     "Bajkerska poslastica"
 description: "Bajkerski verovatno najpodesniji deo puta - čisto uživanje, dobrim delom nizbrdo, malo asfalt, malo makadam, a okolo livade i iza njih džinovski kameni vrhovi." 
-categories:  ['2009-durmitor-biciklom']
+category:  2009-durmitor-biciklom
+parent_category: putopisi
 image: "/2009-durmitor-biciklom/zabljak-piva/img/089.jpg"
 photos:
   -
@@ -70,7 +71,7 @@ Sutradan smo se svi spremili za polazak, oni za Novi Sad, a ja dalje za Pivu (pr
 podmazao bajs), i negde oko 11 sati smo se rastali. Društvo mi je godilo, odlično mi se uklopilo u planove obilaska, a 
 i lepo sam se odmorio u ta dva dana...
 
-{% include layout/content/img_horizontal.html file_name="085.jpg" %}
+{% include component/img/horizontal.html file_name="085.jpg" %}
 Krenuo sam da obilazim durmitorski masiv sa jugoistoka, prošao pored Pošćenskog jezera, vrha Stožina, Suve lokve, 
 Modrog, Valovitog i Svrabljeg jezera (jedno od ta tri nisam uspeo da vidim sa puta, verovatno Svrablje, pošto je 
 zaklonjeno u rupi), pored Sedlene grede, zatim kroz Dobri do, pa Todorov do (jezerce Pištet) i stupio na Pivsku planinu. 
@@ -78,11 +79,11 @@ Bio je malo hladniji ali predivan sunčan dan, uzan vijugav asfaltni put prolazi
 raznoraznog poljskog cveća, a iznad modro plavo nebo i po njemu razbacani ogromni beli pufnasti oblaci. Nije da sam 
 odjednom dobio inspiraciju za poeziju, nego je stvarno tako bilo, i srećom imam nekoliko odličnih fotki da to dokažem.
 
-{% include layout/content/youtube.html id="c_s6L17rCy8" print="no" %}
+{% include component/youtube/video.html id="c_s6L17rCy8" print="no" %}
 
 ### Pivska planina i Piva 
 
-{% include layout/content/img_horizontal.html file_name="095.jpg" %}
+{% include component/img/horizontal.html file_name="095.jpg" %}
 Na mestu koje se zove Ždrijelo put se naglo savija u lakat i ide dalje na sever prema Trsi. Ali to nije ono što sam ja 
 imao na umu, već sam skrenuo na jug, u uzanu klisuru koja se zove Pirni do. Makadamski put je toliko strm i okrunjen da 
 većim delom nije bilo moguće voziti. Tek što sam se spustio, odmah sam krenuo opet uzbrdo, samo na drugu stranu, i 
@@ -90,7 +91,7 @@ ponovo izbio na fenomenalne livade. Tu na bregu Jarčište sam naleteo na kamene
 Spustio sam se do Borkovića i Dubljevića, izašao na asfalt i tu prvi put ugledao Pivsko jezero, odnosno njegov krajnje 
 južni deo: poplavljeni tok Komarnice.
 
-{% include layout/content/img_horizontal.html file_name="099.jpg" %}
+{% include component/img/horizontal.html file_name="099.jpg" %}
 Inače, reka Piva je zanimljiva i po tome što na svom toku dužine 80ak kilometara, nekoliko puta menja ime, odnosno 
 usvaja ime obližnje manje pritoke. Pređoh sa jedne strane kanjona preko mosta i kilometara vijugavih serpentina na 
 drugu stranu tog istog kanjona, ni jednog trenutka ne ispuštajući iz vida plavetno jezero. Preko Rudinica i Seljana sam 
@@ -98,7 +99,7 @@ ubrzo stigao do manastira Piva. Javio sam se tamo i lepo zamolio da mi progledaj
 biciklističkim helankama i dresu obiđem manastirsku crkvu, i nisu mi pravili nikakav problem. Nisam uspeo previše da 
 vidim; bio je već smiraj dana a prozori na crkvi su jako jako mali, tako da su senke progutale ceo živopis...
 
-{% include layout/content/img_horizontal.html file_name="105.jpg" %}
+{% include component/img/horizontal.html file_name="105.jpg" %}
 Prvobitna ideja je bila da negde kod manastira prenoćim. Zapravo, ja sam očekivao da je manastir mnogo bliže obali 
 jezera (a to mi je uvek ključno, da bih mogao da se okupam, operem veš, sudove, itd...), ali tu nisam primetio neko 
 zgodno mesto. Srećom, usput sam video da se jedan put odvaja od magistrale i spušta prema jezeru, tako da sam bez 

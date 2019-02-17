@@ -3,7 +3,6 @@ slug:        "2017-drinska-regata"
 title:       "Drinska regata"
 excerpt:     "usijane glave na hladnoj reci"
 description: "Pridružili smo se grupi Ribolovaca Srbije i zaštitara iz Republike Srpske na performansu o važnosti zaštite mladice koji su izveli tokom Drinske regate. A sama regate je, pa, zanimljivo iskustvo koje nećemo ponavljati."
-categories:  ['putopisi']
 image: "/putopisi/2017-drinska-regata/img/20170722-16.jpg"
 videos: ["cM6PYVVN55E"]
 photos:
@@ -31,29 +30,29 @@ pešacima koji se kreću ka kampu gde večeras treba da budu neke svirke.
 Mi ne spavamo u kampu, već nam je Ljuba sredio (najviše sa Vukom na umu) da otvorimo šator u Perućcu, daleko od 
 buke kampa.
 
-{% include layout/content/img_horizontal.html file_name="20170722-01.jpg" %}
+{% include component/img/horizontal.html file_name="20170722-01.jpg" %}
 Polazimo ujutro ka brani. Mnoštvo ljudi, karnevalska atmosfera, hektolitri alkohola, desetine i desetine vezanih
 čamaca uz obalu Drine stotinak metara nizvodno od hidroelektrane. Sunce prži, ljudi se guraju i probijajz kroz 
 dim roštilja, muzika trešti iz nekoliko izvora, i ta konfuzija predugo traje. Vuk je odavno nervozan i jedva ga
 obuzdavamo.
 
-{% include layout/content/img_full.html file_name="20170722-09.jpg" %}
+{% include component/img/full.html file_name="20170722-09.jpg" %}
 
 Konačno, "parada debila", kako ju je Ljuba dobro nazvao, počinje. Gore baklje i dimne bombe, gruvaju snažne petarde i 
 druga pirotehnika, višebojni dim ispunjava sloj vazduha iznad reke u sceni koja podseća na onu iz Kopoline
 "Apokalipse danas". Čamci se spuštaju, sudaraju i okreću, a ljudi loču enormne količine alkohola.
 
-{% include layout/content/youtube.html id="cM6PYVVN55E" %}
+{% include component/youtube/img_full.html id="cM6PYVVN55E" %}
 
-{% include layout/content/img_vertical.html file_name="20170722-06.jpg" %}
+{% include component/img/vertical.html file_name="20170722-06.jpg" %}
 Mi smo srećom u potpuno drugačijem mehuru. Spuštamo se u nekoliko uvezanih čamaca kojima upravljaju mladi skiperi
 rafting kluba iz Priboja i nosimo transparente sa porukama o zaštiti mladice. Tako uvezani se spuštamo brzim ali
 pretežno mirnim tokom Drine sve do mosta kod Bajine Bašte, ključne tačke performansa. Tu, uzvodno od mosta,
 razvijamo veliki transparent koji pluta na površini Drine iza čamaca, i poziramo fotografu na mostu.
 
-{% include layout/content/img_full.html file_name="20170722-14.jpg" %}
+{% include component/img/full.html file_name="20170722-14.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20170722-17.jpg" %}
+{% include component/img/horizontal.html file_name="20170722-17.jpg" %}
 Posle mosta se razvezujemo, i svaki čamac kreće za sebe. Naš mladi skiper nam je priuštio malo adrenalina,
 vodeći nas kroz bukove tamo gde ih je bilo. Vuk uživa, kupa se, prska, vesla...
 

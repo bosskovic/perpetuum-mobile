@@ -6,7 +6,8 @@ description: "U Banoštoru sam se našao sa Igorom Šiškovićem i zajedno smo k
               Fruške gore. Ispostavilo se da mnoga jezera koja su ucrtana na karti ili uopšte ne postoje, ili su samo sezonska. Tog 
               tipa su akumulacije Remeta, Nadež i Manđelos. Jezera koja smo videli su mali ribnjak kod manastira Petkovica, dva od tri 
               čalmanska jezera (treće je valjda bilo sakriveno trskom) i jezero Vranješ kod Manđelosa, najlepše od svih tog dana."
-categories:  ['2005-voznje-u-okolini-ns']
+category:  2005-voznje-u-okolini-ns
+parent_category: putopisi
 image: "/2005-voznje-u-okolini-ns/fg-jezera-i/img/011.jpg"
 photos:
   -
@@ -58,7 +59,7 @@ NS - Begeč - (skela) - Banoštor - Sviloš - Ležimir - manastir Šišatovac - 
 Čalma I, II i III - Laćarak - Sremska Mitrovica - Manđelos - jezero Vranješ - Grgurevci - Šuljam - Bešenovački Prnjavor - 
 Crveni čot - Beočin - (skela) - Futog - NS
 
-{% include layout/content/img_full.html file_name="010.jpg" %}
+{% include component/img/full.html file_name="010.jpg" %}
 
 U Banoštoru sam se našao sa Igorom Šiškovićem i zajedno smo krenuli u obilazak jezera koja se nalaze na južnim padinama 
 Fruške gore. Ispostavilo se da mnoga jezera koja su ucrtana na karti ili uopšte ne postoje, ili su samo sezonska. Tog 

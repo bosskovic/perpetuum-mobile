@@ -1,16 +1,10 @@
 ---
 slug:              "treca-proleterska-sandzacka-brigada-2"
-layout:            knjiga
 title:             "Treća proleterska sandžačka brigada, zbornik sećanja, knjiga 2"
 authors:           "Bogdan-Gledović"
 goodreads_id:      "35448574"
 img:               "https://images.gr-assets.com/books/1497649803l/35448574.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Bogdan-Gledović
   - bbb-NOB-memoar-/-dnevnik

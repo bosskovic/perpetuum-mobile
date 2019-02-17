@@ -1,17 +1,11 @@
 ---
 slug:              "motorcycle-diaries"
-layout:            knjiga
 title:             "The Motorcycle Diaries: Notes on a Latin American Journey"
 authors:           "Ernesto Che Guevara"
 goodreads_id:      "172732"
 img:               "https://images.gr-assets.com/books/1354902593l/172732.jpg"
 excerpt:           "Somewhat boring at start, but with inspired description of remnants of Inca empire and its people 
                     around the middle of the book."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Ernesto-Che-Guevara
   - bbb-latinska-Amerika

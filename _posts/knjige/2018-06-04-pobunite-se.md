@@ -1,16 +1,10 @@
 ---
 slug:              "pobunite-se"
-layout:            knjiga
 title:             "Pobunite se!"
 authors:           "Stéphane Hessel"
 goodreads_id:      "32613763"
 img:               "https://images.gr-assets.com/books/1476539825l/32613763.jpg"
 excerpt:           "Dovoljno kratko i jednostavno za čitanje da ga nije gre'ota čitati, ali nije nešto što naročito otvara oči."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-sociologija-/-socijalna-pravda
   - aaa-Stéphane-Hessel

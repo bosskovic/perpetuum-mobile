@@ -1,6 +1,5 @@
 ---
 slug:         "put-internet-paketa"
-layout:       oprema
 title:        "Pravo na privatnost je neotuđivo pravo - put internet paketa"
 excerpt:      ""
 description:  "Malo suvoparan i tehnički orijentisan tekst koji sam izdvojio iz članka 'Pravo na privatnost je neotuđivo pravo'
@@ -11,7 +10,6 @@ animation:
   url: /assets/img/animated/cctv.gif
   width: 220
   height: 222
-categories: ['etc']
 
 ---
 

@@ -6,7 +6,6 @@ description: "Rtanj dominira okolnim terenom ali i maštom ljudi. Sa najvećom d
              Rtanj proglašavaju za najveću piramidu koju su ljudi podigli pre mnogo hiljada godina. Drugima je Rtanj stecište 
              vanzemaljaca a treći su uvereni da okolinom Rtnja dominiraju neke specijalne energije. Pa kako da mi propustimo
              tako nešto."
-categories:  ['putopisi']
 image: "/putopisi/2016-rtanj-i-sokobanja/img/04.jpg"
 
 ---
@@ -39,7 +38,7 @@ svojom svitom followera. Gospođa <a href="https://www.youtube.com/watch?v=10cwm
 navraćala, ali nije baš "osetila energiju" skromnog pansiona, pa je rešila da odsedne u nabudženom Etno Hotelu Rtanj Balašević. 
 Kratko smo se susreli sa njima ispred pansiona sutradan dok smo silazili sa planine.
 
-{% include layout/content/img_vertical.html file_name="02.jpg" %}
+{% include component/img/vertical.html file_name="02.jpg" %}
 Ispostavilo se da je Rtanj zanimljiviji iz daleka, na primer dok se posmatra sa Beljanice kako sa visine motri na okolinu ili dok
 se zamišljaju leteći tanjiri kako kruže oko njega. Ali umesto kosmodromima za vanzemaljce, Rtanj je okružen sa svih strana
 hektarima bolesne, osušene šume. Nešto ju je dotuklo pre nekoliko godina i sada iz zemlje štrče samo trupla dok su tanje 
@@ -49,9 +48,9 @@ Srećom, brzo smo izašli iz te depresivne šume, i pred nama se ukazala čuvena
 varljivo blizu. Možda sam sam kriv, godinama planiram da dođem na Rtanj, pa sad kada sam konačno tu, uspon mi je neinteresantan
 a okolni vidici neupečatljivi.
 
-{% include layout/content/img_full.html file_name="14.jpg" %}
+{% include component/img/full.html file_name="14.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="13.jpg" %}
+{% include component/img/horizontal.html file_name="13.jpg" %}
 Dan je bio lep i mogli smo sebi da priuštimo dugu pauzu na vrhu. Uživali smo u aprilskom suncu, izležavali se, a Vuk je
 istraživao okolinu sa Marinom.
 
@@ -60,12 +59,12 @@ istraživao okolinu sa Marinom.
 Sutradan ujutro kada smo krenuli prema Sokobanji, i kada smo po danu osmotrili širu okolinu Rtnja razmere štete u šumi su
 postale jasnije. Neke padine su već mehanizacijom komplet očišćene od suvih stabala, dok ostale još čekaju.
 
-{% include layout/content/img_vertical.html file_name="25.jpg" %}
+{% include component/img/vertical.html file_name="25.jpg" %}
 Krenuli smo u kratku šetnju uz Moravicu do ostataka Soko grada. Tvrđava je lepo očuvana, na interesantnom mestu, okružena
 vijugama malog kanjona utopljenog u krošnje, i sa nje se lepo vide doline prema severu i Rtanj koji njima dominira. Oko
 tvrđave ima više staza, i neke od njih smo krenuli malo da pratimo. Tu svakako ima dovoljno materijala bar za jedan ceo dan.
  
-{% include layout/content/img_full.html file_name="37.jpg" %}
+{% include component/img/full.html file_name="37.jpg" %}
 
 Naš aprilski izlet smo završili šetnjom kroz Sokobanju. Fino mestašce sa lepom pešačkom zonom koja u sezoni vrvi od ljudi, 
 i velikim dečijim igralištem na kojem smo pre polaska nazad za NS izmorili Vuka.

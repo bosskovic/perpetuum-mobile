@@ -1,0 +1,28 @@
+{% if page.home_page %}
+    {% assign css="expanded" %}
+{% else %}
+    {% assign css="collapsed" %}
+{% endif %}
+<ul class="menu {{css}} {{include.css}}">
+    {% for item in site.data.navigation %}
+      {% if page.english %}
+        {% assign title=item.en %}
+      {% else %}
+        {% assign title=item.sr %}
+      {% endif %}
+
+      {% if page.slug == item.url %}
+        {% assign css="active_page" %}
+      {% elsif page.subtype == item.subtype %}
+        {% assign css="active_subtype" %}
+      {% else %}
+        {% assign css="" %}
+      {% endif %}
+
+      {% unless page.home_page and item.url == "\" %}
+        {% if item.subtype != "vrh" or include.vrh_strane  %}
+            <li><a href="/{{item.url}}" title="{{title}}" class="{{css}} {{item.subtype}}"><i class="{{item.icon}}"></i>{% if page.home_page %}{{title}}{% endif %}</a></li>
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+</ul>

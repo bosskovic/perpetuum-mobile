@@ -1,14 +1,9 @@
 ---
 slug:         "poezija-vode"
-layout:       etc_post
 title:        "Zdenko Jelčić: Poezija vode"
 excerpt:      "Tekst pesme i izvedba Ibrice Jusića"
 description:  ""
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
+videos: ["OENS4FEO2Dg"]
 ---
 
 Ispričat ću ti jednu davnu priču  
@@ -36,4 +31,4 @@ na mome grobu tek trubadur piše
 u tvojoj kosi tuga vjetra spava  
 i čudna, čudna poezija kiše.  
 
-{% include layout/content/youtube.html id="OENS4FEO2Dg" %}
+{% include component/youtube/video.html id="OENS4FEO2Dg" %}

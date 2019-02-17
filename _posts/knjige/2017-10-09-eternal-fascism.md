@@ -1,16 +1,10 @@
 ---
 slug:              "eternal-fascism"
-layout:            knjiga
 title:             "Eternal Fascism: Fourteen Ways of Looking at a Blackshirt"
 authors:           "Umberto Eco"
 goodreads_id:      "29354345"
 img:               "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Umberto-Eco
   - bbb-nacizam-/-fašizam

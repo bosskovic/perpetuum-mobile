@@ -1,16 +1,10 @@
 ---
 slug:              "sremske-sene"
-layout:            knjiga
 title:             "Sremske sene"
 authors:           "Predrag Banjeglav"
 goodreads_id:      "34049306"
 img:               "https://images.gr-assets.com/books/1485718768l/34049306.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Predrag-Banjeglav
   - bbb-Fruška-gora

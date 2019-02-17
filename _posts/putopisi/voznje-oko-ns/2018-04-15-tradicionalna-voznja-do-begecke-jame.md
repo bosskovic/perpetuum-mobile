@@ -3,7 +3,7 @@ slug:        "tradicionalna-voznja-do-begecke-jame"
 title:       "Tradicionalna vožnja do Begečke jame"
 excerpt:     "čarde, kuvano vino, skele i sve drugo što je postalo deo tradicije"
 description: "“Vožnja do Begečke jame”, ne zvuči kao događaj koji uzdrmava univerzum, ali ta prva vožnja 2009-te je zaista uzdrmala jedan mali deo univerzuma i pokrenula niz događaja koji su doveli do toga da vožnja postane mala tradicija."
-categories:  ['voznje-oko-ns']
+category:  voznje-oko-ns
 image: "/voznje-oko-ns/tradicionalna-voznja-do-begecke-jame/img/20180415-02.jpg"
 videos: ["e5jIzTuo-OY", "WsekrvCxDyo", "k4EeCU-rXKg", "-agkv34b1iw", "ODs6DV39QN0", "5Q1rYd-BZEs", "rFKa709lO5M"]
 tags:
@@ -382,7 +382,7 @@ Vrlo je zgodno i to što se trasa lako može varirati - moguće je skrenuti prem
 I kao da to sve nije dovoljno, usput se na obali Dunava nalazi načičkan niz čardi u kojima je moguće ugrejati se uz kuvano
 vino ako je mart te godine još hladan.
 
-{% include layout/content/youtube.html id="ODs6DV39QN0" %}
+{% include component/youtube/img_full.html id="ODs6DV39QN0" %}
 
 "Vožnja do Begečke jame", ne zvuči kao događaj koji uzdrmava univerzum, ali ta prva vožnja 2009-te je zaista uzdrmala jedan
 mali deo univerzuma i pokrenula niz događaja koji su doveli do toga da vožnja postane mala tradicija. Društvo koje se
@@ -400,16 +400,16 @@ podsećanje i "upućivanje".
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="2009" %}
+{% include component/id.html id="2009" %}
 ### Prva martovska vožnja do Begečke jame
 
 15\. mart 2009.  
 Futoški park - Veternik - Futoški kej - skela - Beočin - Čerević - Banoštor - skela - Braša - Begečka jama - (vikend naselje) 
 Čerevićka skela - Futoški kej - Kamenjar - Telepski Dunavac - Novi Sad 
 
-{% include layout/content/img_full.html file_name="2009-11.jpg" %}
+{% include component/img/full.html file_name="2009-11.jpg" %}
 
-{% include layout/content/img_vertical.html file_name="2009-01.jpg" %}
+{% include component/img/vertical.html file_name="2009-01.jpg" %}
 Prva vožnja bila je jedna od najposećenijih. Skupljali smo se na nekoliko lokacija u gradu, na Grbavici, kod Futoškog parka
 i da bi nas kada smo se konačno kompletirali kod futoške skele bilo dvadesetak. Tu smo prešli na sremsku stranu, i vozili 
 uz Dunav, kroz Čerević, do Banoštora i banoštorske skele, koju smo sačekali u čardi uz kuvano vino.
@@ -419,137 +419,137 @@ Po povratku na bačku stranu, svratili smo do Begečke jame, pa krenuli nasipom 
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="2010" %}
+{% include component/id.html id="2010" %}
 ### Drugi put je već tradicija
 
 3\. mart 2010.
 Limanski park - Telepski Dunavac - Futoška skela - Beočin - Banoštor - Begečka jama - Novi Sad
-{% include layout/content/youtube.html id="e5jIzTuo-OY" %}
+{% include component/youtube/video.html id="e5jIzTuo-OY" %}
 
-{% include layout/content/img_horizontal.html file_name="2010-01.jpg" %}
+{% include component/img/horizontal.html file_name="2010-01.jpg" %}
 Oštro martovsko vreme poplašilo je sve osim najhrabrijih. Iz Novog Sada krenuli smo nas trojica (Žarko, i dva Marka), a kod
 futoške skele smo se (tradicionalno) sreli sa Draganom. I ostatak rute bio je ponavljanje prošlogodišnje, s tim što nas
 je hladno vreme ohrabrilo da znatno produžimo i učestalimo one delove sa kuvanim vinom.  
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="2011" %}
+{% include component/id.html id="2011" %}
 ### Tradicionalna martovska vožnja u aprilu
 
 9\. april 2011.  
 Limanski park - Telepski Dunavac - Begečka jama - skela - Banoštor - Čerević - Beočin Dunav - skela - Futog - Novi Sad  
 
-{% include layout/content/img_full.html file_name="2011-01.jpg" %}
+{% include component/img/full.html file_name="2011-01.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="2011-06.jpg" %}
+{% include component/img/horizontal.html file_name="2011-06.jpg" %}
 2011\. je mart bio prilično kilav, pa smo vožnju pomerali od vikenda do vikenda sve dok se vreme nije prolepšalo početkom 
 aprila. Ovo je bila jedna od veselijih i opuštenijih vožnji. Vesela grupica od 10-15 bicikliskinja i biciklista se 
 premeštala od jedne do druge "stanice" na varijaciji tradicionalne rute, i teglila pauze posvećene gušterisanju na suncu.
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="2012" %}
+{% include component/id.html id="2012" %}
 ### Četvrta vožnja
 
 11\. mart 2012.  
 Limanski park - Futog - Begečka jama - Banoštor - Beočin - Kamenica - Novi Sad  
 
-{% include layout/content/img_full.html file_name="2012-05.jpg" %}
+{% include component/img/full.html file_name="2012-05.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="2012-01.jpg" %}
+{% include component/img/horizontal.html file_name="2012-01.jpg" %}
 Ponovo vožnja u martu, i ponovo malo lošije vreme i tanja družina. U Beočinu nam pobegla skela ispred nosa pa smo se 
 vratili sremskom stranom.
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="2013" %}
+{% include component/id.html id="2013" %}
 ### Peta preskočena
 
 Crveni tim se proširio, rodila se Anita! Tradicionalna vožnja nema mnogo smisla bez Crvenog tima, pa smo je 2013-e preskočili...
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="2014" %}
+{% include component/id.html id="2014" %}
 ### Anitina prva vožnja
 
 8\. april 2014.  
 Limanski park - Futog - Begečka jama - Banoštor - Beočin Dunav - Futog - Novi Sad  
 
-{% include layout/content/youtube.html id="WsekrvCxDyo" %}
+{% include component/youtube/img_full.html id="WsekrvCxDyo" %}
 
-{% include layout/content/img_horizontal.html file_name="2014-12.jpg" %}
+{% include component/img/horizontal.html file_name="2014-12.jpg" %}
 Lepo vreme, brojna ekipa i Crveni tim od ove godine u proširenom sastavu - sa Anitom. Do sada su se i ruta i ekipa koja je
 vozi uglavnom ustalile, kao i pomeranje termina na april.
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="2015" %}
+{% include component/id.html id="2015" %}
 ### Sedma vožnja
 
 19\. april 2015.
 Limanski park - Futog - Begečka jama - Banoštor - Beočin Dunav - Futog - Novi Sad  
 
-{% include layout/content/youtube.html id="k4EeCU-rXKg" %}
+{% include component/youtube/img_full.html id="k4EeCU-rXKg" %}
 
-{% include layout/content/img_horizontal.html file_name="2015-03.jpg" %}
+{% include component/img/horizontal.html file_name="2015-03.jpg" %}
 Stiže nova generacija i postaje brojnija. Vozili smo od Limanskog parka nasipom do Futoške skele, gde su nas čekale Dragana, 
 Milana i Lena, sa različitim prevoznim sredstvima na četiri točka. Vozimo dalje do Braše gde nastavljamo druženje.
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="2016" %}
+{% include component/id.html id="2016" %}
 ### Matijina prva vožnja
 
 23\. april 2016.
 
-{% include layout/content/youtube.html id="-agkv34b1iw" %}
+{% include component/youtube/img_full.html id="-agkv34b1iw" %}
 
-{% include layout/content/img_horizontal.html file_name="2016-08.jpg" %}
+{% include component/img/horizontal.html file_name="2016-08.jpg" %}
 Ove godine najviše dece do sada: Žarko i Dragana su još jednom proširili Crveni tim - sada su tu Anita i Matija, a bili
 su tu i Sofija, Lena i Vuk.
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="2017" %}
+{% include component/id.html id="2017" %}
 ### Tradicionalna martovska vožnja u maju
 
 27\. maj 2017.
 
-{% include layout/content/youtube.html id="5Q1rYd-BZEs" %}
+{% include component/youtube/img_full.html id="5Q1rYd-BZEs" %}
 
-{% include layout/content/img_horizontal.html file_name="2017-01.jpg" %}
+{% include component/img/horizontal.html file_name="2017-01.jpg" %}
 Sticajem okolnosti, tradicionalna martovska vožnja se prolongirala sve do kraja maja, što možda i nije tako loše, bilo je
 lepo vreme pa smo vožnju rastegli na veći deo dana. Ponovo smo vozili standardnom rutom, nasipom do Begečke jame, napravili 
 pauze tamo i kod Braše, u Srem prešli begečkom a vratili se futoškom skelom. Dve male razlike u odnosu na prethodne godine 
 bile su to što je deo nasipa od kraja futoškog keja do skretanja za naselje Čerevićka skela asfaltiran (napravljene su dve 
 biciklističke trake) a ostatak do Begeča je bio grbaviji i zarasliji nego ikad.
 
-{% include layout/content/img_full.html file_name="2017-07.jpg" %}
+{% include component/img/full.html file_name="2017-07.jpg" %}
 
 Klinci su uživali i bili u elementu i budniji nego ikad. Najzanimljivija im je verovatno opet bila vožnja skelom. Aniti,
 koja je najstarija, je ovo verovatno poslednja vožnja u sedištu - već sledeće godine će možda ići na sopstveni pogon.
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="2018" %}
+{% include component/id.html id="2018" %}
 ### Anita prvi put sama vozi
 
 15\. april 2018.
 
-{% include layout/content/youtube.html id="rFKa709lO5M" %}
+{% include component/youtube/img_full.html id="rFKa709lO5M" %}
 
-{% include layout/content/img_horizontal.html file_name="20180415-01.jpg" %}
+{% include component/img/horizontal.html file_name="20180415-01.jpg" %}
 Na ovogodišnjoj vožnji bilo je nekoliko novina i nekoliko varijacija na temu. Iz Novog Sada krenuli smo sa Draganom i 
 Matijom, a Žarko i Anita su nas čekali kod futoške skele. Vesela ekipa sa puno dece, brzo je izašla na nasip kod Telepskog
 Dunavca i uhvatila snažan vetar u leđa. Put je zbog radova delom zatvoren za automobile, pa smo skoro sve vreme bili sa
 minimumom saobraćaja.
 
-{% include layout/content/img_horizontal.html file_name="20180415-10.jpg" %}
+{% include component/img/horizontal.html file_name="20180415-10.jpg" %}
 Kod skele nam se pridružuju Žarko, Anita i Milana. Anitina prva duga vožnja na svom biciklu, i to bez pomoćnih točkića, 
 prvi put van asfalta (grbavi letnji put koji ide nasipom između skretanja za Čerevićku Skelu i Begeča), prvi kvar na 
 biciklu (otpala pedala)... 
 
-{% include layout/content/img_horizontal.html file_name="20180415-20.jpg" %}
+{% include component/img/horizontal.html file_name="20180415-20.jpg" %}
 Kod Braše Žarko vezuje Anitin bicikl za ogradu, i ulećemo u skelu koja se spremala da krene. Od Banoštora prema Beočinu
 čekaju nas uzbrdice i udari košave u grudi. U Karašu kod Ljubavnog ostrva pravimo duugu pauzu pre povratka skelom
 u Bačku. Bodroški i Aleksandrovi ostaju tu u Futogu, a ostatak ekipe se kotrlja nasuprot čeonom vetru, koji ni

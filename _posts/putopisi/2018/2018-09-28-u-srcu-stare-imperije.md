@@ -4,7 +4,6 @@ title:       "U srcu stare imperije"
 excerpt:     "tri dana sa klincima u Beču"
 description: "Tri dana u Beču sa klincima. Zoo vrt, prirodnjački muzej, akvarium, lavirint od živice u Šenbrun parku, 
               Prater i vožnje metroom su bili pun pogodak..."
-categories:  ['putopisi']
 image: "/putopisi/2018-u-srcu-stare-imperije/img/20180930-01.jpg"
 videos: ["E3n6ZNcE88w"]
    
@@ -21,11 +20,11 @@ sa vitrinama punim zanimljivih artefakata. Za posetu muzeju treba odvojiti bar p
 pa je svakako ostao plan o nekom budućem namenskom povratku. U međuvremenu se Vuk rodio i dovoljno porastao da bi i njemu
 muzej mogao biti interesantan pa je to bio glavni motiv za novu posetu Beču.
 
-{% include layout/content/youtube.html id="E3n6ZNcE88w" %}
+{% include component/youtube/img_full.html id="E3n6ZNcE88w" %}
 
 ### Zoo vrt
 
-{% include layout/content/img_vertical.html file_name="20180928-04.jpg" %}
+{% include component/img/vertical.html file_name="20180928-04.jpg" %}
 Krećemo u po noći iz Novog Sada, natempirani tako da pred otvaranje stignemo pred šenbrunski zoo vrt. Vuk i Rastko trepere
 od uzbuđenja dok trče preko desetinama metara dugih visećih mostova razvučenih kroz krošnje, dok prolaze kroz polumračne
 pećine u kojima slobodno lete šišmiši, dok istražuju klimatizovane tropske šume, fenomenalne akvariume, zbirke insekata...
@@ -39,7 +38,7 @@ a posle neprospavane noći mi smo jedva držali korak za njima.
 
 ### Prirodnjački muzej
 
-{% include layout/content/img_vertical.html file_name="20180929-05.jpg" %}
+{% include component/img/vertical.html file_name="20180929-05.jpg" %}
 Drugi dan bio je rezervisan za muzej. Na putu do muzeja svratili smo do neke buvlje pijace u centru grada koju je Acketa 
 želeo da vidi. Redovi i redovi tezgi sa kojih se prelivaju svakojaki antikviteti i reke ljudi koje se tiskaju oko njih.
 Raznorazne militarije, sablje, čuture, vojne trube, epolete, stare topografske karte, svećnjaci, prastari olovni vojnici,
@@ -68,7 +67,7 @@ dok nismo finiširali vožnjom na velikom točku.
 
 ### Šenbrun
 
-{% include layout/content/img_horizontal.html file_name="20180928-01.jpg" %}
+{% include component/img/horizontal.html file_name="20180928-01.jpg" %}
 Osvanuo je naš poslednji dan u Beču, sunčan ali oštar kao i prethodna dva. Krenuli smo u šetnju po šenbrunskom parku. Jezero
 i pogled ka Beču klincima nisu bili naročito interesantni ali zato lavirinti jesu. Trčali smo i gubili se u živici tražeći
 skrivene kutke sa penjalicama, prizmama i drugim artefaktima. Vuk je malo i varao, provlačeći se kroz rupe u zidovima od
@@ -88,7 +87,7 @@ Zgrada akvariuma ima desetak nivoa na kojima se nalaze terariumi, staklene bašt
 uslove u različitim morskim staništima. Meduze, morski konjići, raže, morski psi, iguane, svakojake zmije, raznorazni rakovi
 i jastozi...
 
-{% include layout/content/img_vertical.html file_name="20180929-01.jpg" %}
+{% include component/img/vertical.html file_name="20180929-01.jpg" %}
 A na vrhu tvrđave se nalazi uređeni vidikovac ograđen staklenom ogradom, sa kog se odlično vidi Beč.
 
 Izgleda da smo se poklopili sa nekom grupnom posetom, jer je bila strašna gužva.
@@ -99,7 +98,7 @@ jezika i paletom lica koji se čuju i vide na svakom ćošku, čist, uređen, gr
 
 ### Metro
 
-{% include layout/content/img_vertical.html file_name="20180929-06.jpg" %}
+{% include component/img/vertical.html file_name="20180929-06.jpg" %}
 Metro je bio atrakcija za sebe: brzi voz koji ide ispod zemlje. Ali izuzetno je i praktičan. Zahvaljujući metrou, grad
 deluje znatno manji nego što jeste. Sve nam je bilo blizu i stizali smo u najudaljenije kutke za 10-20 minuta.
 

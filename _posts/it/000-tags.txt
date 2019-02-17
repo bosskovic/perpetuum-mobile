@@ -5,7 +5,6 @@ tags:
   - ttt-database
   - ttt-ruby
   - ttt-dev-tool
-  - ttt-back-end
   - ttt-bdd-/-tdd
   - ttt-cucumber
   - ttt-ruby

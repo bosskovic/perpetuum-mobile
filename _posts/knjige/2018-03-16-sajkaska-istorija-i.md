@@ -1,16 +1,10 @@
 ---
 slug:              "sajkaska-istorija-i"
-layout:            knjiga
 title:             "Šajkaska, Istorija I"
 authors:           "Slavko Gavrilović"
 goodreads_id:      "39295270"
 img:               "https://images.gr-assets.com/books/1521191163l/39295270.jpg"
 excerpt:           "Odlična knjiga za svakoga koga interesuje istorija Šajkaške."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-Vojvodina
   - bbb-Šajkaška  

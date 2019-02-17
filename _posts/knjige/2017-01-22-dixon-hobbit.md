@@ -1,16 +1,10 @@
 ---
 slug:              "dixon-hobbit"
-layout:            knjiga
 title:             "The Hobbit"
 authors:           "Chuck Dixon"
 goodreads_id:      "1823681"
 img:               "https://images.gr-assets.com/books/1485179277l/1823681.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Chuck-Dixon
   - bbb-strip

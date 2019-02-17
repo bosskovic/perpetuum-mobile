@@ -4,7 +4,6 @@ title:       "Ammouliani"
 excerpt:     "dve nedelje u kampu na moru"
 description: "Dve nedelje na jednom mestu, u kampu, na malom ostrvu na kom smo već trećeg dana potrošili sva mesta za istraživanje nije
               moja vizija idealnog letovanja, ali tako je ispalo ove godine. I pri tome je ispalo prilično dobro."
-categories:  ['putopisi']
 image: "/putopisi/2018-ammouliani/img/20180720-13.jpg"
 videos: ["j7LKcn-Zt6s"]
 
@@ -13,7 +12,7 @@ videos: ["j7LKcn-Zt6s"]
 Dve nedelje na jednom mestu, u kampu, na malom ostrvu na kom smo već trećeg dana potrošili sva mesta za istraživanje nije
 moja vizija idealnog letovanja, ali tako je ispalo ove godine. I pri tome je ispalo prilično dobro.
 
-{% include layout/content/youtube.html id="j7LKcn-Zt6s" %}
+{% include component/youtube/img_full.html id="j7LKcn-Zt6s" %}
 
 ## Put
 
@@ -33,14 +32,14 @@ Lidl i Macutis (jedan do drugog su) u gradiću Jerisos, desetak kilometara od Tr
 
 ## Amuliani: ostrvo i selo
  
-{% include layout/content/img_horizontal.html file_name="20180720-19.jpg" %}
+{% include component/img/horizontal.html file_name="20180720-19.jpg" %}
 Ammouliani je malo ostrvo između dva prsta Halkidikija: Sitonije i Svete gore. Do njega se stiže trajektom za oko pola 
 sata. Na ostrvu se nalazi istoimeno seoce, određeni broj bungalova i dva kampa od kojih je jedan izgoreo ranije ove godine 
 (srećom ne naš). Izuzev ostataka starog jezgra nekadašnjeg malog ribarskog naselja, selo je ružno, neplansko, neki čudni 
 hibrid Sutomora i Veternika. Od sadržaja, u selu se može naći mala luka kojom se može prošetati, poslastičarnice, dečije
 igralište, prodavnice i lunapark. 
 
-{% include layout/content/img_full.html file_name="20180714-14.jpg" %}
+{% include component/img/full.html file_name="20180714-14.jpg" %}
 
 ## Plaža Alikes
 
@@ -49,13 +48,13 @@ jugozapadu. Plaža posuta krupnim peskom je dugačka oko 600 metara i široka 30
 tri kafića ispred kojih su ležaljke sa suncobranima za iznajmljivanje, ali između ima sasvim dovoljno mesta za otvaranje
 suncobrana. U zaleđu plaže nema zgodnog prirodnog hlada (zapušteni šibljak, kombinacija makije i kiselog drveta). 
 
-{% include layout/content/img_horizontal.html file_name="20180714-01.jpg" %}
+{% include component/img/horizontal.html file_name="20180714-01.jpg" %}
 Dno se postepeno spušta, i treba hodati nekoliko desetina metara da bi se došlo do dubine od dva metra. Voda je svakog
 dana bila veoma čista. Na plaži postoji jedan pontonski mol, ali je pristajanje motornih čamaca i brodića izgleda 
 ograničeno, pa se zahvaljujući tome površina vode ne preliva u duginim bojama i nema onaj šmek na naftu kao na nekim 
 crnogorskim plažama gde cirkulišu turistički brodići.
 
-{% include layout/content/img_horizontal.html file_name="20180714-04.jpg" %}
+{% include component/img/horizontal.html file_name="20180714-04.jpg" %}
 Vetar i talasi su veoma predvidivi. Ujutro duva vetar sa kopna, tj. sa severa, pa pošto je plaža sa južne strane, ostrvo
 je dobro štiti i voda je sve do podneva mirna i kristalno prozirna. Oko podneva kreće da duva vetar sa mora koji direktno 
 prema plaži nabacuje talase koji su retko takvi da otežavaju kupanje i plivanje deci. Istočni deo plaže zaštićen je zalivom od tih
@@ -64,7 +63,7 @@ popodnevnih talasa. Predveče vetar jenjava, da bi tokom noći vazduh ponovo po�
 Dno zaliva je neinteresantno - peščana pustinja prošarana šumama morske trave. Dno uz ivice zalive je kamenitije i 
 interesantnije, ali dotle treba malo više plivati.
 
-{% include layout/content/img_full.html file_name="20180712-05.jpg" %}
+{% include component/img/full.html file_name="20180712-05.jpg" %}
 
 ## Kamp Alikes
 
@@ -77,7 +76,7 @@ neophodne. I stvarno, bez teškoće smo našli vezana kamp mesta za naše dve i 
 ovom kampu ranije, pa su nam odabrali odlična mesta u samom ćošku, okrenuta ka spoljnoj ogradi iza koje je brdo, tako
 da kada smo namontirali naš prostor za boravak, stolove, stolice i ogradili šatorima, imali smo veliku dozu privatnosti.
 
-{% include layout/content/img_horizontal.html file_name="20180712-03.jpg" %}
+{% include component/img/horizontal.html file_name="20180712-03.jpg" %}
 U kampu se naplaćuje mesto za šator (za veliki šator mogu da se rezervišu i dva mesta), dnevni boravak po osobi a obavezna je i struja po
 šatoru. Kamp se nalazi u maslinjaku a kamp mesta su dodatno zaštićena trščanim nadstrešnicama. Kada smo tome dodali naše
 cirade koje smo razvukli, imali smo sasvim pristojan hlad tokom celog dana. Zbog specifične orijentacije, u kampu gotovo
@@ -109,7 +108,7 @@ Ostrvo je malo, dosadno i namenjeno isključivo za kupanje. Praktično nema šta
 izgustirali sve, zavukli se i popeli svuda. Sa visoke stene sa zapadne strane zaliva pruža se lep pogled na plažu i zaliv 
 Alikes, kao i na susedni zaliv. Dotle se stiže uzanom i zaraslom stazom koja kreće od kafea smeštenog u podnožju stene.
 
-{% include layout/content/img_horizontal.html file_name="20180720-10.jpg" %}
+{% include component/img/horizontal.html file_name="20180720-10.jpg" %}
 Sa stena sa istočne strane zaliva može se posmatrati zalazak sunca. Ne postoji neka zgodna staza ili pristup, već se treba
 malo verati i provlačiti, ali vredi.
 
@@ -122,7 +121,7 @@ kampa).
 
 ## Kampovanje sa decom
 
-{% include layout/content/img_horizontal.html file_name="20180719-04.jpg" %}
+{% include component/img/horizontal.html file_name="20180719-04.jpg" %}
 Manje-više sve što sam do sada naveo su bile "servisne informacije". Na ovakvom statičnom letovanju svaki dan liči na 
 prethodni i može se svesti na: 
 
@@ -154,7 +153,7 @@ a i ostalu decu je osmelio i povukao sa sobom.
 Čupe je sa sobom poneo kajak na naduvavanje i SUP (stand up paddle - daska na naduvavanje koja se vesla stojeći), pa smo
 to svi na smenu koristili, trpali po 4-5 dece i vozali okolo.
 
-{% include layout/content/img_full.html file_name="20180714-22.jpg" %}
+{% include component/img/full.html file_name="20180714-22.jpg" %}
 
 Našli smo zarđalu udicu zakačenu za ogradu kampa, pa smo od trske, pampura od vina, pera od galeba i malo najlona
 i olova napravili pecaljku, upecali ribicu, poljubili i pustili.

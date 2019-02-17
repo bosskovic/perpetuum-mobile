@@ -1,16 +1,10 @@
 ---
 slug:              "foundation-and-empire"
-layout:            knjiga
 title:             "Foundation and Empire"
 authors:           "Isaac Asimov"
 goodreads_id:      "29581"
 img:               "https://images.gr-assets.com/books/1391454612l/29581.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Isaac-Asimov
   - bbb-sf

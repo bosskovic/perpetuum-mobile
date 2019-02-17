@@ -1,11 +1,12 @@
 ---
+category:    "2004-prve-voznje"
+parent_category: putopisi
 slug:        "lagane-voznje-oko-ns"
 title:       "Lagane vožnje oko Novog Sada"
 excerpt:     "destinacije dostižne u toku jednog dana na bilo kakvom biciklu"
 description: "U narednih par redova nalaze se opisi nekoliko laganih vožnjica u okolini Novog Sada. 
               Radi se o vožnjama manje prometnim putevima za koje osim dobre volje i bicikla koji se kotrlja niša drugo nije potrebno,
               ni atletska kondicija, ni specijalan bicikl, niti neka naročita oprema..." 
-categories:  ['2004-prve-voznje']
 image: "/2004-prve-voznje/lagane-voznje-oko-ns/img/001.jpg"
 
 tags:
@@ -28,7 +29,7 @@ Nemam ciklometar, a nisam uvek ni merio koliko je tačno vremena potrebno, tako 
 
 Jugozapadno od Futoga, nalazi se veliki ribnjak, koji je sa severne strane oivičen futoškim nasipom, dok se sa južne 
 nalazi vikend naselje ribnjak / Čerevićka skela (gde je i restoran "Čarda", po kome se i celo naselje često naziva čarda).
-{% include time_machine.html text="Futoški ribnjak je isušen pre više godina i sada je tu trska i šaš." %}
+{% include component/time_machine.html text="Futoški ribnjak je isušen pre više godina i sada je tu trska i šaš." %}
 
 Do čarde se od Novog sada može doći na dva načina. Jedan je da se krene nasipom od Telepskog Dunavca, pa pored Adica, 
 Kamenjara, pa dalje pored "šljunkare" sve do početka futoškog nasipa. Pomenuti put je asfaltiran od brodogradilišta do 
@@ -36,7 +37,7 @@ Kamenjara, pa dalje pored "šljunkare" sve do početka futoškog nasipa. Pomenut
 ima saobraćaja, put je uzan, ima rupa u asfaltu, brzo se vozi što sve zajedno ne čini prijatnu vožnju.
 Iza bučne i prašnjave šljunkare, gde se završava asfalt, počinje izuzetno loš prašnjavi put, prepun rupčaga, otpadaka i 
 izlomljenog stakla par usputnih manjih divljih deponija.
-{% include time_machine.html text="Danas je put asfaltiran celom dužinom od brodogradilišta sve do kraja Futoga. Problem sa brzom vožnjom na pomenutom delu i dalje stoji." %}
+{% include component/time_machine.html text="Danas je put asfaltiran celom dužinom od brodogradilišta sve do kraja Futoga. Problem sa brzom vožnjom na pomenutom delu i dalje stoji." %}
  
 Postoji bolji, udobniji put. Krene se od garaže GSP na Novom naselju, i odmah se pređe na levu stranu puta (kod pumpe) 
 i odatle, pa sve do Futoga ide ili široka pešačka staza (koju bez problema mogu da koriste biciklisti) ili biciklistička 
@@ -87,7 +88,7 @@ kupaju krmače, guščići i pačići. Tu desno skreće i neki puteljak (preko m
 nisamo ga isprobali. Zatim put ulazi u selo, i prva stvar koja se primeti jeste da se na bukvalno svakom stubu i odžaku 
 nalazi veliko gnezdo sa po bar tri rode. Da bi se stiglo do Tikvare, u selu treba skrenuti u prvu ulicu desno, i tako 
 putem, možda oko jedan kilometar. Kada se dođe do Tikvare, ko želi da ode do koviljskog manastira, treba da skrene levo.
-{% include time_machine.html text="Kasnije sam mnogo bolje upoznao Koviljski rit. Taj put što silazi pored Šlajza upotrebljiv je eventualno kada je vrlo niska voda, pošto više nema mosta koji tu nekad bio. Ali može se duboko zaći u rit tucanikom koji se spušta u rit otprilike od pomenute crpne stanice." %}
+{% include component/time_machine.html text="Kasnije sam mnogo bolje upoznao Koviljski rit. Taj put što silazi pored Šlajza upotrebljiv je eventualno kada je vrlo niska voda, pošto više nema mosta koji tu nekad bio. Ali može se duboko zaći u rit tucanikom koji se spušta u rit otprilike od pomenute crpne stanice." %}
 
 Nisam merio koliko treba do Kovilja i nazad, ali laganim tempom za jedno popodne se može otići tamo i nazad, uz 
 duža zadržavanja na nekim mestima (recimo da ne treba više od 3-4 sata uz uračunate pauze). 
@@ -98,7 +99,7 @@ duža zadržavanja na nekim mestima (recimo da ne treba više od 3-4 sata uz ura
 Ako se od Tikvare produži asfaltnim putem kroz njive, za oko pola sata se stiže na Arkanj. U pitanju je deo starog toka
 Dunava, na čijoj obali se smestila čarda "Na kraj sveta". Čarda je vrlo neobična, sva iskićena i išarana raznoraznim
 mudrolijama. Uz Arkanj se može nasipom ići sve do Gardinovaca.
-{% include time_machine.html text="Čarde danas više nema. Nalazila se na zemlji koja je restitucijom vraćena manastiru Kovilj, a njegova uprava nije bila zainteresovana da produži zakup vlasnicima čarde, pa je ovo interesantno mesto nestalo." %}
+{% include component/time_machine.html text="Čarde danas više nema. Nalazila se na zemlji koja je restitucijom vraćena manastiru Kovilj, a njegova uprava nije bila zainteresovana da produži zakup vlasnicima čarde, pa je ovo interesantno mesto nestalo." %}
 
 
 ### Novi Sad - Banstol - Crveni Čot - Beočin - skela - Futog - Novi Sad
@@ -113,7 +114,7 @@ Prvi nisam nikada probao (bar ne u tom smeru), ali mi se čini dosta dugačak, a
 sviđa mi se baš ideja da vozim prometnim putem od Kamenice do Beočina. Drugi put, na Venac, je najkraći i najbrži, ali 
 je pri tome i prilično strm (dužinom uspona od oko 8km, nagib je 6-8%, možda negde i više). Treći put, preko Banstola 
 je dosta duži, ali i manje strm.
-{% include time_machine.html text="Kasnije naravno jesam i ne predstavlja nikakav problem u malom prenosu." %}
+{% include component/time_machine.html text="Kasnije naravno jesam i ne predstavlja nikakav problem u malom prenosu." %}
 
 Najvažnije je biti uporan, imati volje i verovati u sebe. Verujem da se na Venac može popeti svako ko makar povremeno 
 vozi bicikl, i to sa najobičnijim biciklom (ja vozim krntiju sa istegljenim lancem, koja uopšte ne može da prebaci lanac 
@@ -136,7 +137,7 @@ skela za Futog.
 
 Što se skele tiče, ona ide od jutra do 8 uveče, na svaki pun sat kreće iz Beočina, a na pola sata iz Futoga, za pešake 
 besplatno, a za bicikliste 30 dinara. 
-{% include time_machine.html text="Cene iz 2004. Ne znam koliko je danas pošto obično idem na begečku skelu." %}
+{% include component/time_machine.html text="Cene iz 2004. Ne znam koliko je danas pošto obično idem na begečku skelu." %}
 
 Sve u svemu, oko 65-70 km (računajući i onih par po gradu), i to sve za oko četiri sata (zajedno sa pauzama, čekanjem 
 skele i prelaskom preko Dunava).
@@ -154,7 +155,7 @@ Dok se ne popravi Most Slobode, jedina kopnena veza između Novog Sada i Kameni�
 Asfaltni put za Kamenicu se penje na Trandžament, i preko mišelučke petlje silazi u Kamenicu. U samom podnožju, kod 
 Dunava (okretnice autobusa) treba skrenuti desno, i nasipom se stiže u park. Ovaj put je prilično strm i prometan, a 
 takođe i duži.
-{% include time_machine.html text="U međuvremenu je Most slobode popravljen, pa se može vozi bilo desnom ivicom puta (što tehnički nije dozvoljeno jer je put 'rezervisan za motorna vozila') ili pešačkom stazom koja je dovoljno široka da se može mimoći sa pešacima ili biciklistima iz drugog smera." %}
+{% include component/time_machine.html text="U međuvremenu je Most slobode popravljen, pa se može vozi bilo desnom ivicom puta (što tehnički nije dozvoljeno jer je put 'rezervisan za motorna vozila') ili pešačkom stazom koja je dovoljno široka da se može mimoći sa pešacima ili biciklistima iz drugog smera." %}
 
 Postoji bolji, kraći i udobniji put. Krene se jednako pored tvrđave, i otprilike na dve trećine uspona na Trandžament se 
 skrene u Ribnjak (to je prvo skretanje desno). Ovo je takozvani "Donji put" kroz Ribnjak, i ubrzo se spušta do same 

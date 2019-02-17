@@ -1,0 +1,43 @@
+.for-print {
+  display: none;
+}
+
+
+@media only print {
+  header.intro-header, #fb-root, #main-navbar, #affix-sidebar-labels, #affix-sidebar, #map, #gallery, #videos,
+  #post-category-header, #media-footer, .category-navigation, .comments, .related-posts-listing,
+  .category-listing-container, footer, .screen-only, .ppt-pdf, .time_machine {
+    display: none;
+  }
+
+  .post-previews{
+    page-break-before: always;
+  }
+
+  .for-print {
+    display: block;
+
+    img.stats {
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+  }
+
+
+  img.pic {
+    display: block !important;
+    page-break-inside: avoid !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  p, .post-preview, .side-story {
+    page-break-inside: avoid !important;
+  }
+
+  h1, h2, h3, h4{
+    break-after: avoid-page;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }
+}

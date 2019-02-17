@@ -1,16 +1,10 @@
 ---
 slug:              "sutjeska-pisu-ucesnici"
-layout:            knjiga
 title:             "Sutjeska - pišu učesnici, zbornik radova 1-5"
 authors:           "Milinko Đurović"
 goodreads_id:      "35295095"
 img:               "https://images.gr-assets.com/books/1496533382l/35295095.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Milinko-Đurović
   - bbb-NOB-memoar-/-dnevnik

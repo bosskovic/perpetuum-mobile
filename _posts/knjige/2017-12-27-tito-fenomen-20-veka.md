@@ -1,17 +1,11 @@
 ---
 slug:              "tito-fenomen-20-veka"
-layout:            knjiga
 title:             "Tito - fenomen 20. veka"
 authors:           "Pero Simić"
 goodreads_id:      "36586776"
 img:               "https://images.gr-assets.com/books/1510567967l/36586776.jpg"
 excerpt:           "Interesantna knjiga, vredi je pročitati, ali sama za sebe nije dovoljna da bi se saznala ili potpunije 
                     razumela istina."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Pero-Simić
   - bbb-SFRJ

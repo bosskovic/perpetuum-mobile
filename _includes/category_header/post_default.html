@@ -1,0 +1,56 @@
+<div id="post-category-header" class="container pm-category-header pm-post-default">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <h3>
+        <span class="separator">&larr;</span>
+        {% if ppt_grandparent %}
+        <a href="{{ ppt_grandparent.url }}">{{ ppt_grandparent.title }}</a>
+        <span class="separator">&larr;</span>
+        {% endif %}
+        <a href="{{ ppt_parent.url }}">{{ ppt_parent.title }}</a>
+      </h3>
+      <div class="text-muted">{{ ppt_parent.excerpt }}</div>
+
+      {% include post/navigation.html %}
+      <hr>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {% unless page.show_date == false %}
+        <em class="muted">
+            <i class="icon-kalendar"></i>{{ page.date | date: "%d. %m. %Y." }}
+            <i class="icon-etc"></i>
+            {% assign start=true %}
+            {% for tag in page.tags %}
+            {% unless start %}
+            *
+            {% endunless %}
+            {% assign start=false %}
+            {{ tag | replace: 'rrr-', ' ' | replace:'-', ' ' }}
+            {% endfor %}
+        </em>
+      {% endunless %}
+
+      {% if page.subtype == "knjige" %}
+      {% else %}
+        <h2 class="section-heading">{{ page.title }}</h2>
+      {% endif %}
+
+      {% if page.subtype == "etc" %}
+        <p class="muted mt-0">
+            {% if page.excerpt %}
+            <strong>{{ page.excerpt }}</strong><br>
+            {% endif %}
+            {% if page.description%}
+            {{ page.description }}<br>
+            {% endif %}
+
+            [{% include component/read_time.html content = page.content english=page.english %}]
+        </p>
+      {% else %}
+      {% endif %}
+    </div>
+  </div>
+</div>

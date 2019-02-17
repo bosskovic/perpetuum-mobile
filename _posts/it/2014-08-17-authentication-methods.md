@@ -1,6 +1,4 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "authentication-methods"
 title:      Authentication techniques for REST API
 excerpt:    API keys, username & password, authentication token, security concerns, nonce
@@ -9,10 +7,6 @@ tags:
   - ttt-api
   - ttt-featured
   - ttt-security
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176
 ---
 
 A REST API should be stateless. This means no sessions - for accessing protected content the credentials need to be sent with each request.

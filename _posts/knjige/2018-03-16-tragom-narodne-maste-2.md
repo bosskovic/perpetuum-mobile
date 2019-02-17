@@ -1,6 +1,5 @@
 ---
 slug:              "tragom-narodne-maste-2"
-layout:            knjiga
 title:             "Tragom narodne mašte, Baš Čelik"
 authors:           "Đorđe Lobačev"
 goodreads_id:      "39295387"
@@ -9,11 +8,6 @@ excerpt:           "Za razliku od Tragom narodne mašte, Ženidba cara Dušana, 
                     prvi put pročitao. Čini mi se da je dosta 'smelija', manje se oslanja isključivo na našu narodnu tradiciju već ima više 
                     uticaja fantastike. Priča i likovi su maštoviti a ilustracije odlične. Šteta što je izašlo u tako malom tiražu i u samo 
                     dve edicije."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-strip
   - aaa-Đorđe-Lobačev

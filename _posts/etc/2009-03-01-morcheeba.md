@@ -1,14 +1,8 @@
 ---
 slug:         "morcheeba"
-layout:       etc_post
 title:        "Morcheeba"
 excerpt:      "Tekstovi nekoliko pesama"
 description:  ""
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
 ---
 
 ### Enjoy The Ride

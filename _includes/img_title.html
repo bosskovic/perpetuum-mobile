@@ -1,1 +1,0 @@
-{% assign file_name= include.pic | split: "/" | last %}{% for pic in page.photos %}{% if pic.key == file_name %}{{ pic.title }}{% endif %}{% endfor %}

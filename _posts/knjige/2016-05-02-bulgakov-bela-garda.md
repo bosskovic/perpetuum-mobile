@@ -1,16 +1,10 @@
 ---
 slug:              "bulgakov-bela-garda"
-layout:            knjiga
 title:             "Bela Garda"
 authors:           "Mikhail Bulgakov"
 goodreads_id:      "18618877"
 img:               "https://images.gr-assets.com/books/1380642988l/18618877.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Mikhail-Bulgakov
   - bbb-Rusija

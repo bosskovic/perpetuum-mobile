@@ -1,16 +1,10 @@
 ---
 slug:              "istina-o-novosadskoj-raciji"
-layout:            knjiga
 title:             "Istina o Novosadskoj raciji"
 authors:           "Aleksandar Veljic"
 goodreads_id:      "34215952"
 img:               "https://images.gr-assets.com/books/1486723502l/34215952.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Aleksandar-Veljic
   - bbb-racija-1942

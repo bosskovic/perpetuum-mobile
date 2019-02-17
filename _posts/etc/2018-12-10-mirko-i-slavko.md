@@ -1,16 +1,10 @@
 ---
 slug:         "mirko-i-slavko"
-layout:       etc_post
 title:        "Mirko i Slavko"
 excerpt:      "pazi metak!"
 description:  "Kratak istorijat, izvori, spisak epizoda i poneke skenirane epizode."
 image:        "/etc/mirko-i-slavko/img/mirko_i_slavko.jpg"
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
-
+videos:       ["AzKguE5Ao9Y"]
 ---
 
 Prvi domaći visokotiražni strip, Mirko i Slavko je priča o dva dečaka, partizanska kurira. Izlazio u ediciji Nikad robom 
@@ -31,13 +25,13 @@ tražnja i tiraž su se smanjili. Likovi su opstali još samo u matičnom listu 
 ### Spisak epizoda:
 
 <ul>
-<li>{% include pdf_inline.html title="Nikad robom, 1, 1963, D. Žižović-Buin" path="/etc/mirko-i-slavko/nikadrobom-001-mirko-i-slavko-nikad-robom.pdf" %}</li>
-<li>{% include pdf_inline.html title="Zemunica u planini, 2, 1963, V. Žarić - Buin" path="/etc/mirko-i-slavko/nikadrobom-002-mirko-i-slavko-zemunica-u-planini.pdf" %}</li>
+<li>{% include component/pdf_inline.html title="Nikad robom, 1, 1963, D. Žižović-Buin" path="/etc/mirko-i-slavko/nikadrobom-001-mirko-i-slavko-nikad-robom.pdf" %}</li>
+<li>{% include component/pdf_inline.html title="Zemunica u planini, 2, 1963, V. Žarić - Buin" path="/etc/mirko-i-slavko/nikadrobom-002-mirko-i-slavko-zemunica-u-planini.pdf" %}</li>
 <li>Okršaj u noći, 6, 1964, Ž. Vukosavljević – D. Žižović-Buin</li>
-<li>{% include pdf_inline.html title="Zbeg, 10, 1964, D. Žižović-Buin" path="/etc/mirko-i-slavko/nikadrobom-010-mirko-i-slavko-zbeg.pdf" %}</li>
+<li>{% include component/pdf_inline.html title="Zbeg, 10, 1964, D. Žižović-Buin" path="/etc/mirko-i-slavko/nikadrobom-010-mirko-i-slavko-zbeg.pdf" %}</li>
 <li>Svaki deseti, 13, 1964, Ž. Vukosavljević – D. Žižović-Buin</li>
-<li>{% include pdf_inline.html title="Neko je uhoda, 25, 1965, Ž. Vukosavljević – D. Žižović-Buin" path="/etc/mirko-i-slavko/nikadrobom-025-mirko-i-slavko-neko-je-uhoda.pdf" %}</li>
-<li>{% include pdf_inline.html title="Kraj neprijateljskih straža, 31, 1965, M. Nićić – D. Žižović-Buin" path="/etc/mirko-i-slavko/nikadrobom-031-mirko-i-slavko-kraj-neprijateljskih-straza.pdf" %}</li>
+<li>{% include component/pdf_inline.html title="Neko je uhoda, 25, 1965, Ž. Vukosavljević – D. Žižović-Buin" path="/etc/mirko-i-slavko/nikadrobom-025-mirko-i-slavko-neko-je-uhoda.pdf" %}</li>
+<li>{% include component/pdf_inline.html title="Kraj neprijateljskih straža, 31, 1965, M. Nićić – D. Žižović-Buin" path="/etc/mirko-i-slavko/nikadrobom-031-mirko-i-slavko-kraj-neprijateljskih-straza.pdf" %}</li>
 <li>Brži od smrti, 34, 1966, Ž. Vukosavljević – D. Žižović-Buin</li>
 <li>Četvrti obruč, 49, 1966, M. Nićić - D. Žižović-Buin</li>
 <li>Tri hrabra druga, 56, 1966, M. Nićić - D. Žižović-Buin</li>
@@ -134,7 +128,7 @@ je već snimljen film i da će u poslednjoj sceni to tako biti otkriveno i prika
 kakvim ga zamišljaju deca rođena dvadeset godina nakon što se završio. Međutim ne, ovo je sve ipak bilo "zaozbiljno". 
 
 
-{% include layout/content/youtube.html id="AzKguE5Ao9Y" %}
+{% include component/youtube/video.html id="AzKguE5Ao9Y" %}
 
 ### Izvori:
 

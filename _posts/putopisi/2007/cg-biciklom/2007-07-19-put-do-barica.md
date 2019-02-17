@@ -8,7 +8,8 @@ description: "Rodbina bi me najradije gostila do kraja leta, ali ja želim da vo
               pešačenja uzbrdo, uspeva da nam 'sredi' prevoz kamionom do Barica. Tamo stižemo predveče, obilazimo novoizgrađenu
               crkvicu i stric nam nalazi gde ćemo prenoćiti. Ceo ovaj kraj je naseljen mnogobrojnim porodicama Boškovića,
               pa su tako i naši domaćini te večeri takođe bili Boškovići."
-categories:  ['2007-cg-biciklom']
+category:  2007-cg-biciklom
+parent_category: putopisi
 photos:
   -
     key: 011.jpg
@@ -69,7 +70,7 @@ njihovoj okolini ima stotinak domaćinstava Boškovića, a mnogi su se odatle is
 kuće koriste samo leti kao vikendice.</p>
 {% endcapture %}
 
-{% include layout/post/side_story.html story=story title="Boškovići u Zatarju" %}
+{% include post/side_story.html story=story title="Boškovići u Zatarju" %}
 
  
 ### Barice
@@ -78,7 +79,7 @@ Kamion nas je izbacio na samom početku Kamenog Polja, koje pripada Gornjim Bari
 „ljuti krš“, već prostranstvo livada, opkoljeno sa svih strana crnogoričnom šumom. Nadmorska visina varira između 1400 
 i 1600 metara. 
 
-{% include layout/content/img_horizontal.html file_name="011.jpg" %}
+{% include component/img/horizontal.html file_name="011.jpg" %}
 Krenuli smo polako prema baričkoj crkvi, nedavno izgrađenoj zajedničkim zalaganjem Boškovića, Čuljkovića i drugih 
 Baričana. Zanimljivo mi je bilo kako je stric uspostavljao kontakt sa Baričanima, naravno, sa daljine od više desetina 
 metara: *„Eee, jeste od Boškovića?“*, *„Ne no šta smo?!“*, usledio bi obično odgovor. Posle jednog takvog prozivanja, 

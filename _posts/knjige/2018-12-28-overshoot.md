@@ -1,16 +1,10 @@
 ---
 slug:              "overshoot"
-layout:            knjiga
 title:             "Overshoot: The Ecological Basis of Revolutionary Change"
 authors:           "William R. Catton Jr."
 goodreads_id:      "319810"
 img:               "https://images.gr-assets.com/books/1349083649l/319810.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-William-R.-Catton-Jr.
   - bbb-društveni-kolaps

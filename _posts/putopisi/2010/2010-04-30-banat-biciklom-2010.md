@@ -3,7 +3,6 @@ slug:        "2010-banat-biciklom"
 title:       "Banat biciklom 2010"
 excerpt:     "po šumama i gorama, kroz pustinju i prašumu"
 description: "Banat je magičan, mali a 'šaren' i raznovrsan. Od Arače uronjene u njive, rečica i kanala koji vijugaju kroz nepregledne kukuruze i suncokrete, preko lepog gradića Vršca, Vršačke kule, Vršačkog brega, koji iako mali, daje utisak visoke planine, pa preko livada i voćnjaka južnog Banata koji imaju šmek visokih planinskih pašnjaka, sve do Peščare i fenomenalnih Zagajičkih brda. I sve to spakovano u trodnevni krug biciklom."
-categories:  ['putopisi']
 image: "/putopisi/2010-banat-biciklom/img/20100501-13.jpg"
 photos:
   -
@@ -158,28 +157,28 @@ tags:
   - banat
 ---
 
-{% include layout/content/img_horizontal.html file_name="mapa.jpg" %}
+{% include component/img/horizontal.html file_name="mapa.jpg" %}
 Banat je magičan, mali a "šaren" i raznovrsan. Od Arače uronjene u njive, rečica i kanala koji vijugaju kroz nepregledne 
 kukuruze i suncokrete, preko lepog gradića Vršca, Vršačke kule, Vršačkog 
 brega, koji iako mali, daje utisak visoke planine, pa preko livada i voćnjaka južnog Banata koji imaju šmek visokih planinskih 
 pašnjaka, sve do Peščare i fenomenalnih Zagajičkih brda. I sve to spakovano u trodnevni krug biciklom.
 
 {% include separator.html %}
-{% include layout/content/id.html id="20100430" %}
+{% include component/id.html id="20100430" %}
 ### Dan prvi - vožnja do Vršačkog brega
 
 30\. april 2010.  
 Novi Sad - Vršački breg  
 
-{% include layout/content/img_full.html file_name="20100430-04.jpg" %}
+{% include component/img/full.html file_name="20100430-04.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20100430-13.jpg" %}
+{% include component/img/horizontal.html file_name="20100430-13.jpg" %}
 Krenuo sam iz Novog Sada u cik zore, i tek na izlazu iz grada je počelo da mi se razdanjuje. Asfaltni deo do Novog Bečeja
 sam "progutao", samo da ga se što pre rešim i siđem na letnji put ka Arači. A Arača je fenomenalna. Već iz daleka se vidi
 kako se izdiže iz njiva i dominira okolinom. Baš zbog te svoje veličine i činjenice da se vidi već iz daleka, izgleda kao
 da je blizu, ali ima tu dosta da se trucka letnjim putem koji čak ni ne ide direktno, već blago okolo.
 
-{% include layout/content/img_horizontal.html file_name="20100430-12.jpg" %}
+{% include component/img/horizontal.html file_name="20100430-12.jpg" %}
 Sama crkva mi je bila još interesantnija nego pre par godina kada sam je prvi put video. Lepo sunčano jutro, svuda unaokolo
 mladi usevi, a unutar crkve niska zelena trava.
 
@@ -188,13 +187,13 @@ O crkvi sam detaljnije pisao <a href="/putopisi/novi-becej-i-araca/#araca">ovde<
 Vozio sam još neko vreme letnjim putevima kroz njive, dok nisam izbio na asfaltni put za Bašaid. Bližilo se podne, sunce
 je već prilično upeklo, putevi su bili pusti ali se u selima osećalo prvo-majsko uzbuđenje (muzika i roštiljanje). 
 
-{% include layout/content/img_horizontal.html file_name="20100430-18.jpg" %}
+{% include component/img/horizontal.html file_name="20100430-18.jpg" %}
 Cilj mi je bio da pre mraka stignem do Vršačkog brega, pa nisam pravio mnogo pauza, ali u Žitištu sam morao da zastanem kod
 Rokijevog spomenika. Primetio sam da u skoro svakom selu kroz koje sam prošao postoji neki dvorac. Negde su lepo sređeni i
 privedeni nekoj nameni, na drugim mestima su zapušteni, utonuli u rastinje. Na žalost ovaj put se ni na jednom od ovih mesta
 nisam zadržavao.
 
-{% include layout/content/img_horizontal.html file_name="20100430-21.jpg" %}
+{% include component/img/horizontal.html file_name="20100430-21.jpg" %}
 Držao sam odličan tempo sve do pred sam Vršac, i tu sam blizu ulaza u grad imao "mini slom". Kombinacija pada šećera, sunca
 koje me prži ceo dan i nepravljenja pauze, nisam mogao da izdržim do grada, već sam morao malo da odmorim i opružim se na
 klupi na autobuskoj stanici koja se tu srećom našla.
@@ -207,21 +206,21 @@ poslednji uspon kao finiš 15ak sati vožnje i 200-ak km me je dobro umorio. Sa 
 stotina metara od kule, i nalazim taman mesta da u žbunju otvorim šator. Imao sam i boljih mesta za kamp, ali poslužiće.
 
 {% include separator.html %}
-{% include layout/content/id.html id="20100501" %}
+{% include component/id.html id="20100501" %}
 ### Dan drugi - vožnja po Vršačkom bregu i do Peščare
 
 1\. maj 2010.  
 Vršački breg - Zagajička brda  
 
-{% include layout/content/img_full.html file_name="20100501-07.jpg" %}
+{% include component/img/full.html file_name="20100501-07.jpg" %}
 
-{% include layout/content/img_horizontal.html file_name="20100501-01.jpg" %}
+{% include component/img/horizontal.html file_name="20100501-01.jpg" %}
 Koliko sam bio umoran uveče, bio sam ubeđen da ujutro neću moći da se sastavim, ali noć me je odlično osvežila i osvanuo
 sam kao nov. Na brzinu sam doručkovao i popakovao se, i krenuo dalje. Tako na tovaren sam iz cuga izašao od parkinga strmom
 stazom do Vršačke kule.
 
 {% capture story %}
-{% include layout/content/img_vertical.html file_name="20100501-04.jpg" %}
+{% include component/img/vertical.html file_name="20100501-04.jpg" %}
 <p>Na jednom od nižih uzvišenja Vršačkog brega, direktno iznad ravnice u kojoj se nalazi Vršac, polovinom XV veka podignuta
 je mala tvrđava. Interesantno je da je to jedna od nekolicine tvrđava koje su sazidali srpski plemići. Pretpostavlja se 
 da ju je podigao Đurađ Branković posle pada Despotovine, kako bi štitila od Turaka njegove posede u južnoj Ugarskoj.</p>
@@ -231,9 +230,9 @@ njom ovladavaju 1552. Tokom velike banatske bune 1594. godine, pobunjenici oslob
 Vršačku tvrđavu. Ustanak je ugušen u krvi i Banatom Turci vladaju sve do 1716. godine kada ulazi u sastav Austrijskog 
 carstva. Tvrđava ubrzo gubi vojni i strateški značaj i biva napuštena.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Vršačka kula" %}
+{% include post/side_story.html story=story title="Vršačka kula" %}
 
-{% include layout/content/img_horizontal.html file_name="20100501-03.jpg" %}
+{% include component/img/horizontal.html file_name="20100501-03.jpg" %}
 Dugo najavljivana obnova Vršačke kule bila je gotovo neprimetna - delovi ledine ispod kule bili su ograđeni, kao i metalne
 stepenice koje vode u kulu i na njen vrh. Ali mene to nije sprečilo, preskočio sam ogradu, popeo se na vrh i uživao u pogledu.
 Dan je bio malo musav pa iako ravan, Banat se baš i nije video na daleko, ali su se podnožje kule, Vršac i Vršački breg 
@@ -247,7 +246,7 @@ Na mestu gde se asfalt završio kod vikend naselja, sam zašao malo među kućic
 letnji put koji bi me odveo ka južnim obroncima. Brzo me je spazio živahni dedica (Valter, zaboravio sam prezime) i sam
 mi prišao. Svašta mi je napričao, ispostavilo se da je on tu neki važan faktor u planinarskom društvu, dobio sam gomilu 
 informacija o Bregu, bedž, mapu i još ponešto od materijala kao i detaljan opis kuda da idem.
-{% include time_machine.html text="Nepunih godinu dana kasnije, vodio sam grupicu organizovanu preko fejsbuka na neku šetnju po Fruškoj gori, i prepričavajući svoje banatsko putešestvije pomenuo i Valtera, koji je na mene ostavio utisak. Ispostavilo se da je u toj grupici bila i njegova unuka. Još jedna potvrda kako je svet mali..." %}
+{% include component/time_machine.html text="Nepunih godinu dana kasnije, vodio sam grupicu organizovanu preko fejsbuka na neku šetnju po Fruškoj gori, i prepričavajući svoje banatsko putešestvije pomenuo i Valtera, koji je na mene ostavio utisak. Ispostavilo se da je u toj grupici bila i njegova unuka. Još jedna potvrda kako je svet mali..." %}
 
 Zahvaljujući detaljnim instrukcijama, bez većih problema sam se spustio preko Širokog bila i niz južne obronke Brega, pravo 
 u žuto more nepregledni zasada uljane repice. Okrenuo sam leđa Bregu i pošao asfaltom na jug, i posle niza seoca u pograničnom
@@ -269,10 +268,10 @@ izlazak sunca iznad Vršačkog brega. Uz veliki napor uspevam to da ostvari u sa
 
 
 {% include separator.html %}
-{% include layout/content/id.html id="20100502" %}
+{% include component/id.html id="20100502" %}
 ### Dan treći - od Peščare do Novog Sada
 
 2\. maj 2010.  
 Zagajička brda - Novi Sad
 
-{% include layout/content/img_full.html file_name="20100502-10.jpg" %}
+{% include component/img/full.html file_name="20100502-10.jpg" %}

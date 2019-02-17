@@ -1,0 +1,30 @@
+{% assign all_posts = site.posts | reverse %}
+
+
+{% include scripts/find_parent.html category=page.category %}
+<div class="col-sm-6">
+  <div class="category-listing">
+  <h4><a href="{{ ppt_parent.url }}">{{ ppt_parent.title }}</a></h4>
+  <ul>
+    {% for p in all_posts %}
+      {% if p.category == page.category %}
+        {% if p == page %}
+          <li>
+            {% unless p.show_date == false %}
+            <span class="date">{{ p.date | date: "%d. %m. %Y." }}</span>
+            {% endunless %}
+            {{ p.title }}
+          </li>
+        {% else %}
+          <li><a href="{{ p.url }}">
+            {% unless p.show_date == false %}
+              <span class="date">{{ p.date | date: "%d. %m. %Y." }}</span>
+            {% endunless %}
+            {{ p.title }}
+          </a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  </div>
+</div>

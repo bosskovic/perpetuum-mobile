@@ -1,16 +1,10 @@
 ---
 slug:              "gorski-vijenac"
-layout:            knjiga
 title:             "Gorski vijenac"
 authors:           "Petar II Petrović Njegoš"
 goodreads_id:      "6747126"
 img:               "https://images.gr-assets.com/books/1328025130l/6747126.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Petar-II-Petrović-Njegoš
   - bbb-klasik

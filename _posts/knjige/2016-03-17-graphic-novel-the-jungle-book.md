@@ -1,16 +1,10 @@
 ---
 slug:              "graphic-novel-the-jungle-book"
-layout:            knjiga
 title:             "The Jungle Book: The Graphic Novel"
 authors:           "Dan Johnson"
 goodreads_id:      "13154529"
 img:               "https://images.gr-assets.com/books/1323041854l/13154529.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Dan-Johnson
   - bbb-strip

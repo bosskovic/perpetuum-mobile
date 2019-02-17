@@ -1,0 +1,6 @@
+{% for pfp in site.pages %}
+    {% if pfp.slug == include.category %}
+        {% assign parent = pfp %}
+        {% break %}
+    {% endif %}
+{% endfor %}

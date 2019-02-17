@@ -3,7 +3,8 @@ slug:        "istocna-fruska-gora-biciklom"
 title:       "Istočna Fruška gora biciklom"
 excerpt:     "Čortanovačka šuma, Janda, Stari Slankamen"
 description: "Još jedna vožnj iz niza kojim sam krenuo da crtam krug oko Novog Sada prečnika pedesetak kilometara, i to jedna od interesantnijih. Videli smo svašta zanimljivo, poput ostataka rimskog utvrđenja u Čortanovačkoj šumi, lepog puta preko Jande sa kojeg se vidi Krčedinska ada kao na dlanu i Starog Slankamena, ali vreme je uglavnom bilo ružno."
-categories:  ['2005-voznje-u-okolini-ns']
+category:  2005-voznje-u-okolini-ns
+parent_category: putopisi
 image: "/2005-voznje-u-okolini-ns/istocna-fruska-gora-biciklom/img/008.jpg"
 videos: ["7jXtIHLeb7M", "kbewWzWbHJw"]
 photos:
@@ -88,19 +89,19 @@ tags:
     
 ---
 
-{% include layout/content/img_horizontal.html file_name="002.jpg" %}
+{% include component/img/horizontal.html file_name="002.jpg" %}
 Vreme nije previše obećavalo, ali smo mi svejedno bili optimisti, pa smo krenuli starim putem za Beograd nadajući se 
 da će nas kiša zaobići. Sa Banstola smo se spustili ka Čortanovcima, mestu podeljenom na dva dela: na selo i na vikend 
 naselje u šumi uz Dunav (gde je i železnička stanica). Skrenuvši prema Dunavu, prošli smo pored takozvane "Namesnikove 
 vile" (tj. vila Stanković), čija neobična kula motri na prolaznike koji prolaze putem, i malo podlokanom kaldrmom ubrzo 
 izašli na obalu Dunava. Nivo reke je dosta visok, tako da su izletišta pored vode i objekti sagrađeni uz obalu poplavljeni. 
 
-{% include layout/content/img_vertical.html file_name="005.jpg" %}
+{% include component/img/vertical.html file_name="005.jpg" %}
 Uz Dunav se pruža Čortanovačka šuma. Ona je slično kao i Kamenički park omiljeno izletište pored Dunava, ali je ipak u 
 pitanju prava pravcata šuma. Skoro sat vremena smo kružili probijajući se kroz lijane i gusto rastinje na samo 50-ak - 100 
 metara od ruševina rimske tvrđave, a da nismo uspeli da je pronađemo. U tome smo uspeli tek uz pomoć lokalnog vodiča.
 
-{% include layout/content/id.html id="rimsko-utvrdjenje-u-cortanovcima" %}
+{% include component/id.html id="rimsko-utvrdjenje-u-cortanovcima" %}
 {% capture story %}
 <p>Nismo mi jedini koji su imali teškoća da pronađu ostatke ove tvrđave, pošto je njena lokacija i za nauku bila nepoznata 
 (uprkos svom značaju) sve do pre šezdesetak godina.</p>
@@ -124,20 +125,20 @@ idu zidovi glavnog bedema, široki skoro dva metra. I ovi zidovi su građeni kom
 razmestio dve novoformirane legije: VI Herculi i V Iovia. U antičkim spisima se takođe spominju i dva utvrđenja: Ad 
 Herculem i Castrum Herculi, i pretpostavlja se da se ona odnose na Čortanovce i Rakovac.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Rimsko utvrđenje u Čortanovcima" %}
+{% include post/side_story.html story=story title="Rimsko utvrđenje u Čortanovcima" %}
 
-{% include layout/content/youtube.html id="7jXtIHLeb7M" print="no" %}
+{% include component/youtube/video.html id="7jXtIHLeb7M" print="no" %}
 
 Moji saputnici su bili vidno razočarani, čemu sam i ja dosta kumovao, jer kada sam im "reklamirao" ovu stanicu na našoj 
 vožnji, uvek sam govorio o rimskoj tvrđavi, a ne o *ostacima* rimske tvrđave. Što se mene tiče, mene oduševljava i sama 
 činjenica da je nešto uopšte i opstalo, a to nešto je mnogo više od svega što sam video na Fruškoj gori tokom prošlonedeljne vožnje.
 
-{% include layout/content/img_vertical.html file_name="009.jpg" %}
+{% include component/img/vertical.html file_name="009.jpg" %}
 Na putu ka selu smo prošli kroz jedan veliki surduk, pravi mali "lesni kanjon", prošli smo kroz Čortanovce i nastavili 
 prema Beški. Od kako smo skrenuli sa Banstola, pa sve do Slankamena, skoro da uopšte nije bilo saobraćaja. Izuzetak je 
 bio jedino u Beški i Krčedinu.
 
-{% include layout/content/img_horizontal.html file_name="010.jpg" %}
+{% include component/img/horizontal.html file_name="010.jpg" %}
 Nedavno je asfaltiran put od Čortanovaca do Beške, tako da se više ne mora birati između vožnje kroz njive ili velikog 
 zaobilaženja. Asfalt ide sve do skretanja za Slankamenske Vinograde (s tim što je u Beški i Krčedinu kaldrma). Tu sam 
 bio preglasan, tako da smo umesto asfaltom do Slankamenskih Vinograda i kaldrmom do Slankamena išli pravo za Novi Slankamen 
@@ -151,7 +152,7 @@ posvećen ovoj velikoj bitki.
 
 ### Slankamen
 
-{% include layout/content/img_horizontal.html file_name="011.jpg" %}
+{% include component/img/horizontal.html file_name="011.jpg" %}
 Od Novog do Starog Slankamena put prolazi kroz veliki surduk, redak prizor na Fruškoj gori. Čim se izađe 
 iz surduka, otvara se pogled na Stari Slankamen, interesantno mesto stešnjeno između Dunava i obronaka Fruške gore.
 Sa druge strane Dunava vide se ritovi i ušće Tise, u daljini i Titelski breg i Titel a malo nizvodno se nalazi nekoliko 
@@ -163,7 +164,7 @@ i Dunava još nije bila pod punom rimskom kontrolom, pa je glavni put išao uz o
 (u doba vladavine Dominicijana), Akumincum dobija na većem značaju i postaje glavno uporište rimske imperije na ovom delu 
 dunavskog limesa.
 
-{% include layout/content/img_horizontal.html file_name="013.jpg" %}
+{% include component/img/horizontal.html file_name="013.jpg" %}
 U srednjem veku tu je bio grad (tvrđava) Zalankemen koji je dobio ime po izvoru slane vode na čijem mestu je i danas banja. 
 U XIII veku, Slankamenom je upravljao srpski kralj Dragutin (poznat i kao "sremski kralj") a u XV veku pripadao je srpskim 
 despotima Brankovićima. U Slankamenu se nalazi najstarija srpska pravoslavna crkva na Fruškoj gori.
@@ -180,9 +181,9 @@ kupolu, koje danas više nema. Uz zapadni zid je nahnadno 1733. dozidan barokni 
 srednjevekovnog grada, a unutar podgrađa. Služila je kao uzor kasnije sagrađenim crkvama na Fruškoj gori, prvenstveno 
 manastiru Krušedol i crkvi u Krušedolu.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Nikolajevska crkva u Slankamenu" %}
+{% include post/side_story.html story=story title="Nikolajevska crkva u Slankamenu" %}
 
-{% include layout/content/img_horizontal.html file_name="016.jpg" %}
+{% include component/img/horizontal.html file_name="016.jpg" %}
 Do crkve smo se umesto dugim nizom stepenica popeli zemljanim putem koji prolazi pored partizanskog spomenika. Nakon 
 obilaska crkve (koja je bila zaključana), rešili smo da probamo da se popnemo na greben, kako bi našli bolji ugao sa 
 kog se vidi ušće Tise. Pošto je bilo već dva sata, a i kiša je sve jače padala, nismo stigli dalje od pravoslavnog groblja.
@@ -207,12 +208,12 @@ ga zauzimaju na juriš 1521. godine. Po izveštajima putopisaca iz XVI veka, gra
 opasivale i veliko podgrađe. 1691. godine Turci su pretrpeli težak poraz u blizini Slankamena, i tada uz velike teritorije 
 gube i ovaj grad. Prema izveštajima iz perioda koji je neposredno sledio (1702. godina), grad je već tada bio u ruševinama.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Slankamenska tvrđava" %}
+{% include post/side_story.html story=story title="Slankamenska tvrđava" %}
 
 
-{% include layout/content/youtube.html id="kbewWzWbHJw" print="no" %}
+{% include component/youtube/video.html id="kbewWzWbHJw" print="no" %}
 
-{% include layout/content/img_vertical.html file_name="021.jpg" %}
+{% include component/img/vertical.html file_name="021.jpg" %}
 Od slankamenske tvrđave danas su vidljivi, pored pomenutih ostataka podgrađa, veliki jugoistočni zid, ostaci južne kule, 
 još jedan zid na sličnom pravcu, samo malo južnije, ostaci neke građevine unutar bedema, kao i brojni zemljani šančevi. 
 Materijal sa tvrđave je u velikoj meri razvučen, ali ipak je treba posetiti, ako ne zbog ostataka same tvrđave, ono bar 
@@ -227,7 +228,7 @@ jedan od najlepših kojima sam ikada išao!
 Glavni greben Fruške gore koji kreće od Iloka pa preko Vizića, Letenke, Crvenog Čota, Iriškog Venca... na Banstolu se 
 sužava i skreće na sever, i ide uz Dunav sve do iza Slankamena.
 
-{% include layout/content/img_horizontal.html file_name="024.jpg" %}
+{% include component/img/horizontal.html file_name="024.jpg" %}
 Pomenuti makadam kojim smo mi vozili ide otprilike po sredini severne padine. Pored toga što se sa njega pruža lep pogled 
 na Dunav i brojne ritove, on pritom prolazi kroz niz lepo uređenih voćnjaka, vinograda, vikendica, "šuma" jorgovana... 
 
@@ -235,14 +236,14 @@ Ideja je bila da idemo na zapad grebenom uz Dunav sve do tačke gde počinje asf
 dileme i lutanja, ali smo konačno (uz pomoć jednog lokalca) uspeli da stignemo do meteorološke stanice do koje ide 
 pomenuti asfalt. Neposredno ispred ide jedna deonica od oko 2 km gde je bilo stravično blato.
 
-{% include layout/content/img_horizontal.html file_name="025.jpg" %}
+{% include component/img/horizontal.html file_name="025.jpg" %}
 Posle oko pet minuta struganja blata, krenuli smo da se spuštamo; oni koji imaju blatobrane su uživali a oni što nemaju 
 malo manje. Uskoro smo stigli do Krčedina. Tu su nastali problemi; Lazaru su proklizavale kočnice, pa nije mogao da vozi 
 nizbrdo a i Slobodan je imao neki kvar, pa nije mogao da ide uzbrdo... Bilo kakva varijanta sa Banstolom je otpala, pa 
 smo krenuli uz autoput, pa preko mosta. Veći deo od Krčedina do Kovilja (desetak kilometara) smo gurali, pa pošto smo 
 bili skroz mokri, vetar nas je produvao do kostiju.
 
-{% include layout/content/img_horizontal.html file_name="026.jpg" %}
+{% include component/img/horizontal.html file_name="026.jpg" %}
 Celom dužinom mosta kod Beške sa obe strane postoje ograđene pešačke staze. Odatle se pruža sjajan pogled prema Dunavu 
 i nabujalim ritovima sa bačke strane. 
 

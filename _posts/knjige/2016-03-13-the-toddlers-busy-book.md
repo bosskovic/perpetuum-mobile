@@ -1,16 +1,10 @@
 ---
 slug:              "the-toddlers-busy-book"
-layout:            knjiga
 title:             "The Toddler's Busy Book: 365 Creative Games and Activities to Keep Your 1 1/2- to 3-Year-Old Busy"
 authors:           "Trish Kuffner"
 goodreads_id:      "835822"
 img:               "https://images.gr-assets.com/books/1418103813l/835822.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Trish-Kuffner
   - bbb-vaspitanje-dece

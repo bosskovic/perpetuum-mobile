@@ -1,6 +1,5 @@
 ---
 slug:         "razbojistem-posle-bitke"
-layout:       etc_post
 title:        "Razbojištem posle bitke"
 excerpt:      "Memoar Krajimira Grbovića iz zbornika radova 'Sutjeska III'"
 description:  "Tokom V neprijateljske ofanzive, veče pred pokušaj proboja obruča na Sutjesci od strane III proleterske brigade,
@@ -8,16 +7,11 @@ description:  "Tokom V neprijateljske ofanzive, veče pred pokušaj proboja obru
                gotovo sve što je moglo, ali volja za životom, borbom i osvetom neprijatelju održala ga je uprkos najtežim 
                iskušenjima na kojima se našao."
 image:        "/etc/razbojistem-posle-bitke/img/sutjeska.jpg"
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
 tags:
   - peta-ofanziva
 ---
 
-{% include layout/content/img_full.html file_name="sutjeska.jpg" %}
+{% include component/img/full.html file_name="sutjeska.jpg" %}
 
 Bilo je već popodne 12. juna kada je naš topovski vod, preko Mrkalj-Klada, stigao pod Vučevo. Isključili su nas pre
 nekoliko sati iz borbe, jer za top nismo imali više udarnih granata — ostalo nam je još samo 80 pancirnih za tenkove.

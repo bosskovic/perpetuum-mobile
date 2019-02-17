@@ -1,16 +1,10 @@
 ---
 slug:              "razgovori-sa-kocom"
-layout:            knjiga
 title:             "Razgovori s Kočom"
 authors:           "Aleksandar Nenadović"
 goodreads_id:      "18633146"
 img:               "https://images.gr-assets.com/books/1381154018l/18633146.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Aleksandar-Nenadović
   - bbb-NOB-memoar-/-dnevnik

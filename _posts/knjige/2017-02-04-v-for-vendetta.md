@@ -1,16 +1,10 @@
 ---
 slug:              "v-for-vendetta"
-layout:            knjiga
 title:             "V for Vendetta"
 authors:           "Alan Moore"
 goodreads_id:      "403459"
 img:               "https://images.gr-assets.com/books/1353657537l/403459.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Alan-Moore
   - bbb-strip

@@ -1,13 +1,11 @@
 ---
-layout:      subcategory
+has_subposts: true
 slug:        "2004-prve-voznje"
 title:       "Prve vožnje - 2004"
 excerpt:     "krntijom po okolini Novog Sada"
 description: "Prvi krugovi točkova mog raspadnutog bicikla po okolini Novog Sada i otkrivanje slobode koju on može da donese." 
 image:       "/2004-prve-voznje/zapadna-fruska-gora-biciklom/img/002.jpg"
-categories:  ['putopisi']
-has_subcategories: true
-date:        2004-07-01
+
 ---
 
 Već godinama sam praktično nerazdvojan od mog bicikla, i pomoću te genijalne sprave prelazim sve gradske distance za 5, 

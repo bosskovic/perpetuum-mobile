@@ -1,6 +1,5 @@
 ---
 slug:         "kako-povecati-privatnost-na-internetu"
-layout:       oprema
 title:        "Pravo na privatnost je neotuđivo pravo - kako povećati privatnost na internetu?"
 excerpt:      ""
 description:  ""
@@ -9,7 +8,6 @@ animation:
   url: /assets/img/animated/cctv.gif
   width: 220
   height: 222
-categories: ['etc']
 published: false
 ---
 

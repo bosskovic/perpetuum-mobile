@@ -1,16 +1,10 @@
 ---
 slug:              "for-whom-the-bell-tolls"
-layout:            knjiga
 title:             "For Whom the Bell Tolls"
 authors:           "Ernest Hemingway"
 goodreads_id:      "46170"
 img:               "https://images.gr-assets.com/books/1492591524l/46170.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Ernest-Hemingway
   - bbb-klasik

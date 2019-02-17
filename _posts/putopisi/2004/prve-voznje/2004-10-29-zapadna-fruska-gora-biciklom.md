@@ -1,9 +1,10 @@
 ---
+category:     2004-prve-voznje
+parent_category: putopisi
 slug:        "zapadna-fruska-gora-biciklom"
 title:       "Zapadna Fruška gora"
 excerpt:     "ispitivanje granica čoveka i bicikla"
 description: "Ova vožnja je bila moje biciklističko vatreno krštenje. Za oko 13 sati prešao sam preko 160 km vozeći po dobrom asfaltu, lošem asfaltu, makadamu, tvrdom blatu, mekom blatu, močvarnom blatu, kroz slabo prohodnu šumu gde su putevi prekriveni lišćem i granjem, kroz vinograde i po njivama. Proširivao sam, pravio planirane, ali i neplanirane krugove, vozao se po ničijoj zemlji na hrvatsko-vojvođanskoj  granici, i još štošta." 
-categories:  ['2004-prve-voznje']
 image: "/2004-prve-voznje/zapadna-fruska-gora-biciklom/img/002.jpg"
 photos:
   -
@@ -121,9 +122,9 @@ se pruža lep pogled na južne obronke Fruške gore. Sa njega se jasno mogu vide
 selo Vrdnik, a u daljini se naziru Pavlovačko jezero i aluvijalna ravan donjeg Srema. Kada je dan lep, pogled dopire i 
 mnogo dalje.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Zmajevac" %}
+{% include post/side_story.html story=story title="Zmajevac" %}
 
-{% include layout/content/img_horizontal.html file_name="001.jpg" %}
+{% include component/img/horizontal.html file_name="001.jpg" %}
 Partizanski put je bio pust. Vozio sam i uživao u mirisima jutra. Kraljeva Stolica, Zmajevac i Brankovac su brzo prošli. 
 Više puta sam stajao da fotografišem, ali se na žalost ispostavilo da nije bilo dovoljno svetla za moj fotoaparat :(
 
@@ -135,9 +136,9 @@ prisajedinjenje Vojvodine kraljevini Srbiji). Ubijen je i bačen pod led u novos
 <p>Pavlasov čot se nalazi nekoliko stotina metara istočno od Crvenog čota, najvišeg vrha Fruške gore, desetak metara 
 severno od Partizanskog puta. Visok je 531m, što ga čini drugim po visini vrhom Fruške gore.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Ignjat Pavlas" %}
+{% include post/side_story.html story=story title="Ignjat Pavlas" %}
 
-{% include layout/content/img_vertical.html file_name="003.jpg" %}
+{% include component/img/vertical.html file_name="003.jpg" %}
 Na Pavlasov Čot sam stigao pre pola devet. Neverovatno da na jednoj od najviših tačaka u široj okolini nema signala za 
 064! Krenuo sam da se spuštam prema uspavanoj Letenki, i prozujao pored nje. Prošao sam pored Papratskog Dola i oko pola 
 deset stigao u Rohalj Baze. 
@@ -152,12 +153,12 @@ baza do Letenke i Jabuke je tokom rata bio slobodna teritorija.</p>
 odlazak vojvođanskih partizana na ratište. Autor mamorijalnog kompleksa sa zgradom muzeja i partizanskim grobljem je 
 Milorad Berbakov. Danas se u ovoj zgradi nalazi kafana a većina eksponata je prenesena u Muzej Srema u Sremskoj Mitrovici.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Rohalj baza" %}
+{% include post/side_story.html story=story title="Rohalj baza" %}
 
 
 ### Prva promena plana
 
-{% include layout/content/img_horizontal.html file_name="004.jpg" %}
+{% include component/img/horizontal.html file_name="004.jpg" %}
 Rohalj baza mi je bila prva prekretnica, pošto sam tu odlučio da imam dovoljno snage i vremena da umesto za Vizić i Ilok 
 idem na proširenu varijantu prema Erdeviku. Krenuo sam prema manastiru Kuveždin, do kog se spušta sigurno jedan od 
 najstrmijih puteva u okolini. Sva sreća da nisam morao da se vraćam tuda. 
@@ -171,9 +172,9 @@ Zaharija Orfelina iz 1772. godine. Stara crkva i konaci su 1815-16 zamenjeni nov
 tokom Drugog svetskog rata. Rušeni su dva puta, tako da su ostali samo goli zidovi. Obnova je počela 1996 i još je u 
 toku. Manastir je posvećen Svetom Savi.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Manastir Kuveždin" %}
+{% include post/side_story.html story=story title="Manastir Kuveždin" %}
 
-{% include layout/content/img_horizontal.html file_name="006.jpg" %}
+{% include component/img/horizontal.html file_name="006.jpg" %}
 Manastir Kuveždin je smešten na lepom, pomalo 
 skrovitom mestu. Ko ga nije dugo video, iznenadiće se, pošto su radovi na popravci poodmakli, i mesto je prepuno majstora, 
 koji su me "izgrdili" što sam se zavlačio da vidim svaki kutak manastira. Krenuo sam dalje, nizbrdo prema Binguli, i prošao 
@@ -192,9 +193,9 @@ Erdevika ili (dosta lošim) zemljanim putem iz Vizića. Vodom ga napaja potok Mu
 se nalaze dve ustave, čijom je izgradnjom podignut nivo potoka i poplavljeni okolni obronci. Šuma se spušta do same 
 obale gde rastu trska i šaš. Jezero je poribljeno i na njemu ima puno divljih ptica a u okolini sam viđao srne i zečeve.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Jezero Moharač" %}
+{% include post/side_story.html story=story title="Jezero Moharač" %}
 
-{% include layout/content/img_horizontal.html file_name="009.jpg" %}
+{% include component/img/horizontal.html file_name="009.jpg" %}
 Jezero je bilo skroz drugačije nego kada sam ga video zimus. Umesto snega i leda, zatekao sam izmreškanu plavo-zelenu 
 površinu, koja se protezala nekoliko kilometara na sever. Tu sam napravio pauzu od 15 minuta.
 
@@ -213,7 +214,7 @@ su kasnije prekrečeni.</p>
 <p>Rimokatolička crkva Sv. Mihajla je neogotička građevina iz 1890. godine. Prozori su ukrašeni vitražima. Oltar, rad 
 nepoznatog majstora, izrađen je po uzoru na one iz tirolskih crkava.</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Erdevik" %}
+{% include post/side_story.html story=story title="Erdevik" %}
 
 
 Po povratku u Erdevik sam malo fotografisao, tražio gde mogu da sipam vodu i telefonirao. Inače, u Erdeviku sam video 
@@ -221,13 +222,13 @@ najmanje dve Halo-govornice na glavnom putu, a i u većini sela ih ima (čini mi
 ima lep, širok centar, koji je bio prekriven lišćem. Tu su i spomenici hrabrim Sremcima izginulim u Drugom svetskom ratu, 
 i tri različite crkve tri različite konfesije.
 
-{% include layout/content/img_horizontal.html file_name="011.jpg" %}
+{% include component/img/horizontal.html file_name="011.jpg" %}
 Jezero Bruje se nalazi severozapadno od Erdevika (prvo skretanje desno) i nije baš odmah pored puta kao što je ucrtano 
 na karti, već treba voziti par minuta. Nije me nešto oduševilo. Pored se nalazi banja, sa otvorenim bazenom (koji je bio 
 besprekorno čist). Krenuo sam dalje na sever prema Ljubi, nemilosrdnim usponom na koji me je Tibor upozorio. Junački sam 
 ga izvezao bez zaustavljanja. 
 
-{% include layout/content/img_horizontal.html file_name="012.jpg" %}
+{% include component/img/horizontal.html file_name="012.jpg" %}
 Ljuba je, koliko sam razumeo, dominantno Slovačko naselje. To potvrđuje i neobična arhitektura crkava. U centru 
 sela, pored crkve za koju pretpostavljam da bi mogla biti katolička, nalazi se parkić u kom ima česma sa pijećom vodom. 
 U blizini je i spomenik italijanskim partizanima poginulim na Sremskom frontu.
@@ -248,11 +249,11 @@ FRONTE DELLO SREM COMBATTERONO E CADDERO INSIEMA AI COMPAGNI JUGOSLAVI CONTRA NA
 <p>ASOC. NAZION. PARTIGANI D'ITALIA</p>
 <p>MAGGIO 1979 DIV. GARIBALDI D'ASS. "ITALIA"</p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Tekst na spomeniku:" %}
+{% include post/side_story.html story=story title="Tekst na spomeniku:" %}
 
 ### Zapadna Fruška gora
 
-{% include layout/content/img_vertical.html file_name="013.jpg" %}
+{% include component/img/vertical.html file_name="013.jpg" %}
 Od Ljube put prvo silazi u rupu (gde se nalaze ostaci starog đerma), a zatim se okomito penje dalje prema graničnom prelazu 
 "Ljuba". Odlučio sam se da još ne želim da završavam, već da idem prema jezeru Sot, Privinoj Glavi i Berkasovu, a preći 
 ću već u Hrvatsku kod Bapske. U blizini granice naišao sam na traktoristu koji mi je ukratko objasnio kojim putem da 
@@ -262,7 +263,7 @@ najgadnije delove sam gurao. Prva polovina puta prati visoku ogradu, koja je pre
 Na nekoliko mesta put se račva i skreće levo da bi se za par desetina metara završio zaključanom kapijom. Pošto je taj 
 deo dosta strm i neprijatan, tešio sam se da neću morati da se vraćam tuda.  
 
-{% include layout/content/img_horizontal.html file_name="014.jpg" %}
+{% include component/img/horizontal.html file_name="014.jpg" %}
 Posle nekog vremena, dolazi se do kraja ograde, i put se račva, gde jedan krak ide pravo kroz njive i vinograde (kako 
 sam kasnije saznao do puta Sot - granični prelaz "Principovac"), dok drugi krak nastavlja da prati ogradu na jug. 
 Otprilike od te "raskrsnice", podloga nije više kamen, već zemlja, koja je postajala sve mekša kako sam odmicao, da bi 
@@ -272,7 +273,7 @@ aparatu ne samo što nema zum, već malo i udaljuje, jedva da se raspoznaju na s
 bliže, brzo su preskočile ogradu i otišle dalje. Ovde je blato bilo već 
 poprilično (točak je tonuo i do desetak santimetara). Grožđe sa strane je na žalost ili bilo trulo ili pobrano. 
 
-{% include layout/content/img_horizontal.html file_name="015.jpg" %}
+{% include component/img/horizontal.html file_name="015.jpg" %}
 Na tom mestu počinje šuma, i jedan krak puta nastavlja pravo, dok drugi ide desno. Ja sam prvo krenuo desno, 
 da bih se posle par desetina metara zavukao u žbunje, da vidim da li se nazire jezero, i pošto sam ga video, vratio sam 
 se na prethodni put. Tu je bilo manje blata (pošto je taj deo strm i ocedan), tako da sam mogao opet da vozim, i za 
@@ -282,7 +283,7 @@ nekoliko minuta sam ugledao jezero.
 Jezero Sot (Šidina) me je oduševilo. Bajkeri koji su ga opisivali i hvalili pre par meseci nisu ni malo preterali. Tu sam 
 se zadržao najmanje 15 minuta uživajući i fotografišući.
 
-{% include layout/content/img_horizontal.html file_name="018.jpg" %}
+{% include component/img/horizontal.html file_name="018.jpg" %}
 Krenuo sam dalje, i nešto pre pola dva stigao u selo Sot, koje ima interesantnu crkvu na brežuljku koji dominira okolinom. 
 Od trenutka kada sam krenuo od jezera na zapad, imao sam neki čudan utisak da kako uđem u neko selo, bar dvadesetak pari 
 očiju prati svaki moj pokret, činilo mi se zabezeknuto, kao da sam na primer vozio go, ili tako nešto.
@@ -300,10 +301,10 @@ uzoru na crkvu manastira Novo Hopovo izgrađena nova crkva koja je kasnije doži
 Privine Glave osnovali manastir Kovilj na svom imanju u Bačkoj. Tokom Drugog svetskog rata, manastirska riznica je 
 opljačkana a oltar većim delom uništen. </p>
 {% endcapture %}
-{% include layout/post/side_story.html story=story title="Manastir Privina Glava" %}
+{% include post/side_story.html story=story title="Manastir Privina Glava" %}
 
 
-{% include layout/content/img_horizontal.html file_name="019.jpg" %}
+{% include component/img/horizontal.html file_name="019.jpg" %}
 Manastir Privina Glava ima lepu (autentičnu) crkvicu koja veoma podseća na Novo Hopovo, uz koju je dozidan novi zvonik 
 (pošto je stari pretpostavljam porušen tokom rata). Pored je izgrađena nova crkva koja je po arhitekturi kopija 
 stare, i konaci su obnovljeni. Pored se gradi još jedna crkva (kapela?). Fasada nove crkve, konaka i zvonika je ofarbana 
@@ -317,7 +318,7 @@ nasleđe, i naravno poštujem i te ljude, i svaki put pored "dobar dan" kažem i
 popa samo dostojanstveno namršti i jednostavno me iskulira. Pa dobro, možda su se zaposlili preko veze. Ovo je moje opšte 
 iskustvo za sve manastire (izuzev svetlih izuzetaka starih igumanija u Beočinu i Maloj Remeti), a najarogantniji su bili 
 u Jazku i Rakovcu. Kakogod bilo, sada sam, nakon Privine Glave, obišao sve fruškogorske manastire zapadno od Karlovaca...
-{% include time_machine.html text="Kasnije se pojavio snimak igumana manastira Privina Glava kako blagosilja paravojne snage pred pokolj u Srebrenici. Moguće je da je to bio taj isti čovek na kojeg sam i ja naišao." %}
+{% include component/time_machine.html text="Kasnije se pojavio snimak igumana manastira Privina Glava kako blagosilja paravojne snage pred pokolj u Srebrenici. Moguće je da je to bio taj isti čovek na kojeg sam i ja naišao." %}
 
 ### Prva razočarenja
 
@@ -417,13 +418,13 @@ put sam seo na nešto što nije sic posle pauze koju sam napravio na jezeru Moha
 prilično iscrpljen, osećao sam da bih mogao da izvezem sve do kraja, i pomalo mi je bilo krivo što tura neće biti 
 kompletna i "samo moja", ali, s' druge strane mi je bilo drago što neću morati da vozim po mraku kroz ludnicu na putu od 
 Beočina do Petrovaradina.
-{% include time_machine.html text="To nije bio poslednji put da se oslonim na tog 'džokera' iz rukava, što mi je mnogo značilo pogotovo dok nisam nabavio neki pouzdaniji bicikl." %}
+{% include component/time_machine.html text="To nije bio poslednji put da se oslonim na tog 'džokera' iz rukava, što mi je mnogo značilo pogotovo dok nisam nabavio neki pouzdaniji bicikl." %}
 
 Sve u svemu, bilo mi je lepo, i iako nije sve bilo kako sam planirao, ne bih se odrekao ni jednog dela! Isprobao sam 
 bajs (imao sam ludu sreću, s' obzirom na to kakvim sam putevima išao, da su mi i gume i sve žbice ostale čitave). Saznao 
 sam koliko mogu da izdržim, i fizički i psihički, video nove stvari koje sam još odavno hteo da vidim, naučio da treba 
 proveriti datum isteka pasoša pre planiranja odlaska preko grane, da vožnja noću bukvalno iscrpljuje, pogotovo mozak, 
 kao i još mnogo toga.
-{% include time_machine.html text="Ispravka: nisam naučio da treba proveriti datum isteka pasoša, pošto sam istu grešku napravio šest godina kasnije na putu za severnu Albaniju." %}
+{% include component/time_machine.html text="Ispravka: nisam naučio da treba proveriti datum isteka pasoša, pošto sam istu grešku napravio šest godina kasnije na putu za severnu Albaniju." %}
 
 <span class="caption text-muted pull-right">Integralni tekst napisan dan posle vožnje</span>

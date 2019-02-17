@@ -1,13 +1,9 @@
 ---
-layout:      subcategory
+has_subposts: true 
 slug:        "2005-voznje-u-okolini-ns"
 title:       "Vožnje u okolini Novog Sada - 2005"
 excerpt:     "uglavnom po Fruškoj gori i južnoj Bačkoj"
 image:       "/2005-voznje-u-okolini-ns/zapadna-fg-ii/img/010.jpg"
-categories:  ['putopisi']
-has_subcategories: true
-date:        2005-07-01
-  
 ---
 
 Apetit za vožnjama mi se opasno otvorio, osmelio sam se i krenuo sve češće da vozim po okolini. Kovlij, Begečka jama, vožnje

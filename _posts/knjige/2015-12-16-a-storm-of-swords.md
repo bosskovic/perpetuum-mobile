@@ -1,16 +1,10 @@
 ---
 slug:              "a-storm-of-swords"
-layout:            knjiga
 title:             "A Storm of Swords"
 authors:           "George R.R. Martin"
 goodreads_id:      "62291"
 img:               "https://images.gr-assets.com/books/1497931121l/62291.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-George-R.R.-Martin
   - bbb-epska-fantastika

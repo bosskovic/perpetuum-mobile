@@ -1,16 +1,10 @@
 ---
 slug:              "into-the-wild"
-layout:            knjiga
 title:             "Into The Wild"
 authors:           "Jon Krakauer"
 goodreads_id:      "1390754"
 img:               "https://images.gr-assets.com/books/1327249090l/1390754.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Jon-Krakauer
   - bbb-beletristika  

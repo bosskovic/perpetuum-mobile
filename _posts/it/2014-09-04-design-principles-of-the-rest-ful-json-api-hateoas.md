@@ -1,17 +1,10 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "design-principles-of-the-rest-ful-json-api-hateoas"
 title:      Design principles of the REST-ful JSON API (HATEOAS)
 excerpt:    REST, JSON, API, HATEOAS, media types, top level resource representations, url templates, compound documents, urls, responses, errors, JSend response types, HTTP Status codes
 date:       2014-09-04
 tags:
   - ttt-api
-  - ttt-back-end
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 So many acronyms, I will start by explaining what they stand for.

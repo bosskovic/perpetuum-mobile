@@ -4,7 +4,6 @@ title:       "Snežni Medvednik"
 excerpt:     "sibirski vikend u valjevskim planinama"
 description: "Talas zime iz Sibira sudario se iznad Srbije sa vlažnim vazduhom sa juga i zapada. Gre'ota da tol'ki sneg 
               propadne, pa smo se spustili do Medvednika za još malo zimskih čarolija."
-categories:  ['putopisi']
 image: "/putopisi/2018-medvednik-februar/img/20180224-31.jpg"
 videos: ["3AaIyXe1oi8", "aPYDhBNFBhs", "nBV16s-cIqk", "A9Kf9SwFH7w", "6ZZZWbQXagY", "gjjufIotNUY", "AUJMSpUkCCA", 
          "H3z7sNteHoM", "P8xEzO7ibMU", "XIXE6v--DiQ", "ZcKUFWyXAm4", "Xid6Te8hG-M", "8L7wk6M-XHc", "ZUCw8MEK5u0"]
@@ -23,7 +22,7 @@ izmaglica i nebo pokriveno oblacima, 20-30 santimetara skorenog starog snega. U 
 Sveta, ali brzo smo videli da ima tvrdu ljusku ali meko srce. Pokazuje nam sobe, smeštamo se i raspakujemo i stavljamo 
 decu na spavanje (Vuk je zaspao još u kolima čim je makadam počeo da ljulja). 
 
-{% include layout/content/youtube.html id="ZUCw8MEK5u0" %}
+{% include component/youtube/img_full.html id="ZUCw8MEK5u0" %}
 
 Budimo se pre osam, doručkujemo u kuhinjici, najtoplijem mestu u domu i krećemo u šetnju. Napolju nije naročito hladno,
 deluje da je nekoliko stepeni iznad nule, i provejava sneg. Polazimo ka Medvedniku u društvu Dine, mlade ženke šarplaninca
@@ -31,7 +30,7 @@ koju ni jedan lanac ne može da zaustavi. I sada joj sa vrata visi patrljak lanc
 povredio nogu i teško hoda, pa joj još nije stavio drugi. Dina nije svesna svoje veličine i u igri skače i ruši decu, što 
 ih prvo plaši a posle zabavlja.
 
-{% include layout/content/video_thumb.html id="3AaIyXe1oi8" %}
+{% include component/youtube/thumb.html id="3AaIyXe1oi8" %}
 Put ka Jablaniku je pročišćen, tako da nam prva etapa ide brzo i lako, sanke sa Vukom i Lazom brzo klize po tankom snegu 
 čak i uzbrdo. Ali to nije dugo trajalo. Sa puta za Jablanik silazimo na skoreni sneg promenjive
 dubine, 20-30cm. Prtimo na smenu i napipavamo markaciju među brojnim račvanjima. Sneg je predubok za sanke, Vuku i Lazaru
@@ -40,28 +39,28 @@ do kolena. To im ne kvari zabavu, probijaju se, hodaju, posrću, padaju i istra�
 Ali postaje jasno da ćemo morati da ih nosimo većim delom ako želimo da nastavimo. Stavljam Vuka na ramena i nastavljam
 ka Kedinoj vodi i Vojinovoj steni sa Petrom, Marinom i Mićom, a Milan i Lazar se na sankama spuštaju do doma.
 
-{% include layout/content/img_full.html file_name="20180224-07.jpg" %}
+{% include component/img/full.html file_name="20180224-07.jpg" %}
 
-{% include layout/content/video_thumb.html id="6ZZZWbQXagY" %}
+{% include component/youtube/thumb.html id="6ZZZWbQXagY" %}
 Penjemo se kroz snežnu začaranu šumu. Sve je belo - nebo i zemlja, drveće i debelo tapacirane grane. Padaju sve 
 krupnije pahulje. Izgleda da prolazimo kroz oblake, pošto se vidljivost često menja. Spuštam Vuka da hoda
 što je češće moguće, ali uglavnom idemo uzbrdo. Petar odlično savlađuje dubok sneg, pogotovo od kada je 
 prihvatio da hoda gde je ugaženo i da koristi štap. Mića i Marina su odradili najveći deo prćenja.
 
-{% include layout/content/img_horizontal.html file_name="20180224-06a.jpg" %}
+{% include component/img/horizontal.html file_name="20180224-06a.jpg" %}
 Još kada smo krenuli od doma odustao sam od kruga oko Medvednika i uspona na vrh, ali želim da stignemo bar do Vojinove stene.
 Temperatura pada i magla se skuplja. Puštam Vuka da hoda po smrznutoj pokorici snega i kad ga pridržavam uopšte ne 
 propada. Nešto posle Kedine vode, na svega 5-6 minuta od Vojinove stene Vuk počinje da se žali i kuka kako mu je hladno na rukama
 i nogama. Ubrzavamo dalje, računajući da ćemo tamo da se ušuškamo i ugrejemo sa čokoladicama i sa dve litre vrućeg 
 čaja koje nosim u rancu.
 
-{% include layout/content/img_horizontal.html file_name="20180224-19.jpg" %}
+{% include component/img/horizontal.html file_name="20180224-19.jpg" %}
 Na Vojinovoj steni magla, jedva da se vidi po 20ak metara unaokolo. Nisam uspeo mnogo da
 saznam o Vojinu od čika Svete, samo da je tu stradao, pao sa stene. Raščišćavam sneg sa klupe i pokušavam da ugrejem i 
 utešim Vuka, ali bezuspešno. Čim smo popili čaj, pakujem se, stavljam ga na
 leđa i idem što brže mogu, da se što pre sklonimo sa vetrometine. Marina i Mića idu sporije za nama sa Petrom.
 
-{% include layout/content/img_vertical.html file_name="20180224-20a.jpg" %}
+{% include component/img/vertical.html file_name="20180224-20a.jpg" %}
 Kad smo zašli u malo zaštićeniji šumarak, skidam Vuku rukave skafandera, stavljam mu šake u džepove od duksa i tako ga 
 upakujem, skidam mu gojzerice, umotavam noge u duks i grejem mojim rukama, vrućim od brzog hoda kroz sneg. To ga je 
 brzo ugrejalo, prestao je da se žali pa smo usporili i sačekali ostatak ekipe.
@@ -75,7 +74,7 @@ ušuškani i sa infra-crvenim durbinom čekaju da vuk priđe strvini.
 Čika Sveta se mršti i tiho negoduje - ne voli lovce i njihove priče, to što unose blato, oružje i opremu, ali toleriše ih zbog
 planinske politike.
 
-{% include layout/content/img_horizontal.html file_name="20180224-21.jpg" %}
+{% include component/img/horizontal.html file_name="20180224-21.jpg" %}
 Mi sedimo u kuhinjici, gde je najtoplije. Čika Sveta nam naspremao tri različita jela! Ispitujem ga malo o lokalnoj istoriji, 
 legendama, divljači. Kaže da ima mnogo vukova i da se zimi, kada ne uspeju da ulove srnu, često spuštaju do sela i kolju 
 ovce. Najgore je, kaže, kada upadnu u tor i ne ostave ništa živo. Ali od ljudi beže i nije zapamćeno da su tu nekoga napali.
@@ -86,9 +85,9 @@ kratka padina, i do nje ima par većih terasastih zaravni. Na zidu doma, baš na
 nam omogućava da budemo napolju koliko želimo. Temperatura je ispod -5, veje krupan sneg a pahulje se svetlucaju osvetljene
 reflektorom.
 
-{% include layout/content/youtube.html id="AUJMSpUkCCA" %}
+{% include component/youtube/img_full.html id="AUJMSpUkCCA" %}
 
-{% include layout/content/video_thumb.html id="gjjufIotNUY" %}
+{% include component/youtube/thumb.html id="gjjufIotNUY" %}
 Sneg je skoren i da bi mogli da se sankamo, moramo prvo u vozić, pa da gazimo i utabavamo 
 stazu. I posle toga, sanke ne klize baš najbolje same od sebe, pa trčimo i vučemo ih na smenu. Naporno je to, pa smo uskoro
 morali da smislimo nešto drugo da zabavimo decu. Sneg je suviše suv da bi pravili sneška, ali je idealan za zidanje. Pada
@@ -98,16 +97,16 @@ se u startu i krenuli sa prevelikim prečnikom, pa nismo stigli da ga završimo 
 
 Te večeri nije bilo problema oko uspavljivanja, i sva trojica klinaca su spavali po 12 sati.
 
-{% include layout/content/img_full.html file_name="20180225-01.jpg" %}
+{% include component/img/full.html file_name="20180225-01.jpg" %}
 
-{% include layout/content/video_thumb.html id="XIXE6v--DiQ" %}
+{% include component/youtube/thumb.html id="XIXE6v--DiQ" %}
 Jutro donosi još desetak santimetara novog snega i još nižu temperaturu. Nije baš za šetnju, pa ostajemo u blizini doma.
 Klinci trče i valjaju se, Mića cepa drva, ja čistim i odleđujem kola. Posle se zajedno zabavljamo u snegu. Uspeli smo
 čak nekako i sneška da nalopatamo od tog puderastog snega. Sa tim obrvama - isti Brežnjev. Kada smo se smrzli, ulazimo 
 unutra da se ugrejemo, ručamo i popakujemo. Pozdravljamo se sa čika Svetom i polazimo. Bez problema uspevamo da se sa
 lancima na točkovima izvučemo do magistrale, a dalje je pročišćeno.
 
-{% include layout/content/youtube.html id="ZcKUFWyXAm4" %}
+{% include component/youtube/img_full.html id="ZcKUFWyXAm4" %}
 
 Dom u kom smo bili je na lepom mestu i dosta je udoban. Pored nekoliko velikih spavaonica, ima i par manjih soba, od po
 tri i pet kreveta. Ima više kupatila i wc-a. U prizemlju ima veliku zajedničku trpezariju. Dvorište je prostrano i u 

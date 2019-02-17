@@ -1,20 +1,14 @@
 ---
 slug:              "to-kill-a-mockingbird"
-layout:            knjiga
 title:             "To Kill a Mockingbird"
 authors:           "Harper Lee"
 goodreads_id:      "2657"
 img:               "https://images.gr-assets.com/books/1361975680l/2657.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Harper-Lee
   - bbb-klasik
-  
+videos:       ["uqkohqLvClI"]  
 ---
 
 I liked the relationship that Atticus built up and maintained with his children, how he acknowledges them and tries to 
@@ -51,4 +45,4 @@ Or maybe I got it all wrong and I give too much importance to the trial in the b
 equally important as others: "Boo Radley", "Mrs Dubose", "Scout in school", etc, that portray growing up in the Deep 
 South in the 1930s... 
 
-{% include layout/content/youtube.html id="uqkohqLvClI" %}
+{% include component/youtube/video.html id="uqkohqLvClI" %}

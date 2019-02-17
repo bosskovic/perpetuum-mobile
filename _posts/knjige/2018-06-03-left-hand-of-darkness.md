@@ -1,6 +1,5 @@
 ---
 slug:              "left-hand-of-darkness"
-layout:            knjiga
 title:             "The Left Hand of Darkness"
 authors:           "Ursula K. Le Guin"
 goodreads_id:      "33830160"
@@ -8,11 +7,6 @@ img:               "https://images.gr-assets.com/books/1484042359l/33830160.jpg"
 excerpt:           "Nije na mene ni blizu ostavilo utisak kao the Dispossessed. U SF okruženju istražuje rodne uloge. 
                     Verovatno je knjiga bila kontroverznija kada je izašla - što je generalno dobra stvar, da se neke
                     kontroverze pomeraju i razrešavaju, ali za knjigu nije."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - bbb-sf
   - aaa-Ursula-Le-Guin

@@ -1,16 +1,10 @@
 ---
 slug:              "probudite-genija-u-vasem-detetu"
-layout:            knjiga
 title:             "Probudite genija u Vašem detetu"
 authors:           "Ken Adams"
 goodreads_id:      "34229680"
 img:               "https://images.gr-assets.com/books/1486851617l/34229680.jpg"
 excerpt:           ""
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Ken-Adams
   - bbb-vaspitanje-dece

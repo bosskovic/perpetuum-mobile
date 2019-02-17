@@ -1,5 +1,5 @@
 ---
-layout:      subcategory
+has_subposts: true
 slug:        "2012-trnovacko-jezero"
 title:       "Trnovačko jezero - 2012"
 excerpt:     "Maglić, Bioč, Volujak, Trnovački Durmitor, Perućica"
@@ -12,10 +12,6 @@ description: "Trnovačko jezero se nalazi par kilometara sa crnogorske strane cr
               lepota, ali uvek u žurbi i u prolazu. Konačno je sazreo trenutak da se smestimo na obali jezera i da se 6-7 dana 
               potpuno posvetimo i prepustimo ovom kraju."
 image:       "/2012-trnovacko-jezero/maglic/img/018.jpg"
-categories:  ['putopisi']
-has_subcategories: true
-date:        2012-07-13
-  
 ---
 
 Trnovačko jezero se nalazi par kilometara sa crnogorske strane crnogorsko-hercegovačke granice, na nadmorskoj visini 
@@ -37,7 +33,7 @@ toku dana čuvar naplaćuje prolaz. Ako ne naplati ulazak, naplati bar izlazak. 
 platili oko 12e. Put do Prijevora je dovoljno dobar da se do njega može doći 
 gradskim automobilom uz sporiju i oprezniju vožnju. Nedavno je malo i krpljen.
 
-{% include layout/content/img_horizontal.html path="/2012-trnovacko-jezero/trnovacki-durmitor/thumbs/022.jpg" %}
+{% include component/img/horizontal.html path="/2012-trnovacko-jezero/trnovacki-durmitor/thumbs/022.jpg" %}
 Što se tiče ulaska u CG, ne postoji nikakva stalna kontrola. Ponekad tokom masovnijih manifestacija kao što je 
 Vidovdanski uspon na Maglić dođe CG pogranična policija i pravi problem, ali inače ih nema. Jedina "vlast" na jezeru je 
 lovac Miloš Ćalasan iz Mratinja koji je tamo tokom leta, naplaćuje izletničku taksu od 1e po osobi (važi tokom celog 

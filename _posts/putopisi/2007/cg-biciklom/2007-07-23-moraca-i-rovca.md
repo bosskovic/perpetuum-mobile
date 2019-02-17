@@ -6,7 +6,8 @@ description: "Kada kreneš u 'Vragodo', nisi baš siguran šta te tamo čeka. Up
               do samog vodopada sam stigao u sedlu. Lepo mesto, vredno truda. U povratku je usledio duugački spust, dugačak 
               kako vremenski tako i daljinski, i to ni trenutak prekasno. Sve do manastira Morača gotovo da nisam okrenuo
               pedale. Ali kako sve ima svoju cenu, taj spust mi je došao na naplatu kada sam krenuo da se penjem u Rovca."
-categories:  ['2007-cg-biciklom']
+category:  2007-cg-biciklom
+parent_category: putopisi
 videos:      ['zPC4DGQXsxY']              
 photos:
   -
@@ -82,7 +83,7 @@ Tako sam i uradio. Od Morače prema Bojićima ide najstrmiji asfalt koji sam ika
 Bjelasici juče, bar deo bih uspeo da vozim, a ovako skoro sve guram. A i ko za inat, uvek mi se najgori usponi poklope 
 sa najjačim suncem...
 
-{% include layout/content/youtube.html id="zPC4DGQXsxY" print="no" %}
+{% include component/youtube/video.html id="zPC4DGQXsxY" print="no" %}
 
 Od Bojića prema Ljevištu je posao nešto lakši: makadami koji idu blago uzbrdo, da bi se konačno spustili do same Morače. 
 Nastavljam uz reku prema Glavi Morače i nailazim na kraj puta, ostavljam bicikl, i krećem koritom reke, sa kamena na 
@@ -106,16 +107,16 @@ Vukanov Nemanjić, a prvi upravitelj manastira i župe Morača po predanju bio j
 branili, iako fizički nije na njihovoj plemenskoj teritoriji.</p>
 {% endcapture %}
 
-{% include layout/post/side_story.html story=story title="Manastir Morača" %}
+{% include post/side_story.html story=story title="Manastir Morača" %}
 
-{% include layout/content/img_horizontal.html file_name="071.jpg" %}
+{% include component/img/horizontal.html file_name="071.jpg" %}
 U restoranu pored samog manastira ostavljam bicikl kod konobarice koja mi odgovara da u manastiru ne prave problem oko 
 odevanja. Ulazim u crkvu i sučeljavam se sa ljubaznim „trgovcem“ duge brade i u dugoj crnoj mantiji, iza tezge 
 načičkane svim i svačim. Ipak ga pitam da li smem ovako obučen u crkvu, kaže *„’Ajde kada si došao, ali nemoj sledeći 
 put“*, i pokuša da me zainteresuje za širok asortiman tisovih krstova (mali, veliki, stvarno veliki), razglednica (od 1 
 do 3e), brošura (od 3 do 5e), brojanica, lekovitih ulja i vodica, itd...
 
-{% include layout/content/img_horizontal.html file_name="077.jpg" %}
+{% include component/img/horizontal.html file_name="077.jpg" %}
 Nisam zbog toga došao, pa nastavljam da obilazim unutrašnjost crkve. Nalazim čuvenu fresku „Gavran hrani sv Iliju“ i 
 naspram nje fresku rovačkog kneza Vukića Vučetića koji je obnovio manastir krajem XVI veka. Pored je i freska ktitora 
 manastira, Stefana Vukanovog, a ispod nje veliki sarkofag bez natpisa, za kojeg crkva tvrdi da se u njemu nalaze 
@@ -128,7 +129,7 @@ Manastir se nalazi na visokoj terasi iznad reke Morače, i pored njega protiče 
 bučno pada neposredno ispod mastirskih zidina, i pravi desetak metara visok vodopad. Drugi krak potoka se završava 
 vodopadom Svetigora, koji nešto dalje pada u Moraču sa litice visoke pedesetak metara. 
 
-{% include layout/content/img_horizontal.html file_name="081.jpg" %}
+{% include component/img/horizontal.html file_name="081.jpg" %}
 Rešio sam da se spustim do Morače, i probam da nađem neki bolji ugao iz kojeg se vidi vodopad Svetigora. Ostavljam 
 bicikl kod prodavnice, i krećem da se probijam uskom stazicom na dole, kroz đubre i smrad. Vodopad je odlično 
 skriven rastinjem, tako da nigde ne uspevam da ga vidim u celosti, ali zato detaljno obilazim stari Kaluđerski most. 
@@ -136,7 +137,7 @@ Deluje jednako loše kao na dokumentarcu od pre tridesetak godina koji sam gleda
 Više nikome ne treba – ni monasima koji su ga podigli, ni meštanima koji koriste druge, novije mostove, ni turistima 
 koji ga gore od manastira ni ne vide, a ne postoji neki pristojan put kojim bi mogli da mu priđu. Vraćam se do bicikla, 
 i nastavljam put prema Rovcama. 
-{% include time_machine.html text="Nekoliko godina kasnije ponovo je aktivirana priča o pravljenju brane na Morači i plavljenju Platija. U tom slučaju nivo jezera bi došao nekoliko metara ispod manastira dok bi Kaluđerski most ostao duboko pod vodom. Ali, kao i za slične sulude ideje na Tari, i ovde borbe i otpori i dalje traju..." %}
+{% include component/time_machine.html text="Nekoliko godina kasnije ponovo je aktivirana priča o pravljenju brane na Morači i plavljenju Platija. U tom slučaju nivo jezera bi došao nekoliko metara ispod manastira dok bi Kaluđerski most ostao duboko pod vodom. Ali, kao i za slične sulude ideje na Tari, i ovde borbe i otpori i dalje traju..." %}
 
 Vozim nizbrdo kroz kanjon Morače. Sa desne strane vidim kanjon Ibrištice koja se uliva u Moraču. Već se nalazim na 
 teritoriji plemena Rovaca.
@@ -153,7 +154,7 @@ banom Ugrenom Jerinićem. Sukob je razrešen tako što je Gojak ubio bana Ugrena
 Srezojevića. Moj predak Boško, rođen je u Rovcama i bio je iz bratstva Šćepanovića.</p> 
 {% endcapture %}
 
-{% include layout/post/side_story.html story=story title="Rovca" %}
+{% include post/side_story.html story=story title="Rovca" %}
 
 ### Međuriječje
  
@@ -165,7 +166,7 @@ Još pre nego što sam krenuo, jasno mi je bilo da biciklom neću moći da prođ
 Crnoj Gori), ali hteo sam da dođem bar do početka (odnosno kraja) kanjona, i da vidim stari most preko Mrtvice kod 
 Zelenog vira, ali nisam uspeo da nađem neki pristojan put, samo strmu pešačku (markiranu) stazu. Moraće da ostane za 
 neki naredni put.
-{% include time_machine.html text="O da, i te kako je moguće, dve godine kasnije sam prošao biciklom kroz kanjon, koliko znam, prvi koji je to uradio :-)." %}
+{% include component/time_machine.html text="O da, i te kako je moguće, dve godine kasnije sam prošao biciklom kroz kanjon, koliko znam, prvi koji je to uradio :-)." %}
  
 Međuriječje je jedan od najpitomijih delova Rovaca, na nadmorskoj visini od dvestotinak metara, još uvek sa lakoćom 
 kanjonom Morače prima talase topolog vazduha sa juga. Oštar kontrast sa surovim kamenjarom na severozapadu Rovaca. Po 
@@ -224,7 +225,7 @@ Konačno se otvaraju vrata od kola i ja sa olakšanjem počinjem da razgrađujem
 gradskog automobila moći nekako da svari. I pre nego što sam se smestio u suvozačko sedište, Božina mi tutnu u ruke 
 hladnu limenku Guarane, i dok sam ispijao energiju iz nje počeli smo polako da se kotrljamo prema Trešnjici.
 
-{% include layout/content/img_horizontal.html file_name="083.jpg" %}
+{% include component/img/horizontal.html file_name="083.jpg" %}
 Svraćamo na kafu kod Božininih rođaka, a tamo veselo društvo Bulatovića: Božinin stariji brat Ljubiša, i Natalija, 
 Raco, Nebojša i Snežana, dvoje ljudi srednjih godina i njihovi sin i ćerka od 15-20 godina. Sa lakoćom sam se utopio u 
 pozitivnu atmosferu koja je vladala na bledo osvetljenoj terasici poluzagrađenoj voćkama. Od samog početka sam zasut 
@@ -243,7 +244,7 @@ Prethodni tekst u dahu sam ispisao nekoliko dana po povratku iz Crne Gore. Posle
 ostao bez kraja, kao da još uvek sedim sa Bulatovićima u Trešnjici. Hajde, posle skoro tri godine da probam da opišem 
 preostalih nekoliko dana mog prvog crnogorskog proputovanja.
 
-{% include layout/content/img_horizontal.html file_name="082.jpg" %}
+{% include component/img/horizontal.html file_name="082.jpg" %}
 Dakle, stigosmo u Trešnjicu u dom Komnena Bulatovića, i tu sam nastavio da uživam u njihovom gostoprimstvu. Iako 
 premoren, do sitnih sati podsticao sam Božinu i Komnena da mi pričaju predanja i legende o Rovcima, Macurama, Vuksanu 
 Bulatoviću i dobijao odgovore što u reči što u stihu (uz gusle). Pitao sam Božinu za Brnjičko jezero, poznato i kao 
@@ -259,7 +260,7 @@ koja se od tada naziva Vilina voda. Jezero iz kojeg je iskočila ona manita nema
 Vojin poginuo – Vojinovac.</p>
 {% endcapture %}
 
-{% include layout/post/side_story.html story=story title="Kako je Manito jezero dobilo ime" %}
+{% include post/side_story.html story=story title="Kako je Manito jezero dobilo ime" %}
 
 Božina me je tiho i nekako sa nelagodom saslušao, i onda se neodlučno nadovezao na moju priču, kako nisu baš čista 
 posla sa tim jezerom, i kako kažu da se ne valja zadržavati oko njega predveče, jer u suton izranjaju zeleni ovnovi i 
@@ -270,6 +271,6 @@ bliže"*.
 Božina nikad nije bio do Manitog jezera, iako je odrastao u Rovcima i ima kolibu u katunu Doli ispod Stožca, nekoliko 
 kilometara od jezera. Bilo mi je neobično takvo strahopoštovanje prema jednoj prirodnoj sili od ljudine koja kada bi u 
 planini naletela na medveda, medvedu bi bilo bolje da se skloni.
-{% include time_machine.html text="Dve godine kasnije vodio sam slične razgovore sa dva starija čoveka na obali Kapetanovog jezera i od njih čuo još fantastičnije priče o Manitom jezeru." %}
+{% include component/time_machine.html text="Dve godine kasnije vodio sam slične razgovore sa dva starija čoveka na obali Kapetanovog jezera i od njih čuo još fantastičnije priče o Manitom jezeru." %}
 
 <span class="caption text-muted pull-right">Integralni tekst započet krajem jula 2007. a završen u proleće 2010.</span>

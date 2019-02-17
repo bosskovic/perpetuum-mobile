@@ -1,17 +1,11 @@
 ---
 slug:              "titov-dnevnik"
-layout:            knjiga
 title:             "Titov dnevnik"
 authors:           "Pero Simić"
 goodreads_id:      "7287185"
 img:               "https://images.gr-assets.com/books/1260269280l/7287185.jpg"
 excerpt:           "Koga interesuje lik i delo JBT, rezolucija IB, raskid SSSR i SFRJ, pretnja ratom, Goli otok, odnosi i zbližavanje SFRJ 
                     i SAD... svakako vredi da uloži nekoliko sati u ovu knjižicu..."
-categories:        ['knjige']
-animation:
-  url: /assets/img/book.gif
-  width: 300
-  height: 244
 tags:
   - aaa-Pero-Simić
   - bbb-Tito

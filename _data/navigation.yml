@@ -1,0 +1,48 @@
+-
+  sr: vrh strane
+  en: top of the page
+  icon: icon-vrh-strane
+  url: "#"
+  subtype: vrh
+-
+  sr: početna strana
+  en: home page
+  icon: icon-naslovna
+  url: ""
+  subtype: home
+-
+  sr: putopisi
+  en: travelogues
+  icon: icon-drumoplov
+  url: putopisi
+  subtype: putopisi
+-
+  sr: zanimljiva mesta
+  en: interesting places
+  icon: icon-mapa
+  url: zanimljiva_mesta
+  subtype: zanimljiva_mesta
+-
+  sr: video klipovi
+  en: video clips
+  icon: icon-video
+  url: video
+  subtype: video
+-
+  sr: knjige
+  en: books
+  icon: icon-knjige
+  url: knjige
+  subtype: knjige
+-
+  sr: it & tech
+  en: it & tech
+  icon: icon-tech
+  url: tech
+  subtype: tech
+-
+  sr: /etc/
+  en: /etc/
+  icon: icon-etc
+  url: etc
+  subtype: etc

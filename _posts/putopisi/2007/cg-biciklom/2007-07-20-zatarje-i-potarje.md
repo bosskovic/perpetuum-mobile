@@ -6,7 +6,8 @@ description: "Moj 'pravi' put konačno je otpočeo. Nižem kilometre po pustim m
               bila je potraga za loše obeleženim manastirom Dovolja, koji je ušuškan na travnatoj polici iznad kanjona Tare.
               Sjurio sam se preko mosta kod Đurđevića Tare dok je reka hučala daleko ispod mene i zatim krenuo da vozim kroz
               kanjon. Šteta što su me tako ispalili u Dobrilovini."
-categories:  ['2007-cg-biciklom']
+category:  2007-cg-biciklom
+parent_category: putopisi
 photos:
   -
     key: 013.jpg
@@ -115,7 +116,7 @@ spavam u krevetu i jedem za stolom, ali bilo mi je nekako neprijatno da to zloup
 opredeljivao za moj šator, osim u nekoliko izuzetnih slučajeva.
  
 
-{% include layout/content/img_horizontal.html file_name="017.jpg" %}
+{% include component/img/horizontal.html file_name="017.jpg" %}
 Nakon što smo izmerili nadmorsku visinu svih izvora, uporedili je sa visinom kuća, sve to lepo grafički predstavili i 
 tri puta se gostili, seli smo na Mujovu livadu da se malo odmorimo od tog napornog prepodneva. Tu se okupilo još 
 Boškovića, i počeo je živ razgovor. Vruća tema ovog leta u brdima su kosačice (tj. ručne kosilice) i balirke (mašine za 
@@ -123,7 +124,7 @@ uvezivanje četvrtastih bala sena). Kosačice već svi imaju (jedino sam na Luka
 video da se kosi na tradicionalan način), ali za balirkama još čeznu. *„E kada bih imao balirku, pa da ceo posao mogu 
 brže i lakše da uradim, život bi bio pesma“*, obično bi se čulo uz uzdah.
 
-{% include layout/content/img_horizontal.html file_name="020.jpg" %} 
+{% include component/img/horizontal.html file_name="020.jpg" %} 
 Bližilo se deset sati, pa smo se vratili kod Muja u kolibu, tu sam po drugi put doručkovao, i rešio da krenem. Učtivo 
 sam odbio ponudu da ostanem nekoliko dana (možda i ne tako učtivo, s obzirom koliko su me molili), pozdravio se sa 
 stricem koji je krenuo prema Studencu i sa Milunom i Dacom koji su se vratili mukotrpnom plašćenju, i krenuo dalje 
@@ -149,14 +150,14 @@ plastove, tako da na toj podnevnoj jari nisam video ni žive duše. Nisam želeo
 pa sam prošao kroz Barice ne saznajući odgovor na misteriju.</p>
 {% endcapture %}
 
-{% include layout/post/side_story.html story=story title="Otaševići" %}
+{% include post/side_story.html story=story title="Otaševići" %}
  
 ### Put kroz Kričak
 
 Makadam koji ide preko Barica je solidnog kvaliteta, i od Kotlajića (krajnje zapadni zaseok Krupica) prelazi u asfalt i 
 ide sve do Kosanice.
 
-{% include layout/content/img_horizontal.html file_name="021.jpg" %}
+{% include component/img/horizontal.html file_name="021.jpg" %}
 Šire područje zapadno od Barica, delom uključujući i Barice, naziva se Kričak po prastarom arbanaško-vlaškom plemenu 
 Kriča koje su tu potisnuli Drobnjaci sa Durmitora (odnosno „Jezera“). U pitanju je zapadni deo prostrane visoravni koja 
 se proteže od Sokolca preko Barica i Krupica, i lagano spušta na severozapad prema Kosanici kroz koju prolazi 
@@ -179,7 +180,7 @@ stazicama, pa sam bez zadržavanja nastavio tamo gde sam krenuo: prema manastiru
 Na Internetu sam čitao da je nedavno završena obnova manastirske crkve, pa pošto mi je bilo relativno usput, a i nalazi 
 se na širem području na kojem su živeli moji preci, rešio sam da je obiđem. 
 
-{% include layout/content/img_horizontal.html file_name="025.jpg" %}
+{% include component/img/horizontal.html file_name="025.jpg" %}
 Prema legendi, manastir je podigao kralj Milutin Nemanjić, i obdario ga bogatim imanjima, tako da je u manastiru uvek 
 svega bilo „dovoljno“, pa je po tome i dobio ime. U stvarnosti je najverovatnije izgrađen krajem XIV ili u XV veku. 
 Više puta je rušen, poslednji put u crnogorsko-turskim ratovima, odnosno bunama koje su se širile severno od Tare u 
@@ -191,7 +192,7 @@ postoji nekoliko znakova koji upućuju na manastir, i uglavnom se nalaze na mest
 raskrsnicama na kojima dolazi do češkanja po glavi uopšte nema. Sve dok na svoje iznenađenje na kraju nisam ugledao 
 manastirsku crkvicu kako se beli na suncu, nisam bio siguran da sam na pravom putu.
 
-{% include layout/content/img_horizontal.html file_name="024.jpg" %}
+{% include component/img/horizontal.html file_name="024.jpg" %}
 Nešto pre crkve, odnosno baš u trenutku kada sam je ugledao dole niz put, doživeo sam jednu neprijatnost (najblaže 
 rečeno). Neki pametnjaković je preko puta razapeo električnu žicu (ogradu) koja sprečava stoku da odluta sa livade, i 
 ničim je nije obeležio. U pitanju je nizbrdica, tako da sam išao nešto brže, više sam gledao u crkvu nego u put, i tek 
@@ -210,7 +211,7 @@ Crkvu nisam uspeo da vidim iznutra, pošto je bila zaključana, a u okolini nisa
 definicija sela se poprilično razlikuje od vojvođanske. Da bi se nešto kvalifikovalo za selo, dovoljno je da ima 
 desetak kuća razbacanih na prostranstvu od više kilometara kvadratnih, a za zaseok je dovoljno i manje.
 
-{% include layout/content/img_horizontal.html file_name="023.jpg" %}
+{% include component/img/horizontal.html file_name="023.jpg" %}
 To objašnjava zašto sve od Barica do Đurđevića Tare jedini koje sam sreo su bili starac u Krupicama i žena u Premćanima 
 koju sam skoro izvukao iz kuće da mi kaže kako da stignem do Dovolje. Nešto češće sam sretao goveda i konje. Susreti sa 
 rogatom stokom su u početku bili neprijatni, moglo bi se reći obostrano. Niti ja znam šta da očekujem od te gomile mesa 
@@ -228,7 +229,7 @@ podsećali su na one koje sam već video, sa tom razlikom što je na par mesta b
  
 ### Kanjon Tare
 
-{% include layout/content/img_horizontal.html file_name="028.jpg" %}
+{% include component/img/horizontal.html file_name="028.jpg" %}
 Izašao sam na magistralu, i sjurio se prema mostu kod Đurđevića Tare. Bilo je već kasno, a hteo sam pre mraka da izađem 
 iz kanjona, pa sam odlučio da odustanem od obilaska manastira u Lever Tari. Most je prelep, a pogled sa visine od oko 
 150 metara prema zapenušanoj Tari je još lepši. Pored mosta se nalazi nekoliko spomenika, jedan partizanski, i jedna 
@@ -243,14 +244,14 @@ Na putu kroz kanjon prema Dobrilovini naišao sam na više mesta na prelepe pogl
 rafting. Put je dobrog kvaliteta i nije prometan. Jedan od retkih susreta bio mi je sa mladim Francuzima koji su me 
 oduševljeno zaustavili. Kampuju na Durmitoru, pa idu da obiđu manastir Dobrilovina. Ispričasmo se malo (na frangleskom), 
 dadoh im neki DVD sa slikama Fruške gore, e-mail adresu, i rekoh da se jave. Videćemo...
-{% include time_machine.html text="Nisu se javili." %}
+{% include component/time_machine.html text="Nisu se javili." %}
 
 ### Manastir Dobrilovina
  
 Sav srećan što ću uspeti da stignem pre mraka, spuštam se makadamom sa glavnog puta prema manastiru Dobrilovina, i 
 nešto posle osam izbijam na livadicu ispred manastira.
 
-{% include layout/content/img_horizontal.html file_name="034.jpg" %}
+{% include component/img/horizontal.html file_name="034.jpg" %}
 Manastir mi je inače bio važna stanica, pošto je vekovima bio kulturno središte Zatarja i Potarja, i u njemu su 
 krštavani moji preci stotinama godina. Moj čukundeda se borio u dva navrata za oslobođenje ovog kraja, u Boju na 
 Šarancima i u Bici za Kolašinska Polja, i oba puta dobio Obilića medalju za hrabrost.

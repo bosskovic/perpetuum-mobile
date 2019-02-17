@@ -1,0 +1,6 @@
+{% assign words = include.content | number_of_words %}
+{% if english %}
+  reading time: ~ {{ words | divided_by:170 | plus:1 }} min.
+{% else %}
+    vreme čitanja: ~ {{ words | divided_by:170 | plus:1 }} min.
+{% endif %}

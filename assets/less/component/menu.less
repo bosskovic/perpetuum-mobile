@@ -1,0 +1,60 @@
+.simple-header .menu, footer .menu {
+
+  &.collapsed {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: inline;
+
+      a {
+        i {
+          border: 1px solid #8c8c8c;
+          border-radius: 50%;
+          background-color: white;
+          padding: 10px;
+          margin: 2px;
+          font-size: larger;
+        }
+        &:hover {
+          i {
+            background-color: #eee;
+          }
+        }
+        &.active_page{
+          cursor: default;
+          text-decoration: none;
+          i{
+            background-color: #8c8c8c;
+            color: white;
+          }
+        }
+        &.active_page:hover{
+          i {
+            background-color: #8c8c8c;
+          }
+        }
+        &.active_subtype{
+          i {
+            background-color: #eee;
+          }
+        }
+      }
+    }
+  }
+  &.expanded {
+    margin-left: -60px;
+    margin-top: 5px;
+    text-align: center;
+    display: inline-block;
+    li {
+      text-align: left;
+      margin-bottom: 9px;
+      list-style: none;
+      i {
+        margin-right: 9px;
+      }
+    }
+  }
+}

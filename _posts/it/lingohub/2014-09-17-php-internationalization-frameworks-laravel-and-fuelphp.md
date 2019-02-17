@@ -1,20 +1,13 @@
 ---
-layout:     tech_post
-categories: ['tech']
 slug:       "php-internationalization-frameworks-laravel-and-fuelphp"
 title:      'PHP internationalization frameworks: Laravel and FuelPHP'
 excerpt:    The article covers two more PHP frameworks that are frequently used, Laravel and FuelPHP
 date:       2014-09-17
 tags:
-  - ttt-back-end
   - ttt-fuelphp
   - ttt-i18n&l10n
   - ttt-laravel
   - ttt-php
-animation:
-  url: /assets/img/animated/tech.gif
-  width: 250
-  height: 176  
 ---
 
 <p class='muted'>I originally published this article on <a href="http://blog.lingohub.com/">Lingohub blog</a> in 2013, while working for the company. <a href="http://lingohub.com/">Lingohub</a> specializes in providing app localization for developers and translators.</a></p>

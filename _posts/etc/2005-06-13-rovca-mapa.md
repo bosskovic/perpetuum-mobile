@@ -1,22 +1,16 @@
 ---
 slug:         "rovca-mapa"
-layout:       etc_post
 title:        "Rovca - mapa"
 excerpt:      "Topografska karta u razmeri 1:25000"
 description:  "Napravljena spajanjem sekcija vojne karte iz 1972. godine, granica plemenske teritorije ucrtana na osnovu mapa
                priloženih u knjigama S. Popovića i M. Barjaktarovića, koje se takođe mogu naći ovde."
 image: "/etc/rovca-mapa/img/rovca-mapa.jpg"
-animation:
-  url: /assets/img/animated/etc.gif
-  width: 250
-  height: 250
-categories: ['etc']
 tags: 
   - rovca
   - mapa
 ---
 
-{% include layout/content/img_full.html file_name="rovca-mapa.jpg" %}
+{% include component/img/full.html file_name="rovca-mapa.jpg" %}
 
 Kartu sam napravio spajanjem sekcija vojne topografske karte u razmeri 1:25000.
 
@@ -25,12 +19,12 @@ ucrtane, danas su zarasle i ne koriste se.
 
 Tradicionalnu granicu plemenske teritorije Rovaca sam ucrtao otprilike, na osnovu karata priloženih u knjigama:
 
-{% include layout/content/img_horizontal.html file_name="popovic-mapa.jpg" %}
+{% include component/img/horizontal.html file_name="popovic-mapa.jpg" %}
 * **Stevan Popović: Rovca i Rovčani**
 
 ***
 
-{% include layout/content/img_horizontal.html file_name="barjaktarovic-mapa.jpg" %}
+{% include component/img/horizontal.html file_name="barjaktarovic-mapa.jpg" %}
 * **Mirko Barjaktarović: Rovca, etnološka monografija**
 
 ***
