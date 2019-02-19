@@ -8,7 +8,7 @@ image: "/putopisi/2018-fruska-gora/img/20181110-07.jpg"
 videos: ["casy0CIi0Ic", "ky3BoqEp3A0", "67QYRiGR2KE", "oFnGHlENPYM", "4U7kGR8nttU", "02KVCGkdZ8s", "QyR9HzwTrOE", "AewTNo2VeNc", "V6aU4srzZ_c", "7DBE14k0gH8", "J-quwba8AVI"]
 show_date: false
 tags:
-  - fruska-gora
+  - fruška-gora
 ---
 
 <ul>

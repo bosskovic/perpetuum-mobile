@@ -46,11 +46,11 @@ photos:
 videos: ["O4aPmwU7PrA", "LoBuZsztN_A"]
 
 tags:
-  - sviloški vodopad
+  - sviloški-vodopad
   - ravne
   - zeleni vodopad
   - trešnjevac
-  - fruska-gora
+  - fruška-gora
 
 ---
 

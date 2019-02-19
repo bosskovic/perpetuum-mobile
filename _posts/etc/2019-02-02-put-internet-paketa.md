@@ -6,6 +6,7 @@ description:  "Malo suvoparan i tehnički orijentisan tekst koji sam izdvojio iz
                i u kojem se pojašnjavaju čvorovi na putu koji paket pređe od ishodišta do odredišta i nazad, kao i načini
                na koje mogu biti ugroženi."
 image:        "/etc/privatnost-kao-neotudjivo-pravo/img/guy.jpg"
+show_date:    false
 animation:
   url: /assets/img/animated/cctv.gif
   width: 220

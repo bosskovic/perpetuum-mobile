@@ -6,7 +6,6 @@ description: "Konačno imaš četiri nedelje godišnjeg, možeš da ih iskoristi
 category:  2016-boka
 parent_category: putopisi
 image: "/2016-boka/planovi-pakovanje-put/img/03.jpg"
-videos:      ['x69hkfq1DaE']
 tags:
   - uputstva
   - oprema  

@@ -1,4 +1,6 @@
-{% if page.animation %}
+{% if page.home_page %}
+  {% include header/home.html %}
+{% elsif page.animation %}
   {% include header/simple.html %}
 {% else %}
   {% include header/page_intro.html %}

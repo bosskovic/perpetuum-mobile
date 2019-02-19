@@ -109,14 +109,14 @@ photos:
     title: Grgurevačka pećina
 
 tags:
-  - sviloški vodopad
+  - sviloški-vodopad
   - sviloš
   - ležimir
   - ležimirska gradina
   - sviloška gradina
   - ravne
   - grgurevačka pećina
-  - fruska-gora
+  - fruška-gora
     
 ---
 

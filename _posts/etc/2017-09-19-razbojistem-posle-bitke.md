@@ -9,6 +9,7 @@ description:  "Tokom V neprijateljske ofanzive, veče pred pokušaj proboja obru
 image:        "/etc/razbojistem-posle-bitke/img/sutjeska.jpg"
 tags:
   - peta-ofanziva
+  - sutjeska-memoar
 ---
 
 {% include component/img/full.html file_name="sutjeska.jpg" %}

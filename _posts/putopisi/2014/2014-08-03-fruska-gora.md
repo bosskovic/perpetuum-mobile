@@ -53,7 +53,7 @@ photos:
 videos: ["0YJxQTkcENM"]
 show_date: false
 tags:
-  - fruska-gora
+  - fruška-gora
 ---
 
 {% include component/img/vertical.html file_name="20140523_01.jpg" %}

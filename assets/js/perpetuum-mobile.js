@@ -97,6 +97,11 @@ $(document).ready(function (e) {
   // img.src = $introHeader.data('url');
   
   $('.carousel').carousel();
+  
+  if ($('.featured-tabs').length > 0){
+    var tabIds = ["#voznje", "#zanimljiva-mesta", "#setnje", "#putovanja", "#dete", "#etc"];
+    $("a[href="+tabIds[Math.floor(Math.random()*tabIds.length)]+"]").click();
+  }
 
   $(document).on('click', '#text img.pic', function (e) {
     if ($(window).width() > 800 && $(window).height() > 600) {
@@ -152,6 +157,10 @@ $(document).ready(function (e) {
     $("html, body").animate({scrollTop:"0"},600);
     e.preventDefault();
     return false;
+  });
+
+  $(document).on('click', '.featured-tabs .nav-tabs a', function (e) {
+    $(this).blur();
   });
   
   if ($("a#showGoogleMap")) {

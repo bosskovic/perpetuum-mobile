@@ -138,9 +138,9 @@ tags:
   - novi rakovac
   - dvorac špicer
   - beočin
-  - sviloški vodopad
+  - sviloški-vodopad
   - banoštor
-  - fruska-gora
+  - fruška-gora
 
 ---
 

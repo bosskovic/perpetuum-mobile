@@ -81,7 +81,7 @@ photos:
 videos: ["Ufem5Eu8rAA", "Tc4qZOps-Bg", "mia6TWALBLM"]
 show_date: false
 tags:
-  - fruska-gora
+  - fruška-gora
 ---
 
 Vuk nastavlja da se "bavi" planinarenjem, a i šta će, ne može da bira. Prerastao je kengura i postao mu je neudoban, pa

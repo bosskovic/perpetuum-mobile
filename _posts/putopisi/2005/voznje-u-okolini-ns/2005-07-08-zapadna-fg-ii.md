@@ -74,11 +74,11 @@ videos: ["A6nI9Mbl91c", "EOcF0WRC6OM", "MHcXr8Ax0Jw"]
 tags:
   - ilok
   - šarengrad
-  - jezero šidina
-  - jezero bruje
-  - jezero moharač
+  - jezero-šidina
+  - jezero-bruje
+  - jezero-moharač
   - berkasovo
-  - fruska-gora
+  - fruška-gora
 
 ---
 

@@ -1,4 +1,4 @@
-.simple-header .menu, footer .menu {
+.simple-header .menu, footer .menu, .home-header .menu {
 
   &.collapsed {
     list-style: none;
@@ -16,28 +16,35 @@
           padding: 10px;
           margin: 2px;
           font-size: larger;
+          display: inline-block;
         }
         &:hover {
           i {
             background-color: #eee;
+            background-color: @brand-lite;
+            border-color: @brand-primary;
           }
         }
         &.active_page{
           cursor: default;
           text-decoration: none;
           i{
-            background-color: #8c8c8c;
+            background-color: @brand-primary;
+            border-color: @brand-primary;
             color: white;
           }
         }
         &.active_page:hover{
           i {
-            background-color: #8c8c8c;
+            background-color: @brand-primary;
+            border-color: @brand-primary;
           }
         }
         &.active_subtype{
           i {
-            background-color: #eee;
+            //background-color: #eee;
+            background-color: @brand-lite;
+            border-color: @brand-primary;
           }
         }
       }

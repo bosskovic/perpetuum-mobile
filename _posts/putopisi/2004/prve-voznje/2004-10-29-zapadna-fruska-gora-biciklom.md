@@ -58,13 +58,13 @@ photos:
 
 tags:
   - erdevik
-  - jezero šidina
-  - jezero moharač
-  - jezero bruje
+  - jezero-šidina
+  - jezero-moharač
+  - jezero-bruje
   - manastir kuveždin
   - manastir privina glava
-  - rohalj baze
-  - fruska-gora
+  - rohalj-baze
+  - fruška-gora
   
 ---
 

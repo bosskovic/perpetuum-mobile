@@ -225,8 +225,8 @@ photos:
 videos: ["zLxP_A5ng40", "zTCOIh6CxW4", "XUnDFow0Tew", "o7mOqbQzRFg", "w29gv9l-JVY", "bQycE4pYiBE", "Isf-U6gwbnk", "mDowS7Ro-b4"]
 show_date: false
 tags:
-  - čortanovačka šuma
-  - fruska-gora
+  - čortanovačka-šuma
+  - fruška-gora
 ---
 
 Vuk je sad već dovoljno velik da može da pešači sam i malo više sluša i prati. Nadam se da ćemo ove godine polako

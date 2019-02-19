@@ -5,6 +5,8 @@ excerpt:     "sneg, sneg i sankanje"
 description: "Nekoliko dana druženja, sankanja i šetanja po snegom zasutoj okolini Divčibara."
 image: "/putopisi/2019-divcibare/img/20190106_12a.jpg"
 videos: ["W6Uzn9GindU"]
+tags:
+  - divčibare
 ---
 
 {% include component/img/horizontal.html file_name="20190102_09.jpg" %}

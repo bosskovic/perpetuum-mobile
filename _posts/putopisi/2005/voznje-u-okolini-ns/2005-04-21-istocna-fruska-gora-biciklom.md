@@ -82,10 +82,10 @@ photos:
     title: Dunav sa Mosta kod Beške
 
 tags:
-  - čortanovačka šuma
+  - čortanovačka-šuma
   - slankamen
   - beška
-  - fruska-gora
+  - fruška-gora
     
 ---
 

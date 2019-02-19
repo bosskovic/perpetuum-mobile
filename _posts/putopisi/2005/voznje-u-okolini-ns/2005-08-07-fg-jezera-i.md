@@ -45,13 +45,9 @@ photos:
     title: Spomenik heroju Pinkiju
 
 tags:
-  - manastir šišatovac
-  - jezero čalma
-  - manđelos
-  - heroj pinki
-  - jezero vranjaš
-  - grgurevci
-  - fruska-gora
+  - jezero-čalma
+  - jezero-vranjaš
+  - fruška-gora
 
 ---
 

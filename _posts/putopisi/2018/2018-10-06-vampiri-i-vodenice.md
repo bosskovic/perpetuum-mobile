@@ -6,6 +6,9 @@ description: "Lep kraj, jedan od najlepših kroz koje sam vozio, prošaran listo
               ukrašen lepim vidicima. Kao izmišljen za jednodnevne vožnje."
 image: "/putopisi/2018-vampiri-i-vodenice/img/20181006-03.jpg"
 videos: ["NYnPFKzzrIk"]
+tags:
+  - povlen
+  - taor
 ---
 
 Lep kraj, jedan od najlepših kroz koje sam vozio, rame uz rame sa Liškovcem, Miročem i Đerdapom u istočnoj Srbiji. Teren 

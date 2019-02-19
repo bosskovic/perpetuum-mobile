@@ -141,7 +141,6 @@
       h1 {
         font-size: 50px;
       }
-
     }
   }
 
@@ -175,23 +174,102 @@
   }
 }
 
-.simple-header{
+.simple-header {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
 
-  img{
+  img {
     display: inline !important;
   }
 
-  #moto{
+  .moto {
     //font-weight: bold;
     font-style: italic;
     margin-bottom: 20px;
     margin-top: 5px;
     color: #666666;
   }
-  #moto:hover{
-    color: black;
+  .moto:hover {
+    color: @brand-primary;
+  }
+}
+
+.home-header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  .moto {
+    //font-weight: bold;
+    font-style: italic;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    color: #666666;
+  }
+  .moto:hover {
+    color: @brand-primary;
+  }
+  @media only screen and (max-width: 768px) {
+    .wide {
+      display: none;
+    }
+
+    .left {
+      text-align: center;
+    }
+
+    .right {
+      text-align: center;
+      img {
+        display: inline-block;
+        margin-bottom: 20px;
+      }
+    }
+
+    .separator {
+      .moto {
+        display: none;
+      }
+      hr {
+        margin: 0;
+      }
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    .menu {
+      float: right;
+      margin: 0;
+      margin-right: 30px;
+
+      li {
+        text-align: right !important;
+        i {
+          float: right;
+          margin: 0 0 0 9px !important;
+        }
+      }
+    }
+
+    .left {
+      float: left;
+    }
+
+    .right {
+      float: right;
+      .moto {
+        display: none;
+      }
+    }
+
+    .separator {
+      text-align: center;
+      .moto {
+        margin-top: 20px;
+        font-size: 30px;
+      }
+      hr {
+        display: none;
+      }
+    }
   }
 }

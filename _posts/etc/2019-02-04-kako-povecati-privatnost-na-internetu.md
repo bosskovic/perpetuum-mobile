@@ -4,6 +4,7 @@ title:        "Pravo na privatnost je neotuđivo pravo - kako povećati privatno
 excerpt:      ""
 description:  ""
 image:        "/etc/privatnost-kao-neotudjivo-pravo/img/guy.jpg"
+show_date:    false
 animation:
   url: /assets/img/animated/cctv.gif
   width: 220

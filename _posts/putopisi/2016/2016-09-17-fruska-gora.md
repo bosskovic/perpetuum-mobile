@@ -54,7 +54,7 @@ photos:
 videos: ["TolsOF_WlWI"]
 show_date: false
 tags:
-  - fruska-gora
+  - fruška-gora
 ---
 
 {% include component/img/horizontal.html file_name="20160330.jpg" %}
