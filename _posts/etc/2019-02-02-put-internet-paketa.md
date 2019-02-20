@@ -7,6 +7,7 @@ description:  "Malo suvoparan i tehnički orijentisan tekst koji sam izdvojio iz
                na koje mogu biti ugroženi."
 image:        "/etc/privatnost-kao-neotudjivo-pravo/img/guy.jpg"
 show_date:    false
+show_title_section: false
 animation:
   url: /assets/img/animated/cctv.gif
   width: 220

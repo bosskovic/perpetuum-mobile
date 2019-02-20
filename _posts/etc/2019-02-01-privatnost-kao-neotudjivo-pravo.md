@@ -7,13 +7,13 @@ description:  "Ako pojedinac ima pravo na privatnost, onda je nebitno da li ima 
                što je razvoj informatičkih tehnologija učinio lakšim nego ikada."
 image:        "/etc/privatnost-kao-neotudjivo-pravo/img/guy.jpg"
 show_date:    false
+show_title_section: false
 animation:
   url: /assets/img/animated/cctv.gif
   width: 220
   height: 222
 ---
 
-***
 
 ## Pravo na privatnost je neotuđivo pravo
 
