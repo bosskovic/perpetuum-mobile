@@ -28,7 +28,7 @@
             *
             {% endunless %}
             {% assign start=false %}
-            {{ tag | replace: 'rrr-', ' ' | replace:'-', ' ' }}
+            {{ tag | replace: 'rrr-', ' ' | replace: 'ttt-', ' ' | replace: 'ttn-', ' '  | replace: 'aaa', ' '  | replace: 'bbb', ' ' | replace:'-', ' ' }}
             {% endfor %}
         </em>
       {% endunless %}
