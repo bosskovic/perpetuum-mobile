@@ -2,7 +2,9 @@
 slug:            "vidikovci"
 title:           "Vidikovci i panoramski putevi Fruške gore"
 excerpt:         "Fruška je niska ali Bačka je još niža"
-description:     ""
+description:     "Na Fruškoj gori nema prirodnih vidikovaca, ali se ipak može naći mnogo lepih mesta sa kojih se pruža 
+                  pogled na njene šumovite obronke, na Dunav i peščane ade, na Novi Sad i Petrovaradinsku tvrđavu, na
+                  Karlovce ili ka Sremu."
 category:        fruska-gora
 parent_category: zanimljiva_mesta
 image:           "/fruska-gora/vidikovci/img/grabovo-20050630-5.jpg"
