@@ -7941,9 +7941,6 @@ p {
   line-height: 1.5;
   margin: 30px 0;
 }
-p a {
-  text-decoration: underline;
-}
 h1,
 h2,
 h3,
@@ -7954,10 +7951,19 @@ h6 {
   font-weight: 700;
 }
 a {
+  color: #8b0000;
+}
+a:hover {
+  color: #8b0000;
+}
+a:focus {
+  color: #ff0000;
+}
+a.inverted {
   color: #404040;
 }
-a:hover,
-a:focus {
+a.inverted:hover,
+a.inverted:focus {
   color: #8b0000;
 }
 a img:hover,
@@ -8281,7 +8287,11 @@ hr.separator {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
+}
+.post-preview > a:hover .post-title,
+.post-preview > a:focus .post-title {
   color: #8b0000;
+  text-decoration: underline;
 }
 .post-preview > a > .post-title {
   font-size: 25px;
@@ -8327,6 +8337,15 @@ hr.separator {
 }
 .book-preview > a {
   color: #404040;
+}
+.book-preview > a:hover {
+  text-decoration: none;
+}
+.book-preview > a:hover strong {
+  text-decoration: underline;
+}
+.book-preview > a strong {
+  color: #8b0000;
 }
 .book-preview > a > .post-subtitle {
   margin: 0;
@@ -8486,6 +8505,7 @@ hr.separator {
   border-radius: 4px;
   box-shadow: 5px 5px 8px #CCC;
   margin-top: 5px;
+  color: #404040;
 }
 #text a.time_machine span {
   z-index: 10;
@@ -8520,6 +8540,12 @@ hr.separator {
 #text .caption.text-muted {
   clear: both;
 }
+#text .goodreads-link {
+  font-size: 12px;
+  margin-top: -25px;
+  display: block;
+  float: right;
+}
 .category-listing {
   margin-top: 30px;
 }
@@ -8530,6 +8556,12 @@ hr.separator {
 .category-listing a .date {
   font-size: 12px;
   color: #808080;
+}
+.category-listing a:hover {
+  text-decoration: none;
+}
+.category-listing a:hover .title {
+  text-decoration: underline;
 }
 .category-listing ul {
   list-style: none;

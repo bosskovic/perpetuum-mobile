@@ -19,27 +19,24 @@
 
 <nav id="affix-sidebar"  class="hidden-xs">
   <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
-    <!--<li class="active">-->
-      <!--<a id='sidebar-text' title="tekst" href="#text"><i class="icon-tekst"></i></a>-->
-    <!--</li>-->
     {% if ppt_map_exists %}
     <li>
-      <a id='sidebar-map' title="mapa" href="#map"><i class="icon-mapa"></i></a>
+      <a id='sidebar-map' class="inverted" title="mapa" href="#map"><i class="icon-mapa"></i></a>
     </li>
     {% endif %}
     {% if ppt_stats_exist %}
     <li>
-      <a id='sidebar-stats' title="statistike" href="#stats"><i class="icon-statistike"></i></a>
+      <a id='sidebar-stats' class="inverted" title="statistike" href="#stats"><i class="icon-statistike"></i></a>
     </li>
     {% endif %}
     {% if ppt_gallery_exists %}
     <li>
-      <a id='sidebar-pics' title="galerija" href="#pics"><i class="icon-slike"></i></a>
+      <a id='sidebar-pics' class="inverted" title="galerija" href="#pics"><i class="icon-slike"></i></a>
     </li>
     {% endif %}
     {% if page.videos %}
     <li>
-      <a id='sidebar-vids' title="video" href="#vids"><i class="icon-video"></i></a>
+      <a id='sidebar-vids' class="inverted" title="video" href="#vids"><i class="icon-video"></i></a>
     </li>
     {% endif %}
   </ul>

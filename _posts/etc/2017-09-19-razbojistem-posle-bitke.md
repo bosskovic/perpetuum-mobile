@@ -610,23 +610,19 @@ obično po idealnim uslovima, u kasno proleće ili leto, po danu, dobro opremlje
 savladati. Čitajući tekst tačno mogu da zamislim kuda se kretao, prepoznajem potoke, jaruge, zaseoke i staze.
 
 Nemoguće je potpuno rekonstruisati kude je sve prošao, to sigurno ni on sam nije znao, ali na osnovu opisa i karte, 
-napravio sam jedan mogući trek.
+napravio sam <a class="map2" href="#mapa">jedan mogući trek</a>.
 
-<div id="map" data-track="http://perpetuum-mobile.net/etc/razbojistem-posle-bitke/track.kml" style="width= 100%;"></div>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBEQkG-mZY78w26WBrUoMUa0fCyqvhvFHY"></script>
 <script>
-$(window).on('load', function () {
-    var $map = $('#map');
-    $map.css('height', window.innerHeight - 90);
-    if (typeof gMap == "undefined") {
-      gMap = new MyMap();
-      gMap.initializeMap($map.data('track'));
-    }
-});
-$(window).on('resize', function () {
-    $map.css('height', window.innerHeight - 90);
-});
+  $(document).on('click', 'a.mapa2', function (e) {
+    $("a#showGoogleMap").click();
+    $(this).blur();
+    e.preventDefault();
+    e.stopPropagation();
+    return false;
+  });
+
 </script>
+
 
 ***
 

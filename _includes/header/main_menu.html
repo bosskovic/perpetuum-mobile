@@ -21,7 +21,7 @@
 
       {% unless page.home_page and item.url == "" %}
         {% if item.subtype != "vrh" or include.vrh_strane  %}
-            <li><a href="/{{item.url}}" title="{{title}}" class="{{css}} {{item.subtype}}"><i class="{{item.icon}}"></i>{% if page.home_page %}{{title}}{% endif %}</a></li>
+            <li><a href="/{{item.url}}" title="{{title}}" class="inverted {{css}} {{item.subtype}}"><i class="{{item.icon}}"></i>{% if page.home_page %}{{title}}{% endif %}</a></li>
         {% endif %}
       {% endunless %}
     {% endfor %}

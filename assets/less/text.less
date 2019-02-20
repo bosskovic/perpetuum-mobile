@@ -55,6 +55,7 @@
     border-radius: 4px;
     box-shadow: 5px 5px 8px #CCC;
     margin-top: 5px;
+    color: @gray-dark;
 
     span {
       z-index: 10;
@@ -70,17 +71,17 @@
       border-radius: 4px;
       box-shadow: 5px 5px 8px #CCC;
     }
-  }
 
-  a.time_machine:hover {
-    text-decoration: none;
+    &:hover {
+      text-decoration: none;
 
-    span {
-      display: inline;
-      position: absolute;
-      color: @gray-dark;
-      border: 1px solid #ebeeee;
-      background: #f9fafa;
+      span {
+        display: inline;
+        position: absolute;
+        color: @gray-dark;
+        border: 1px solid #ebeeee;
+        background: #f9fafa;
+      }
     }
   }
 
@@ -96,5 +97,12 @@
 
   .caption.text-muted {
     clear: both;
+  }
+
+  .goodreads-link{
+    font-size: 12px;
+    margin-top: -25px;
+    display: block;
+    float: right;
   }
 }

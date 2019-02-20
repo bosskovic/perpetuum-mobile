@@ -284,7 +284,8 @@ pretraživati napred-nazad.
 
 Naravno, ove liste nisu sveobuhvatne i isključive.  
 
-### Vidikovci
+<div class="col-sm-6">
+<h3>Vidikovci</h3>
 <ul>
   <li><a href="#orlovo-bojiste">Orlovo bojište</a></li>
   <li><a href="#orlovac">Orlovac (Orlove stene)</a></li>
@@ -298,8 +299,9 @@ Naravno, ove liste nisu sveobuhvatne i isključive.
   <li><a href="#zbeg">Okolina isposnica na Zbegu</a></li>
   <li><a href="#iriski-venac">Iriški venac</a></li>
 </ul>
-
-### Panoramski putevi
+</div>
+<div class="col-sm-6">
+<h3>Panoramski putevi</h3>
 <ul>
   <li><a href="#brankovac">Brankovac</a></li>
   <li><a href="#grabovo">Grabovo</a></li>
@@ -313,9 +315,10 @@ Naravno, ove liste nisu sveobuhvatne i isključive.
   <li><a href="#seliste-i-okolina">Čerat, Avala, Srednji čot, Selište</a></li>
   <li><a href="#stara-kolonija">Kanov breg, Stara Kolonija</a></li>
 </ul>
+</div>
+<br><br>
 
 
-{% include separator.html %}
 {% include component/id.html id="orlovo-bojiste" %}
 {% include component/img/full.html file_name="orlovo-bojiste-20051030.jpg" %}
 ### Orlovo bojište

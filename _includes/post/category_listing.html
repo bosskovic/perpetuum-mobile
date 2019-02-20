@@ -10,16 +10,16 @@
       {% if p == page %}
         <li>
           {% unless p.show_date == false %}
-          <span class="date">{{ p.date | date: "%d. %m. %Y." }}</span>
+          <span class="date"><i class="icon-kalendar"></i>{{ p.date | date: "%d. %m. %Y." }}</span>
           {% endunless %}
-          {{ p.title }}
+          <span class="title">{{ p.title }}</span>
         </li>
       {% else %}
         <li><a href="{{ p.url }}">
           {% unless p.show_date == false %}
-            <span class="date">{{ p.date | date: "%d. %m. %Y." }}</span>
+            <span class="date"><i class="icon-kalendar"></i>{{ p.date | date: "%d. %m. %Y." }}</span>
           {% endunless %}
-          {{ p.title }}
+          <span class="title">{{ p.title }}</span>
         </a></li>
       {% endif %}
     {% endif %}

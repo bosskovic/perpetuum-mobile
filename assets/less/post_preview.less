@@ -6,7 +6,10 @@
     &:hover,
     &:focus {
       text-decoration: none;
-      color: @brand-primary;
+      .post-title {
+        color: @brand-primary;
+        text-decoration: underline;
+      }
     }
     > .post-title {
       font-size: 25px;
@@ -58,6 +61,17 @@
 .book-preview {
   > a {
     color: @gray-dark;
+
+    &:hover{
+      text-decoration: none;
+      strong {
+        text-decoration: underline;
+      }
+    }
+
+    strong{
+      color: @brand-primary;
+    }
     > .post-subtitle {
       margin: 0;
       font-weight: 300;
