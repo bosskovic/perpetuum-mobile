@@ -9,27 +9,30 @@
 
 
 <div class="post-preview">
-  <em class="muted header-line">
-    {% unless post.show_date == false %}
-      <i class="icon-kalendar"></i>{{ post.date | date: "%d. %m. %Y." }}
+  {% if post.tags_in_listing or page.date_in_listing %}
+    <em class="muted header-line">
+      {% if post.show_date and page.date_in_listing %}
+        <i class="icon-kalendar"></i>{{ post.date | date: "%d. %m. %Y." }}
+      {% endif %}
       {% if post.tags_in_listing %}
         <i class="icon-etc"></i>
+        {% assign start=true %}
+        {% for tag in post.tags %}
+          {% unless start %} * {% endunless %}
+          {% assign start=false %}
+          {{ tag | replace: 'ttt-', ' ' | replace: 'ttn-', ' ' | replace: 'rrr-', ' ' | replace:'-', ' ' }}
+        {% endfor %}
       {% endif %}
-    {% endunless %}
-    {% if post.tags_in_listing %}
-      {% assign start=true %}
-      {% for tag in post.tags %}
-        {% unless start %} * {% endunless %}
-        {% assign start=false %}
-        {{ tag | replace: 'ttt-', ' ' | replace: 'ttn-', ' ' | replace: 'rrr-', ' ' | replace:'-', ' ' }}
-      {% endfor %}
-
-    {% endif %}
-  </em>
+    </em>
+  {% endif %}
 
   <a class="screen-only" href="{{ post.url }}">
     {% if post.image_in_listing %}
       <img src="{{ post_header_img | replace: '/img/', '/thumbs_200/' }}" class="pull-right" style="width: 160px; height: 120px;">
+    {% endif %}
+    {% if post.parent_category and post.category != page.slug %}
+      {% include scripts/find_post_by_slug.html slug=post.category category=post.parent_category %}
+      <div class="parent-title"> {{ matched_post.title }} </div>
     {% endif %}
     <h2 class="post-title"> {{ post.title }} </h2>
     {% if post.excerpt and post.description_in_listing %}
@@ -43,7 +46,7 @@
       <h3 class="post-subtitle">{{ post.excerpt }}</h3>
     {% endif %}
   </span>
-  <span class="muted">
+  <span class="muted description">
     {% if post.description and post.description_in_listing %}
       {{ post.description | strip_html }}<br>
     {% endif %}
@@ -57,7 +60,9 @@
         {% for p in site.categories[post.slug] %}
           {% assign time = p.content | number_of_words | divided_by:170 | plus: time %}
         {% endfor %}
-        vreme čitanja: ~ {{ time }} min.
+        {% unless time == 0 %}
+          vreme čitanja: ~ {{ time }} min.
+        {% endunless %}
 
       {% else %}
         {% include component/read_time.html content=post.content english=page.english %}

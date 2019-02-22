@@ -1,7 +1,7 @@
 ---
 slug:         "put-internet-paketa"
-title:        "Pravo na privatnost je neotuđivo pravo - put internet paketa"
-excerpt:      ""
+title:        "Put internet paketa"
+excerpt:      "Pravo na privatnost je neotuđivo pravo"
 description:  "Malo suvoparan i tehnički orijentisan tekst koji sam izdvojio iz članka 'Pravo na privatnost je neotuđivo pravo'
                i u kojem se pojašnjavaju čvorovi na putu koji paket pređe od ishodišta do odredišta i nazad, kao i načini
                na koje mogu biti ugroženi."

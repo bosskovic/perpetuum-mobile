@@ -8199,7 +8199,7 @@ hr.separator {
 }
 .simple-header {
   text-align: center;
-  margin-top: 10px;
+  margin-top: 60px;
   margin-bottom: 10px;
 }
 .simple-header img {
@@ -8281,6 +8281,9 @@ hr.separator {
     display: none;
   }
 }
+.post-preview {
+  line-height: 1em;
+}
 .post-preview > a {
   color: #404040;
 }
@@ -8293,15 +8296,22 @@ hr.separator {
   color: #8b0000;
   text-decoration: underline;
 }
-.post-preview > a > .post-title {
-  font-size: 25px;
+.post-preview > a > .parent-title {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: normal;
+  margin-bottom: -10px;
   margin-top: 10px;
-  margin-bottom: 10px;
+}
+.post-preview > a > .post-title {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 2px;
 }
 .post-preview > a > .post-subtitle {
   margin: 0;
-  font-weight: 300;
-  font-size: 20px;
+  font-weight: 400;
+  font-size: 15px;
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
@@ -8319,11 +8329,6 @@ hr.separator {
   color: #8b0000;
   text-decoration: underline;
 }
-@media only screen and (min-width: 768px) {
-  .post-preview > a > .post-title {
-    font-size: 25px;
-  }
-}
 @media only screen and (max-width: 768px) {
   .post-preview img {
     display: none;
@@ -8335,6 +8340,9 @@ hr.separator {
 .post-preview .date {
   margin-bottom: 10px;
 }
+.post-preview em.header-line {
+  font-size: 10px;
+}
 .book-preview > a {
   color: #404040;
 }
@@ -8343,9 +8351,11 @@ hr.separator {
 }
 .book-preview > a:hover strong {
   text-decoration: underline;
-}
-.book-preview > a strong {
   color: #8b0000;
+}
+.book-preview > a em {
+  font-size: 16px;
+  font-weight: 400;
 }
 .book-preview > a > .post-subtitle {
   margin: 0;
@@ -8370,6 +8380,18 @@ hr.separator {
     height: 150px;
     margin-bottom: 30px;
   }
+  .tech-preview .content a {
+    color: #404040;
+  }
+  .tech-preview .content a > .post-subtitle {
+    margin: 0;
+    font-weight: 300;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .tech-preview .content a:hover {
+    color: #8b0000;
+  }
   .tech-preview .reading-time {
     position: absolute;
     bottom: 0;
@@ -8380,18 +8402,9 @@ hr.separator {
   }
   .tech-preview .header-line {
     overflow: hidden;
-    height: 43px;
+    height: 40px;
     display: block;
   }
-}
-.tech-preview > a {
-  color: #404040;
-}
-.tech-preview > a > .post-subtitle {
-  margin: 0;
-  font-weight: 300;
-  font-size: 16px;
-  margin-bottom: 10px;
 }
 .pm-category-header .section-heading {
   font-size: 36px;
@@ -8694,6 +8707,11 @@ footer .menu.collapsed li a.active_subtype i,
   background-color: #eeeeee;
   border-color: #8b0000;
 }
+.simple-header .menu.collapsed li a span,
+footer .menu.collapsed li a span,
+.home-header .menu.collapsed li a span {
+  display: none;
+}
 .simple-header .menu.expanded,
 footer .menu.expanded,
 .home-header .menu.expanded {
@@ -8713,6 +8731,11 @@ footer .menu.expanded li,
 footer .menu.expanded li i,
 .home-header .menu.expanded li i {
   margin-right: 9px;
+}
+@media only screen and (max-width: 768px) {
+  .ppt-navbar .menu a span {
+    display: inline;
+  }
 }
 footer {
   padding: 10px 0 25px;
@@ -8743,26 +8766,11 @@ footer .menu.collapsed {
 }
 .tag-cloud {
   text-align: center;
-}
-.tag-cloud .site-tag a {
-  display: inline-block;
-  margin: 5px;
-  border: 1px solid #8c8c8c;
-  border-radius: 50%;
-  padding: 10px 20px;
-}
-.tag-cloud .site-tag a:hover {
-  background-color: #eee;
-  text-decoration: none;
-}
-.tag-cloud .site-tag a.active {
-  color: #8b0000;
-}
-.tag-cloud.tech {
   margin-top: 30px;
   margin-bottom: 10px;
 }
-.tag-cloud.tech .site-tag a {
+.tag-cloud .site-tag a {
+  display: inline-block;
   border: none;
   border-radius: 0;
   padding: 0 !important;
@@ -8770,12 +8778,16 @@ footer .menu.collapsed {
   margin-right: 5px;
   font-weight: bold;
 }
-.tag-cloud.tech .site-tag.even a {
-  color: grey;
-}
-.tag-cloud.tech .site-tag a:hover {
+.tag-cloud .site-tag a:hover {
   background-color: white;
   text-decoration: underline;
+  color: #8b0000;
+}
+.tag-cloud .site-tag.even a {
+  color: grey;
+}
+.tag-cloud .site-tag a.active,
+.tag-cloud .site-tag.even a.active {
   color: #8b0000;
 }
 .authors-cloud .site-tag a {

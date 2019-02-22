@@ -45,6 +45,7 @@ defaults:
       image_in_listing: true
       same_category_in_related: true
       tags_in_listing: true
+      date_in_listing: false
       description_in_listing: true
       is_post: true
       permalink: /:categories/:title/
@@ -72,7 +73,7 @@ defaults:
       subtype: etc
       category: etc
       image: /assets/img/todorov_do.jpg
-      image_in_listing: false
+      date_in_listing: true
       animation:
         url: /assets/img/animated/etc.gif
         width: 250
@@ -86,6 +87,7 @@ defaults:
       english: true
       image_in_listing: false
       description_in_listing: false
+      image: /etc/permakultura-u-kancelariji/img/20111215.jpg
       animation:
         url: /assets/img/animated/tech.gif
         width: 250
@@ -125,6 +127,8 @@ defaults:
       path: "etc"
     values:
       subtype: etc
+      date_in_listing: true
+      tags_in_listing: true
       animation:
         url: /assets/img/animated/etc.gif
         width: 250

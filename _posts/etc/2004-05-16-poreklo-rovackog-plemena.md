@@ -37,8 +37,9 @@ tags:
 
 ( -> <a href="/putopisi/2007-cg-biciklom/">Crna Gora biciklom 2007 - tragom predaka</a> )  
 ( -> <a href="/2009-cg-dijagonala/lola-i-zurim/">Preko moračkih planina, Lole i Žurima biciklom 2009</a> )  
-( -> <a href="/2009-cg-dijagonala/rovca/">Biciklom kroz Rovca i kanjon Mrtvice 2009</a> )
-( -> <a href="/etc/rovca-mapa/">Rovca - topografska karta 1:25000</a> )
+( -> <a href="/2009-cg-dijagonala/rovca/">Biciklom kroz Rovca i kanjon Mrtvice 2009</a> )  
+( -> <a href="/etc/rovca-mapa/">Rovca - topografska karta 1:25000</a> )  
+( -> <a href="/etc/poreklo-bratstva-boskovica/">Poreklo bratstva Boškovića</a> )
 
 ***
 

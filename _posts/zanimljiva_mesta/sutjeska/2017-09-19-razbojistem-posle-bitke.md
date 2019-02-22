@@ -1,18 +1,21 @@
 ---
-slug:         "razbojistem-posle-bitke"
-title:        "Razbojištem posle bitke"
-excerpt:      "Memoar Krajimira Grbovića iz zbornika radova 'Sutjeska III'"
-description:  "Tokom V neprijateljske ofanzive, veče pred pokušaj proboja obruča na Sutjesci od strane III proleterske brigade,
-               Krajimir Grbović se našao sa svojom jedinicom ispod Mrkalj-Klada. U narednih desetak dana poći će mu naopako
-               gotovo sve što je moglo, ali volja za životom, borbom i osvetom neprijatelju održala ga je uprkos najtežim 
-               iskušenjima na kojima se našao."
-image:        "/etc/razbojistem-posle-bitke/img/sutjeska.jpg"
+slug:             razbojistem-posle-bitke
+category:         sutjeska
+parent_category:  zanimljiva_mesta
+show_date:        false
+show_description: true
+title:            "Razbojištem posle bitke"
+excerpt:          "Memoar Krajimira Grbovića iz zbornika radova 'Sutjeska III'"
+description:      "Tokom V neprijateljske ofanzive, veče pred pokušaj proboja obruča na Sutjesci od strane III proleterske brigade,
+                   Krajimir Grbović se našao sa svojom jedinicom ispod Mrkalj-Klada. U narednih desetak dana poći će mu naopako
+                   gotovo sve što je moglo, ali volja za životom, borbom i osvetom neprijatelju održala ga je uprkos najtežim 
+                   iskušenjima na kojima se našao."
+image:            "/sutjeska/razbojistem-posle-bitke/img/sutjeska.jpg"
 tags:
   - peta-ofanziva
   - sutjeska-memoar
 ---
 
-{% include component/img/full.html file_name="sutjeska.jpg" %}
 
 Bilo je već popodne 12. juna kada je naš topovski vod, preko Mrkalj-Klada, stigao pod Vučevo. Isključili su nas pre
 nekoliko sati iz borbe, jer za top nismo imali više udarnih granata — ostalo nam je još samo 80 pancirnih za tenkove.
@@ -613,14 +616,13 @@ Nemoguće je potpuno rekonstruisati kude je sve prošao, to sigurno ni on sam ni
 napravio sam <a class="map2" href="#mapa">jedan mogući trek</a>.
 
 <script>
-  $(document).on('click', 'a.mapa2', function (e) {
+  $(document).on('click', 'a.map2', function (e) {
     $("a#showGoogleMap").click();
     $(this).blur();
     e.preventDefault();
     e.stopPropagation();
     return false;
   });
-
 </script>
 
 

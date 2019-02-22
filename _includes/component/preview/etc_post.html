@@ -1,28 +1,33 @@
-<div class="book-preview post-preview" data-tags='{{ post.tags | replace:"-/-", "-" }}'>
-  <em class="muted">
-    <i class="icon-kalendar"></i>{{ post.date | date: "%d. %m. %Y." }}
-    <i class="icon-etc"></i>
-    {% assign start=true %}
-    {% for tag in post.tags %}
-      {% unless start %}
-      *
-      {% endunless %}
-      {% assign start=false %}
-      {{ tag | replace: 'rrr-', ' ' | replace:'-', ' ' }}
-    {% endfor %}
-  </em>
-  <br>
+{% assign post=include.post %}
+<div class="post-preview">
+  {% if post.tags_in_listing or page.date_in_listing %}
+    <em class="muted header-line">
+      <i class="icon-kalendar"></i>{{ post.date | date: "%d. %m. %Y." }}
+      {% if post.tags_in_listing and post.tags %}
+        <i class="icon-etc"></i>
+        {% assign start=true %}
+        {% for tag in post.tags %}
+          {% unless start %}
+          *
+          {% endunless %}
+          {% assign start=false %}
+          {{ tag | replace: 'rrr-', ' ' | replace:'-', ' ' }}
+        {% endfor %}
+      {% endif %}
+    </em>
+  {% endif %}
+
   <a class="screen-only" href="{{ post.url }}">
-    <strong> {{ post.title }} </strong><br>
+    <h2 class="post-title"> {{ post.title }} </h2>
     {% if post.excerpt %}
       <h3 class="post-subtitle">{{ post.excerpt }}</h3>
     {% endif %}
   </a>
-  <p class="muted mt-0">
+  <span class="muted description">
     {% if post.description %}
-      {{ post.description }}
-      <br>
+      {{ post.description }}<br>
     {% endif %}
-    [{% include component/read_time.html content=post.content english=page.english %}]
-  </p>
+    {% include component/read_time.html content=post.content english=page.english %}
+  </span>
 </div>
+<hr class="clearfix">

@@ -25,27 +25,30 @@
             border-color: @brand-primary;
           }
         }
-        &.active_page{
+        &.active_page {
           cursor: default;
           text-decoration: none;
-          i{
+          i {
             background-color: @brand-primary;
             border-color: @brand-primary;
             color: white;
           }
         }
-        &.active_page:hover{
+        &.active_page:hover {
           i {
             background-color: @brand-primary;
             border-color: @brand-primary;
           }
         }
-        &.active_subtype{
+        &.active_subtype {
           i {
             //background-color: #eee;
             background-color: @brand-lite;
             border-color: @brand-primary;
           }
+        }
+        span {
+          display: none;
         }
       }
     }
@@ -62,6 +65,14 @@
       i {
         margin-right: 9px;
       }
+    }
+  }
+}
+
+.ppt-navbar {
+  @media only screen and (max-width: 768px) {
+    .menu a span {
+      display: inline;
     }
   }
 }

@@ -13,8 +13,8 @@
             {% if font_size > 29  %}
                 {% assign font_size = 29 %}
             {% endif %}
-            <a href="#" style="font-size:{{ font_size }}px; padding-left: {{ font_size }}px; padding-right: {{ font_size }}px;" data-tag='{{ tag[0] | replace:"-/-", "-" }}' class="inverted">
-                {{ tag[0] | replace:include.prefix, ' ' | replace:'-', ' ' }} ({{ tag_size }})
+            <a href="#" style="font-size:{{ font_size }}px; padding-left: {{ font_size }}px; padding-right: {{ font_size }}px;" data-tag='{{ tag[0] | replace:"-/-", "-" | replace: "&", "-" }}' class="inverted">
+                {{ tag[0] | replace:include.prefix, ' ' | replace:'-', ' ' }}
             </a>
         </span>
     {% endif %}

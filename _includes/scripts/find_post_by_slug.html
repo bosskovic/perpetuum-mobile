@@ -1,0 +1,6 @@
+{% for p in site.categories[include.category] %}
+  {% if p.slug == include.slug %}
+    {% assign matched_post = p %}
+    {% break %}
+  {% endif %}
+{% endfor %}

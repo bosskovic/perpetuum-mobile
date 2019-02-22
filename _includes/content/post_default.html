@@ -8,6 +8,10 @@
                         {% include component/goodreads_header.html post=page %}
                     {% endif %}
 
+                    {% if page.show_description %}
+                      <p class="muted mt-0">{{ page.description }}</p>
+                    {% endif %}
+
                     {{ content }}
 
                     {% include component/media_footer.html %}

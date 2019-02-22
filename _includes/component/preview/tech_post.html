@@ -1,4 +1,4 @@
-<div class="tech-preview post-preview col-sm-6" data-tags='{{ post.tags | replace:"-/-", "-" }}'>
+<div class="tech-preview post-preview col-sm-6" data-tags='{{ post.tags | replace:"-/-", "-" | replace:"&", "-" }}'>
   <em class="muted header-line">
     <i class="icon-kalendar"></i>{{ post.date | date: "%d. %m. %Y." }}
     <i class="icon-etc"></i>
@@ -13,13 +13,13 @@
   </em>
   <div class="content">
     <a class="screen-only" href="{{ post.url }}">
-      <strong> {{ post.title }} </strong>
+      <strong class="post-title"> {{ post.title }} </strong>
     </a>
     <p class="muted mt-0">
       {{ post.excerpt }}
     </p>
   </div>
   <p class="muted reading-time">
-    [{% include component/read_time.html content = post.content english=page.english %}]
+    {% include component/read_time.html content=post.content english=page.english %}
   </p>
 </div>

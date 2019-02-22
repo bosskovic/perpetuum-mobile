@@ -1,6 +1,7 @@
 // Post Preview Pages
 
 .post-preview {
+  line-height: 1em;
   > a {
     color: @gray-dark;
     &:hover,
@@ -11,15 +12,24 @@
         text-decoration: underline;
       }
     }
-    > .post-title {
-      font-size: 25px;
+    > .parent-title {
+      text-transform: uppercase;
+      font-size: 12px;
+      font-weight: normal;
+      margin-bottom: -10px;
       margin-top: 10px;
-      margin-bottom: 10px;
+    }
+    > .post-title {
+      //color: @brand-primary;
+      font-size: 20px;
+      margin-top: 10px;
+      margin-bottom: 2px;
     }
     > .post-subtitle {
+      //color: @brand-primary;
       margin: 0;
-      font-weight: 300;
-      font-size: 20px;
+      font-weight: 400;
+      font-size: 15px;
       margin-bottom: 10px;
     }
   }
@@ -38,13 +48,6 @@
       }
     }
   }
-  @media only screen and (min-width: 768px) {
-    > a {
-      > .post-title {
-        font-size: 25px;
-      }
-    }
-  }
   @media only screen and (max-width: 768px) {
     img {
       display: none;
@@ -56,6 +59,9 @@
   .date {
     margin-bottom: 10px;
   }
+  em.header-line {
+    font-size: 10px;
+  }
 }
 
 .book-preview {
@@ -66,11 +72,16 @@
       text-decoration: none;
       strong {
         text-decoration: underline;
+        color: @brand-primary;
       }
     }
 
+    em {
+      font-size: 16px;
+      font-weight: 400;
+    }
     strong{
-      color: @brand-primary;
+      //color: @brand-primary;
     }
     > .post-subtitle {
       margin: 0;
@@ -98,6 +109,19 @@
     .content{
       height: 150px;
       margin-bottom: 30px;
+
+      a {
+        color: @gray-dark;
+        > .post-subtitle {
+          margin: 0;
+          font-weight: 300;
+          font-size: 16px;
+          margin-bottom: 10px;
+        }
+        &:hover{
+          color: @brand-primary;
+        }
+      }
     }
     .reading-time{
       position: absolute;
@@ -109,18 +133,8 @@
     }
     .header-line{
       overflow: hidden;
-      height: 43px;
+      height: 40px;
       display: block;
-    }
-  }
-
-  > a {
-    color: @gray-dark;
-    > .post-subtitle {
-      margin: 0;
-      font-weight: 300;
-      font-size: 16px;
-      margin-bottom: 10px;
     }
   }
 }
