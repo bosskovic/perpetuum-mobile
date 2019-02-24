@@ -30,7 +30,7 @@ $(document).ready(function () {
 
 // Navigation Scripts to Show Header on Scroll-Up
 jQuery(document).ready(function ($) {
-  var MQL = 1170;
+  var MQL = 567;
 
   //primary navigation slide-in effect
   if ($(window).width() > MQL) {
@@ -168,6 +168,7 @@ $(document).ready(function (e) {
   
   $(document).on('click', '.menu .vrh', function (e) {
     $("html, body").animate({scrollTop:"0"},600);
+    $('.navbar-header button[aria-expanded="true"]').click();
     e.preventDefault();
     return false;
   });

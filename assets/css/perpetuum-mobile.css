@@ -8041,16 +8041,16 @@ hr.separator {
   margin: 0 !important;
 }
 .ppt-navbar {
-  background: white;
-  position: absolute;
+  background: transparent;
+  border: none;
   top: 0;
   left: 0;
   width: 100%;
   z-index: 3;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-.ppt-navbar .navbar-brand {
-  font-weight: 800;
+.ppt-navbar .navbar-header button {
+  background-color: white;
 }
 .ppt-navbar .nav li a {
   font-size: 22px;
@@ -8060,13 +8060,13 @@ hr.separator {
 .ppt-navbar .nav li a span {
   display: none;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 567px) {
   .ppt-navbar .nav li a span {
     display: inline;
     margin-left: 10px;
   }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 568px) {
   .ppt-navbar {
     background: transparent;
     border-bottom: 1px solid transparent;
@@ -8082,26 +8082,29 @@ hr.separator {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
   }
-  .ppt-navbar .navbar-brand {
-    color: white;
-    padding: 20px;
-  }
-  .ppt-navbar .navbar-brand:hover,
-  .ppt-navbar .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
+  .ppt-navbar .nav li {
+    float: left;
   }
   .ppt-navbar .nav li a {
     color: white;
-    padding: 20px;
+    padding: 15px;
   }
   .ppt-navbar .nav li a:hover,
   .ppt-navbar .nav li a:focus {
     color: rgba(255, 255, 255, 0.8);
   }
+  .ppt-navbar .navbar-toggle {
+    display: none;
+  }
+  .ppt-navbar .navbar-collapse.collapse {
+    display: block !important;
+    border: none;
+    line-height: 0px;
+  }
   .ppt-navbar.is-fixed {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
-    top: -61px;
+    top: -53px;
     background-color: rgba(255, 255, 255, 0.9);
     border-bottom: 1px solid #f2f2f2;
     -webkit-transition: -webkit-transform 0.3s;
@@ -8131,11 +8134,10 @@ hr.separator {
     transform: translate3d(0, 100%, 0);
   }
 }
-.ppt-navbar a.vrh {
-  display: none;
-}
-.ppt-navbar.is-fixed a.vrh {
-  display: inline-block;
+@media only screen and (max-width: 567px) {
+  .ppt-navbar .navbar-collapse {
+    background-color: white;
+  }
 }
 .intro-header {
   background: no-repeat center center;
@@ -8815,14 +8817,18 @@ footer .menu.expanded li i,
 .home-header .menu.expanded li i {
   margin-right: 9px;
 }
-@media only screen and (max-width: 479px) {
-  .ppt-navbar .menu {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
+.ppt-navbar .menu {
+  margin: 0;
+}
+@media only screen and (max-width: 567px) {
   .ppt-navbar .menu a span {
     display: inline;
     font-weight: normal;
+  }
+}
+@media only screen and (min-width: 568px) {
+  .ppt-navbar .menu {
+    display: inline-block;
   }
 }
 footer {

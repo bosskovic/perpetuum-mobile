@@ -1,15 +1,17 @@
 // Navigation
 
 .ppt-navbar {
-  background: white;
-  position: absolute;
+  background: transparent;
+  border: none;
   top: 0;
   left: 0;
   width: 100%;
   z-index: 3;
   .sans-serif;
-  .navbar-brand {
-    font-weight: 800;
+  .navbar-header {
+    button {
+      background-color: white;
+    }
   }
   .nav {
     li {
@@ -20,7 +22,7 @@
         span {
           display: none;
         }
-        @media only screen and (max-width: 767px) {
+        @media only screen and (max-width: 567px) {
           span {
             display: inline;
             margin-left: 10px;
@@ -29,23 +31,16 @@
       }
     }
   }
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 568px) {
     background: transparent;
     border-bottom: 1px solid transparent;
-    .navbar-brand {
-      color: white;
-      padding: 20px;
-      &:hover,
-      &:focus {
-        color: @white-faded;
-      }
-    }
 
     .nav {
       li {
+        float: left;
         a {
           color: white;
-          padding: 20px;
+          padding: 15px;
           &:hover,
           &:focus {
             color: @white-faded;
@@ -53,6 +48,26 @@
         }
       }
     }
+
+    .navbar-toggle {
+      display: none;
+    }
+
+    .navbar-collapse.collapse {
+      display: block !important;
+      border: none;
+      line-height: 0px;
+    }
+
+    //.navbar-brand {
+    //  color: white;
+    //  padding: 20px;
+    //  &:hover,
+    //  &:focus {
+    //    color: @white-faded;
+    //  }
+    //}
+
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
     transition: background-color 0.3s;
@@ -67,7 +82,7 @@
     &.is-fixed {
       /* when the user scrolls down, we hide the header right above the viewport */
       position: fixed;
-      top: -61px;
+      top: -53px;
       background-color: fade(white, 90%);
       border-bottom: 1px solid darken(white, 5%);
       -webkit-transition: -webkit-transform 0.3s;
@@ -102,14 +117,21 @@
       transform: translate3d(0, 100%, 0);
     }
   }
+  @media only screen and (max-width: 567px) {
+    .navbar-collapse {
+      background-color: white;
+    }
+  }
 }
 
-.ppt-navbar a.vrh {
-  display: none;
-}
-.ppt-navbar.is-fixed a.vrh {
-  display: inline-block;
-}
+
+
+//.ppt-navbar a.vrh {
+//  display: none;
+//}
+//.ppt-navbar.is-fixed a.vrh {
+//  display: inline-block;
+//}
 
 // Header
 

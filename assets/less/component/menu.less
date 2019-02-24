@@ -74,15 +74,16 @@
 }
 
 .ppt-navbar {
-  @media only screen and (max-width: 479px) {
-
-    .menu {
-      margin-top: 0;
-      margin-bottom: 0;
+  .menu {
+    margin: 0;
+    @media only screen and (max-width: 567px) {
       a span {
         display: inline;
         font-weight: normal;
       }
+    }
+    @media only screen and (min-width: 568px) {
+      display: inline-block;
     }
   }
 }
