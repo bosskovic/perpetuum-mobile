@@ -32,7 +32,7 @@
 
     {% if page.parent_category %}
         <div class="container category-listing-container">
-            <div class="row">
+            <div class="row category-navigation">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     {% include post/navigation.html %}
                 </div>
@@ -44,7 +44,6 @@
                 </div>
             </div>
         </div>
-        <hr class="screen-only">
     {% endif %}
 
     {% include post/related_posts_listing.html %}

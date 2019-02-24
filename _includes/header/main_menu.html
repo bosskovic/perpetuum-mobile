@@ -5,6 +5,12 @@
 {% endif %}
 <ul class="menu {{css}} {{include.css}}">
     {% for item in site.data.navigation %}
+
+      {% if forloop.index == 5 and css == "collapsed" %}
+</ul>
+<ul class="menu {{css}} {{include.css}}">
+      {% endif %}
+
       {% if page.english %}
         {% assign title=item.en %}
       {% else %}
@@ -12,16 +18,16 @@
       {% endif %}
 
       {% if page.slug == item.url %}
-        {% assign css="active_page" %}
+        {% assign inner_css="active_page" %}
       {% elsif page.subtype == item.subtype %}
-        {% assign css="active_subtype" %}
+        {% assign inner_css="active_subtype" %}
       {% else %}
-        {% assign css="" %}
+        {% assign inner_css="" %}
       {% endif %}
 
       {% unless page.home_page and item.url == "" %}
         {% if item.subtype != "vrh" or include.vrh_strane  %}
-            <li><a href="/{{item.url}}" title="{{title}}" class="inverted {{css}} {{item.subtype}}"><i class="{{item.icon}}"></i><span>{{title}}</span></a></li>
+            <li><a href="/{{item.url}}" title="{{title}}" class="inverted {{inner_css}} {{item.subtype}}"><i class="{{item.icon}}"></i><span>{{title}}</span></a></li>
         {% endif %}
       {% endunless %}
     {% endfor %}

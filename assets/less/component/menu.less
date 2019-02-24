@@ -4,6 +4,10 @@
     list-style: none;
     margin: 0;
     padding: 0;
+    display: inline-block;
+    @media only screen and (max-width: 479px) {
+      display: block;
+    }
 
     li {
       display: inline;
@@ -70,9 +74,15 @@
 }
 
 .ppt-navbar {
-  @media only screen and (max-width: 768px) {
-    .menu a span {
-      display: inline;
+  @media only screen and (max-width: 479px) {
+
+    .menu {
+      margin-top: 0;
+      margin-bottom: 0;
+      a span {
+        display: inline;
+        font-weight: normal;
+      }
     }
   }
 }

@@ -20,7 +20,7 @@
         span {
           display: none;
         }
-        @media only screen and (max-width: 768px) {
+        @media only screen and (max-width: 767px) {
           span {
             display: inline;
             margin-left: 10px;
@@ -53,8 +53,6 @@
         }
       }
     }
-  }
-  @media only screen and (min-width: 1170px) {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
     transition: background-color 0.3s;
@@ -106,6 +104,13 @@
   }
 }
 
+.ppt-navbar a.vrh {
+  display: none;
+}
+.ppt-navbar.is-fixed a.vrh {
+  display: inline-block;
+}
+
 // Header
 
 .intro-header {
@@ -118,28 +123,29 @@
   .page-heading {
     padding: 100px 0 50px;
     color: white;
-    @media only screen and (min-width: 768px) {
-      padding: 150px 0;
-    }
-  }
-  .page-heading {
     text-align: center;
 
     h1 {
       margin-top: 0;
-      font-size: 50px;
+      font-size: 30px;
     }
     .subheading {
-      font-size: 24px;
+      font-size: 20px;
       line-height: 1.1;
       display: block;
       .sans-serif;
       font-weight: 300;
       margin: 10px 0 0;
     }
+
     @media only screen and (min-width: 768px) {
+      padding: 150px 0;
+
       h1 {
-        font-size: 50px;
+        font-size: 40px;
+      }
+      .subheading {
+        font-size: 24px;
       }
     }
   }
@@ -209,7 +215,7 @@
   .moto:hover {
     color: @brand-primary;
   }
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 767px) {
     .wide {
       display: none;
     }

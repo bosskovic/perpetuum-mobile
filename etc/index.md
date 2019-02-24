@@ -4,4 +4,4 @@ slug:        "etc"
 excerpt:     ""
 ---
 
-### m@perpetuum-mobile: /etc$ ▮ 
+<h3 class='etc-header'> m@perpetuum-mobile: /etc$ ▮</h3> 

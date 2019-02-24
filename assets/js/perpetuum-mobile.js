@@ -74,6 +74,7 @@ $(window).on('load', function () {
   $('.carousel img').css('max-height', window.innerHeight);
   $('iframe.youtube').css('height', parseInt($('iframe.youtube').css('width'))*9/16);
   $('.videos-table').css('position', 'static');
+  $('.video-spinner').hide();
 });
 
 $(window).on('resize', function () {
@@ -124,6 +125,15 @@ $(document).ready(function (e) {
     return false;
   });
   
+  $(document).on('click', '.tag-toggler', function (e) {
+    $('.tag-cloud').show();
+    // $('.authors-cloud').show();
+    $(this).hide();
+    e.preventDefault();
+    return false;
+  });
+  
+
   $(document).on('click', '.site-tag .prikazi-sve', function (e) {
     $(this).parent().parent().find('.site-tag').removeClass('hidden');
     $(this).parent().addClass('hidden');

@@ -9,9 +9,9 @@
 
 
 <div class="post-preview">
-  {% if post.tags_in_listing or page.date_in_listing %}
+  {% if post.tags_in_listing or page.date_in_listing or page.has_subposts %}
     <em class="muted header-line">
-      {% if post.show_date and page.date_in_listing %}
+      {% if post.show_date and page.date_in_listing or page.has_subposts %}
         <i class="icon-kalendar"></i>{{ post.date | date: "%d. %m. %Y." }}
       {% endif %}
       {% if post.tags_in_listing %}

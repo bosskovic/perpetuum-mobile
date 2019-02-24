@@ -8012,7 +8012,7 @@ body {
   margin: 0px !important;
 }
 .external {
-  background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%20standalone%3D%22no%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%2212%22%3E%3Cpath%20fill%3D%22%23fff%22%20stroke%3D%22%2306c%22%20d%3D%22M1.5%204.518h5.982V10.5H1.5z%22%2F%3E%3Cpath%20d%3D%22M5.765%201H11v5.39L9.427%207.937l-1.31-1.31L5.393%209.35l-2.69-2.688%202.81-2.808L4.2%202.544z%22%20fill%3D%22%2306f%22%2F%3E%3Cpath%20d%3D%22M9.995%202.004l.022%204.885L8.2%205.07%205.32%207.95%204.09%206.723l2.882-2.88-1.85-1.852z%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fsvg%3E");
+  background-image: linear-gradient(transparent, transparent), url("/assets/img/external2.png");
   background-position: right center;
   background-repeat: no-repeat;
   padding-right: 13px;
@@ -8025,7 +8025,6 @@ hr.separator {
   margin-bottom: 0;
   margin-top: 30px;
   border-top: 3px solid #eee;
-  border-bottom: 1px solid #8c8c8c;
 }
 .muted {
   color: #666666;
@@ -8061,7 +8060,7 @@ hr.separator {
 .ppt-navbar .nav li a span {
   display: none;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
   .ppt-navbar .nav li a span {
     display: inline;
     margin-left: 10px;
@@ -8071,6 +8070,17 @@ hr.separator {
   .ppt-navbar {
     background: transparent;
     border-bottom: 1px solid transparent;
+    -webkit-transition: background-color 0.3s;
+    -moz-transition: background-color 0.3s;
+    transition: background-color 0.3s;
+    /* Force Hardware Acceleration in WebKit */
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
   }
   .ppt-navbar .navbar-brand {
     color: white;
@@ -8087,21 +8097,6 @@ hr.separator {
   .ppt-navbar .nav li a:hover,
   .ppt-navbar .nav li a:focus {
     color: rgba(255, 255, 255, 0.8);
-  }
-}
-@media only screen and (min-width: 1170px) {
-  .ppt-navbar {
-    -webkit-transition: background-color 0.3s;
-    -moz-transition: background-color 0.3s;
-    transition: background-color 0.3s;
-    /* Force Hardware Acceleration in WebKit */
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    -ms-transform: translate3d(0, 0, 0);
-    -o-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
   }
   .ppt-navbar.is-fixed {
     /* when the user scrolls down, we hide the header right above the viewport */
@@ -8136,6 +8131,12 @@ hr.separator {
     transform: translate3d(0, 100%, 0);
   }
 }
+.ppt-navbar a.vrh {
+  display: none;
+}
+.ppt-navbar.is-fixed a.vrh {
+  display: inline-block;
+}
 .intro-header {
   background: no-repeat center center;
   background-color: #808080;
@@ -8148,21 +8149,14 @@ hr.separator {
 .intro-header .page-heading {
   padding: 100px 0 50px;
   color: white;
-}
-@media only screen and (min-width: 768px) {
-  .intro-header .page-heading {
-    padding: 150px 0;
-  }
-}
-.intro-header .page-heading {
   text-align: center;
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 30px;
 }
 .intro-header .page-heading .subheading {
-  font-size: 24px;
+  font-size: 20px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -8170,8 +8164,14 @@ hr.separator {
   margin: 10px 0 0;
 }
 @media only screen and (min-width: 768px) {
+  .intro-header .page-heading {
+    padding: 150px 0;
+  }
   .intro-header .page-heading h1 {
-    font-size: 50px;
+    font-size: 40px;
+  }
+  .intro-header .page-heading .subheading {
+    font-size: 24px;
   }
 }
 .intro-header .overlay {
@@ -8227,7 +8227,7 @@ hr.separator {
 .home-header .moto:hover {
   color: #8b0000;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
   .home-header .wide {
     display: none;
   }
@@ -8281,6 +8281,15 @@ hr.separator {
     display: none;
   }
 }
+.post-previews h2 {
+  margin-bottom: 30px;
+}
+@media (max-width: 479px) {
+  .post-previews h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+}
 .post-preview {
   line-height: 1em;
 }
@@ -8313,6 +8322,7 @@ hr.separator {
   font-weight: 400;
   font-size: 15px;
   margin-bottom: 10px;
+  font-style: italic;
 }
 .post-preview > .post-meta {
   color: #808080;
@@ -8329,7 +8339,7 @@ hr.separator {
   color: #8b0000;
   text-decoration: underline;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
   .post-preview img {
     display: none;
   }
@@ -8411,9 +8421,24 @@ hr.separator {
   margin-top: 60px;
   font-weight: 700;
 }
+@media only screen and (max-width: 767px) {
+  .pm-category-header .section-heading {
+    font-size: 30px;
+  }
+}
 .pm-category-header#post-category-header h3 {
   margin-top: 40px;
   text-transform: uppercase;
+}
+@media (max-width: 479px) {
+  .pm-category-header#post-category-header h3 {
+    margin-top: 10px;
+  }
+  .pm-category-header#post-category-header h3 a {
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: -1px;
+  }
 }
 .pm-category-header#post-category-header .section-heading {
   margin-top: 0;
@@ -8433,22 +8458,29 @@ hr.separator {
 .pager {
   margin: 20px 0 0;
 }
-.pager li > a,
-.pager li > span {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
-  font-size: 14px;
-  font-weight: 800;
-  letter-spacing: 1px;
+.pager li > a {
   padding: 10px 5px;
   background-color: white;
   border-radius: 0;
+  font-size: 14px;
+}
+.pager li > a span {
+  text-transform: uppercase;
+  font-size: 12px;
+}
+@media only screen and (max-width: 767px) {
+  .pager li > a {
+    margin-top: 5px;
+  }
 }
 @media only screen and (min-width: 768px) {
-  .pager li > a,
-  .pager li > span {
-    font-size: 14px;
+  .pager li > a {
     padding: 15px 25px;
+  }
+  .pager li > a span {
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 1px;
   }
 }
 .pager li > a:hover,
@@ -8465,8 +8497,10 @@ hr.separator {
   background-color: #404040;
   cursor: not-allowed;
 }
-#text p {
-  text-align: justify;
+@media (min-width: 480px) {
+  #text p {
+    text-align: justify;
+  }
 }
 #text img {
   margin-top: 10px;
@@ -8487,6 +8521,22 @@ hr.separator {
 }
 #text img.horizontal.for-print {
   width: 300px;
+}
+@media only screen and (max-width: 479px) {
+  #text img.horizontal,
+  #text img.vertical,
+  #text img.goodreads-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media only screen and (min-width: 480px) {
+  #text img.horizontal,
+  #text img.vertical,
+  #text img.goodreads-image {
+    float: right;
+  }
 }
 #text .side-story {
   clear: both;
@@ -8559,8 +8609,27 @@ hr.separator {
   display: block;
   float: right;
 }
+.category-listing-container {
+  margin-bottom: 20px;
+}
+@media (max-width: 479px) {
+  .category-listing-container .category-navigation {
+    display: none;
+  }
+}
+@media (min-width: 480px) {
+  .category-listing-container {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+  }
+}
 .category-listing {
   margin-top: 30px;
+}
+@media (max-width: 479px) {
+  .category-listing {
+    margin-top: 10px;
+  }
 }
 .category-listing a {
   text-transform: uppercase;
@@ -8580,6 +8649,11 @@ hr.separator {
   list-style: none;
   padding-left: 5px;
 }
+@media (max-width: 479px) {
+  .category-listing ul {
+    padding-left: 0;
+  }
+}
 .category-listing ul li {
   text-transform: uppercase;
   font-size: 16px;
@@ -8594,9 +8668,10 @@ hr.separator {
   font-weight: normal;
 }
 #media-footer {
+  margin-top: 30px;
   display: block;
   font-size: 14px;
-  line-height: 1em;
+  line-height: 2em;
 }
 .for-print {
   display: none;
@@ -8658,6 +8733,14 @@ footer .menu.collapsed,
   list-style: none;
   margin: 0;
   padding: 0;
+  display: inline-block;
+}
+@media only screen and (max-width: 479px) {
+  .simple-header .menu.collapsed,
+  footer .menu.collapsed,
+  .home-header .menu.collapsed {
+    display: block;
+  }
 }
 .simple-header .menu.collapsed li,
 footer .menu.collapsed li,
@@ -8732,9 +8815,14 @@ footer .menu.expanded li i,
 .home-header .menu.expanded li i {
   margin-right: 9px;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 479px) {
+  .ppt-navbar .menu {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
   .ppt-navbar .menu a span {
     display: inline;
+    font-weight: normal;
   }
 }
 footer {
@@ -8749,25 +8837,39 @@ footer .copyright {
   text-align: center;
   margin-bottom: 0;
 }
-footer .menu.collapsed {
-  margin-bottom: 30px;
+footer .menu-container {
+  text-align: center;
 }
 .no-tracking {
   color: #9d9d9d;
   font-size: small;
   text-decoration: none;
   cursor: pointer;
-  margin-top: 0;
+  margin-top: 20px;
   margin-bottom: 10px;
 }
 .no-tracking:hover,
 .no-tracking:focus {
   color: #8b0000;
 }
+.tag-toggler {
+  display: block;
+  margin-bottom: 20px;
+}
+@media (min-width: 480px) {
+  .tag-toggler {
+    display: none;
+  }
+}
 .tag-cloud {
   text-align: center;
   margin-top: 30px;
   margin-bottom: 10px;
+}
+@media (max-width: 479px) {
+  .tag-cloud {
+    display: none;
+  }
 }
 .tag-cloud .site-tag a {
   display: inline-block;
@@ -8790,6 +8892,16 @@ footer .menu.collapsed {
 .tag-cloud .site-tag.even a.active {
   color: #8b0000;
 }
+@media (max-width: 479px) {
+  .tag-cloud.tech {
+    display: block;
+  }
+}
+@media (max-width: 479px) {
+  .authors-cloud {
+    display: none;
+  }
+}
 .authors-cloud .site-tag a {
   display: block;
   float: right;
@@ -8811,7 +8923,7 @@ footer .menu.collapsed {
     display: none;
   }
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
   #text .carousel img.img {
     display: none;
   }
@@ -8903,7 +9015,7 @@ footer .menu.collapsed {
   font-size: 14px;
   margin-top: 0;
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .featured-tabs {
     margin-top: 30px;
   }
@@ -8912,7 +9024,7 @@ footer .menu.collapsed {
   padding: 10px;
   font-size: 14px;
 }
-@media (max-width: 768px) and (min-width: 399px) {
+@media (max-width: 767px) and (min-width: 399px) {
   .featured-tabs .nav-tabs a {
     padding: 10px 15px;
     font-size: 18px;
@@ -8931,6 +9043,28 @@ footer .menu.collapsed {
   font-size: 14px;
   margin-top: 0;
 }
+/*========== Combined Mobile and Non-Mobile First Method ==========*/
+/* Custom, iPhone Retina */
+/* iphone 5 landscape */
+/* Extra Small Devices, Portrait Phones */
+/* Small Devices, Landscape Phones and Phablets, Portrait Tablets, Small Desktops */
+/* Medium Devices, Landscape Tablets, Laptops, Desktops */
+/* Large Devices, Large Desktops, Wide Screens */
+.video-spinner {
+  border: none !important;
+  display: block;
+  margin: 40px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
 .videos-table {
   position: fixed;
+}
+@media (max-width: 479px) {
+  .etc-header {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
 }

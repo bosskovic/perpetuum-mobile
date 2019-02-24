@@ -100,7 +100,7 @@ defaults:
       category: knjige
       image_in_listing: false
       animation:
-        url: /assets/img/book.gif
+        url: /assets/img/animated/book.gif
         width: 300
         height: 244
 # PAGES
@@ -149,7 +149,7 @@ defaults:
     values:
       subtype: knjige
       animation:
-        url: /assets/img/book.gif
+        url: /assets/img/animated/book.gif
         width: 300
         height: 244
   -

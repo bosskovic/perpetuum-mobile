@@ -155,7 +155,7 @@ sam morao da čekam da zaspi.
 U Sutomoru smo malo imali problem jer vreme poslednjeg dana nije bilo za kupanje, Vuk nije u stanju da duže bude zatvoren
 u sobi, a nismo imali mnogo opcija za šetnju. U suštini, zbog toga smo i skratili vreme na moru i vratili se u planine.
  
-{% include separator.html %}
+***
 
 Sve u svemu, ja sam prezadovoljan. Bili, videli, iskusili, vratili se živi i zdravi (Vuk čak i zdraviji, kad smo krenuli
 bio je malo prehlađen i curio mu je nos). 

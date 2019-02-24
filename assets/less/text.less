@@ -1,6 +1,8 @@
 #text {
   p {
-    text-align: justify;
+    @media (min-width: 480px) {
+      text-align: justify;
+    }
   }
 
   img {
@@ -21,6 +23,17 @@
     width: 200px;
     &.for-print {
       width: 300px;
+    }
+  }
+
+  img.horizontal, img.vertical, img.goodreads-image {
+    @media only screen and (max-width: 479px) {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    @media only screen and (min-width: 480px) {
+      float: right;
     }
   }
   .side-story {
@@ -99,7 +112,7 @@
     clear: both;
   }
 
-  .goodreads-link{
+  .goodreads-link {
     font-size: 12px;
     margin-top: -25px;
     display: block;

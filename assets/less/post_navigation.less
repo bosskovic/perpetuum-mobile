@@ -3,20 +3,29 @@
   margin: 20px 0 0;
 
   li {
-    > a,
-    > span {
-      .sans-serif;
-      text-transform: uppercase;
-      font-size: 14px;
-      font-weight: 800;
-      letter-spacing: 1px;
+    > a {
       padding: 10px 5px;
       background-color: white;
       border-radius: 0;
-      @media only screen and (min-width: 768px) {
-        font-size: 14px;
-        padding: 15px 25px;
+      font-size: 14px;
+
+      span {
+        text-transform: uppercase;
+        font-size: 12px;
       }
+      @media only screen and (max-width: 767px) {
+        margin-top: 5px;
+      }
+      @media only screen and (min-width: 768px) {
+        padding: 15px 25px;
+
+        span{
+          font-size: 14px;
+          font-weight: 800;
+          letter-spacing: 1px;
+        }
+      }
+
     }
 
     > a:hover,

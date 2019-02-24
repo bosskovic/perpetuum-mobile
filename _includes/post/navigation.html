@@ -20,13 +20,13 @@
   {% if prev_post %}
   <li class="previous">
     <a href="{{ prev_post.url | replace: '//', '/' }}" data-toggle="tooltip"
-       data-placement="top" title="{{prev_post.title}}" class="inverted">&larr; <span class="hidden-xs hidden-sm">{{ prev_post.title }}</span></a>
+       data-placement="top" title="{{prev_post.title}}" class="inverted">&larr; <span class="pager-post">{{ prev_post.title }}</span></a>
   </li>
   {% endif %}
   {% if next_post %}
   <li class="next">
     <a href="{{ next_post.url | replace: '//', '/' }}" data-toggle="tooltip"
-       data-placement="top" title="{{next_post.title}}" class="inverted"><span class="hidden-xs hidden-sm">{{ next_post.title }}</span> &rarr;</a>
+       data-placement="top" title="{{next_post.title}}" class="inverted"><span class="pager-post">{{ next_post.title }}</span> &rarr;</a>
   </li>
   {% endif %}
 </ul>

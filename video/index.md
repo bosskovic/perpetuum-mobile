@@ -150,12 +150,13 @@ videos:
 
 ---
 
-<br>
+<img src="/assets/img/fancybox_loading@2x.gif" class="video-spinner">
 <h4>Youtube playlist:</h4>
 {% include component/youtube/playlist.html id="PLKEPDfNr_uZQv4ZJwLuzwb6zm7eMU17mT" %}
 
 <hr>
 
+<img src="/assets/img/fancybox_loading@2x.gif" class="video-spinner">
 <div class="row videos-table">
     {% for video in page.videos %}
       {% include component/youtube/video_cell.html video=video %}

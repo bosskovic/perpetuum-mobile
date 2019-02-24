@@ -22,6 +22,55 @@
 @import "component/youtube";
 @import "home";
 
+/*========== Combined Mobile and Non-Mobile First Method ==========*/
+
+/* Custom, iPhone Retina */
+@media (max-width : 479px) {
+
+}
+
+/* iphone 5 landscape */
+@media (min-width:480px) and (max-width:567px){
+
+}
+
+/* Extra Small Devices, Portrait Phones */
+@media (min-width:480px) and (max-width:767px){
+
+}
+
+/* Small Devices, Landscape Phones and Phablets, Portrait Tablets, Small Desktops */
+@media (min-width:768px) and (max-width:991px){
+
+}
+
+/* Medium Devices, Landscape Tablets, Laptops, Desktops */
+@media (min-width:992px) and (max-width:1199px){
+
+}
+
+/* Large Devices, Large Desktops, Wide Screens */
+@media (min-width:1200px){
+
+}
+
+.video-spinner{
+  border: none !important;
+  display: block;
+  margin: 40px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
 .videos-table{
   position: fixed;
+}
+
+.etc-header{
+  @media (max-width: 479px) {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+
 }
