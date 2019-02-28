@@ -3,6 +3,11 @@ title: perpetuum mobile
 excerpt:     "stalno u pokretu"
 videos:
   -
+    youtube: _pn66KLdvaE
+    title: Vuk na dva točka
+    date: februar 2019.
+    description: ""
+  -
     youtube: 7vOyCt6Lj-M
     title: Hranilica za ptice
     date: februar 2019.

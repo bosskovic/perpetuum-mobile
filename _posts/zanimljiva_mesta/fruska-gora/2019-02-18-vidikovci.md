@@ -315,8 +315,9 @@ Naravno, ove liste nisu sveobuhvatne i isključive.
   <li><a href="#seliste-i-okolina">Čerat, Avala, Srednji čot, Selište</a></li>
   <li><a href="#stara-kolonija">Kanov breg, Stara Kolonija</a></li>
 </ul>
+<br>
 </div>
-<br><br>
+
 
 
 {% include component/id.html id="orlovo-bojiste" %}

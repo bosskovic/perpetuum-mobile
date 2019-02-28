@@ -156,7 +156,7 @@ Već crveno mnoštvo divljega maka.</p>
 </div>
 </div>
 
-<p class="muted">Moje znanje italijanskog je u najboljem slučaju rudimentarno, i za ovaj prevod sam se u mnogome koristio
+<p class="muted">Moje znanje italijanskog je u najboljem slučaju rudimentarno, i za ovaj prevod sam se umnogome koristio
 rečnikom i engleskim prepevima. Ovo je moj doživljaj pesme i neke stihove nisam doslovno preveo (navešću u produžetku koje).</p>
 
 U pesmi se prožimaju dva glasa, glas naratora svesnog strahota rata i glas Piera koji nema snage da im se odupre.

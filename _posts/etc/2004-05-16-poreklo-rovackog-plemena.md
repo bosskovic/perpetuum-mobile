@@ -739,7 +739,7 @@ U današnje Bubanje doselio se Vuk i Marko Mijatov i Petronije - Petar i Marko T
 
 
 U ovim tekstovima o poreklu Karađorđevića i Bubanja, navode se neke veoma interesantne stvari o Vojinovićima i knezu 
-Bogdanu, koji se u mnogome poklapa sa “rovačkim”, i jako je teško ne “zbrojiti dva i dva”. Ali, tu se javljaju i neke 
+Bogdanu, koji se umnogome poklapa sa “rovačkim”, i jako je teško ne “zbrojiti dva i dva”. Ali, tu se javljaju i neke 
 razlike, koje veoma zbunjuju, a to je brojanje pasova i datiranje koje kneza Bogdana stavlja čitavih stopedeset-dvesta 
 godine kasnije, nego što to čine rovačka predanja...
 
