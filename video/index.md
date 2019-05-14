@@ -3,6 +3,46 @@ title: perpetuum mobile
 excerpt:     "stalno u pokretu"
 videos:
   -
+    youtube: X4mbbqcq1rQ
+    title: Prvih pet godina Vuka (duža verzija)
+    date: 30. april 2019.
+    description: ""
+  -
+    youtube: 28RFFzDayTk
+    title: Prvih pet godina Vuka (kraća verzija)
+    date: 30. april 2019.
+    description: ""
+  -
+    youtube: hE2kpqnqmzg
+    title: Venezia
+    date: 26. april 2019.
+    description: ""
+  -
+    youtube: XRQ0ZfiTg84
+    title: Vožnja uz Koviljski rit
+    date: 30. mart 2019.
+    description: ""
+  -
+    youtube: va9ZYwsEiCY
+    title: Zagajička brda
+    date: 17. mart 2019.
+    description: ""
+  -
+    youtube: gEd8VvmvewQ
+    title: "Vukova 'kuća na vodi'"
+    date: 14. mart 2019.
+    description: ""
+  -
+    youtube: 3uRkllfIlz8
+    title: Naš prvi krug
+    date: 12. mart 2019.
+    description: ""
+  -
+    youtube: YZ7v0ymTVp4
+    title: Srebro
+    date: 2. mart 2019.
+    description: ""
+  -
     youtube: _pn66KLdvaE
     title: Vuk na dva točka
     date: februar 2019.
@@ -104,7 +144,7 @@ videos:
     description: ""
   -
     youtube: rFKa709lO5M
-    title: Tradicionalna vožnja do Begečke jame (2018)
+    title: Tradicionalna vožnja (2018)
     date: 2018-04-15
     description: Tradicionalna vožnja do Begečke jame (2018)
   -

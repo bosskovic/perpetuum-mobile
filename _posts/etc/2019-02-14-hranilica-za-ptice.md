@@ -96,3 +96,43 @@ Podešavanje je relativno jednostavno, ima mnogo opcija i najčešće će podraz
     target_dir /media/m/markohdd/Videos/hranilica/
     
 Ovaj program je pogodan i za neka ozbiljnija gnezda i praćenje sa više kamera...
+
+***
+
+### Dopuna, maj 2019.
+
+Počev od februara kada sam postavio hranilicu, jedan par senica ju je redovno posećivao, uglavnom 4-5 puta dnevno. Vrapci
+i crvendaći su sletali u blizini, ali nisu uzimali zrnevlje iz hranilice. A onda je krajem aprila i u maju nastupio 
+hladniji, kišni period koji je trajao nekoliko nedelja. To je donelo velike neprilike pticama, jer su im mladunci postali
+već dovoljno veliki da mogu da lete (i mnogo jedu) ali su i dalje zavisni od roditelja, a zbog lošeg vremena, bilo im je 
+otežano da hvataju insekte i nalaze druge izvore hrane.
+
+Tako je moja hranilica postala stecište okolnih ptica. Prvo su redovni posetioci postali par senica i njihova dva loptasta
+mladunca. Sletali bi zajedno u hranilicu, na ogradu ili na krov hranilice, dve, tri, nekad i četiri ptice u isto vreme.
+Zabavno je bilo posmatrati mladunce kako galame, pijuču, trepere krilima i dosađuju odraslim pticama dok ove ne bi oljuštile
+zrno suncokreta i ubacile kroz mali kljun u rupu bez dna.
+
+Zatim su počeli da dolaze i vrapci. Prvo odrasli, vrlo stidljivo, izbegavali su hranilicu, već su sa poda terase skupljali 
+zrnevlje koje su senice rasipale iz hranilice. Ali kako su ružno vreme (a pretpostavljam i nestašica hrane) potrajali,
+i vrapci su se osmelili, dolazilo je po nekoliko odraslih ptica i najmanje 3-4 mladunca, gurali se na podu, ulazili i trpali
+se istovremeno u hranilicu. Ponašanje malih vrabaca je veoma slično malim senicama, način kako trepere krilima, zijaju, 
+skakuću za odraslom pticom i pijuču (mada zov je skroz drugačiji) dok ne dobiju hranu.
+
+Počeli su i sukobi. Senice, iako malobrojnije, krupnije su bar 20% od vrabaca, i ovi ih respektuju i izbegavaju. Bilo je
+zanimljivo pratiti dinamiku između odraslih i juvenilnih ptica dve vrste koja je postajala sve učestalija kako je rasla
+njihova zavisnost od ovog izvora hrane. Tokom dana, gotovo u svakom trenutku je bar jedna ptica bila na terasi, a u nekim
+trenucima ih je bilo i 10-12.
+
+Takođe sam uživao i da posmatram letačku veštinu ovih malih ptica, kako skaču sa 2-3 zamaha krila sa oraha ili jele u 
+dvorištu naizgled direktno prema meni, i u mestu se zaustave na ogradi. Ili kada krene interspicijska "borba", njihovo 
+poletanje u stranu, sinhrono letenje, vazdušne borbe. Neretko bi se čuo i tup udarac kada bi neka od ptica lupnula u vrata od terasa.
+
+Oštar kontrast toj letačkoj veštini bila je trapavost mladih ptica, još loptastih i paperjastih, koje često nisu uspevale
+ni mirno da stoje na ogradi bez stalne pomoći i korekcije krilima. Njihovo "doskakivanje" sa oraha na terasu nije delovalo
+ni blizu tako sigurno i samouvereno.
+
+***
+
+Za dva sata posla oko pravljenja kućice, čija je osnovna ideja bila da malo zabavim Vuka i oko kilogram suncokreta, za
+uzvrat sam dobio priliku da svakodnevno izbliza pratim neke interesantne momente, inače skrivene i nevidljive negde u 
+krošnjama, a i verovatno sam dosta doprineo da se spasi ovogodišnje leglo jednog para senica i nekoliko parova vrabaca...
