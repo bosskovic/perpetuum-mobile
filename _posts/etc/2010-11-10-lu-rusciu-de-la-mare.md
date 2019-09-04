@@ -10,8 +10,6 @@ tags:
 
 {% include component/youtube/video.html id="0jryWN38HfQ" %}
 
-## LU RUSCIU TE LU MARE 
-
 <div class="row">
 <div class="col-sm-6">
 <p>Nu giurnu scei 'ncaccia a li patuli<br>

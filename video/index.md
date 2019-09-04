@@ -8,6 +8,11 @@ videos:
     date: 28. avgust 2019.
     description: ""
   -
+    youtube: RGpFEyK7-fc
+    title: Morski Vuk
+    date: jul 2019.
+    description: ""
+  -
     youtube: X4mbbqcq1rQ
     title: Prvih pet godina Vuka (duža verzija)
     date: 30. april 2019.
