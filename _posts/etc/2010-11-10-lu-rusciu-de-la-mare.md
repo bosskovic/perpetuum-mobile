@@ -1,9 +1,11 @@
 ---
-slug:         "lu-rusciu-de-la-mare"
-title:        "lu-rusciu-de-la-mare"
+slug:         "lu-rusciu-te-lu-mare"
+title:        "Lu rusciu te lu mare"
 excerpt:      "tutnjava mora"
 description:  "sjajna pesma sa krajnjeg juga Italije, snažan ritam, interesantan tekst... Tekst na italijanskom i moj pokušaj prevoda."
 videos: ["0jryWN38HfQ"] 
+tags:
+  - pesme-italijanski
 ---
 
 {% include component/youtube/video.html id="0jryWN38HfQ" %}

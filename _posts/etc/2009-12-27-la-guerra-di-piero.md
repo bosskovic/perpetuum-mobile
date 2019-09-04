@@ -6,6 +6,8 @@ description:  "Moćna, jeziva antiratna pesma Fabrizio De André-a, inspirisana 
                tokom Grčko-italijanskog rata."
 image: "/etc/la-guerra-di-piero/img/bulke.jpg"
 videos: ["KoYw0LHEWLM"]
+tags:
+  - pesme-italijanski
 ---
 
 {% include component/youtube/video.html id="KoYw0LHEWLM" %}

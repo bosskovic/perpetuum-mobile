@@ -5,6 +5,7 @@ excerpt:      "tekst pesme na veneto dijalektu italijanskog i moj pokušaj prevo
 description:  "Satirična, antiratna pesma venecijanskog muzičara Alberta D'Amico-a."
 videos: ["hE2kpqnqmzg"]
 tags:
+  - pesme-italijanski
   - venecija
 ---
 
