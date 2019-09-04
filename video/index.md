@@ -3,6 +3,11 @@ title: perpetuum mobile
 excerpt:     "stalno u pokretu"
 videos:
   -
+    youtube: PFh58CRte4U
+    title: Deliblatska peščara biciklom
+    date: 28. avgust 2019.
+    description: ""
+  -
     youtube: X4mbbqcq1rQ
     title: Prvih pet godina Vuka (duža verzija)
     date: 30. april 2019.
