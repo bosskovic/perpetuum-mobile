@@ -3,7 +3,6 @@ slug:         "ariva-i-barbari"
 title:        "Ariva i barbari"
 excerpt:      "tekst pesme na veneto dijalektu italijanskog i moj pokušaj prevoda"
 description:  "Satirična, antiratna pesma venecijanskog muzičara Alberta D'Amico-a."
-image: "/etc/la-guerra-di-piero/img/bulke.jpg"
 videos: ["hE2kpqnqmzg"]
 tags:
   - venecija
