@@ -4,6 +4,7 @@ title:        "Ariva i barbari"
 excerpt:      "tekst pesme na veneto dijalektu italijanskog i moj pokušaj prevoda"
 description:  "Satirična, antiratna pesma venecijanskog muzičara Alberta D'Amico-a."
 videos: ["hE2kpqnqmzg"]
+image: "/etc/ariva-i-barbari/img/Genseric_sacking_rome_456.jpg.jpg"
 tags:
   - pesme-italijanski
   - venecija
