@@ -4,6 +4,7 @@ title:        "Lu rusciu te lu mare"
 excerpt:      "tutnjava mora"
 description:  "sjajna pesma sa krajnjeg juga Italije, snažan ritam, interesantan tekst... Tekst na italijanskom i moj pokušaj prevoda."
 videos: ["0jryWN38HfQ"] 
+image:        "/etc/lu-rusciu-te-lu-mare/img/pizzicata.jpg"
 tags:
   - pesme-italijanski
 ---

@@ -8,7 +8,7 @@ videos:
     date: 28. avgust 2019.
     description: ""
   -
-    youtube: RGpFEyK7-fc
+    youtube: 9g7k5hu2kjE
     title: Morski Vuk
     date: jul 2019.
     description: ""
@@ -172,6 +172,11 @@ videos:
     title: Zimske majstorije
     date: 2018-03-03
     description: FG, Brankovac
+  -
+    youtube: HiV2VeU3kXI
+    title: Šajkaška biciklom
+    date: 2018-03-03
+    description: ""
   -
     youtube: ZUCw8MEK5u0
     title: Snežni Medvednik

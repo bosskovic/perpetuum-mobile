@@ -53,6 +53,7 @@ photos:
     key: 20160710-08.jpg
     title: Tikvara
 show_date: false
+videos: ["XRQ0ZfiTg84"]
   
 ---
 
@@ -110,3 +111,16 @@ Vratili smo se nazad na dolmu, bez planiranog kupanja, i po najvećoj vrućini s
 hlad za odmor. U povratku smo se počastili sladoledom u centru Kovilja.
 
 Adekvatna priprema za usijale vožnje u CG primorju.
+
+{% include separator.html %}
+{% include component/id.html id="20190330" %}
+### Vuk prvi put vozi do Kovilja 
+
+30\. mart 2019.  
+Šangaj - Kovilj - Šangaj     
+
+{% include component/youtube/img_full.html id="XRQ0ZfiTg84" %}
+
+Vukova prva duža vožnja - tridesetak kilometara letnjim putem koji ide nasipom od Šangaja, pored Subića, duž Koviljski
+rit do Šlajza, Kovilja i Tikvare. Istim putem nazad. Na sopstveni pogon je izvozao oko dve trećine a ostatak sam ga
+šlepao.
