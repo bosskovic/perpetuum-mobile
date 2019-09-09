@@ -3,6 +3,11 @@ title: perpetuum mobile
 excerpt:     "stalno u pokretu"
 videos:
   -
+    youtube: Rb6-T2H4h3w
+    title: Krug oko Titelskog brega
+    date: 8. septembar 2019.
+    description: ""
+  -
     youtube: PFh58CRte4U
     title: Deliblatska peščara biciklom
     date: 28. avgust 2019.

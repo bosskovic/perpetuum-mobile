@@ -10,7 +10,7 @@ image: "/voznje-oko-ns/koviljski-rit/img/20160710-04.jpg"
 tags:
   - kovilj
   - arkanj
-  - sajkaska
+  - šajkaška
 
 photos:
   -
