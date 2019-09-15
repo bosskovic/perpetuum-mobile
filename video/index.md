@@ -3,6 +3,11 @@ title: perpetuum mobile
 excerpt:     "stalno u pokretu"
 videos:
   -
+    youtube: DCTTBb-MyrQ
+    title: Kajak Gložan-Kamenjar
+    date: 16. septembar 2019.
+    description: ""
+  -
     youtube: Rb6-T2H4h3w
     title: Krug oko Titelskog brega
     date: 8. septembar 2019.
@@ -16,6 +21,11 @@ videos:
     youtube: 9g7k5hu2kjE
     title: Morski Vuk
     date: jul 2019.
+    description: ""
+  -
+    youtube: VuUugciUDN0
+    title: Sutjeska, Durmitor, Bjelasica
+    date: 20. maj 2019.
     description: ""
   -
     youtube: X4mbbqcq1rQ
