@@ -3,6 +3,31 @@ title: perpetuum mobile
 excerpt:     "stalno u pokretu"
 videos:
   -
+    youtube: 5PxLsej7ijk
+    title: Temišvar
+    date: 9. novembar 2019.
+    description: ""
+  -
+    youtube: 2zWW7LCib7A
+    title: Fruška gora (pravimo kolibu od pruća)
+    date: 21. septembar 2019.
+    description: ""
+  -
+    youtube: nybTxHtPpqE
+    title: Stara planina
+    date: 21. septembar 2019.
+    description: ""
+  -
+    youtube: Vxk10RnFyr8
+    title: Kaćki krug
+    date: 21. septembar 2019.
+    description: ""
+  -
+    youtube: c4w5u0fNEsQ
+    title: Prva duža proba skejtborda
+    date: 20. septembar 2019.
+    description: ""
+  -
     youtube: DCTTBb-MyrQ
     title: Kajak Gložan-Kamenjar
     date: 16. septembar 2019.
