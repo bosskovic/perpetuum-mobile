@@ -6,7 +6,7 @@ description: "Smestili smo se na nekoliko dana u Grbaji, i odatle pravili jednod
 excerpt:     "planinarenje sa bebom"
 category:  2015-vuk-gorski-i-morski
 parent_category: putopisi
-image: "/2015-vuk-gorski-i-morski/prokletije/img/20150731-12.jpg"
+image: "/2015-vuk-gorski-i-morski/prokletije/img/20150731-10.jpg"
 tags:
   - volušnica
   - vezirova brada
@@ -23,12 +23,6 @@ photos:
     title: "Obilje jagoda"
   -
     key: 20150731-10.jpg
-    title: "Volušnica"
-  -
-    key: 20150731-11.jpg
-    title: "Volušnica"
-  -
-    key: 20150731-12.jpg
     title: "Volušnica"
   -
     key: 20150731-13.jpg

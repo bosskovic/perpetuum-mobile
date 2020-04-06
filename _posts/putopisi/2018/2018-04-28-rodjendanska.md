@@ -301,8 +301,6 @@ vrhovi Prokletija su pokriveni sa mnogo snega koji je ovaj topli talas počeo na
 Probijamo se neobeleženom stazom i pratimo tutanj rečice Dolje, sve do odseka gde se voda survava i pada sa morene nekih
 dvadesetak metara. Zadivljujuća snaga vode.
 
-{% include component/img/full.html file_name="20180430-10.jpg" %}
-
 Posle vodopada imamo još vremena da zađemo u Grbaju do Prve livade. Grbaja je sva potpoljena - oštar kontrast u odnosu na 
 leto i jesen - sredinom livada formirala su se jezerca a povremeni tokovi sada su puni i zapenušani. Vreme je malo musavo,
 ali kiša nas nije poterala sve do kraja dana.
